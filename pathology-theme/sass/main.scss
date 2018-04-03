@@ -1,0 +1,18 @@
+/*
+
+Main Pathology website stylesheet file (in Sass)
+-------------------------------------------
+
+Built on top of Bootstrap 4.
+
+*/
+
+// Import the main variables file, all other files should use these variables
+@import "variables";
+
+// Include the full boostrap library for now
+// Todo: only import relevant sub modules
+@import "node_modules/bootstrap/scss/bootstrap";
+
+
+/* The old css, will be removed shortly but present here to test the build system */

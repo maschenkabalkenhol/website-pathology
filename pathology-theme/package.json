@@ -1,0 +1,15 @@
+{
+  "name": "pathology-theme",
+  "version": "1.0.0",
+  "description": "Theme for pathology website",
+  "main": "index.js",
+  "scripts": {
+    "minify": "node-sass sass/main.scss --output-style compressed > main.min.css && postcss --no-map.inline --use autoprefixer -o main.min.css main.min.css",
+    "watch": "node-sass --watch sass > main.css"
+  },
+  "author": "Wouter Bulten",
+  "license": "Copyright",
+  "devDependencies": {
+    "bootstrap": "^4.0.0"
+  }
+}
