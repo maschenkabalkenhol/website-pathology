@@ -1,3 +1,13 @@
 // Custom variables
-$body-bg: #f4f4f4;
-$body-bg-home: #f4f4f4;
+$primary: #00afdc;
+
+$theme-colors: (
+  "primary": $primary,
+);
+// $secondary:     $gray-600 !default;
+// $success:       $green !default;
+// $info:          $cyan !default;
+// $warning:       $yellow !default;
+// $danger:        $red !default;
+// $light:         $gray-100 !default;
+// $dark:          $gray-800 !default;

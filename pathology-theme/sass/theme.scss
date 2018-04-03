@@ -14,5 +14,5 @@ Built on top of Bootstrap 4.
 // Todo: only import relevant sub modules
 @import "node_modules/bootstrap/scss/bootstrap";
 
-
-/* The old css, will be removed shortly but present here to test the build system */
+// Styles for the theme
+@import "typography"

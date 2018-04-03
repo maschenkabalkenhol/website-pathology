@@ -4,12 +4,17 @@
   "description": "Theme for pathology website",
   "main": "index.js",
   "scripts": {
-    "minify": "node-sass sass/main.scss --output-style compressed > main.min.css && postcss --no-map.inline --use autoprefixer -o main.min.css main.min.css",
-    "watch": "node-sass --watch sass > main.css"
+    "minify": "node-sass --output-style compressed sass/main.scss main.min.css && postcss --no-map.inline --use autoprefixer -o main.min.css main.min.css",
+    "watch": "node-sass-chokidar ./sass -o ./build --watch --source-map-embed ",
+    "server": "browser-sync start --server --files index.html build"
   },
   "author": "Wouter Bulten",
   "license": "Copyright",
   "devDependencies": {
-    "bootstrap": "^4.0.0"
+    "autoprefixer": "^8.2.0",
+    "bootstrap": "^4.0.0",
+    "browser-sync": "^2.23.6",
+    "node-sass": "^4.8.3",
+    "node-sass-chokidar": "^1.2.2"
   }
 }
