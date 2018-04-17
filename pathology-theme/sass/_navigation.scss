@@ -1,0 +1,14 @@
+/* Main navbar */
+.navbar {
+
+  .nav-item {
+  }
+
+  .nav-link {
+    color: #000000;
+
+    &:hover {
+      color: $primary;
+    }
+  }
+}

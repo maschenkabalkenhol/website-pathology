@@ -22,4 +22,10 @@ Run in output directory:
 python -m pelican.server
 ```
 
-The website should be accessible at localhost:8000. 
+The website should be accessible at localhost:8000.
+
+### Running dev server (using browser sync)
+
+```
+browser-sync start --server output --files output
+```
