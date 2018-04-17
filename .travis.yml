@@ -1,0 +1,45 @@
+# Set main language of the repo to python
+language: python
+python:
+- 3.5
+
+# Only run travis on main branch
+branches:
+  only:
+  - master
+
+install:
+  # Install pelican
+  - pip install -r requirements.txt
+  # Install requirements for the css build
+  - npm --prefix pathology-theme install
+
+# Caching settings (this speeds up the )
+cache:
+  pip: true
+  directories:
+    - pathology-theme/node_modules
+
+before_cache:
+  - rm -f $HOME/.cache/pip/log/debug.log
+
+script:
+- npm --prefix pathology-theme run minify
+- pelican content -s publishconf.py
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  keep_history: true
+  local_dir: output
+  target_brach: gh-pages
+  email: webteamdiag@gmail.com
+  name: "Webteam DIAG Deploy Bot"
+  github_token: $GH_PAGES
+  on:
+    brach: master
+
+notifications:
+ email:
+   on_success: never
+   on_failure: never
