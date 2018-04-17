@@ -1,7 +1,7 @@
 # Set main language of the repo to python
 language: python
 python:
-- 3.5
+- 3.6
 
 # Only run travis on main branch
 branches:
