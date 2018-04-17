@@ -1,0 +1,18 @@
+.people-grid {
+
+  padding: 2em 0 2em 0;
+
+  .person {
+    padding-bottom: 1em;
+  }
+  .person-name, .person-title {
+    text-align: center;
+  }
+  .person-name {
+    color: $primary;
+    font-weight: 700;
+  }
+  .person-title {
+    color: $secondary;
+  }
+}
