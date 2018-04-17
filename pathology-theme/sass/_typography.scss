@@ -6,7 +6,9 @@ h1,h2,h3,h4,h5,h6 {
 // Main titles (for example on home page)
 h1.display-title {
   font-weight: 400;
-  font-size: 4em;
 
+  @include media-breakpoint-up(md) {
+    font-size: 4em;
+  }
   margin-bottom: 1em;
 }
