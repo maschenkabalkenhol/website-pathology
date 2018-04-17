@@ -25,6 +25,7 @@ before_cache:
 
 script:
 - npm --prefix pathology-theme run minify
+- npm --prefix pathology-theme run postcss
 - pelican content -s publishconf.py
 
 deploy:
