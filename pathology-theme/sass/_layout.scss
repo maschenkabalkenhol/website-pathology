@@ -24,7 +24,13 @@ body {
 }
 
 // Content blocks
+.block {
+  margin-bottom: 3em;
+  padding: 3em 0 3em 0;
+}
+
 .block-primary {
+  border-radius: 0;
   background-color: $primary;
   color: $white;
 
@@ -35,4 +41,8 @@ body {
   figcaption {
     color: white;
   }
+}
+
+.block-secondary {
+  background-color: $gray-300;
 }
