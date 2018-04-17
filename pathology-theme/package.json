@@ -4,10 +4,11 @@
   "description": "Theme for pathology website",
   "main": "index.js",
   "scripts": {
-    "minify": "node-sass --output-style compressed --output ./build/min ./sass ",
-    "postcss": "postcss ./build/theme.css --no-map.inline --use autoprefixer -o ./build/theme.min.css",
+    "minify": "node-sass --output-style compressed ./sass/theme.scss ./build/theme.min.css",
+    "postcss": "postcss ./build/theme.min.css --no-map --map --use autoprefixer -o ./build/theme.min.css",
     "watch": "node-sass-chokidar ./sass -o ./build --watch --source-map-embed ",
-    "server": "browser-sync start --server --files index.html build"
+    "server": "browser-sync start --server --files index.html build",
+    "deploy": "npm run minify && npm run postcss && cp -a ./build/. ./../themes/pathology-theme/static/css/"
   },
   "author": "Wouter Bulten",
   "license": "Copyright",

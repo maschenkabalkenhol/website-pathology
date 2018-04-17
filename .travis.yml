@@ -24,8 +24,7 @@ before_cache:
   - rm -f $HOME/.cache/pip/log/debug.log
 
 script:
-- npm --prefix pathology-theme run minify
-- npm --prefix pathology-theme run postcss
+- npm --prefix pathology-theme run deploy
 - pelican content -s publishconf.py
 
 deploy:

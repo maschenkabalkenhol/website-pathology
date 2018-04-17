@@ -8,7 +8,7 @@ SITEURL = ''
 
 PATH = 'content'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'Europe/Amsterdam'
 
 DEFAULT_LANG = u'EN'
 
@@ -20,10 +20,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = ()
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
@@ -31,5 +28,19 @@ SOCIAL = (('You can add links in your config file', '#'),
 #THEME = 'pathology-theme'
 DEFAULT_PAGINATION = 5
 
+# URL settings
+PAGE_URL = '{slug}'
+PAGE_SAVE_AS = '{slug}/index.html'
+
+CATEGORY_URL = 'categories/{slug}'
+CATEGORY_SAVE_AS = 'categories/{slug}/index.html'
+CATEGORIES_SAVE_AS = 'categories/index.html'
+
+ARCHIVES_SAVE_AS = 'archives/index.html'
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+# Theme settings
+#
+THEME="themes/pathology-theme"
