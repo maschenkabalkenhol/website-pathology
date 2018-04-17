@@ -8,7 +8,8 @@
     "postcss": "postcss ./build/theme.min.css --no-map --map --use autoprefixer -o ./build/theme.min.css",
     "watch": "node-sass-chokidar ./sass -o ./build --watch --source-map-embed ",
     "server": "browser-sync start --server --files index.html build",
-    "deploy": "npm run minify && npm run postcss && cp -a ./build/. ./../themes/pathology-theme/static/css/"
+    "deploy": "npm run minify && npm run postcss && cp -r ./build/. ./../themes/pathology-theme/static/css/",
+    "deploy-watch": "node-sass-chokidar  --watch --source-map-embed ./sass/theme.scss ./../themes/pathology-theme/static/css/theme.min.css"
   },
   "author": "Wouter Bulten",
   "license": "Copyright",

@@ -38,6 +38,8 @@ CATEGORIES_SAVE_AS = 'categories/index.html'
 
 ARCHIVES_SAVE_AS = 'archives/index.html'
 
+INDEX_SAVE_AS = 'news/index.html'
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
