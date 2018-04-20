@@ -6,15 +6,20 @@ html {
 }
 
 body {
-  /* Padding for sticky header */
+  min-height: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-flow: column
+}
+main {
+  // Add top padding for navbar
   padding-top: 60px;
-  /* Margin bottom by footer height */
-  // margin-bottom: 60px;
+  // Let content grow for sticky footer
+  flex: 1 1 auto;
 }
 
 // Sticky footer
 .footer {
-
   width: 100%;
   /* Set the fixed height of the footer here */
   // height: 100%;
