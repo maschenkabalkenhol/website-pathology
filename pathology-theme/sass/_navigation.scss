@@ -1,14 +1,19 @@
 /* Main navbar */
-.navbar {
+.navbar.navbar-expand-md {
   border-bottom: 1px solid $primary;
   height: 60px;
 
   .nav-item {
+
   }
 
   .nav-link {
     color: #000000;
 
+    @include media-breakpoint-up(md) {
+      padding-left: 1rem;
+      padding-right: 1rem;
+    }
     &:hover {
       color: $primary;
     }
