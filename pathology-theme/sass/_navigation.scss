@@ -1,7 +1,21 @@
 /* Main navbar */
 .navbar.navbar-expand-md {
   border-bottom: 1px solid $primary;
-  height: 60px;
+
+  .navbar-brand {
+    color: $primary;
+
+    &:hover {
+      color: $link-hover-color;
+    }
+  }
+  .name-full {
+    display: none;
+  }
+  @include media-breakpoint-up(md) {
+    .name-short { display: none; }
+    .name-full { display: inline; }
+  }
 
   .nav-item {
 

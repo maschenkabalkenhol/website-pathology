@@ -4,6 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'WebteamDIAG'
 SITENAME = u'Computational Pathology Group'
+SITENAME_SHORT = 'CPG'
 SITEURL = ''
 
 PATH = 'content'
