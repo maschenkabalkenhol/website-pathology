@@ -2,7 +2,7 @@ title: Projects
 URL:
 save_as: projects/index.html
 
-PRIM4BC \
+PRIM4BC 
 
 Background
 
@@ -37,6 +37,27 @@ H&E and IHC stained sections. Statistical techniques will subsequently be
 used to derive a model offering the strongest possible prognostic data. The
 model will be able to predict TNBC recurrence and survival within 5 years.
 
+
+
+
+Publications or media attention
+
+Tellez D, Balkenhol M,
+Otte-Holler I, van de Loo R, Vogels R, Bult P, Wauters C, Vreuls W, Mol S,
+Karssemeijer N, Litjens G, van der Laak J, Ciompi, F. Whole-Slide Mitosis
+Detection in H&E Breast Histology Using PHH3 as a Reference to Train
+Distilled Stain-Invariant Convolutional Networks. Accepted in IEEE Trans Med
+Imaging. 2018.
+
+First prize OOR ON
+Onderzoeksprijs (clinical residents' science award), Nijmegen, The Netherlands,
+2017.
+
+Balkenhol MCA,
+Ehteshami Bejnordi B, Otte-Höller I, de Boer O, Nap M, van Dijk M, Damen J,
+Nooijen P, Baidoshvili A, Karssemeijer N, van der Laak J. Improved assessment
+of IHC staining quality applying quantitative measures. Poster presentation,
+Digital Pathology Conference, December 2015, London, Great Britain.
 
 
 
