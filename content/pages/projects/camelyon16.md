@@ -1,2 +1,2 @@
-title: CAMELYON16 \
+title: CAMELYON16
 finished: true
