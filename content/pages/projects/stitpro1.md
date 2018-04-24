@@ -1,2 +1,2 @@
-title: STITPRO I  \
+title: STITPRO I
 finised: true
