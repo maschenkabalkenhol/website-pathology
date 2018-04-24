@@ -1,7 +1,6 @@
 title: PRIM4BC
 finished: false
 
-# PRIM4BC
 
 ## Background
 
