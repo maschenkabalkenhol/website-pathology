@@ -12,8 +12,8 @@ In our study we combine  Deep Learning with Periodic Acid Schiff (PAS) and multi
 
 ## Media & Publications
 
-Kim, M. (2018, March 29). ‘A Machine Learning Algorithm Segments Renal Tissue into Healthy and Pathological Structures.' [Bioengineering Today]( https://bioengineeringtoday.org/emerging-tech/machine-learning-algorithm-segments-renal-tissue-healthy-and-pathological-structures)
+Kim M (2018, March 29). ‘A Machine Learning Algorithm Segments Renal Tissue into Healthy and Pathological Structures.' [Bioengineering Today]( https://bioengineeringtoday.org/emerging-tech/machine-learning-algorithm-segments-renal-tissue-healthy-and-pathological-structures)
 
-T. de Bel, M. Hermsen, B. Smeets, L. Hilbrands, J. van der Laak and G. Litjens. Automatic segmentation of histopathological slides of renal tissues using deep learning. SPIE 2018, Houston, Texas, United States.
+de Bel T, Hermsen M, Smeets B, Hilbrands L, van der Laak J and Litjens G. Automatic segmentation of histopathological slides of renal tissues using deep learning. SPIE 2018, Houston, Texas, United States.
 
-M. Hermsen, T. de Bel, M. van de Warenburg, J. Knuiman, E. Steenbergen, G. Litjens, B. Smeets, L. Hilbrands and J. van der Laak. Automatic segmentation of histopathological slides from renal allograft biopsies using artifical intelligence. Dutch federation of Nephrology Fall Symposium 2017, Bunnik, The Netherlands. 
+Hermsen M, de Bel T, van de Warenburg M, Knuiman J, Steenbergen E, Litjens G, Smeets B, Hilbrands L and van der Laak J. Automatic segmentation of histopathological slides from renal allograft biopsies using artifical intelligence. Dutch federation of Nephrology Fall Symposium 2017, Bunnik, The Netherlands. 
