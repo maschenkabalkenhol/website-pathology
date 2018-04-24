@@ -30,8 +30,9 @@ SOCIAL = (('You can add links in your config file', '#'),
 DEFAULT_PAGINATION = 5
 
 # URL settings
-PAGE_URL = '{slug}'
+PAGE_URL = '{slug}/'
 PAGE_SAVE_AS = '{slug}/index.html'
+SLUGIFY_SOURCE = 'basename'
 
 CATEGORY_URL = 'categories/{slug}'
 CATEGORY_SAVE_AS = 'categories/{slug}/index.html'
@@ -51,7 +52,7 @@ THEME="themes/pathology-theme"
 # Plugins
 #
 PLUGIN_PATHS = ["plugins"] #Lib/site-packages
-PLUGINS = ["pelican_edit_url"]
+PLUGINS = ["pelican_edit_url", "page_hierarchy"]
 
 # Other
 EDIT_CONTENT_URL = 'https://github.com/diagnijmegen/website-pathology/edit/master/{file_path}'
