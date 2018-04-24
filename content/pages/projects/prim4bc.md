@@ -1,8 +1,9 @@
 title: PRIM4BC
+finished: false
 
-PRIM4BC
+# PRIM4BC
 
-Background
+## Background
 
 Approximately 20% of
 all breast cancers are so-called triple-negative (TNBC), indicating their lack
@@ -19,15 +20,14 @@ which patients will get a recurrence. Prognostic biomarkers are therefore
 urgently needed, enabling clinicians to select TNBC patients for adjuvant
 chemotherapy who are at increased risk of recurrence.
 
-Promising results were
-published on the prognostic value of tumour infiltrating lymphocytes (TIL) in
+Promising results were published on the prognostic value of tumour infiltrating lymphocytes (TIL) in
 TNBC, using immunohistochemically (IHC) stained tissue sections. Also, mitotic
 count was found to yield prognostic information. To date, assessment of these
 biomarkers lack standardisation, resulting in large variations in published
 results and hampering clinical implementation.
 
  
-Aim of the project
+## Aim of the project
 
 In this project we
 will apply advanced digital image analysis to obtain prognostic data from
@@ -38,12 +38,11 @@ model will be able to predict TNBC recurrence and survival within 5 years.
 
 
 
-Publications or media attention
+## Publications or media attention
 
-Tellez D, Balkenhol M,
-Otte-Holler I, van de Loo R, Vogels R, Bult P, Wauters C, Vreuls W, Mol S,
-Karssemeijer N, Litjens G, van der Laak J, Ciompi, F. Whole-Slide Mitosis
-Detection in H&E Breast Histology Using PHH3 as a Reference to Train
+Tellez D, Balkenhol M,Otte-Holler I, van de Loo R, Vogels R, Bult P, Wauters C, 
+Vreuls W, Mol S,Karssemeijer N, Litjens G, van der Laak J, Ciompi, F. 
+Whole-Slide MitosisDetection in H&E Breast Histology Using PHH3 as a Reference to Train
 Distilled Stain-Invariant Convolutional Networks. Accepted in IEEE Trans Med
 Imaging. 2018.
 
