@@ -36,8 +36,6 @@ used to derive a model offering the strongest possible prognostic data. The
 model will be able to predict TNBC recurrence and survival within 5 years.
 
 
-
-
 ## Publications or media attention
 
 Tellez D, Balkenhol M,Otte-Holler I, van de Loo R, Vogels R, Bult P, Wauters C, 
