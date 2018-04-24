@@ -6,7 +6,6 @@ from itertools import chain
 '''
 This plugin creates a URL hierarchy for pages that matches the
 directory hierarchy of their sources.
-Source: https://raw.githubusercontent.com/akhayyat/pelican-page-hierarchy/master/page_hierarchy.py
 '''
 
 class UnexpectedException(Exception): pass
@@ -76,12 +75,13 @@ def set_relationships(generator):
     # set all parents (ancestors)
     for page in _all_pages():
         p = page
+        print(p.parent)
         while p.parent:
             page.parents.insert(0, p.parent)
             p = p.parent
+            print(p)
 
 
 def register():
-    print("regiser")
     signals.content_object_init.connect(override_metadata)
-    #signals.page_generator_finalized.connect(set_relationships)
+    signals.page_generator_finalized.connect(set_relationships)

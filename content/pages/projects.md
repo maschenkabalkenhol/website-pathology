@@ -1,2 +1,2 @@
 title: Projects
-URL:
+template: projects
