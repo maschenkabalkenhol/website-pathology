@@ -8,6 +8,7 @@ SITENAME_SHORT = 'CPG'
 SITEURL = ''
 
 PATH = 'content'
+RELATIVE_URLS = False
 
 TIMEZONE = 'Europe/Amsterdam'
 
