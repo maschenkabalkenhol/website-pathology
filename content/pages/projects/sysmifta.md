@@ -1,5 +1,6 @@
 title: SysMIFTA
 finished: false
+picture: Sysmifta3a.png
 
 ## Background
 
