@@ -75,11 +75,9 @@ def set_relationships(generator):
     # set all parents (ancestors)
     for page in _all_pages():
         p = page
-        print(p.parent)
         while p.parent:
             page.parents.insert(0, p.parent)
             p = p.parent
-            print(p)
 
 
 def register():
