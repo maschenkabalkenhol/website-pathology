@@ -3,7 +3,7 @@
     {% for people in pages %}
         {% if people.parent.url == 'people/' %}
             <div class="col-lg-2 col-md-4 col-sm-6 person">
-                <a href="{{ SITEURL }}/{{ people.url}}"><img src="{{ people.picture }}" class="img-thumbnail rounded-circle border border-primary"></a>
+                <a href="{{ SITEURL }}/{{ people.url}}"><img src="{{SITEURL}}/images/people/{{ people.picture }}" class="img-thumbnail rounded-circle border border-primary"></a>
                 <h3 class="person-name"><a href="{{ SITEURL }}/{{ people.url}}">{{ people.name }}</a></h3>
                 <h4 class="person-title">{{ people.position }}</h4>
             </div>
