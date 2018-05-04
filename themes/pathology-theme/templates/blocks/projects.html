@@ -1,0 +1,19 @@
+{% for project in pages %}
+    {% if project.parent.url == 'projects/' %}
+        {% if project.finished == 'false' %}
+        <div class="col-md-4">
+            <div class="card mb-4">
+                {% if project.picture %}
+                <a href="{{ SITEURL }}/{{ project.url }}"><img class="card-img-top" src="{{ SITEURL}}/images/projects/{{ project.picture }}" alt="{{ project.title }}"></a>
+                {% endif %}
+
+                <div class="card-body">
+                    <h5 class="card-title"><a href="{{ SITEURL }}/{{ project.url }}">{{ project.title }}</a></h5>
+                    <p class="card-text">{{ project.description }}</p>
+                    <a href="{{ SITEURL }}/{{ project.url }}" class="btn btn-text">Read more →</a>
+                </div>
+            </div>
+        </div>
+        {% endif %}
+    {% endif %}
+{% endfor %}

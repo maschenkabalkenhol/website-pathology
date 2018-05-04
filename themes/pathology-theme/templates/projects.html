@@ -8,43 +8,29 @@
     {{ page.content }}
 
     <div class="row">
-        {% for child in page.children %}
-        {% if child.finished == 'false' %}
-        <div class="col-md-3">
-            <div class="card mb-4">
-                {% if child.picture %}
-                <a href="{{ SITEURL }}/{{ child.url }}"><img class="card-img-top" src="{{ SITEURL}}/images/projects/{{ child.picture }}" alt="{{ child.title }}"></a>
-                {% endif %}
-
-                <div class="card-body">
-                    <h5 class="card-title"><a href="{{ SITEURL }}/{{ child.url }}">{{ child.title }}</a></h5>
-                    <p class="card-text">{{ child.description }}</p>
-                    <a href="{{ SITEURL }}/{{ child.url }}" class="btn btn-text">Read more →</a>
-                </div>
-            </div>
-        </div>
-        {% endif %}
-        {% endfor %}
+        {% include "blocks/projects.html" %}
     </div>
 
     <h2 class="my-4">Finished projects</h2>
     <div class="row">
-        {% for child in page.children %}
-        {% if child.finished == 'true' %}
-        <div class="col-md-3">
-            <div class="card mb-4">
-                {% if child.picture %}
-                <a href="{{ SITEURL }}/{{ child.url }}"><img class="card-img-top" src="{{ SITEURL}}/images/projects/{{ child.picture }}" alt="{{ child.title }}"></a>
-                {% endif %}
+        {% for project in pages %}
+            {% if project.parent.url == 'projects/' %}
+                {% if project.finished == 'true' %}
+                <div class="col-md-3">
+                    <div class="card mb-4">
+                        {% if project.picture %}
+                        <a href="{{ SITEURL }}/{{ project.url }}"><img class="card-img-top" src="{{ SITEURL}}/images/projects/{{ project.picture }}" alt="{{ project.title }}"></a>
+                        {% endif %}
 
-                <div class="card-body">
-                    <h5 class="card-title"><a href="{{ SITEURL }}/{{ child.url }}">{{ child.title }}</a></h5>
-                    <p class="card-text">{{ child.description }}</p>
-                    <a href="{{ SITEURL }}/{{ child.url }}" class="btn btn-text">Read more →</a>
+                        <div class="card-body">
+                            <h5 class="card-title"><a href="{{ SITEURL }}/{{ project.url }}">{{ project.title }}</a></h5>
+                            <p class="card-text">{{ project.description }}</p>
+                            <a href="{{ SITEURL }}/{{ project.url }}" class="btn btn-text">Read more →</a>
+                        </div>
+                    </div>
                 </div>
-            </div>
-        </div>
-        {% endif %}
+                {% endif %}
+            {% endif %}
         {% endfor %}
     </div>
 </div>
