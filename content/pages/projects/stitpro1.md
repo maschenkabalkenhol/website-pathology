@@ -1,2 +1,2 @@
 title: STITPRO I
-finised: true
+finished: true
