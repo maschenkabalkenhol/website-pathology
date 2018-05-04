@@ -1,12 +1,31 @@
 {% extends "base.html" %}
 {% block title %}{{ page.title }}{%endblock%}
 {% block content %}
+    {% include 'blocks/breadcrumbs.html' %}
+
     <div class="container">
-    <h1>{{ page.title }}</h1>
 
-    <img src="{{ page.picture }}">
+    <div class="row">
+        <div class="col-md-4">
+            <img src="{{ page.picture }}">
+            <h1>{{ page.title }}</h1>
+            <h2 class="text-muted">{{ page.position }}</h2>
+        </div>
+        <div class="col-md-8">
+            <dl>
+                <dt>Email:</dt>
+                <dd><a href="mailto:{{ page.email}}">{{ page.email }}</a></dd>
 
-    {{ page.content }}
+                <dt>Office:</dt>
+                <dd>{{ page.office }}</dd>
 
+                <dt>Telephone:</dt>
+                <dd>{{ page.telephone }}</dd>
+
+                <dt>Bio:</dt>
+                <dd>{{ page.content }}</dd>
+            </dl>
+
+        </div>
     </div>
 {% endblock %}

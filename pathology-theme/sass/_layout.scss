@@ -16,6 +16,10 @@ main {
   padding-top: 60px;
   // Let content grow for sticky footer
   flex: 1 1 auto;
+
+  > .container {
+    padding-top: 30px;
+  }
 }
 
 // Sticky footer
