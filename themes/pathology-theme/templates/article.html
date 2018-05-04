@@ -12,33 +12,22 @@
 {% endblock %}
 
 {% block content %}
-<section id="content" class="body">
-  <header>
-    <h2 class="entry-title">
-      <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
-         title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2>
- {% import 'translations.html' as translations with context %}
- {{ translations.translations_for(article) }}
-  </header>
-  <footer class="post-info">
-    <time class="published" datetime="{{ article.date.isoformat() }}">
-      {{ article.locale_date }}
-    </time>
-	{% if article.modified %}
-    <time class="modified" datetime="{{ article.modified.isoformat() }}">
-      {{ article.locale_modified }}
-    </time>
-	{% endif %}
-    {% if article.authors %}
-    <address class="vcard author">
-      By {% for author in article.authors %}
-          <a class="url fn" href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
-        {% endfor %}
-    </address>
+<div class="container">
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="{{ SITEURL }}/">Home</a></li>
+        <li class="breadcrumb-item"><a href="{{ SITEURL }}/news">News</a></li>
+        <li class="breadcrumb-item">{{ article.title }}</li>
+      </ol>
+    </nav>
+</div>
+
+<div class="container">
+    <h1>{{ article.title }}</h1>
+    {% if article.picture %}
+    <img src="{{ SITEURL }}/images/news/{{ article.picture }}">
     {% endif %}
-  </footer><!-- /.post-info -->
-  <div class="entry-content">
+
     {{ article.content }}
-  </div><!-- /.entry-content -->
-</section>
+</div>
 {% endblock %}

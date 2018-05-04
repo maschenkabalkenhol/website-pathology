@@ -35,6 +35,9 @@ PAGE_URL = '{slug}/'
 PAGE_SAVE_AS = '{slug}/index.html'
 SLUGIFY_SOURCE = 'basename'
 
+ARTICLE_URL = 'news/{slug}/'
+ARTICLE_SAVE_AS = 'news/{slug}/index.html'
+
 CATEGORY_URL = 'categories/{slug}'
 CATEGORY_SAVE_AS = 'categories/{slug}/index.html'
 CATEGORIES_SAVE_AS = 'categories/index.html'

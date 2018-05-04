@@ -49,11 +49,11 @@
             </div>
             <div class="col-md-8">
                 <div class="card bg-none">
-                  <img class="card-img-top" src="http://www.diagnijmegen.nl/images/thumb/5/5c/Highlight-jeroen-10march.png/1050px-Highlight-jeroen-10march.png" alt="Card image cap">
+                  <img class="card-img-top" src="{{ SITEURL}}/images/news/{{ articles[0].picture }}" alt="Card image cap">
                   <div class="card-body">
-                    <h2 class="card-title">Some project</h2>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <a href="{{ SITEURL }}/news" class="btn btn-primary">Go somewhere</a>
+                    <h2 class="card-title">{{ articles[0].title }}</h2>
+                    <p class="card-text">{{ articles[0].summary }}</p>
+                    <a href="{{ SITEURL }}/{{ articles[0].url }}" class="btn btn-primary">Read more</a>
                   </div>
                 </div>
             </div>
