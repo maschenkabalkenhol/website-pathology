@@ -2,7 +2,7 @@ title: Jeroen van der Laak
 name: Jeroen van der Laak
 template: people_single
 picture: Jeroen_van_der_Laak.jpg
-position: Group leader
+position: Associate professor/Group leader
 email: jeroen.vanderlaak@radboudumc.nl
 office: Route 846, Room 4.08
 telephone: +31 24 3614367
