@@ -1,7 +1,7 @@
 title: Geert Litjens
 name: Geert Litjens
 template: people_single
-picture: Geert_Litjens(1).jpg
+picture: Geert_Litjens (1).jpg
 position: Postdoc
 email: geert.litjens@radboudumc.nl
 office: Route 812, Room 2.18
