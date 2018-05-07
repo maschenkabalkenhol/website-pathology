@@ -2,7 +2,7 @@ title: Francesco Ciompi
 name: Francesco Ciompi
 template: people_single
 picture: Francesco_Ciompi(1).png
-position: PhD Student
+position: Postdoc
 email: francesco.ciompi@radboudumc.nl
 office: Route 812, Room 2.18
 telephone: 
