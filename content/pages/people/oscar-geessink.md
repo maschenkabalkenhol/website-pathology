@@ -2,7 +2,7 @@ title: Oscar Geessink
 name: Oscar Geessink
 template: people_single
 picture: Oscar_Geessink (1).jpg
-position: PhD Student
+position: PhD student
 email: oscar.geessink@radboudumc.nl
 office: Route 812, Room 2.39
 telephone: 
