@@ -2,7 +2,7 @@ title: Meyke Hermsen
 name: Meyke Hermsen
 template: people_single
 picture: Meyke_Hermsen.jpg
-position: PhD Student
+position: PhD student
 email: meyke.hermsen@radboudumc.nl
 office: Route 812, room 2.39
 
