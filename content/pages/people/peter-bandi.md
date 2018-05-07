@@ -2,7 +2,7 @@ title: Peter Bandi
 name: Peter Bandi
 template: people_single
 picture: Péter_Bándi (1).jpg
-position: PhD Student
+position: PhD student
 email: peter.bandi@radboudumc.nl
 office: Route 812, Room 2.39
 telephone: 
