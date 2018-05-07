@@ -2,7 +2,7 @@ title: David Tellez
 name: David Tellez
 template: people_single
 picture: David_Tellez (1).jpg
-position: PhD Student
+position: PhD student
 email: david.tellez@radboudumc.nl
 office: Route 812, room 2.39
 
