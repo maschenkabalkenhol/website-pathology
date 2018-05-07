@@ -1,10 +1,10 @@
 title: Oscar Geessink
 name: Oscar Geessink
 template: people_single
-picture: Oscar_Geessink(1).png
+picture: Oscar_Geessink (1).jpg
 position: PhD Student
 email: oscar.geessink@radboudumc.nl
-office: Route 12, Room 2.39
+office: Route 812, Room 2.39
 telephone: 
 
 Oscar Geessink is a PhD student at the Department of Pathology of the Radboud University Medical Center in Nijmegen. 
