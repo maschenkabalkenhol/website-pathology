@@ -1,7 +1,6 @@
 title: Jim Winkens
 name: Jim Winkens
 template: people_single
-picture: 
 position: Master student
 email: jim.winkens@radboudumc.nl
 office: Route 812, room 2.39
