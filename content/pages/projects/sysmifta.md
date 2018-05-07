@@ -1,6 +1,7 @@
 title: SysMIFTA
 finished: false
 picture: Sysmifta3a.png
+description: In this project, we investigate the role of macrophages and T-helper cell subsets in (inflammatory) interstitial fibrosis and tubular atrophy in renal allografts, using multiplex immunohistochemistry and Deep Learning. 
 
 ## Background
 
