@@ -1,7 +1,7 @@
 title: Mart van Rijthoven
 name: Mart van Rijthoven
 template: people_single
-picture: Mart_van_Rijthoven (1).jpg
+picture: Mart_van_Rijthoven.jpg
 position: Master student
 email: martijn.vanrijthoven@radboudumc.nl
 office: Route 812, room 2.39
