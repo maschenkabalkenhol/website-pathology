@@ -12,8 +12,22 @@
   .person-name {
     color: $primary;
     font-weight: 700;
+
+    padding-top: 0.25em;
   }
   .person-title {
     color: $secondary;
+  }
+
+  .img-thumbnail {
+    width: 100%;
+    max-width: 170px;
+
+    &.placeholder {
+      width: 155px;
+      height: 155px;
+
+      margin: 0 auto;
+    }
   }
 }

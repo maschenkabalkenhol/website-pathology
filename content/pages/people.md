@@ -1,4 +1,2 @@
-title: Our group
+title: People of the Computational Pathology Group
 template: people
-
-Members in our team

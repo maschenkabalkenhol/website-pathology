@@ -1,0 +1,90 @@
+<div class="container">
+
+    <div class="row">
+        <h1 class="text-muted">Faculty</h2>
+    </div>
+
+    <div class="row people-grid">
+    {% for people in pages %}
+        {% if people.parent.url == 'people/' and people.type == 'faculty' %}
+            <div class="col-lg-2 col-md-4 col-sm-6 person">
+                {% if people.picture %}
+                <a href="{{ SITEURL }}/{{ people.url}}"><img src="{{SITEURL}}/images/people/{{ people.picture }}" class="img-thumbnail rounded-circle border border-primary"></a>
+                {% else %}
+                <a href="{{ SITEURL }}/{{ people.url}}"><div class="img-thumbnail rounded-circle border border-primary placeholder"></div></a>
+                {% endif %}
+                <h3 class="person-name"><a href="{{ SITEURL }}/{{ people.url}}">{{ people.name }}</a></h3>
+                <h4 class="person-title"><small>{{ people.position }}</small></h4>
+            </div>
+        {% endif %}
+    {% endfor %}
+    </div>
+
+    <h1 class="text-muted">Scientific staff</h2>
+    <div class="row people-grid">
+    {% for people in pages %}
+        {% if people.parent.url == 'people/' and people.type == 'postdoc' %}
+            <div class="col-lg-2 col-md-4 col-sm-6 person">
+                {% if people.picture %}
+                <a href="{{ SITEURL }}/{{ people.url}}"><img src="{{SITEURL}}/images/people/{{ people.picture }}" class="img-thumbnail rounded-circle border border-primary"></a>
+                {% else %}
+                <a href="{{ SITEURL }}/{{ people.url}}"><div class="img-thumbnail rounded-circle border border-primary placeholder"></div></a>
+                {% endif %}
+                <h3 class="person-name"><a href="{{ SITEURL }}/{{ people.url}}">{{ people.name }}</a></h3>
+                <h4 class="person-title"><small>{{ people.position }}</small></h4>
+            </div>
+        {% endif %}
+    {% endfor %}
+    </div>
+
+    <h1 class="text-muted">PhD candidates</h2>
+    <div class="row people-grid">
+    {% for people in pages %}
+        {% if people.parent.url == 'people/' and people.type == 'phd' %}
+            <div class="col-lg-2 col-md-4 col-sm-6 person">
+                {% if people.picture %}
+                <a href="{{ SITEURL }}/{{ people.url}}"><img src="{{SITEURL}}/images/people/{{ people.picture }}" class="img-thumbnail rounded-circle border border-primary"></a>
+                {% else %}
+                <a href="{{ SITEURL }}/{{ people.url}}"><div class="img-thumbnail rounded-circle border border-primary placeholder"></div></a>
+                {% endif %}
+                <h3 class="person-name"><a href="{{ SITEURL }}/{{ people.url}}">{{ people.name }}</a></h3>
+                <h4 class="person-title"><small>{{ people.position }}</small></h4>
+            </div>
+        {% endif %}
+    {% endfor %}
+    </div>
+
+    <h1 class="text-muted">Technical staff</h2>
+    <div class="row people-grid">
+    {% for people in pages %}
+        {% if people.parent.url == 'people/' and people.type == 'tech' %}
+            <div class="col-lg-2 col-md-4 col-sm-6 person">
+                {% if people.picture %}
+                <a href="{{ SITEURL }}/{{ people.url}}"><img src="{{SITEURL}}/images/people/{{ people.picture }}" class="img-thumbnail rounded-circle border border-primary"></a>
+                {% else %}
+                <a href="{{ SITEURL }}/{{ people.url}}"><div class="img-thumbnail rounded-circle border border-primary placeholder"></div></a>
+                {% endif %}
+                <h3 class="person-name"><a href="{{ SITEURL }}/{{ people.url}}">{{ people.name }}</a></h3>
+                <h4 class="person-title"><small>{{ people.position }}</small></h4>
+            </div>
+        {% endif %}
+    {% endfor %}
+    </div>
+
+    <h1 class="text-muted">Master students</h2>
+    <div class="row people-grid">
+    {% for people in pages %}
+        {% if people.parent.url == 'people/' and people.type == 'student' %}
+            <div class="col-lg-2 col-md-4 col-sm-6 person">
+                {% if people.picture %}
+                <a href="{{ SITEURL }}/{{ people.url}}"><img src="{{SITEURL}}/images/people/{{ people.picture }}" class="img-thumbnail rounded-circle border border-primary"></a>
+                {% else %}
+                <a href="{{ SITEURL }}/{{ people.url}}"><div class="img-thumbnail rounded-circle border border-primary placeholder"></div></a>
+                {% endif %}
+                <h3 class="person-name"><a href="{{ SITEURL }}/{{ people.url}}">{{ people.name }}</a></h3>
+                <h4 class="person-title"><small>{{ people.position }}</small></h4>
+            </div>
+        {% endif %}
+    {% endfor %}
+    </div>
+</div>

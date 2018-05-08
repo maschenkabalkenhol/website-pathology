@@ -4,3 +4,4 @@ template: people_single
 position: Master student
 email: jim.winkens@radboudumc.nl
 office: Route 812, room 2.39
+type: student
