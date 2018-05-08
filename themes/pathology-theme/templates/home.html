@@ -16,8 +16,8 @@
             </div>
             <div class="col-md">
                 <figure class="figure">
-                    <img class="figure-img img-fluid" src="http://www.diagnijmegen.nl/images/5/5a/Camelyon.jpg">
-                    <figcaption class="figure-caption text-right">CAMELYON16 result.</figcaption>
+                    <img class="figure-img img-fluid" src="/images/general/home-page-image.png">
+                    <figcaption class="figure-caption text-right">Automated umor detection</figcaption>
                 </figure>
             </div>
         </div>
@@ -27,14 +27,18 @@
 <div class="block">
     <div class="container">
         <div class="row">
-        </div>
-        <div class="row">
-            <div class="col-md-4">
-                <h1>Current projects</h1>
+            <div class="col-md-3">
+                <h1>Latest news</h1>
             </div>
-            <div class="col-md-8">
+
+            <div class="col-md-9">
+                {% for article in articles[0:3] %}
+                    {% include 'blocks/article-summary.html' %}
+                {% endfor %}
                 <div class="row">
-                    {% include "blocks/projects.html" %}
+                    <div class="col-md-12">
+                        <a href="{{ SITEURL }}/news" class="btn btn-primary float-right">All news articles &rarr;</a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -44,22 +48,20 @@
 <div class="block block-secondary">
     <div class="container">
         <div class="row">
-            <div class="col-md-4">
-                <h1>Latest news</h1>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <h1>Projects</h1>
             </div>
-            <div class="col-md-8">
-                <div class="card bg-none">
-                  <img class="card-img-top" src="{{ SITEURL}}/images/news/{{ articles[0].picture }}" alt="Card image cap">
-                  <div class="card-body">
-                    <h2 class="card-title">{{ articles[0].title }}</h2>
-                    <p class="card-text">{{ articles[0].summary }}</p>
-                    <a href="{{ SITEURL }}/{{ articles[0].url }}" class="btn btn-primary">Read more</a>
-                  </div>
+            <div class="col-md-9">
+                <div class="row">
+                    {% include "blocks/projects.html" %}
                 </div>
             </div>
         </div>
     </div>
 </div>
+
 
 <div class="container">
     <div class <div class="row">

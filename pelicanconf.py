@@ -28,7 +28,7 @@ LINKS = ()
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 #THEME = 'pathology-theme'
-DEFAULT_PAGINATION = 5
+DEFAULT_PAGINATION = 10
 
 # URL settings
 PAGE_URL = '{slug}/'

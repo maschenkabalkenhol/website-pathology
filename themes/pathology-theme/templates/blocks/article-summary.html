@@ -1,0 +1,20 @@
+<article class="row mb-5">
+    <div class="col-md-4">
+        {% if article.picture %}
+        <img class="img-thumbnail" src="{{ SITEURL }}/images/news/{{ article.picture }}">
+        {% endif %}
+
+    </div>
+
+    <div class="col-md-8">
+        <header>
+            <h2 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2>
+        </header>
+
+        <p>{{ article.summary | striptags }} <a href="{{ SITEURL }}/{{ article.url }}">Read more &rarr;</a></p>
+
+        <footer class="post-info text-muted">
+            <small><time class="published" datetime="{{ article.date.isoformat() }}">Published {{ article.locale_date }} </time></small>
+        </footer>
+    </div>
+</article>
