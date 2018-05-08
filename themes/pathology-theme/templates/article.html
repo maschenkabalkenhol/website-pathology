@@ -24,10 +24,16 @@
 
 <div class="container">
     <h1>{{ article.title }}</h1>
-    {% if article.picture %}
-    <img src="{{ SITEURL }}/images/news/{{ article.picture }}">
-    {% endif %}
 
-    {{ article.content }}
+    <div class="row">
+        <div class="col-md-4">
+            {% if article.picture %}
+            <img class="img-thumbnail" src="{{ SITEURL }}/images/news/{{ article.picture }}">
+            {% endif %}
+        </div>
+
+        <div class="col-md-8">
+            {{ article.content }}
+        </div>
 </div>
 {% endblock %}
