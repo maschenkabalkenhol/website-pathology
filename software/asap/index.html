@@ -5,7 +5,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>Wouter Bulten</title>
+    <title>ASAP - Fluid whole-slide image viewer</title>
 
 
     <!-- Bootstrap core CSS -->
@@ -74,35 +74,55 @@
     <nav aria-label="breadcrumb">
       <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="https://diagnijmegen.github.io/website-pathology/">Home</a></li>
-        <li class="breadcrumb-item"><a href="https://diagnijmegen.github.io/website-pathology/people/">People of the Computational Pathology Group</a></li>
-        <li class="breadcrumb-item">Wouter Bulten</li>
+        <li class="breadcrumb-item"><a href="https://diagnijmegen.github.io/website-pathology/software/">Software</a></li>
+        <li class="breadcrumb-item">ASAP - Fluid whole-slide image viewer</li>
       </ol>
     </nav>
 </div>
     <div class="container">
+    <h1 class="page-title">ASAP - Fluid whole-slide image viewer</h1>
+    
 
-    <div class="row">
-        <div class="col-md-4">
-            <img src="https://diagnijmegen.github.io/website-pathology/images/people/Wouter_Bulten.jpg">
-            <h1>Wouter Bulten</h1>
-            <h2 class="text-muted">PhD student</h2>
-        </div>
-        <div class="col-md-8">
-            <dl>
-                <dt>Email:</dt>
-                <dd><a href="mailto:wouter.bulten@radboudumc.nl">wouter.bulten@radboudumc.nl</a></dd>
+    <p>ASAP is an open source platform for visualizing, annotating and automatically analyzing whole-slide histopathology images. It consists of several key-components (slide input/output, image processing, viewer) which can be used seperately. It is built on top of several well-developed open source packages like OpenSlide, Qt and OpenCV but also tries to extend them in several meaningful ways.</p>
+<p><a href="https://computationalpathologygroup.github.io/ASAP/" class="btn btn-primary">Website</a>
+<a href="https://github.com/computationalpathologygroup/ASAP/releases" class="btn btn-secondary">Download</a>
+<a href="https://github.com/computationalpathologygroup/ASAP" class="btn btn-secondary"><svg class="svg-icon svg-icon-github"><use xlink:href="#icon-github"></use></svg> View on Github</a></p>
+<h4>Features</h4>
+<ul>
+<li>Reading of scanned whole-slide images from several different vendors (Aperio, Ventana, Hamamatsu, Olympus, support for fluorescence images in Leica LIF format)</li>
+<li>Writing of generic multi-resolution tiled TIFF files for ARGB, RGB, Indexed and monochrome images (including support for different data types like float)</li>
+<li>Python wrapping of the IO library for access to multi-resolution images through Numpy array's</li>
+<li>Basic image primitives (Patch) which can be fed to image processing filters, connection to OpenCV</li>
+<li>Qt-based viewer to visualize whole-slide images in a fast, fluid manner</li>
+<li>Point, polygonal and spline annotation tools to allow annotation of whole slide images.</li>
+<li>Annotation storage in simple, human-readable XML for easy use in other software</li>
+<li>Viewer and reading library can easily be extended by implementing plugins using one of the four interface (tools, filters, extensions, fileformats)</li>
+<li>Integration of on-the-fly image processing while viewing (current examples include color deconvolution and nuclei detection)</li>
+</ul>
+<h4>Installation</h4>
+<p>Currently ASAP is only supported under 64-bit Windows and Linux machines. Compilation on other architectures should be relatively straightforward as no OS-specific libraries or headers are used. The easiest way to install the software is to download the binary installer or .DEB package from the release page.</p>
+<h4>Compilation</h4>
+<p>To compile the code yourself, some prerequesites are required. First, we use CMake (version &gt;= 3.5) as our build system and Microsoft Visual Studio or GCC as the compiler. The software depends on numerous third-party libraries:</p>
+<ul>
+<li>Boost (http://www.boost.org/)</li>
+<li>OpenCV (http://www.opencv.org/)</li>
+<li>Qt (http://www.qt.io/)</li>
+<li>libtiff (http://www.libtiff.org/)</li>
+<li>libjpeg (http://libjpeg.sourceforge.net/)</li>
+<li>JasPer (http://www.ece.uvic.ca/~frodo/jasper/)</li>
+<li>DCMTK (http://dicom.offis.de/dcmtk.php.en)</li>
+<li>SWIG (http://www.swig.org/) (only for Python wrapping of the IO library)</li>
+<li>OpenSlide (http://openslide.org/)</li>
+<li>PugiXML (http://pugixml.org/)</li>
+<li>zlib (http://www.zlib.net/)</li>
+<li>unittest++ (https://github.com/unittest-cpp/unittest-cpp)</li>
+</ul>
+<p>To help developers compile this software themselves we provide the necesarry binaries (Visual Studio 2013, 64-bit) for all third party libraries on Windows except Boost, OpenCV and Qt (due to size constraints). If you want to provide the packages yourself, there are no are no strict version requirements, except for libtiff (4.0.1 and higher), Boost (1.55 or higher), Qt (5.1 or higher) and OpenCV (3.1). On Linux all packages except OpenCV 3.1 can be installed through the package manager on Ubuntu-derived systems (tested on Ubuntu and Kubuntu 16.04 LTS). OpenCV 3.1 can easily be compile yourself.</p>
+<p>To compile the source code yourself, first make sure all third-party libraries are installed. If you download the Boost-binaries for Windows (http://sourceforge.net/projects/boost/files/boost-binaries/), you need to rename the folder containing the .lib and .dll files to lib (otherwise the CMake-modules provided by CMake will not be able to find the libraries).</p>
+<p>Subsequently, fire up CMake, point it to a source and build directory and hit Configure. Select your compiler of preference and hit ok. This will start the iterative process of CMake trying to find a third party dependency and you specifiying its location. The first one to provide will be Boost. To allow CMake to find Boost add a BOOST_ROOT variable pointing to for example C:/libs/boost_1_57_0. Then press Configure again and CMake will ask for the next library. These should be pretty straightforward to fill in (e.g. TIFF_LIBRRARY should point to tiff.lib, TIFF_INCLUDE_DIRECTORY to |folder to libtiff|\include. If more steps are unclear, please open a ticket on the Github issue-tracker.</p>
+<p>During configuration you will notice that several parts of ASAP can be built seperately (e.g. the viewer). To build this part, simply check the component and hit Configure again. The 'Package on install'-option will allow you to build a binary setup-package like the one provided on the Github-release page. On Windows this requires NSIS to be installed.</p>
+<p>After all the dependencies are resolved, hit Generate and CMake will create a Visual Studio Solution or makefile file which can be used to compile the source code.</p>
 
-                <dt>Office:</dt>
-                <dd>Route 812, room 2.39</dd>
-
-                <dt>Telephone:</dt>
-                <dd></dd>
-
-                <dt>Bio:</dt>
-                <dd><p>Wouter Bulten is a PhD candidate in the Computational Pathology group of the Department of Pathology of the Radboud University Medical Center in Nijmegen. He studied Artificial Intelligence at the Radboud University for which he obtained his master's degree (Cum Laude) in 2015. After his graduation he worked as a software developer and data scientist. In 2017 Wouter joined the Diagnostic Image Analysis Group where he works under the supervision of Geert Litjens on deep learning for improved prognostics in prostate cancer.</p></dd>
-            </dl>
-
-        </div>
     </div>
     </main>
 
@@ -113,7 +133,7 @@
                 <p>&copy; Computational Pathology Group 2017-2018</p>
                 <p>The Computational Pathology Group is part of the <a href="http://www.diagnijmegen.nl">Diagnostic Image Analysis Group</a> and the Department of Pathology at <a href="https://www.radboudumc.nl">Radboud University Medical Center</a>.</p>
 
-                <a href="https://github.com/diagnijmegen/website-pathology/edit/master/content/pages/people/wouter-bulten.md">Edit</a>
+                <a href="https://github.com/diagnijmegen/website-pathology/edit/master/content/pages/software/asap.md">Edit</a>
             </div>
 
             <div class="col-md-4 footer-ribbon py-3">
