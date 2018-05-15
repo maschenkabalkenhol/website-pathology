@@ -56,7 +56,7 @@ THEME="themes/pathology-theme"
 # Plugins
 #
 PLUGIN_PATHS = ["plugins"] #Lib/site-packages
-PLUGINS = ["pelican_edit_url", "page_hierarchy"]
+PLUGINS = ["edit_url", "hierarchy"]
 
 # Other
 EDIT_CONTENT_URL = 'https://github.com/diagnijmegen/website-pathology/edit/master/{file_path}'

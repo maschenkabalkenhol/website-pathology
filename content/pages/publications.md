@@ -1,3 +1,3 @@
 title: Publications
 
-link to bibtex 
+Work in progress.
