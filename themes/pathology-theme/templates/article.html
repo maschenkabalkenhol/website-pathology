@@ -23,17 +23,28 @@
 </div>
 
 <div class="container">
-    <h1>{{ article.title }}</h1>
+    <div class="row">
+        <div class="col-md-12">
+            <h1 class="page-title">{{ article.title }}</h1>
+        </div>
+    </div>
 
     <div class="row">
         <div class="col-md-4">
             {% if article.picture %}
             <img class="img-thumbnail" src="{{ SITEURL }}/images/news/{{ article.picture }}">
             {% endif %}
+            <p class="mt-4 ml-1">
+                <small class="text-muted"><time class="published" datetime="{{ article.date.isoformat() }}">Published {{ article.locale_date }} </time></small>
+            </p>
         </div>
 
         <div class="col-md-8">
             {{ article.content }}
+
+            <a href="{{ SITEURL }}/news" class="btn btn-text mt-5">&larr; Back to overview</a>
         </div>
+    </div>
+
 </div>
 {% endblock %}
