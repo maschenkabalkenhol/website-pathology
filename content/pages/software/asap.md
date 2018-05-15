@@ -5,6 +5,10 @@ github: https://github.com/computationalpathologygroup/ASAP
 
 ASAP is an open source platform for visualizing, annotating and automatically analyzing whole-slide histopathology images. It consists of several key-components (slide input/output, image processing, viewer) which can be used seperately. It is built on top of several well-developed open source packages like OpenSlide, Qt and OpenCV but also tries to extend them in several meaningful ways.
 
+<a href="https://computationalpathologygroup.github.io/ASAP/" class="btn btn-primary">Website</a>
+<a href="https://github.com/computationalpathologygroup/ASAP/releases" class="btn btn-secondary">Download</a>
+<a href="https://github.com/computationalpathologygroup/ASAP" class="btn btn-secondary"><svg class="svg-icon svg-icon-github"><use xlink:href="#icon-github"></use></svg> View on Github</a>
+
 #### Features
 
 - Reading of scanned whole-slide images from several different vendors (Aperio, Ventana, Hamamatsu, Olympus, support for fluorescence images in Leica LIF format)
