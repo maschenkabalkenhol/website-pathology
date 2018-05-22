@@ -1,9 +1,0 @@
-title: Scintigraphic detection of tumour necrosis factor in patients with rheumatoid arthritis
-
-## Barrera, P. and Oyen, W J G. and Boerman, O. C. and van Riel, P L C M.
-AORD
-
-
-## Abstract
-To investigate the biodistribution and specific targeting for tumour necrosis factor (TNF) of a fully human, radiolabelled anti-TNF monoclonal antibody (anti-TNF mAb) in patients with active rheumatoid arthritis (RA). To assess whether this agent is suitable for visualisation of synovitis.Ten patients with RA underwent whole body scintigraphy after administration of a tracer-subtherapeutic dose of 100 microg (99m)Tc human anti-TNF mAb. After two weeks, the procedure was repeated to assess the specificity of the radiolabelled antibody for TNF and its sensitivity for changes in inflammation. Therefore, a competition study was performed in five patients, who received excess unlabelled anti-TNF mAb before the tracer dose of (99m)Tc-anti-TNF. Another five patients received 120 mg methylprednisolone two days before the second scintigraphy.Radiolabelled anti-TNF mAb allowed clear visualisation of inflamed joints in patients with active RA with a high specificity. Concomitant administration of excess unlabelled anti-TNF reduced the joint uptake of (99m)Tc-anti-TNF mAb by a median of 25% as a percentage of the injected dose after 24 hours, whereas uptake in liver and spleen remained unchanged. Systemic corticosteroids reduced the disease activity, which was mirrored by a decreased joint uptake of the tracer. The anti-TNF mAb retained its high affinity for TNF alpha after labelling and was cleared from the circulation with an elimination half life of 48 hours. The procedure was well tolerated.Radiolabelled human anti-TNF mAb allows visualisation of synovitis in patients with RA. Joint accumulation of this agent is partly due to specific TNF targeting and is highly predictive for inflammation.
-

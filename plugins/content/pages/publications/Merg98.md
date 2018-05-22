@@ -1,9 +1,0 @@
-title: MRI in focal liver disease: a comparison of small and ultra-small superparamagnetic iron oxide as hepatic contrast agents.
-
-## Mergo, P J and Engelken, J D and Helmberger, T and Ros, P R
-Journal of magnetic resonance imaging : JMRI
-
-
-## Abstract
-The purpose of this study was to compare small and ultrasmall superparamagnetic iron oxide particles (SPIO and USPIO, respectively) as MR contrast agents for the evaluation of focal hepatic disease. In two different patient groups (SPIO [n = 53], USPIO [n = 27]), with focal liver disease (metastases, hepatocellular carcinoma [HCC], hepatocellular adenoma [HCA], and focal nodular hyperplasia [FNH]), spin-echo T1- and T2-weighted images (T1WI, T2WI) were obtained at 1.0T, before and after intravenous contrast administration. The percentage signal-to-noise ratio (SNR) change and lesion-to-liver contrast (LLC) were measured and statistically compared. The liver decreased in signal intensity (SI) after SPIO administration (-28%) and increased after USPIO administration (+16%) on T1WI. On T2WI, the liver decreased in SI on postcontrast images with both agents (-78% SPIO, -73% USPIO). This difference was not statistically significantly different (P < or = .07). Both SPIO and USPIO provided >500% improvement in LLC on T2WI. On T1WI, LLC was increased in metastases (120%) and HCC (325%) with SPIO. Post-USPIO, LLC was increased on T1WI only in metastases (>500%). Both SPIO and USPIO show excellent hepatic uptake, presumed secondary to reticuloendothelial activity, based on the degree of %SI change seen in the liver after administration of contrast on T2WI. However, USPIO preparations exhibit blood pool activity that may aid in further characterization of focal liver lesions, as is evidenced by their greater T1 effect in the liver and in some focal liver lesions.
-

@@ -1,9 +1,0 @@
-title: Renal function and atherosclerotic renovascular disease
-
-## Liesbeth Bax
-
-## Abstract
-The past two decades have shown remarkable advances in the prevention and treatment of cardiovascular disease (CVD), due to improvements in risk factor stratification and a better understanding of the atherosclerotic process. Patients can thereby be treated earlier and more adequately. The central role of renal function in CVD is addressed in part I of this thesis. Imaging techniques to study the renal artery are assessed in part II, with both MRI (magnetic resonance imaging) and angiography. Part III describes the STAR trial, about the treatment of patients with renal impairment and atherosclerotic renal artery stenosis (ARAS). CONCLUSIONS 1. Patients with more severe atherosclerosis have a faster decline in renal function and size with age, than patients with less severe atherosclerosis. 2. Screening of patients for new or recurrent vascular disease is very important. Moderately to severely impaired renal function is an independent predictor for adverse vascular outcomes. 3. Measurement of blood flow in the renal arteries with MRI is difficult and has limited reproducibility. 4. In-stent stenoses can be treated successfully with balloon dilatation or placement of a second stent, with good technical success rates after a year. 5. Treatment of renal function impairment in ARAS patients requires good risk factor modification. Stent placement in addition to medication does not further prevent progression of renal failure.
-
-A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
-<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Bax08b.pdf:pdfBax08b.pdf:PDF by e-mail"></form>

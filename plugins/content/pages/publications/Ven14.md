@@ -1,9 +1,0 @@
-title: Electro-magnetic tracker-based fusion for image-guided TRUS prostate biopsy
-
-## W. J. M. van de Ven and S. Rinsma and N. Karssemeijer and J. O. Barentsz and H. J. Huisman
-ECR
-
-
-## Abstract
-PURPOSE To investigate the accuracy of image-guided TRUS biopsy using rigid electro-magnetic (EM) tracker-based registration for real-time image fusion. METHOD AND MATERIALS An ultrasound (US) system equipped with Smart Fusion (Toshiba Aplio 500) was available that spatially correlates imported 3D MR/CT images with real-time US using an EM tracker. Smart Fusion is a twostep process. First, the MR/CT image plane orientation is matched to the US scanning angle. Secondly, the in-plane position is linked by selecting one matching reference landmark in both images. Live US and reformatted MR/CT image are shown simultaneously, allowing MR/CT image-guided biopsy. Local registration accuracy can be enhanced by selecting the reference landmark near the target. Registration accuracy was evaluated on a prostate phantom. A pre-acquired CT image was imported before TRUS examination. Accuracy was evaluated on 2D slices by three measures: target registration error (TRE, distance between lesion centers on both modalities); lesion contour overlap; and ratio between lesion contour areas on both modalities. The complete fusion procedure was repeated 15 times. MR guided TRUS prostate biopsy was performed in a patient with two prior negative TRUS biopsies and a PI-RADS 5 transitional zone lesion of 10mm. RESULTS In the phantom, mean in-plane TRE was 1.42Â±1.10mm; mean contour overlap was 62.1Â±21.5%; and mean contour area ratio was 93.1Â±19.6%. Biopsy pathology was Gleason 3+3 and considered representative. CONCLUSION The two-step EM tracker-based registration can be accurate if reference landmarks are selected near the target. MR guided TRUS prostate biopsy of sufficiently large lesions may be feasible.
-

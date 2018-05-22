@@ -1,9 +1,0 @@
-title: Intraperitoneal radioimmunotherapy in an ovarian carcinoma mouse model: Effect of the radionuclide
-
-## Janssen, M. L. and Pels, W. and Massuger, L. F. and Oyen, W. J. and Boonstra, H. and Corstens, F. H. and Boerman, O. C.
-IJGYNCAN
-
-
-## Abstract
-Despite debulking surgery and multidrug chemotherapy, advanced stage ovarian cancer has a high mortality rate. Radioimmunotherapy (RIT) is a treatment modality using specific, radiolabeled antibodies that guide cytotoxic radionuclides to cancer cells. In the present study, the therapeutic efficacy of RIT with murine monoclonal antibody HMFG1 labeled with three different beta-radiation emitting radionuclides (90Yttrium, 186Rhenium, and 131Iodine) was assessed in athymic BALB/c mice with intraperitoneally growing NIH:OVCAR-3 ovarian carcinoma xenografts. Each of the three intraperitoneally administered radiolabeled antibody preparations (90Y-HMFG1, 186Re-HMFG1, and 131I-HMFG1) caused a significant delay in ascites formation and mortality as compared to the control groups treated with 90Y-labeled irrelevant antibody, nonradiolabeled HMFG1, or phosphate buffered saline. Intraperitoneally (ip) administered 90Y-HMFG1 was shown to have a significantly higher abdominal retention as compared to the intraperitoneally administered irrelevant antibody 90Y-G250. Furthermore, intraperitoneally administered 90Y-HMFG1 more effectively inhibited tumor growth than intravenously administered 90Y-HMFG1. It was concluded that in intraperitoneally located malignant disease with ascitic cell clusters and tumor deposits, intraperitoneal administration of RIT seemed preferable as compared to intravenous administration. The choice of the most optimal radionuclide in intraperitoneally located malignancies needs further research, but could well depend on tumor characteristics such as the size of the tumor lesions.
-

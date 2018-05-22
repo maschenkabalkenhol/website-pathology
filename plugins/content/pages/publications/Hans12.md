@@ -1,9 +1,0 @@
-title: Noninvasive Vascular Strain Imaging: from Methods to Application
-
-## Hansen, H. H. G. and Idzenga, T. and de Korte, C. L.
-Current Medical Imaging Reviews
-
-
-## Abstract
-The rupture of atherosclerotic plaques is considered to be the main cause of cardiovascular events like stroke and myocardial infarction. Early detection of atherosclerotic plaques that have a high risk to rupture is desired to be able to intervene before the cardiovascular event occurs. During the cardiac cycle the vessel wall and plaque are deformed by the pulsating blood. The resulting strains can be estimated locally by ultrasound strain imaging/elastography. Studies with intravascular ultrasound (IVUS) elastography of the coronary arteries have showed that the presence of high strains is highly related to plaque vulnerability. However, although IVUS elastography has shown to be quite successful, its invasiveness limits the technique to being applied to patients that already are in the cath-lab. A noninvasive version of the technique is desired. With the increase in quality of ultrasonic equipment and improved accuracy of strain imaging methods, noninvasive vascular strain imaging has become within reach. Multiple research groups have and are developing methods to perform noninvasive strain imaging of the carotid arteries by ultrasound. Most methods derive strain estimates by cross-correlating ultrasound data that were acquired at different intraluminal pressures. Others apply image registration methods to estimate strains. This paper provides a description of the basics and backgrounds of ultrasound strain imaging using cross-correlation. Furthermore, advanced implementations of cross-correlation based and other techniques are discussed together with their pro's and con's. At the end, an overview is presented of the results that have been obtained with the various approaches until now.
-

@@ -1,9 +1,0 @@
-title: The Fifth International Workshop on Pulmonary Image Analysis
-
-## R. Beichel and M. de Bruijne and S. Kabus and A. P. Kiraly and J. M. Kuhnigk and J. McClelland and T. Kitasaka and E. M. van Rikxoort and S. Rit
-
-## Abstract
-These are the proceedings of the fth edition of the InternationalWorkshop on Pulmonary Image Analysis, held in conjunction with the Medical Image Computing and Computer Assisted Intervention (MICCAI) Conference 2013 in Nagoya, Japan. The International Workshop onPulmonary Image Analysis brings together researchers in pulmonary image analysis to discuss new developments in the field. For the fifth edition of the workshop we have received a large number of high quality papers, which all received thorough reviews by at least three reviewers. In total, fourteen papers were accepted for presentation at the workshop, of which nine were selected for oral presentation and five for poster presentation. The presented papers deal with di erent aspects of pulmonary image analysis, including computer aided diagnosis, segmentation, and registration. In addition, we are very happy that Dr. Noboru Niki from the University of Tokushima agreed to give a keynote lecture. We would like to thank the organizers of MICCAI 2013 for hosting the fifth edition of the International Workshop on Pulmonary Image Analysis and for handling the logistics of the workshop, and all colleagues involved in the peer-review process.
-
-A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
-<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Beic13.pdf:pdf/Beic13.pdf:PDF by e-mail"></form>

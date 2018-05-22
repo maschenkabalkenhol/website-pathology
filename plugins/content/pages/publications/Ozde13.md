@@ -1,9 +1,0 @@
-title: Endovascular versus surgical revascularization in proximal subclavian artery obstruction
-
-## Ozdemir-Van Brunschot, D. M. and Reijnen, M. M. and Van Oostayen, J. A. and Schultze Kool, L. J. and Adam Van Der Vliet, J.
-JCVS
-
-
-## Abstract
-Aim: The aim of this paper was to compare the outcomes of endovascular versus surgical treatment in patients with symptomatic proximal subclavian artery obstruction through a retrospective clinical study. Treatment of symptomatic subclavian artery obstruction can be performed with percutaneous transluminal angioplasty or open surgical reconstruction. Comparative studies are scarce. Methods: Technical success, patency and complication rates of 47 endovascular reconstructions in 46 patients were retrospectively compared with those of 19 open surgical reconstructions in 17 patients performed between 1996 and 2012. An additional series of 51 surgical reconstructions performed in the same institution between 1976 and 1993 served as a reference. Results: The technical success rate was 79% for endovascular and 100% for open surgical reconstructions (P<0.05). Primary patency was 72% and 89% at 1 year or 54% and 55% at 5 years for the endovascular and open surgical groups, respectively (log rank 0.210, P=0.65). Assisted primary patency was 77% and 100% at 1 year or 67% and 67% at 5 years, respectively (log rank 0.528, P=0.47). There was no mortality and major complications were infrequent, occurring equally in both groups (P=0.22). Conclusion: Although with its less invasive character endovascular treatment has gained preference over surgical treatment of proximal subclavian obstruction in many cases, extrathoracic surgical reconstruction can be performed with a higher technical success rate, similar patency and a comparable number of complications.
-

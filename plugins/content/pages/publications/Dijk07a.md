@@ -1,9 +1,0 @@
-title: Development and application of peptide-based radiopharmaceuticals
-
-## Dijkgraaf, Ingrid and Boerman, Otto C. and Oyen, Wim J G. and Corstens, Frans H M. and Gotthardt, Martin
-Anticancer Agents Med Chem
-
-
-## Abstract
-During the past decade, radiolabeled receptor-binding peptides have emerged as an important class of radiopharmaceuticals for tumor diagnosis and therapy. The specific receptor binding property of the ligand can be exploited by labeling the ligand with a radionuclide and using the radiolabeled ligand as a vehicle to guide the radioactivity to the tissues expressing a particular receptor. The concept of using radiolabeled receptor binding peptides to target receptor-expressing tissues in vivo has stimulated a large body of research in nuclear medicine. Receptor binding peptides labeled with gamma emitters ((123)I, (111)In, (99m)Tc) can visualize receptor-expressing tissues, a technique referred to as peptide-receptor radionuclide imaging (PRRI). In addition, labeled with beta emitters ((131)I, (90)Y, (188)Re, (177)Lu) these peptides have the potential to irradiate receptor-expressing tissues, an approach referred to as peptide-receptor radionuclide therapy (PRRT). The first and most successful imaging agent to date is the somatostatin analog octreotide. It is used for somatostatin receptor scintigraphy and PRRT of neuroendocrine tumors. Other peptides such as Minigastrin, GLP-1, CCK, bombesin, substance P, neurotensin, and RGD peptides are currently under development or undergoing clinical trials. In this review, an overview of the criteria of peptide ligand development, the selection of radioisotopes, labeling methods, and chemical aspects of radiopeptide synthesis is given. In addition, the current state of clinical use of radiopeptides for diagnosis and therapy of tumors is discussed.
-

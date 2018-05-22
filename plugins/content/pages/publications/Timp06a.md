@@ -1,9 +1,0 @@
-title: Analysis of Temporal Mammogram Pairs to Detect and Characterise Mass Lesions
-
-## S. Timp
-
-## Abstract
-This preparatory chapter provides some background material and literature required for this thesis. For further reading we suggest one of the following books: Vainio & Bianchini (2002); Homer (1997); Underwood (1992); Friedrich & Sickles (2000). This chapter is organised as follows. Section 1.1 to 1.5 give general information about breast cancer, about screening programmes to detect breast cancer, and about modalities that are used to image the breast. In Section 1.6 we describe the use of computer aided detection and diagnosis (CAD) systems and review some important studies that evaluate potential benets of using CAD. At the moment multi view CAD systems are being developed that include information from multiple views. Section 1.7 summarises recent advances in this eld. In this thesis we focus on the design of a multi view CAD system that incorporates information about temporal changes that take place between two consecutive screening rounds. Section 1.8 shortly discusses the objective for this approach. Section 1.9 claries denitions and nomenclature used in this thesis. Finally, in Section 1.10, we present an overview of this thesis.
-
-A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
-<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Timp06a.pdf:pdf/Timp06a.pdf:PDF by e-mail"></form>

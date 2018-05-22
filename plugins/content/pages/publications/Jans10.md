@@ -1,9 +1,0 @@
-title: Pronounced weight gain in insulin-treated patients with type 2 diabetes mellitus is associated with an unfavourable cardiometabolic risk profile
-
-## H. J. Jansen and G. Vervoort and M. van der Graaf and C. J. Tack
-NETHJM
-
-
-## Abstract
-Pronounced weight gain after start of insulin therapy in patients with type 2 diabetes mellitus (T2DM) may offset beneficial effects conferred by the improvement of glycaemic control. This hypothesis was tested by comparing the cardiometabolic risk profile of a group of type 2 diabetes patients with a marked increase in body weight ('gainers) after the start of insulin treatment and a similar group without any or only minimal weight gain ('non-gainers'). In a cross-sectional study, we compared two predefined groups of patients with T2DM who had been on insulin therapy for a mean of 4.0 years: 'gainers' vs 'non-gainers'. Cardiometabolic risk was assessed by measuring fat content and distribution (physical examination, bioelectrical impedance analysis, dual energy X-ray absorption, and magnetic resonance imaging), liver fat content (magnetic resonance spectroscopy), physical activity levels (Sensewear? armband) and plasma markers. Each subgroup consisted of 14 patients. Gainers had significantly more total body and trunk fat (especially subcutaneous fat) compared with no-gainers. Gainers had similar liver fat content, and slightly higher levels of fat hormones. Furthermore, gainers performed significantly less physical activity. Lastly, gainers had higher total cholesterol, low-density lipoprotein cholesterol, and alanine aminotransferase levels with similar cholesterol-lowering treatment. Patients with T2DM who show pronounced weight gain during insulin therapy have a less favourable cardiometabolic risk profile compared with patients who show no or minimal weight gain.
-

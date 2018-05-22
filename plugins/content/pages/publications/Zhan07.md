@@ -1,9 +1,0 @@
-title: [MRI monitoring ultra-small superparamagnetic iron oxide (USPIO) particle labeling C6 rat glioma cells].
-
-## Zhang, Gui-xiang and Li, Yu-jie and Zhang, Feng and Zhao, Jing-long and Li, Kang-an and Hu, Yun-sheng
-Zhonghua yi xue za zhi
-
-
-## Abstract
-To monitor the effects of labeling C6 rat glioma cells with different concentrations of USPIO in vivo and in vitro. C6 rat glioma cells of 1 x 10(6), 2 x 10(6) and 1 x 10(7) were labeled with 0 microg/ml, 25 microg/ml, 50 microg/ml USPIO, The signal intensity of cells were evaluated by MRI with T(1)WI, T(2)WI and GRE/30 degrees sequences in vitro. 1 x 10(6) of C6 glioma cells were labeled with 0 microg/ml, 25 microg/ml, 50 microg/ml USPIO and inoculated into the right frontal lobe of 2 rats under stereotaxis apparatus respectively (total 6 rats), Same MRI parameters were used just as above. Iron particle density and cells was measured by HE and Prussian blue stain under microscopy. Different cell population was cultured with 0 microg/ml, 25 microg/ml, 50 microg/ml USPIO about 12 hours. The MR signal intensity of labeling cells were inversely correlated with the different concentration of USPIO groups in T(2)W and GRE/30 degrees imaging (t = 4.19, 3.38, P < 0.05) in vitro. There was an inversely correlation between the labeling cell population and the signal intensity at the same concentration of USPIO (t = 5.16, 2.35, 4.41; P < 0.05). Dyeing degree of labeling cells stained by Prussian blue gradually deepened from 25 microg/ml to 50 microg/ml by microscopy. In vivo MRI can clearly show the cells labeled with 25 microg/ml USPIO. Iron particle density in the rat glioma cells were gradually increased with the concentration of USPIO. The MR signal intensity was inversely correlated with the cell population at the same condition. 25 microg/ml USPIO labeling rat glioma cells were enough for in vivo monitoring by MRI.
-

@@ -1,9 +1,0 @@
-title: Characterization of echographic image texture by cooccurrence matrix parameters
-
-## Valckx, F. M. and Thijssen, J. M.
-UMB
-
-
-## Abstract
-The goal of this study was to investigate the potentials of cooccurrence matrix analysis for the characterization of echographic image texture. Echographic data were obtained by one-dimensional simulations. Various data sets were generated with different number densities of the randomly distributed scatterers and with different levels of structural scattering strength. Cooccurrence matrix parameters estimated for analysis were: angular second moment, contrast, correlation, entropy and kappa. The cooccurrence matrix analysis was tuned by varying its parameters: spatial displacement of the pixel pairs, number of gray levels and size of the window. The parameters reached a saturation level at a number density of 3-5 scatterers per resolution cell (-6 dB width). Similarly, when increasing the displacement, a limit value was reached at 4-20 samples, depending on the size of the resolution cell. Using the Mahalanobis distance as a measure of differentiating between two textures, a systematic inverse relation was observed between the size of the window and the number of gray levels used in the estimation of the cooccurrence matrix. The optimal parameters to differentiate textures without structure appeared to be entropy and angular second moment. A window size of 90 speckle cells and 64 gray levels is needed for this purpose. The effective speckle size was estimated from the mean number of maxima of the demodulated echo signals. Resolved structure results in a periodicity of parameter values with displacement. The periodicity can be calculated by changing the displacement d. Optimal parameters for detecting periodicity are contrast and correlation. Analysis of the correlation between parameters showed that entropy vs. angular second moment and contrast vs. correlation are highly correlated.
-

@@ -1,9 +1,0 @@
-title: Cardiopulmonary imaging, functional and laboratory studies in sickle cell disease associated pulmonary hypertension
-
-## van Beers, Eduard J. and Nur, Erfan and Schaefer-Prokop, Cornelia M. and Mac Gillavry, Melvin R. and van Esser, Joost W J. and Brandjes, Dees P M. and Kappers-Klunne, Maria C. and Duits, Ashley J. and Muskiet, Frits A J. and Schnog, John-John B. and Biemond, Bart J. and , C. U. R. A. M. A Study Group
-AJH
-
-
-## Abstract
-Pulmonary hypertension (PHT) occurs in approximately 30% of adults with sickle cell disease (SCD) and is an independent risk factor for early death. In this study, we aimed to determine the value of general laboratory testing, plain chest radiography, electrocardiography (ECG), high-resolution computer tomography (HRCT) of the thorax, pulmonary function testing, and plasma N-terminal brain natriuretic peptide (NT-proBNP) and brain natriuretic peptide (BNP) in patients with SCD-related PHT. A cohort of 85 ambulatory sickle cell patients were prospectively screened for PHT with echocardiography (defined as a tricuspid regurgitation flow velocity of > or =2.5 m/sec). All patients were systematically evaluated by the aforementioned diagnostic tests comparing patients with and without PHT. The prevalence of PHT was 41% in HbSS/HbSbeta(0)-thalassemia patients and 13% in HbSC/HbSbeta(+)-thalassemia patients. No statistically significant differences were detected in ECG, chest radiography, HRCT, and pulmonary function testing between patients with and without PHT. The degree of anemia and renal dysfunction, but not the presence of PHT, were the most important determinants of plasma (NT-pro)BNP levels. The performed imaging and functional studies do not seem to be of value in identifying etiological conditions (such as airflow obstruction or parenchymal lung disease) nor do they offer clues to the presence of mild PHT in SCD.
-

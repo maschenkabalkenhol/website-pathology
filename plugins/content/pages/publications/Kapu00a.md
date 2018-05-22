@@ -1,9 +1,0 @@
-title: Assessment of myocardial velocities in healthy children using tissue Doppler imaging
-
-## Kapusta, L. and Thijssen, J. M. and Cuypers, M. H. and Peer, P. G. and Dani"els, O.
-UMB
-
-
-## Abstract
-The objective was to determine the normal range of tissue velocities in paediatric hearts as measured by tissue Doppler imaging. A prospective study was carried out involving 160 healthy children (mean age 10.8 y, range 4.0-17.9 y). Using tissue Doppler imaging (TDI) from parasternal long axis and apical views, peak velocities and peak myocardial velocity differences across the right ventricular anterior wall, interventricular septum and left ventricular posterior wall were assessed during systole, early and late diastole. The existence of transmyocardial velocity differences between the left and right side of the interventricular septum, as well as between the endocardium and epicardium of the left ventricular posterior wall was observed throughout the heart cycle. With range-gated TDI from apical four-chamber view, peak velocities were measured within the basal, mid and apical parts of the interventricular septum, and the left and right free ventricular walls. The highest peak systolic, early and late diastolic velocities were measured within the basal parts of all myocardial walls. The ranges of the calculated velocity ratios (early-to-late diastolic velocity and early diastolic-to-systolic velocity) for the various wall parts appeared to be overlapping. The correlations of peak myocardial tissue velocities and their ratios with age and weight were weak and practically irrelevant. These normal values of peak myocardial velocities, transmyocardial velocity differences and the ratios of peak wall velocities can be used as reference values in future investigations of ventricular dysfunction in this age group.
-

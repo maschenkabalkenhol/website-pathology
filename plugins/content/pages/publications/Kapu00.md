@@ -1,9 +1,0 @@
-title: Tissue Doppler imaging in detection of myocardial dysfunction in survivors of childhood cancer treated with anthracyclines
-
-## Kapusta, L. and Thijssen, J. M. and Groot-Loonen, J. and Antonius, T. and Mulder, J. and Dani"els, O.
-UMB
-
-
-## Abstract
-The applicability of tissue Doppler imaging (TDI) was investigated for estimating cardiac function in long-term survivors of childhood cancer treated with anthracyclines. A total of 63 children (age range 7.8-17.3 y) underwent standard echo Doppler cardiographic studies of blood flow velocities, left ventricular dimensions and fractional shortening, followed by measurements of peak myocardial velocities and direction using the noninvasive tissue Doppler imaging (TDI) technique. All 63 were late survivors (median 7.1 y, range 3.5-13.5 y after end of therapy) who had received mean (+/- SD) cumulative dose of 242 (+/- 141) mg/m(2) of anthracyclines. The control group consisted of 160 healthy subjects (age range 4 to 17.9 y). Standard echo-Doppler anatomical parameters that were found significantly (p < 0.01) different for the study group are: RV wall thickness (decreased); LV diameter (increased); and LV fractional shortening (decreased). Studied hemodynamic parameters were not found to be different between the two groups. Quantitative TDI parameters: peak late diastolic myocardial velocities, as well as transmyocardial systolic and diastolic velocity differences, were significantly lower in late survivors than in the healthy pediatric population (p < 0.01). Qualitative local functional impairment of the movement of the left ventricular walls was detected in 20% of the patients. TDI might become a useful noninvasive method for detecting subclinical myocardial damage in apparently healthy children who received moderate doses of anthracyclines for treatment of childhood malignancy. Prospective studies with TDI for the detection of regional myocardial abnormalities are recommended.
-

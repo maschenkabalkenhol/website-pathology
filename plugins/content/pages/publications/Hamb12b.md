@@ -1,9 +1,0 @@
-title: The Value of 3 Tesla Magnetic Resonance Imaging for the Detection and Aggressiveness Assessment of Prostate Cancer - From Theory to Practice
-
-## T. Hambrock
-
-## Abstract
-Following the conclusions made in this thesis, there are but a few obstacles in the way for clinicians and patients to have an extremely useful weapon in their arsenal against prostate cancer. Now it is time that treating clinicians should be made aware of the great potential of MRI, that radiologists learn and become confident and good in the evaluation thereof. Patients should be comfortable with the knowledge that they are receiving top of the range diagnostics. Lack of awareness is therefore one of the greatest obstacles. The cautioned reader would certainly raise the valid question of cost? Our health systems are already overburdened with medical costs and reductions. The author believes that cost will always be an issue. There will never be enough funding to deliver all the groundbreaking discoveries/techniques and treatments to patients. That is unfortunately the world we live in. Cost however, should not necessarily be the principal obstacle. In the long run, the improved early diagnosis and more efficient management will (daunting to say) reduce morbidity and mortality and be more cost-efficient. The large European trial on using PSA for PCa screening has already revealed a 20-30% reduction in mortality. Undoubtedly adding MRI on top of this, hopefully not only mortality will be reduced but also unnecessary morbidity.
-
-A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
-<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Hamb12b.pdf:pdfHamb12b.pdf:PDF by e-mail"></form>

@@ -1,9 +1,0 @@
-title: [3-dimensional sonography for volume determination of liver tumors--report of initial experiences]
-
-## Lang, H. and Wolf, G. K. and Prokop, M. and Nuber, B. and Weimann, A. and Raab, R. and Zoller, W. G.
-Chirurg
-
-
-## Abstract
-In a clinical trial the accuracy of volumetry by use of three-dimensional ultrasound (3-D-US) in comparison to three-dimensional computer tomography (3-D-CT) was evaluated. Overall, 42 patients with focal hepatic lesions were investigated with 2-D- and 3-D ultrasound. In 11 patients additional computerized tomographic arterial portography using spiral technique was performed. The volumes of the lesions were calculated using the ellipsoid formula (for 2-D- and 3-D-US) as well as with a planimetric reconstruction for 3-D-US and 3-D-CT. In addition the intra- and inter-investigator variability of 3-D ultrasound was determined. The volume of the investigated liver lesions (planimetric reconstruction with 3-D ultrasound) ranged between 1.5 cm3 and 1231 cm3 with a mean volume of 155 cm3 and a median volume of 68 cm3. The deviation of 2-D-US vs 3-D-CT was -62% to +68%, in the case of 3-D-US (ellipsoid) vs 3-D-CT it was -28% to +9%, and for 3-D-US (planimetry) vs 3-D-CT it was -21% to +9%. The concordance index kappa was 0.886, showing very good agreement between the two investigators. The intra-investigator variability was 5%. Our data show that volume measurement by use of 3-D-US in independent of the investigator. With regard to accuracy of volume measurements 3-D-US is comparable to 3-D-CT but more precise than 2-D-US. These results indicate that 3-D-US may be applied in the follow-up of tumor patients as an alternative diagnostic procedure to computer tomography. In addition 3-D-US might be useful in planning liver resections by virtue of better evaluation of the volume of the liver tissue remaining after resection and better visualization of the topography of liver tumors and major hepatic vessels.
-

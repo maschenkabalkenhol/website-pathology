@@ -1,9 +1,0 @@
-title: Automated texture scoring for assessing breast cancer masking risk in full field digital mammography
-
-## Kallenberg, M G and Petersen, K and Lillholm, M and JÃ¸rgensen, D R and Diao, P and Holland, K and Karssemeijer, N and Igel, C and Nielsen, M
-ECR
-
-
-## Abstract
-PURPOSE: The goal of this work is to develop a method to identify women at high risk for having breast cancer that is easily missed in regular mammography screening. Such a method will provide a rationale for selecting women for adjunctive screening. It goes beyond current risk assessment models that are not specifically adapted to reduce the number of interval cancers. METHOD AND MATERIALS: From the Dutch breast cancer screening program we collected 109 cancers that were screen negative and subsequently appeared as interval cancers, and 327 age matched healthy controls. To obtain mammograms without signs of cancerous tissue, we took the contralateral mammograms. We developed a novel machine learning based method called convolutional sparse autoencoder (CSAE) to characterize mammographic texture. The CSAE was trained and tested on raw mammograms to separate interval cancers from controls in a five-fold cross validation. To assess the independency of the texture scores of breast density, density was determined for each image using Volpara. RESULTS: The odds ratios for interval cancer were 1.59 (95%CI: 0.76-3.32), 2.07 (1.02-4.20), and 3.14 (1.60-6.17) for quartile 2, 3 and 4 respectively, relative to quartile 1. Correlation between the texture scores and breast density was 0.59 (0.52-0.64). Breast density adjusted odds ratios, as determined with logistic regression, were 1.49 (0.71-3.13), 1.58 (0.75-3.33), and 1.97 (0.91-4.27). CONCLUSIONS: The CSAE texture score is independently associated with the risk of having a breast cancer that is missed in regular mammography screening. As such it offers opportunities to further enhance personalized breast cancer screening.
-

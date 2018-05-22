@@ -1,9 +1,0 @@
-title: The value of chest computer tomography and cervical mediastinoscopy in the preoperative assessment of patients with malignant pleural mesothelioma
-
-## Schouwink, J Hugo and Kool, Leo Schultze and Rutgers, Emiel J. and Zoetmulder, Frans A N. and van Zandwijk, Nico and v d Vijver, Marc J. and Baas, Paul
-AOTS
-
-
-## Abstract
-Patients with localized malignant pleural mesothelioma (MPM) can be considered for surgical resection with or without additional treatment. For this approach it is imperative to select patients without mediastinal lymph node involvement. In this study cervical mediastinoscopy (CM) is compared with computer tomography (CT) scanning for its diagnostic accuracy in assessing mediastinal lymph nodes during preoperative workup.Computer tomography scans of the chest and CM were performed in 43 patients with proven unilateral MPM. The CT scans were reviewed by one radiologist and two chest physicians. At CM the lymph node samples were taken from stations Naruke 2, 3, 4, and 7. Computer tomography and CM results were compared with final histopathologic findings obtained at thoracotomy or, if this was not performed, at CM.Computer tomography scanning revealed pathologic enlarged lymph nodes with a shortest diameter of at least 10 mm in 17 of 43 patients (39%). There was histopathologic evidence of lymph node metastases at CM in 11 of these patients (26%). This resulted in a sensitivity of 60% and 80%, a specificity of 71% and 100%, and a diagnostic accuracy of 67% and 93% for CT and CM, respectively.Cervical mediastinoscopy is a valuable diagnostic procedure for patients with MPM who are considered candidates for surgical-based therapy. Results of CM are more reliable than those obtained by CT scanning. Our data confirm results of previous studies reporting that mediastinal lymph node involvement is a frequent event in MPM.
-

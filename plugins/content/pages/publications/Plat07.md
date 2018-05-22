@@ -1,9 +1,0 @@
-title: Exploring the Deep Structure of Images
-
-## B. Platel
-
-## Abstract
-This thesis will focus mainly on techniques for automatic image matching. The results from the study are applicable in image analysis applications such as wide baseline matching, texture recognition, object retrieval, robot localization, video data mining, building panorama?s object class recognition and object location and pose retrieval. Over the years many different methods have been developed for these tasks and a number of these methods function well in specific areas of image analysis. However a trend in these methods is that they depend more and more on ad hoc parameters and thresholds. These parameters are often not representing a physical entity and it is therefore difficult to assign meaningful values to them. The approach often used to ?solve? this problem is extensive training that exhaustively tries all possible parameters within a certain range and simply choses the parameter set yielding the best results for the training set of images. This results in algorithms that work well for the image modality for which they were trained, but as soon as the input images differ too much from the training set, these algorithms break down. The goal of the research described in this thesis is to find a general method for image matching, regardless of the type of input images. Our method has to have a reasonable physical motivation and should have as few parameters and thresholds as possible.
-
-A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
-<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Plat07.pdf:pdf/Plat07.pdf:PDF by e-mail"></form>

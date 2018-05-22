@@ -1,9 +1,0 @@
-title: Pediatric aspects of HIV1-infection--an overview.
-
-## Buchholz, B and Hien, S and Weichert, S and Tenenbaum, T
-Minerva pediatrica
-
-
-## Abstract
-Mother-to-child transmission of HIV1 is the main cause for pediatric HIV1-infection. Since 1995 in developed countries the rate of vertical HIV1 transmission was reduced from 40% to 1-2% by the combination of antiretroviral therapy of pregnant women, antiretroviral prophylaxis in the newborn and refraining from breast-feeding. Nowadays the main causes for HIV1-infection in children are 1) not offered (voluntary) HIV1-testing in early pregnancy (in spite of recommendation for prenatal care) and 2) missing knowledge about prophylactic interventions in HIV1-positive pregnant women and their HIV1-exposed newborn. Diagnosis and/or exclusion of HIV1-infection in HIV1-exposed and HIV1-positive infants is difficult, because maternal HIV1-antibodies pass the placenta and can persist in the child up to two years after birth. Since in 1996 the era of "highly active antiretroviral therapy (HAART)", the use of an antiretroviral three-drug-regimen, began, HIV1-infection in children changed from a fatal illness to a chronic disease with decreased mortality and improved qualitiy of life. The lack of drug approvement, absence of adequate drug formulation and of pharmacokinetic data for children make the treatment of HIV1-infection in children much more difficult than in adults. Treatment of children depends on clinical category, CD4 cell count, viral load and age of diagnosis. With the current state of knowledge (failure of treatment interruption studies in adults and pending ones in children) once HAART is started it must be carried on life-long. This implies great challenges in adherence to avoid development of resistance and in confrontation with long-term adverse effects of HIV1-therapy.
-

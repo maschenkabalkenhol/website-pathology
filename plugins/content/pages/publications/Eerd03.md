@@ -1,9 +1,0 @@
-title: Radiolabeled chemotactic cytokines: new agents for scintigraphic imaging of infection and inflammation
-
-## van Eerd, J E M. and Boerman, O. C. and Corstens, F H M. and Oyen, W J G.
-QJNUCMED
-
-
-## Abstract
-Several radiopharmaceuticals are currently used for diagnosis of inflammatory and infectious diseases in patients. Most inflammatory and infectious processes can be visualized with radiolabeled autologous leukocytes, currently considered to be the most appropriate radiopharmaceutical for this purpose. This agent is very well capable to delineate most inflammatory and infectious foci in a relatively short time after injection. The time-consuming and intricate labeling procedure and the handling of potentially contaminated blood, however cause that there is a great interest in the development of new radiopharmaceuticals comprising the same imaging qualities but without these disadvantages. Besides radiolabeled leukocytes several other radiopharmaceuticals, such as (67)Ga-citrate, radiolabeled anti-granulocyte antibodies and FDG are used to image infection and inflammation. These agents accumulate in infectious and inflammatory lesions in a non-specific manner or have suboptimal diagnostic characteristics. Nowadays, there is a great interest in the development of radiolabeled chemotactic and chemokinetic cytokines that accumulate and are retained in infectious and inflammatory foci by specific interaction with infiltrated inflammatory cells. In this review we describe the specific characteristics of the chemotactic and chemokinetic compounds that are currently studied as potential radiopharmaceutical to visualize infectious and inflammatory foci. The characteristics of a series of cytokines (IL-1, IL-2), chemokines (IL-8, PF-4, MCP-1, NAP-2), complement factors (C5a, C5adR), chemotactic peptides (fMLF) and other chemotactic factors (LTB4) are described. The potentials of these compounds to serve as an imaging agent are discussed.
-

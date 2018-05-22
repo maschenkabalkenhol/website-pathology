@@ -1,9 +1,0 @@
-title: F-18-fluorodeoxyglucose positron emission tomography in diagnosis and follow-up of patients with different types of vasculitis
-
-## Bleeker-Rovers, C. P. and Bredie, S J H. and van der Meer, J W M. and Corstens, F H M. and Oyen, W J G.
-NETHJM
-
-
-## Abstract
-F-18-fluorodeoxyglucose (FDG) accumulates in inflammatory cells due to an increased metabolic rate. Therefore, FDG positron emission tomography (PET) represents a promising imaging technique in patients with vasculitis. The aim of this study was to assess the value of FDG PET in the diagnosis of different types of vasculitis.The results of FDG PET performed because of suspected vasculitis or fever of unknown origin with results indicating vasculitis were reviewed. These results were compared with the final diagnosis, based on the American College of Rheumatology 1990 criteria.FDG PET was ordered because of suspected vasculitis in 20 patients, because of fever of unknown origin in two patients, and for follow-up of vasculitis in five patients. Fourteen patients were diagnosed with vasculitis (giant cell arteritis n = 5, polymyalgia rheumatica n = 2, polyarteritis nodosa n = 3, Takayasu n = 1, Churge-Strauss n = 1, Wegener's granulomatosis n = 1, vasculitis skin n = 1), two patients were diagnosed with fibromuscular dysplasia and one patient had media necrosis of the aorta. In five patients no diagnosis could be reached. FDG PET results were considered to be true-positive in ten patients, true-negative in 14 patients and false-negative in three patients resulting in a positive predictive value of 100% and a negative predictive value of 82%.FDG PET appears to be a promising new imaging technique in diagnosing and determining the extent of various forms of vasculitis. Furthermore, FDG PET may become a useful tool for evaluating the effect of treatment of vasculitis.
-

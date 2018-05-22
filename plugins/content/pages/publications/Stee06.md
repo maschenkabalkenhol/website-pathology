@@ -1,7 +1,0 @@
-title: Magnetic resonance imaging studies on neuropsychiatric systemic lupus erythematosus
-
-## S. C. A. Steens
-
-## Abstract
-Neuropsychiatric systemic lupus erythematosus (NPSLE) is a rheumatologic disorder causing neurologic, psychiatric and/or psychologic symptoms. The most important clinical problems are the aspecific nature of signs and symptoms, the limited knowledge on pathogenesis and the absence of a diagnostic gold standard. Magnetic resonance imaging (MRI) is considered the most important imaging modality of the brain in NPSLE patients. Abnormalities visible on conventional MRI appear anywhere in the brain, and may normalize, stabilize or increase with loss of brain parenchyma. Apart from conventional MRI sequences, in this thesis advanced MRI techniques such as magnetization transfer imaging (MTI) were also applied, which are more sensitive to microscopic brain damage invisible to the human eye. Microscopic brain damage in NPSLE appears mostly in the cortical gray matter and is associated with the presence of anticardiolipin antibodies. The final brain damage, as observed using different MRI techniques, consists of neuronal and axonal damage, atrophy, demyelination and gliosis. Changes in the total amount of microscopic brain damage as detected by MTI correlate with changes in clinical status. This thesis contributes to the knowledge on the pathogenesis of NPSLE, and illustrates that advanced and conventional radiological techniques can be helpful in making diagnostic and therapeutic decisions.
-

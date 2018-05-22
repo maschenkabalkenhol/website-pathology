@@ -1,9 +1,0 @@
-title: Automated segmentation in 3D pediatric echocardiographic images
-
-## M.M. Nillesen
-
-## Abstract
-In this thesis, methods are described for automated analysis of 3D (pediatric) echographic images of the heart. Due to successful (surgical) treatment more and more patients with a congenital heart disease survive and reach adulthood. The demand for reliable, non-invasive, methods for diagnosis and regular monitoring of patients with a heart disease is therefore of great interest. In particular, in children with cardiac malformations regular monitoring of the cardiac function is of great importance. During the past decades, echocardiography has become an increasingly important imaging technique because of its high temporal resolution and non-invasiveness. The recent introduction of three dimensional (3D) ultrasound techniques facilitates accurate assessment of the exact geometry and deformation of the heart in three dimensions. The addition of this third dimension is very important for the diagnosis of children with a (congenital) heart disease since the precise determination of the geometry in 3D can be of eminent importance when abnormal cardiac anatomy is present. Since manual analysis of 3D ultrasound images is time-consuming and is sensitive to judgment differences between human experts, automated analysis of these images is desired. The objective of the research in this thesis is automated segmentation (to distinguish regions with different types of tissue) of 3D echocardiographic images without using a priori knowledge about the average shape of the heart.
-
-A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
-<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Nill10.pdf:pdfNill10.pdf:PDF by e-mail"></form>
