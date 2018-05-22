@@ -1,0 +1,12 @@
+title: MRI to X-ray mammography intensity-based registration with simultaneous optimisation of pose and biomechanical transformation parameters
+
+## Mertzanidou, Thomy and Hipwell, John and Johnsen, Stian and Han, Lianghao and Eiben, Bjoern and Taylor, Zeike and Ourselin, Sebastien and Huisman, Henkjan and Mann, Ritse and Bick, Ulrich and Karssemeijer, Nico and Hawkes, David
+MIA
+
+<a href="https://doi.org/10.1016/j.media.2014.03.003">DOI</a>
+
+## Abstract
+Determining corresponding regions between an MRI and an X-ray mammogram is a clinically useful task that is challenging for radiologists due to the large deformation that the breast undergoes between the two image acquisitions. In this work we propose an intensity-based image registration framework, where the biomechanical transformation model parameters and the rigid-body transformation parameters are optimised simultaneously. Patient-specific biomechanical modelling of the breast derived from diagnostic, prone MRI has been previously used for this task. However, the high computational time associated with breast compression simulation using commercial packages, did not allow the optimisation of both pose and FEM parameters in the same framework. We use a fast explicit Finite Element (FE) solver that runs on a graphics card, enabling the FEM-based transformation model to be fully integrated into the optimisation scheme. The transformation model has seven degrees of freedom, which include parameters for both the initial rigid-body pose of the breast prior to mammographic compression, and those of the biomechanical model. The framework was tested on ten clinical cases and the results were compared against an affine transformation model, previously proposed for the same task. The mean registration error was 11.6Â±3.8mm for the CC and 11Â±5.4mm for the MLO view registrations, indicating that this could be a useful clinical tool.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Mert14.pdf:pdfMert14.pdf:PDF by e-mail"></form>

@@ -1,0 +1,12 @@
+title: Software package for integrated data processing for internal dose assessment in nuclear medicine (SPRIND)
+
+## Visser, Eric and Postema, Ernst and Boerman, Otto and Visschers, Jeroen and Oyen, Wim and Corstens, Frans
+EJNMMI
+
+<a href="https://doi.org/10.1007/s00259-006-0226-z">DOI</a>
+
+## Abstract
+Internal radiation dose calculations are normally carried out using the Medical Internal Radiation Dose (MIRD) schema. This requires residence times of radiopharmaceutical activity and S-values for all organs of interest. Residence times can be obtained by quantitative nuclear imaging modalities. For dealing with S-values, the freeware packages MIRDOSE and, more recently, OLINDA/EXM are available. However, these software packages do not calculate residence times from image data.For this purpose, we developed an IDL-based software package for integrated data processing for internal dose assessment in nuclear medicine (SPRIND). SPRIND allows reading and viewing of planar whole-body scintigrams. Organ and background regions of interest (ROIs) can be drawn and are automatically mirrored from the anterior to the posterior view. ROI statistics are used to obtain anterior-posterior averaged counts for each organ, corrected for background activity and attenuation. Residence times for each organ are calculated based on effective decay. The total body biological half-time is calculated for use in the voiding bladder model. Red bone marrow absorbed dose can be calculated using bone regions in the scintigrams or by a blood-derived method. Finally, the results are written to a file in MIRDOSE-OLINDA/EXM format. Using scintigrams in DICOM, the complete analysis is gamma camera vendor independent, and can be performed on any computer using an IDL virtual machine.SPRIND is an easy-to-use software package for radiation dose assessment studies. It has made these studies less time consuming and less error prone.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Published version:pdfViss07.pdf:PDF by e-mail"></form>

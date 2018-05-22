@@ -1,0 +1,12 @@
+title: Early Identification of Small Airways Disease on Lung Cancer Screening CT: Comparison of Current Air Trapping Measures
+
+## Mets, O. M. and Zanen, P. and Lammers, J.-W. J. and Isgum, I. and Gietema, H. A. and van Ginneken, B. and Prokop, M. and de Jong, P. A.
+Lung
+
+<a href="https://doi.org/10.1007/s00408-012-9422-8">DOI</a>
+
+## Abstract
+BACKGROUND : Lung cancer screening CT scans might provide valuable information about air trapping as an early indicator of smoking-related lung disease. We studied which of the currently suggested measures is most suitable for detecting functionally relevant air trapping on low-dose computed tomography (CT) in a population of subjects with early-stage disease. METHODS : This study was ethically approved and informed consent was obtained. Three quantitative CT air trapping measures were compared against a functional reference standard in 427 male lung cancer screening participants. This reference standard for air trapping was derived from the residual volume over total lung capacity ratio (RV/TLC) beyond the 95th percentile of predicted. The following CT air trapping measures were compared: expiratory to inspiratory relative volume change of voxels with attenuation values between -860 and -950 Hounsfield Units (RVC(-860 to -950)), expiratory to inspiratory ratio of mean lung density (E/I-ratio(MLD)) and percentage of voxels below -856 HU in expiration (EXP(-856)). Receiver operating characteristic (ROC) analysis was performed and area under the ROC curve compared. RESULTS: Functionally relevant air trapping was present in 38 (8.9 %) participants. E/I-ratio(MLD) showed the largest area under the curve (0.85, 95 % CI 0.813-0.883), which was significantly larger than RVC(-860 to -950) (0.703, 0.657-0.746; p < 0.001) and EXP(-856) (0.798, 0.757-0.835; p = 0.002). At the optimum for sensitivity and specificity, E/I-ratio(MLD) yielded an accuracy of 81.5 %. CONCLUSIONS: The expiratory to inspiratory ratio of mean lung density (E/I-ratio(MLD)) is most suitable for detecting air trapping on low-dose screening CT and performs significantly better than other suggested quantitative measures.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Mets12h.pdf:pdfMets12h.pdf:PDF by e-mail"></form>

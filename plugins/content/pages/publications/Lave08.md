@@ -1,0 +1,12 @@
+title: Targeting of a CCK(2) receptor splice variant with (111)In-labelled cholecystokinin-8 (CCK8) and (111)In-labelled minigastrin
+
+## Laverman, Peter and Roosenburg, Susan and Gotthardt, Martin and Park, Jeseong and Oyen, Wim J G. and de Jong, Marion and Hellmich, Mark R. and Rutjes, Floris P J T. and van Delft, Floris L. and Boerman, Otto C.
+EJNMMI
+
+<a href="https://doi.org/10.1007/s00259-007-0604-1">DOI</a>
+
+## Abstract
+Radiolabelled cholecystokinin (CCK) and gastrin-derived peptides potentially can be used for peptide receptor radionuclide therapy (PRRT). Recently, a splice variant version of the CCK2R has been identified, designated CCK2i4svR. Constitutive expression of this receptor has been demonstrated in human colorectal cancer and in pancreatic cancer, but not in normal tissue. So far, it has never been shown whether radiolabelled peptides can target the CCK2i4svR in vivo. In this paper, we investigated the potential of sulfated (111)In-labelled DOTA-CCK8 (sCCK8), a pan-CCKR-binding peptide, and [(111)In]DOTA-minigastrin (MG0), a CCK2R selective peptide, for the targeting of the CCK2i4svR.The receptor binding affinity of [(111)In]DOTA-sCCK8 and [(111)In]DOTA-MG0 for the CCK2R and CCK2i4svR was determined using stably transfected HEK293 cell lines, expressing either CCK2R or CCK2i4svR. Tumour targeting was studied in HEK293-CCK2i4svR tumour-bearing athymic mice.[(111)In]DOTA-sCCK8 as well as [(111)In]DOTA-MG0 specifically bound both CCK2R and CCK2i4svR with affinities in the low nanomolar range. In vivo experiments revealed that accumulation of both peptides in CCK2i4svR-positive tumours was similar (3.21 +/- 0.77 and 3.01 +/- 0.67%ID/g, sCCK8 and MG0, respectively, 24 h p.i.). Kidney retention of [(111)In]DOTA-MG0 (32.4 +/- 7.5%ID/g, 24 h p.i.) was markedly higher than that of [(111)In]DOTA-sCCK8 (2.75 +/- 0.31%ID/g, 24 h p.i.).We demonstrated that the CCK2i4svR is a potential target for PRRT using a radiolabelled sulfated CCK8 peptide. As this receptor is expressed on colorectal and pancreatic tumours, but not in normal tissue, these tumours are potentially new targets for PRRT with CCK8 and gastrin analogs.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Published version:pdfLave08.pdf:PDF by e-mail"></form>

@@ -1,0 +1,12 @@
+title: Antiangiogenic therapy of cerebral melanoma metastases results in sustained tumor progression via vessel co-option
+
+## Leenders, William P J. and K"usters, Benno and Verrijp, Kiek and Maass, Cathy and Wesseling, Pieter and Heerschap, Arend and Ruiter, Dirk and Ryan, Andy and de Waal, Robert
+CLINCR
+
+<a href="https://doi.org/10.1158/1078-0432.CCR-04-0823">DOI</a>
+
+## Abstract
+In the brain, tumors may grow without inducing angiogenesis, via co-option of the dense pre-existent capillary bed. The purpose of this study was to investigate how this phenomenon influences the outcome of antiangiogenic therapy.Mice carrying brain metastases of the human, highly angiogenic melanoma cell line Mel57-VEGF-A were either or not treated with different dosages of ZD6474, a vascular endothelial growth factor (VEGF) receptor 2 tyrosine kinase inhibitor with additional activity against epidermal growth factor receptor. Effect of treatment was evaluated using contrast-enhanced magnetic resonance imaging (CE- MRI) and (immuno)morphologic analysis.Placebo-treated Mel57-VEGF-A brain metastases evoked an angiogenic response and were highlighted in CE-MRI. After treatment with ZD6474 (100 mg/kg), CE-MRI failed to detect tumors in either prevention or therapeutic treatment regimens. However, (immuno)histologic analysis revealed the presence of numerous, small, nonangiogenic lesions. Treatment with 25 mg/kg ZD6474 also resulted in efficient blockade of vessel formation, but it did not fully inhibit vascular leakage, thereby still allowing visualization in CE-MRI scans.Our data show that, although angiogenesis can be effectively blocked by ZD6474, in vessel-dense organs this may result in sustained tumor progression via co-option, rather than in tumor dormancy. Importantly, blocking VEGF-A may result in undetectability of tumors in CE-MRI scans, leading to erroneous conclusions about therapeutic efficacy during magnetic resonance imaging follow-up. The maintenance of VEGF-A-induced vessel leakage in the absence of neovascularization at lower ZD6474 doses may be exploited to improve delivery of chemotherapeutic agents in combined treatment regimens of antiangiogenic and chemotherapeutic compounds.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Leen04.pdf:pdfLeen04.pdf:PDF by e-mail"></form>

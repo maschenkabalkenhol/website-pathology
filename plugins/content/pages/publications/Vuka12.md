@@ -1,0 +1,12 @@
+title: Automated versus manual segmentation of atherosclerotic carotid plaque volume and components in CTA: associations with cardiovascular risk factors
+
+## Danijela Vukadinovic and Sietske Rozie and Marjon van Gils and Theo van Walsum and Rashindra Manniesing and Aad van der Lugt and Wiro J Niessen
+IJCVI
+
+<a href="https://doi.org/10.1007/s10554-011-9890-6">DOI</a>
+
+## Abstract
+The purpose of this study was to validate automated atherosclerotic plaque measurements in carotid arteries from CT angiography (CTA). We present an automated method (three initialization points are required) to measure plaque components within the carotid vessel wall in CTA. Plaque components (calcifications, fibrous tissue, lipids) are determined by different ranges of Hounsfield Unit values within the vessel wall. On CTA scans of 40 symptomatic patients with atherosclerotic plaque in the carotid artery automatically segmented plaque volume, calcified, fibrous and lipid percentages were 0.97 ï¿½ 0.51 cm3, 10 ï¿½ 11%, 63 ï¿½ 10% and 25 ï¿½ 5%; while manual measurements by first observer were 0.95 ï¿½ 0.60 cm3, 14 ï¿½ 16%, 63 ï¿½ 13% and 21 ï¿½ 9%, respectively and manual measurement by second observer were 1.05 ï¿½ 0.75 cm3, 11 ï¿½ 12%, 61 ï¿½ 11% and 27 ï¿½ 10%. In 90 datasets, significant associations were found between age, gender, hypercholesterolemia, diabetes, smoking and previous cerebrovascular disease and plaque features. For both automated and manual measurements, significant associations were found between: age and calcium and fibrous tissue percentage; gender and plaque volume and lipid percentage; diabetes and calcium, smoking and plaque volume; previous cerebrovascular disease and plaque volume. Significant associations found only by the automated method were between age and plaque volume, hypercholesterolemia and plaque volume and diabetes and fibrous tissue percentage. Significant association found only by the manual method was between previous cerebrovascular disease and percentage of fibrous tissue. Automated analysis of plaque composition in the carotid arteries is comparable with the manual analysis and has the potential to replace it.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Vuka12.pdf:pdfVuka12.pdf:PDF by e-mail"></form>

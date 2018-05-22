@@ -1,0 +1,12 @@
+title: Methodological considerations in quantification of oncological FDG PET studies
+
+## Vriens, Dennis and Visser, Eric P. and de Geus-Oei, Lioe-Fee and Oyen, Wim J G.
+EJNMMI
+
+<a href="https://doi.org/10.1007/s00259-009-1306-7">DOI</a>
+
+## Abstract
+This review aims to provide insight into the factors that influence quantification of glucose metabolism by FDG PET images in oncology as well as their influence on repeated measures studies (i.e. treatment response assessment), offering improved understanding both for clinical practice and research.Structural PubMed searches have been performed for the many factors affecting quantification of glucose metabolism by FDG PET. Review articles and references lists have been used to supplement the search findings.Biological factors such as fasting blood glucose level, FDG uptake period, FDG distribution and clearance, patient motion (breathing) and patient discomfort (stress) all influence quantification. Acquisition parameters should be adjusted to maximize the signal to noise ratio without exposing the patient to a higher than strictly necessary radiation dose. This is especially challenging in pharmacokinetic analysis, where the temporal resolution is of significant importance. The literature is reviewed on the influence of attenuation correction on parameters for glucose metabolism, the effect of motion, metal artefacts and contrast agents on quantification of CT attenuation-corrected images. Reconstruction settings (analytical versus iterative reconstruction, post-reconstruction filtering and image matrix size) all potentially influence quantification due to artefacts, noise levels and lesion size dependency. Many region of interest definitions are available, but increased complexity does not necessarily result in improved performance. Different methods for the quantification of the tissue of interest can introduce systematic and random inaccuracy.This review provides an up-to-date overview of the many factors that influence quantification of glucose metabolism by FDG PET.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Published version:pdfVrie10d.pdf:PDF by e-mail"></form>

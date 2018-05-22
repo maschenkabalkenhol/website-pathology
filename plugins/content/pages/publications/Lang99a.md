@@ -1,0 +1,9 @@
+title: Shedding Light on the Photoactivation of Visual Pigments - A Study Using FTIR Spectroscopy
+
+## F. de Lange
+
+## Abstract
+The work presented in this thesis demonstrates that FTIR difference spectroscopy, in combinationwith protein engineering, stable-isotope labeling, and ligandmodification, is a very sensitive tool to probe the conformational rearrangements leading to receptor activation in visual pigments. Not only does it facilitate the identification of structurally active groups within the complex, it also allows the nature of the structural changes and intramolecular interactions to be studied. It has further been demonstrated that polarized infrared difference spectroscopy in the ATR-mode yields additional resolving power and that it can be fruitfully applied to obtain mechanistic information on the relative orientation of functionally important groupswithin the ligand-protein complex. Clearly, the applicability of this approach is not limited to the case of visual pigments. With the achievement of large-scale functional expression of other (G-protein coupled) receptors and the availability of photo-activatable caged ligands, (ATR-)FTIR is expected to provide invaluable information on the mechanism of activation in a variety of other receptor systems as well.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Lang99a.pdf:pdfLang99a.pdf:PDF by e-mail"></form>

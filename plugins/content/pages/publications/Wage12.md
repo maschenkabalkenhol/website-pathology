@@ -1,0 +1,12 @@
+title: Impaired quality of life in patients in long-term remission of Cushing's syndrome of both adrenal and pituitary origin: a remaining effect of longstanding hypercortisolism?
+
+## Wagenmakers, Margreet Albertina and Netea-Maier, Romana T. and Prins, Judith B. and Dekkers, Tanja and Den Heijer, Martin and Hermus, Armm
+EJEND
+
+<a href="https://doi.org/10.1530/EJE-12-0308">DOI</a>
+
+## Abstract
+OBJECTIVE: The determinants that cause impaired quality of life (QOL) in patients in long-term remission of Cushing's syndrome (CS) are unknown. The aim of this study was to get more insight in the patient and disease characteristics related to impaired QOL in these patients. DESIGN: Cross-sectional study. METHODS: The QOL of 123 patients in remission of CS (age 52.2 ï¿½ 12.0 years, 106 women, duration of remission 13.3 ï¿½ 10.4 years, 80% pituitary CS) , assessed with seven validated questionnaires, was compared to the QOL of an age and sex matched control group (n=105). To investigate the influence of the aetiology of CS on QOL, patients in remission of pituitary and adrenal CS were compared. Furthermore, the influence of hormonal deficiencies, treatment strategy, duration of remission, gender and age on QOL was investigated. RESULTS: QOL in the total patient group and each patient subgroup was significantly worse on practically all dimensions of questionnaires compared to the control group (p < 0.05), except for patients in remission of pituitary CS without hormonal deficiencies who had an impaired QOL on 50% of the QOL dimensions. Subgroup analysis revealed no difference in QOL between different patient groups, especially no difference between patients in remission of adrenal and pituitary CS. Female gender and a shorter duration of remission had a negative influence on QOL in the patient group. CONCLUSIONS: QOL remains impaired in patients in long-term remission of CS regardless of aetiology, presence of hormonal deficiencies and treatment strategies. More research is needed to establish the causes.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Wage12.pdf:pdfWage12.pdf:PDF by e-mail"></form>

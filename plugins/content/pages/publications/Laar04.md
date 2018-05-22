@@ -1,0 +1,12 @@
+title: Effects of nicotinamide and carbogen in different murine colon carcinomas: immunohistochemical analysis of vascular architecture and microenvironmental parameters
+
+## van Laarhoven, Hanneke W M. and Bussink, Johan and Lok, Jasper and Punt, Cornelis J A. and Heerschap, Arend and van Der Kogel, Albert J.
+IJROBP
+
+<a href="https://doi.org/10.1016/j.ijrobp.2004.05.014">DOI</a>
+
+## Abstract
+To investigate oxygenation, perfusion, and cell proliferation in two murine colon carcinoma lines with known differences in chemotherapy sensitivity and analyze the effect of nicotinamide and carbogen on these tumor characteristics.Mice with s.c. transplanted C38 and C26a murine colon tumors were treated with nicotinamide and carbogen and compared with control tumors. Two markers of hypoxia, CCI-103F and pimonidazole, were injected before and after treatment with nicotinamide/carbogen, respectively, allowing each tumor to serve as its own control. Hoechst33342 was used as a perfusion marker and bromodeoxyuridine (BrdUrd) as a proliferation marker. Frozen tumors were cut for multistep immunostaining and computer-controlled microscope scanning for hypoxic fractions (HF), perfused fractions (PF), vascular density, and BrdUrd-labeling index (LI).Microscopic observation of C38 and C26a tumors showed extensive differences in vascular architecture, distribution patterns of hypoxia, and BrdUrd-labeling. Quantitative analysis of C38 and C26a tumors showed a decrease in HF in response to all treatment modalities. For C38 tumors, the average decrease in HF in response to carbogen containing treatments was larger than to nicotinamide alone. In C26a tumors, no difference in average decrease in HF was observed between the treatments. The PF of C38 and C26a did not change in response to treatment. The LI of C38 and C26a decreased upon all treatments, which was statistically significant in the combination treatment of C38.The mechanism that can simultaneously explain all the observed changes in response to treatment may be the conversion of metabolism from less respiration toward more glycolysis due to increased glucose levels (Crabtree effect), although other mechanisms of actions cannot be excluded.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Laar04.pdf:pdfLaar04.pdf:PDF by e-mail"></form>

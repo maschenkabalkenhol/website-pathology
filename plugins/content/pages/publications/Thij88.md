@@ -1,0 +1,9 @@
+title: Gray level transforms and lesion detectability in echographic images
+
+## Thijssen, J. M. and Oosterveld, B. J. and Wagner, R. F.
+UI
+
+
+## Abstract
+In search of the optimal display of echographic information for the detection of focal lesions, a systematic study was performed considering a wide range of gray level transforms (i.e., lookup tables). This range comprised power functions of the echo envelope signal (1/8 less than or equal to n less than or equal to 8), power functions of the logarithmic transform and a sigmoid function. The implications of the transforms on the first order statistics (histogram, "point signal-to-noise ratio" SNRp) and on the second order statistics (autocorrelation function) could be derived both analytically, and from the analysis of simulated and experimentally obtained echograms of homogeneously scattering tissue models. These results were employed to estimate the lesion signal-to-noise ratio SNRl, which specifies the detectability of a lesion by an ideal observer. It was found, both theoretically and practically, that the intensity display corresponds to the optimal transform (i.e., n = 2) for a low contrast lesion. When the data were first logarithmically compressed, the lesion SNR appeared to increase with increasing power (1/8 less than or equal to n less than or equal to 8). A logarithmic transform followed by a sigmoid compression did not produce much improvement. These effects of gray level transforms on the SNRl were shown to be relatively small, with the exception of powers n greater than 2 when applied to linear (i.e. amplitude) data. In the case of high lesion contrast, the sequence of log compression, followed by a square law produced the optimum SNRl. This sequence is equivalent to the processing within echographic equipment, where the TV monitor has a gamma of the order of 2.
+

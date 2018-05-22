@@ -1,0 +1,12 @@
+title: Techniques for precision irradiation of the lateral half of the rat cervical spinal cord using 150 MeV protons [corrected]
+
+## van Luijk, P. and Bijl, H. P. and Coppes, R. P. and van der Kogel, A. J. and Konings, A. W. and Pikkemaat, J. A. and Schippers, J. M.
+PMB
+
+<a href="https://doi.org/10.1088/0031-9155/46/11/307">DOI</a>
+
+## Abstract
+Techniques for high precision irradiation experiments with protons, to investigate the volume dependence of the tolerance dose of the rat cervical spinal cord are described. In the present study, 50% of the lateral cross section of the spinal cord was irradiated. The diameter of the cross section of this part of the rat spinal cord is at maximum 3.5 mm. Therefore, a dedicated procedure was developed to comply with the needs for a very high positioning accuracy and high spatial resolution dosimetry. By using 150 MeV protons a steep dose gradient (20-80% = 1 mm) in the centre of the spinal cord was achieved. This yields a good dose contrast between the left and right halves of the cord. A home-made digital x-ray imager with a pixel resolution of 0.18 mm/pixel was used for position verification of the spinal cord. A positioning accuracy of 0.09 mm was obtained by using information of multiple pixels. The average position stability during the irradiation was found to be 0.08 mm (1 SD) without significant systematic deviations. Profiles of the dose distribution were measured with a 2D dosimetry system consisting of a scintillating screen and a CCD camera. Dose volume histograms of the whole spinal cord as well as separately of the white and grey matters were calculated using MRI imaging of the cross section of the rat cervical spinal cord. From the irradiation of 20 animals a dose-response curve has been established. MRI showed radiation-induced damage at the high dose side of the spinal cord. Analysis of the preliminary dose-response data shows a significant dose-volume effect. With the described procedure and equipment it is possible to perform high precision irradiations on selected parts of the spinal cord.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Luij01.pdf:pdfLuij01.pdf:PDF by e-mail"></form>

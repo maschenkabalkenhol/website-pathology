@@ -1,0 +1,10 @@
+title: Oral therapy with dipyridamole limits ischemia-reperfusion injury in humans
+
+## Riksen, Niels P. and Oyen, Wim J G. and Ramakers, Bart P. and Van den Broek, Petra H H. and Engbersen, Richard and Boerman, Otto C. and Smits, Paul and Rongen, Gerard A.
+Clin Pharmacol Ther
+
+<a href="https://doi.org/10.1016/j.clpt.2005.03.003">DOI</a>
+
+## Abstract
+Adenosine receptor stimulation induces several effects that could limit ischemia-reperfusion injury. We hypothesize that treatment with the nucleoside uptake inhibitor dipyridamole increases endogenous adenosine and limits ischemia-reperfusion injury in humans.Ischemia-reperfusion injury was studied in forearm skeletal muscle by technetium Tc 99m-labeled annexin A5 scintigraphy. Ischemia-reperfusion injury was induced by unilateral forearm ischemic exercise. Immediately on reperfusion, annexin A5 labeled with technetium Tc 99m was administered intravenously, and ischemia-reperfusion injury was expressed as the percentage difference in radioactivity between the experimental arm and the control arm 1 and 4 hours after reperfusion. Targeting was quantified in the region of the thenar muscle and forearm flexor muscles. This approach was used in 9 healthy male volunteers after a 1-week treatment with dipyridamole (200 mg, slow release, twice daily) and in 23 control subjects.Dipyridamole treatment significantly reduced annexin A5 targeting in skeletal muscle compared with the control group (thenar region, 13% +/- 7% versus 22% +/- 15% at 1 hour after reperfusion and 9% +/- 6% versus 27% +/- 13% at 4 hours for dipyridamole and control groups, respectively [P = .01]; flexor region, 4% +/- 8% versus 7% +/- 6% at 1 hour after reperfusion and 1% +/- 4% versus 10% +/- 9% at 4 hours for dipyridamole and control groups, respectively [P = .01]).One week of oral treatment with the nucleoside uptake inhibitor dipyridamole (200 mg, slow release, twice daily) significantly limits ischemia-reperfusion injury in humans in vivo, as assessed by technetium Tc 99m-labeled annexin A5 scintigraphy of forearm skeletal muscle.
+

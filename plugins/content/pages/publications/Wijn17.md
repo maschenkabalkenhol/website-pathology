@@ -1,0 +1,12 @@
+title: Efficacy and Safety of Aspiration Sclerotherapy of Simple Hepatic Cysts: A Systematic Review.
+
+## Wijnands, Titus F M and G"ortjes, Alena P M and Gevers, Tom J G and Jenniskens, Sjoerd F M and Kool, Leo J Schulze and Potthoff, Andrej and Ronot, Maxime and Drenth, Joost P H
+AJR. American journal of roentgenology
+
+<a href="https://doi.org/10.2214/AJR.16.16130">DOI</a>
+
+## Abstract
+Aspiration sclerotherapy is a percutaneous procedure indicated for treatment of symptomatic simple hepatic cysts. The efficacy and safety of this procedure have been sources of debate and disagreement for years. The purpose of this study was to assess the long-term efficacy and safety of aspiration sclerotherapy in a systematic review of the literature. A systematic search was conducted of the electronic databases PubMed MEDLINE, Embase, Web of Science, and the Cochrane Library (until August 2015). Studies of proportional volume or diameter reduction after aspiration sclerotherapy of simple hepatic cysts were included for full-text evaluation. Case reports and case series were excluded. Risk of bias was assessed by use of the Newcastle-Ottawa scale. From 9357 citations, 100 were selected for full-text assessment. We included 16 studies, which included 526 patients with a total of 588 treated cysts. Overall, risk of bias was high, with 12 of 16 studies having a score of poor. Proportional cyst volume reduction ranged between 76% and 100% after a median follow-up period of 1-54 months. Change in symptoms was evaluated in 10 studies: 72-100% of patients reported symptom reduction, and 56-100% reported disappearance. Postprocedural pain occurred most frequently, at a rate of 5-90% among studies. Ethanol intoxication occurred in up to 93% of cases and was reported more frequently in studies with either high ethanol volumes (133.7-138.3 mL) or long sclerotherapy duration (120-180 minutes). We found excellent results with respect to long-term efficacy and safety after aspiration sclerotherapy of hepatic cysts. Nevertheless, because of the high risk of bias in the included studies, definite conclusions regarding efficacy cannot be drawn.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Wijn17.pdf:pdfWijn17.pdf:PDF by e-mail"></form>

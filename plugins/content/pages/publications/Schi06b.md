@@ -1,0 +1,12 @@
+title: A computer-aided diagnosis system for detection of lung nodules in chest radiographs with an evaluation on a public database
+
+## A. M. R. Schilham and B. van Ginneken and M. Loog
+MIA
+
+<a href="https://doi.org/10.1016/j.media.2005.09.003">DOI</a>
+
+## Abstract
+A computer algorithm for nodule detection in chest radiographs is presented. The algorithm consists of four main steps: (i) image preprocessing; (ii) nodule candidate detection; (iii) feature extraction; (iv) candidate classification. Two optional extensions to this scheme are tested: candidate selection and candidate segmentation. The output of step (ii) is a list of circles, which can be transformed into more detailed contours by the extra candidate segmentation step. In addition, the candidate selection step (which is a classification step using a small number of features) can be used to reduce the list of nodule candidates before step (iii). The algorithm uses multi-scale techniques in several stages of the scheme: Candidates are found by looking for local intensity maxima in Gaussian scale space; nodule boundaries are detected by tracing edge points found at large scales down to pixel scale; some of the features used for classification are taken from a multi-scale Gaussian filterbank. Experiments with this scheme (with and without the segmentation and selection steps) are carried out on a previously characterized, publicly available database, that contains a large number of very subtle nodules. For this database, counting as detections only those nodules that were indicated with a confidence level of 50% or more, radiologists previously detected 70% of the nodules. For our algorithm, it turns out that the selection step does have an added value for the system, while segmentation does not lead to a clear improvement. With the scheme with the best performance, accepting on average two false positives per image results in the identification of 51% of all nodules. For four false positives, this increases to 67%. This is close to the previously reported 70% detection rate of the radiologists.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Schi06b.pdf:pdfSchi06b.pdf:PDF by e-mail"></form>

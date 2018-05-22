@@ -1,0 +1,12 @@
+title: A Standardized Method for In Vivo Mouse Pancreas Imaging and Semiquantitative $beta$ Cell Mass Measurement by Dual Isotope SPECT
+
+## Mathijs, Iris and Xavier, Catarina and Peleman, Cindy and Caveliers, Vicky and Brom, Maarten and Gotthardt, Martin and Herrera, Pedro L. and Lahoutte, Tony and Bouwens, Luc
+MOLIB
+
+<a href="https://doi.org/10.1007/s11307-014-0771-y">DOI</a>
+
+## Abstract
+In order to evaluate future Î² cell tracers in vivo, we aimed to develop a standardized in vivo method allowing semiquantitative measurement of a prospective Î² cell tracer within the pancreas.2-[(123)I]Iodo-L-phenylalanine ([(123)I]IPA) and [Lys(40)([(111)In]DTPA)]exendin-3 ([(111)In]Ex3) pancreatic uptake and biodistribution were evaluated using SPECT, autoradiography, and an ex vivo biodistribution study in a controlled unilaterally nephrectomized mouse Î² cell depletion model. Semiquantitative measurement of the imaging results was performed using [(123)I]IPA to delineate the pancreas and [(111)In]Ex3 as a Î² cell tracer.The uptake of [(123)I]IPA was highest in the pancreas. Aside from the kidneys, the uptake of [(111)In]Ex3 was highest in the pancreas and lungs. Autoradiography showed only uptake of [(111)In]Ex3 in insulin-expressing cells. Semiquantitative measurement of [(111)In]Ex3 in the SPECT images based on the delineation of the pancreas with [(123)I]IPA showed a high correlation with the [(111)In]Ex3 uptake data of the pancreas obtained by dissection. A strong positive correlation was observed between the relative insulin positive area and the pancreas-to-blood ratios of [(111)In]Ex3 uptake as determined by counting with a gamma counter and the semiquantitative analysis of the SPECT images.[(123)I]IPA is a promising tracer to delineate pancreatic tissue on SPECT images. It shows a high uptake in the pancreas as compared to other abdominal tissues. This study also demonstrates the feasibility and accuracy to measure the Î² cell mass in vivo in an animal model of diabetes.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Math14.pdf:pdfMath14.pdf:PDF by e-mail"></form>

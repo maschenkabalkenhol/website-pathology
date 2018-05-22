@@ -1,0 +1,10 @@
+title: Comparison of translabial 3D ultrasound with MRI for measuring levator hiatus biometry at rest.
+
+## Vergeldt, T F M. and Notten, K J B. and Stoker, J. and F"utterer, J. J. and Beets-Tan, R. G. and Vliegen, R F A. and Schweitzer, K. J. and Mulder, F E M. and van Kuijk, S M J. and Roovers, J P W R. and Kluivers, K. B. and Weemhoff, M.
+Ultrasound Obstet Gynecol
+
+<a href="https://doi.org/10.1002/uog.14949">DOI</a>
+
+## Abstract
+To compare translabial three-dimensional (3D) ultrasound with magnetic resonance imaging (MRI) for the measurement of levator hiatus biometry at rest in women with pelvic organ prolapse, and to determine the interobserver reliability between two independent observers for ultrasound and MRI measurements.In a multicentre prospective cohort study, women planned for conventional anterior colporrhaphy underwent translabial 3D ultrasound and MRI prior to surgery. Intraclass Correlation Coefficients (ICC) were calculated to estimate the interobserver reliability between two independent observers and to calculate the agreement between ultrasound and MRI measurements. Bland-Altman plots were created to visualize the agreement between ultrasound and MRI measurements.One hundred thirty-nine women were included in 9 hospitals. The interobserver reliability between the assessments on ultrasound at rest, during Valsalva and during contraction and on MRI at rest by two independent observers was good. The agreement between ultrasound and MRI for the measurements of levator hiatus biometry at rest was moderate with an ICC of 0.52 (95% confidence interval (CI) 0.32-0.66) for levator hiatal area, an ICC of 0.44 (95% CI 0.21-0.60) for the anteroposterior diameter and an ICC of 0.44 (95% CI 0.22-0.60) for the transversal diameter. MRI measurements were statistically significantly larger than on translabial 3D ultrasound.The agreement between translabial 3D ultrasound and MRI for the measurement of the levator hiatus biometry at rest in women with pelvic organ prolapse was only moderate. The results of translabial 3D ultrasound and MRI should therefore not be interchangeably used in daily practice or in clinical research.
+

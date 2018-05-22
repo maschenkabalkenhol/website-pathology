@@ -1,0 +1,11 @@
+title: Near-Field Fluorescence Microscopy : An Optical Nanotool to Study Protein Organization at the Cell Membrane
+
+## Maria F. Garcia-Parajo and B"arbel I. Bakker de and Marjolein Koopman and Alessandra Cambi and Frank Lange de and Carl G. Figdor and Niek F. Hulst van
+Nanobiotechnology
+
+
+## Abstract
+The ability to study the structure and function of cell membranes and membrane components is fundamental to understanding cellular processes. This requires the use of methods capable of resolving structures with nanometer-scale resolution in intact or living cells. Although fluorescence microscopy has proven to be an extremely versatile tool in cell biology, its diffraction-limited resolution prevents the investigation of membrane compartmentalization at the nanometer scale. Near-field scanning optical microscopy (NSOM) is a relatively unexplored technique that combines both enhanced spatial resolution of probing microscopes and simultaneous measurement of topographic and optical signals. Because of the very small nearfield excitation volume, background fluorescence from the cytoplasm is effectively reduced, enabling the visualization of nano-scale domains on the cell membrane with single molecule detection sensitivity at physiologically relevant packing densities. In this article we discuss technological aspects concerning the implementation of NSOM for cell membrane studies and illustrate its unique advantages in terms of spatial resolution, background suppression, sensitivity, and surface specificity for the study of protein clustering at the cell membrane. Furthermore, we demonstrate reliable operation under physiological conditions, without compromising resolution or sensitivity, opening the road toward truly live cell imaging with unprecedented detail and accuracy.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Garc05.pdf:pdfGarc05.pdf:PDF by e-mail"></form>

@@ -1,0 +1,12 @@
+title: Modulation of hypoxia in murine liver metastases of colon carcinoma by nicotinamide and carbogen
+
+## van Laarhoven, H W M. and Bussink, J. and Lok, J. and Verhagen, I. and Punt, C J A. and Heerschap, A. and Kaanders, J H A M. and van der Kogel, A. J.
+RADIATRES
+
+<a href="https://doi.org/10.1667/RR3435.1">DOI</a>
+
+## Abstract
+There is increasing evidence that modulation of tumor hypoxia may improve therapy outcome. However, most preclinical data are derived from subcutaneous rather than orthotopic tumor models. We investigated the effect of the hypoxia-modulating agents nicotinamide and carbogen on tumor hypoxia, tumor blood perfusion, and proliferative activity in liver metastases of the murine colon carcinoma line C26a. In untreated C26a liver metastases, we observed a considerable amount of hypoxia, similar to the amount in liver metastases of patients with colorectal cancer. Compared to untreated mice, we observed a significantly smaller hypoxic fraction in the liver metastases of mice treated with nicotinamide and carbogen breathing as single treatments or in combination. In the group of mice that underwent carbogen breathing, perfusion was significantly lower than in the untreated group, but the decrease was only marginal. The proliferative activity was similar in all groups. In C26a subcutaneous tumors, a similar effect on hypoxia has been observed that was, however, combined with a decrease in proliferative activity. The different effects of nicotinamide and carbogen on parameters of the tumor microenvironment in liver metastases and subcutaneous tumors suggest that the host tissue influences the mechanism by which nicotinamide and carbogen exert their effects. Since tumor hypoxia may be a clinical problem in colorectal liver metastases, our results open possibilities for further research on the effect of hypoxia modifiers on colorectal liver metastases to improve therapy outcome.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Laar05b.pdf:pdfLaar05b.pdf:PDF by e-mail"></form>

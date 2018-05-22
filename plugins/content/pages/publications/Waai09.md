@@ -1,0 +1,12 @@
+title: Grading of carotid artery stenosis with multidetector-row CT angiography: visual estimation or caliper measurements?
+
+## Annet Waaijer and M. Weber and M. S. van Leeuwen and J. Kardux and W. B. Veldhuis and R. Lo and F. J A Beek and M. Prokop
+ER
+
+<a href="https://doi.org/10.1007/s00330-009-1508-1">DOI</a>
+
+## Abstract
+To assess the optimal method for grading carotid artery stenosis with computed tomographic angiography (CTA), we compared visual estimation to caliper measurements, and determined inter-observer variability and agreement relative to digital subtraction angiography (DSA). We included 46 patients with symptomatic carotid stenosis for whom CTA and DSA of 55 carotids was available. Stenosis quantification by CTA using visual estimation (CTA(VE)) (method 1) was compared with caliper measurements using subjectively optimized wide window settings (method 2) or predefined contrast-dependent narrow window settings (method 3). Measurements were independently performed by two radiologists and two residents. To determine accuracy and inter-observer variability, we calculated linear weighted kappa, performed a Bland-Altman analysis and calculated mean difference (bias) and standard deviation of differences (SDD). For inter-observer variability, kappa analysis was "very good" (0.85) for expert observers using CTA(VE) compared with "good" (0.61) for experts using DSA. Compared with DSA, method 1 led to overestimation (bias 5.8-8.0%, SDD 10.6-14.4), method 3 led to underestimation (bias -6.3 to -3.0%, SDD 13.0-18.1). Measurement variability between DSA and visual estimation on CTA (SDD 11.5) is close to the inter-observer variability of repeated measurements on DSA that we found in this study (SDD 11.6). For CTA of carotids, stenosis grading based on visual estimation provides better agreement to grading by DSA compared with stenosis grading based on caliper measurements.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Waai09.pdf:pdfWaai09.pdf:PDF by e-mail"></form>

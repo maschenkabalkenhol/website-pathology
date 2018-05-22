@@ -1,0 +1,12 @@
+title: Planning of catheter interventions for pulmonary artery stenosis: improved measurement agreement with magnetic resonance angiography using identical angulations
+
+## Israel Valverde and Victoria Parish and Tarique Hussain and Eric Rosenthal and Philipp Beerbaum and Thomas Krasemann
+CATHCVI
+
+<a href="https://doi.org/10.1002/ccd.22695">DOI</a>
+
+## Abstract
+To evaluate the current disagreement between the gold standard X-ray angiography (XRA) and magnetic resonance angiography (MRA) for the measurement of peripheral pulmonary artery stenosis (PPAS).MRA may help planning of catheter interventions for PPAS. However, there are sources of disagreement between XRA and MRA as measures are performed differently. We hypothesized that agreement may improve if identical angulation views are used.In this retrospective study, 17 patients were included. Four independent observers analyzed the pictures in three technique modalities: (1) XRA, (2) cross-sectional-MRA: reformatted to obtain the perpendicular cut-off view of the vessel, and (3) angulated-MRA: reformatted using the same angulations used in XRA. We measured: (a) minimal diameter at stenosis, (b) vessel diameter 1 cm proximal, and (c) 1 cm distal to the stenosis.While in elliptical vessels cross-sectional-MRA provided both the larger and smaller diameter, XRA and angulated-MRA typically provided only the larger diameter due to projections. We found poor agreement between the smaller diameter in cross-sectional-MRA and XRA. XRA underestimate the diameter at the three locations (<15-22%). However, there was a good agreement between the larger cross-sectional-MRA diameter and XRA. This further improved if MRA images were reformatted with the identical angulations used in XRA (angulated-MRA).Conventional cross-sectional-MRA measurements of PPAS only moderately agree with XRA. However, using identical angulations in MRA reduces the bias. Hence, MRA is a valuable tool for planning angulations and measurements of PPAS prior to catheter interventions
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Valv11c.pdf:pdfValv11c.pdf:PDF by e-mail"></form>

@@ -1,0 +1,12 @@
+title: In vivo imaging of the aneurysm wall with MRI and a macrophage-specific contrast agent
+
+## Maarten Truijers and Jurgen J F"utterer and Satoru Takahashi and Roel A Heesakkers and Jan D Blankensteijn and Jelle O Barentsz
+AJR
+
+<a href="https://doi.org/10.2214/AJR.09.2619">DOI</a>
+
+## Abstract
+Because of their capability of secreting proteinases, macrophages play a central role in the growth and rupture of aneurysms. Noninvasive imaging of macrophages therefore may yield valuable information about the pathogenesis of aneurysm disease. We studied uptake of the macrophage-specific contrast agent ultrasmall paramagnetic iron oxide (USPIO) in the walls of aneurysms and normal-sized aortas.Six patients with an aortic and five patients with an iliac aneurysm and 11 age-matched controls were identified in a database of 239 patients who underwent evaluations for the staging of prostate cancer. USPIO-enhanced MRI and contrast-enhanced MDCT were performed for all patients. The presence of USPIO was assessed with an iron-sensitive MRI sequence. Quantification consisted of counting the number of quadrants with USPIO-induced subendothelial signal voids. A chi-square test was used to analyze the significance of the difference between the number of USPIO-positive quadrants in the aneurysm group and that in the control group.The number of USPIO-positive quadrants was significantly higher in the aneurysm than in the control group: 158 quadrants (4.2%) in the aneurysm group and 13 quadrants (0.4%) in the control group (p < 0.001). Two abdominal aortic aneurysms accounted for 90% (154/171) of all USPIO-positive quadrants.USPIO uptake is limited or absent in the wall of normal-sized aortas and most aneurysms. However, individual abdominal aortic aneurysms exhibit high levels of USPIO uptake, indicative of extensive macrophage infiltration in the aneurysm wall. Future research should focus on the predictive value of USPIO uptake for growth and rupture of aneurysms.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Trui09.pdf:pdfTrui09.pdf:PDF by e-mail"></form>

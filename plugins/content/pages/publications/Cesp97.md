@@ -1,0 +1,9 @@
+title: Intravascular elastography: principles and potentials
+
+## C'espedes, E. I. and de Korte, C. L. and van der Steen, A. F. and von Birgelen, C. and Lanc'ee, C. T.
+SEMIC
+
+
+## Abstract
+Many intravascular therapeutic techniques for the treatment of significant atherosclerotic lesions are mechanical in nature: angioplasty, stenting and atherectomy. The selection of the most adequate treatment would be advantageously aided by knowledge of the mechanical properties of the lesion. Based on the success of conventional intravascular ultrasound (IVUS) imaging in accurately depicting the morphology of atheromatous lesions, ultrasonic tissue characterization has been proposed to determine the composition of atherosclerotic plaques. Elastography is an ultrasound-based imaging technique capable of producing cross-sectional elasticity images called elastograms. The technique involves analysis of echo signals obtained at two states of incremental intravascular pressure. High resolution, local tissue displacement estimation by cross-correlation is followed by computation of local strain. Strain is utilized as an indicator of the local compliance of tissue under the assumption of constant stress within the scan plane. Using vessel-mimicking phantoms, we demonstrate the feasibility of intravascular elastography experimentally. The elastograms are able to depict lesions of different elasticity independently of the echogenicity contrast, since the information provided by the elastograms is generally independent of that obtained from the conventional IVUS image. Thus, the elastogram can complement the characterization of lesions from the conventional IVUS image. Progress to in vitro and in vivo testing is expected in conjunction with ongoing improvements in the current instrumentation and processing.
+

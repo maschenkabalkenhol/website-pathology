@@ -1,0 +1,10 @@
+title: Quantification of patient specific assay interference in different formats of enzyme linked immunoassays for therapeutic monoclonal antibodies
+
+## Grebenchtchikov, Nicolai and Geurts-Moespot, Anneke J. and Heijmen, Linda and van Laarhoven, Hanneke W M. and van Herpen, Carla M L. and Thijs, Annemarie M J. and Span, Paul N. and Sweep, Fred C G J.
+THEDRUMON
+
+<a href="https://doi.org/10.1097/FTD.0000000000000090">DOI</a>
+
+## Abstract
+BackgroundThe use of therapeutic monoclonal antibodies for clinical purposes has significantly increased in recent years, and so has the need to monitor antibody concentrations. This may be achieved using the well-established enzyme linked immunoassay (ELISA) methods; however, these assays are subject to a variety of interferences.MethodsIn the present study, the authors have tested ELISA methods for quantifying bevacizumab (BVZ) to investigate this interference. Three different ELISA methods were used and exhibited similar characteristics.ResultsThe detection limits of the ELISA methods varied from 0.05 ng/ml to 0.07 ng/ml. To monitor assay performance BVZ was measured in a control sample during each run. The BVZ concentration in the control sample was 15.4 Âµg/ml, the within-run imprecision (CV) and between-run CV were 4.3% and 10.4% (Direct ELISA), 5.2% and 12.9% (Indirect/Rabbit ELISA) and 3.9% and 9.1% (Indirect/Chicken ELISA). The assays exhibited good precision and parallelism in serial dilutions of samples and a mean recovery of 98 (range: 78-118)%.ConclusionThe authors show that the degree of interference by using direct and indirect target immobilization depends heavily on the method of target immobilisation on the surface of the ELISA plate, and is patient specific. The results highlight pitfalls of potential relevance to sandwich-type assays, as well as an approach to rectify such problems.This approach will yield a valid assay protocol for the measurement of monoclonal therapeutic antibodies in case no target is available for direct immobilization.
+

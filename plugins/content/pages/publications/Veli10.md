@@ -1,0 +1,12 @@
+title: An Advanced Probabilistic Framework for Assisting Screening Mammogram Interpretation
+
+## Velikova, M. and Ferreira, N. and Samulski, M. and Lucas, P. and Karssemeijer, N.
+Computational Intelligence in Healthcare 4
+
+<a href="https://doi.org/10.1007/978-3-642-14464-6_17">DOI</a>
+
+## Abstract
+Breast cancer is the most common form of cancer among women world-wide. One in nine women will be diagnosed with a form of breast cancer in her lifetime. In an effort to diagnose cancer at an early stage, screening programs have been introduced by using periodic mammographic examinations in asymptomatic women. In evaluating screening cases, radiologists are usually presented with two mammographic images of each breast as a cancerous lesion tends to be observed in different breast projections (views). Most computer-aided detection (CAD) systems, on the other hand, only analyse single views independently, and thus fail to account for the interaction between the views and the breast cancer detection can be obscured due to the lack of consistency in lesion marking. This limits the usability and the trust in the performance of such systems. In this chapter, we propose a unified Bayesian network framework for exploiting multi-view dependencies between the suspicious regions detected by a single-view CAD system. The framework is based on a multi-stage scheme, which models the way radiologists interpret mammograms, at four different levels: region, view, breast and case. At each level, we combine all available image information for the patient obtained from a single-view CAD system using a special class of Bayesian networks?causal independence models. The results from experiments with actual screening data of 1063 cases, from which 383 were cancerous, show that our approach outperforms the single-view CAD system in distinguishing between normal and abnormal cases. This is a promising step towards the development of automated systems that can provide a valuable ?second opinion? to the screening radiologists for improved evaluation of breast cancer cases.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Veli10.pdf:pdf/Veli10.pdf:PDF by e-mail"></form>

@@ -1,0 +1,10 @@
+title: Comparison of a monomeric and dimeric radiolabeled RGD-peptide for tumor targeting
+
+## Janssen, Marcel and Oyen, Wim J G. and Massuger, Leon F A G. and Frielink, Cathelijne and Dijkgraaf, Ingrid and Edwards, D Scott and Radjopadhye, Milind and Corstens, Frans H M. and Boerman, Otto C.
+CANBR
+
+<a href="https://doi.org/10.1089/108497802320970244">DOI</a>
+
+## Abstract
+The alpha v beta 3 integrin, a transmembrane heterodimeric protein expressed on sprouting endothelial cells, binds to the arginine-glycine-aspartic acid (RGD) amino acid sequence of extracellular matrix proteins such as vitronectin. Growing malignant tumors continuously require angiogenesis. As a result, alpha v beta 3 is preferentially expressed in growing tumors and is a potential target for radiolabeled RGD-peptides. In this study we compared the tumor targeting characteristics of a monomeric radiolabeled RGD-peptide with those of a dimeric analogue. Both peptides were radiolabeled with 99mTc via the hydrazinoni-cotinamid (= HYNIC) moiety to form 99mTc-HYNIC-c(RGDfK) and 99mTc-HYNIC-E-[c(RGDfK)]2. In vitro, the IC50 showed a 10-fold higher affinity of the dimer for the alpha v beta 3 integrin as compared to the monomer (0.1 vs. 1.0 nM). In athymic female BALB/c mice with subcutaneously growing OVCAR-3 ovarian carcinoma xenografts, tumor uptake peaked at 5.8 +/- 0.7% ID/g and 5.2 +/- 0.6% ID/g for the dimer and the monomer, respectively. At 1, 2, and 4 h postinjection (p.i.) uptake of the dimer in the tumor was significantly higher than that of the monomeric analogue. Tumor-to-blood ratios were highest at 24 h p.i. at a value of 63 for both compounds. At all timepoints kidney retention of the dimer was significantly higher as compared to kidney retention of the monomer. In conclusion, in this mouse model the dimeric RGD-peptide showed better retention in the tumor than the monomeric analogue, most likely due to the bivalent interaction with the target cell. Furthermore, kidney retention of the dimeric peptide was higher than that of the monomeric peptide.
+

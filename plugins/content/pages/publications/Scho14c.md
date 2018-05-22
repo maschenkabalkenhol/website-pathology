@@ -1,0 +1,12 @@
+title: Towards a close computed tomography monitoring approach for screen detected subsolid pulmonary nodules?
+
+## Scholten, Ernst T. and de Jong, Pim A. and de Hoop, Bartjan and van Klaveren, Rob and van Amelsvoort-van de Vorst, Saskia and Oudkerk, Matthijs and Vliegenthart, Rozemarijn and de Koning, Harry J. and van der Aalst, Carlijn M. and Vernhout, Ren'e M. and Groen, Harry J M. and Lammers, Jan-Willem J. and van Ginneken, Bram and Jacobs, Colin and Mali, Willem P T M. and Horeweg, Nanda and Weenink, Carla and Thunnissen, Erik and Prokop, Mathias and Gietema, Hester A.
+ERJ
+
+<a href="https://doi.org/10.1183/09031936.00005914">DOI</a>
+
+## Abstract
+Pulmonary subsolid nodules (SSNs) have a high likelihood of malignancy, but are often indolent. A conservative treatment approach may therefore be suitable. The aim of the current study was to evaluate whether close follow-up of SSNs with computed tomography may be a safe approach. The study population consisted of participants of the Dutch-Belgian lung cancer screening trial (Nederlands Leuvens Longkanker Screenings Onderzoek; NELSON). All SSNs detected during the trial were included in this analysis. Retrospectively, all persistent SSNs and SSNs that were resected after first detection were segmented using dedicated software, and maximum diameter, volume and mass were measured. Mass doubling time (MDT) was calculated. In total 7135 volunteers were included in the current analysis. 264 (3.3%) SSNs in 234 participants were detected during the trial. 147 (63%) of these SSNs in 126 participants disappeared at follow-up, leaving 117 persistent or directly resected SSNs in 108 (1.5%) participants available for analysis. The median follow-up time was 95 months (range 20-110). 33 (28%) SSNs were resected and 28 of those were (pre-) invasive. None of the non-resected SSNs progressed into a clinically relevant malignancy. Persistent SSNs rarely developed into clinically manifest malignancies unexpectedly. Close follow-up with computed tomography may be a safe option to monitor changes.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Scho14c.pdf:pdfScho14c.pdf:PDF by e-mail"></form>

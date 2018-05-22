@@ -1,0 +1,12 @@
+title: Diannexin protects against renal ischemia reperfusion injury and targets phosphatidylserines in ischemic tissue
+
+## Wever, Kimberley E. and Wagener, Frank A D T G. and Frielink, Cathelijne and Boerman, Otto C. and Scheffer, Gert J. and Allison, Anthony and Masereeuw, Rosalinde and Rongen, Gerard A.
+PLOSONE
+
+<a href="https://doi.org/10.1371/journal.pone.0024276">DOI</a>
+
+## Abstract
+Renal ischemia/reperfusion injury (IRI) frequently complicates shock, renal transplantation and cardiac and aortic surgery, and has prognostic significance. The translocation of phosphatidylserines to cell surfaces is an important pro-inflammatory signal for cell-stress after IRI. We hypothesized that shielding of exposed phosphatidylserines by the annexin A5 (ANXA5) homodimer Diannexin protects against renal IRI. Protective effects of Diannexin on the kidney were studied in a mouse model of mild renal IRI. Diannexin treatment before renal IRI decreased proximal tubule damage and leukocyte influx, decreased transcription and expression of renal injury markers Neutrophil Gelatinase Associated Lipocalin and Kidney Injury Molecule-1 and improved renal function. A mouse model of ischemic hind limb exercise was used to assess Diannexin biodistribution and targeting. When comparing its biodistribution and elimination to ANXA5, Diannexin was found to have a distinct distribution pattern and longer blood half-life. Diannexin targeted specifically to the ischemic muscle and its affinity exceeded that of ANXA5. Targeting of both proteins was inhibited by pre-treatment with unlabeled ANXA5, suggesting that Diannexin targets specifically to ischemic tissues via phosphatidylserine-binding. This study emphasizes the importance of phosphatidylserine translocation in the pathophysiology of IRI. We show for the first time that Diannexin protects against renal IRI, making it a promising therapeutic tool to prevent IRI in a clinical setting. Our results indicate that Diannexin is a potential new imaging agent for the study of phosphatidylserine-exposing organs in vivo.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Published version:pdfWeve11.pdf:PDF by e-mail"></form>

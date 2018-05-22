@@ -1,0 +1,12 @@
+title: Development of injectable organic/inorganic colloidal composite gels made of self-assembling gelatin nanospheres and calcium phosphate nanocrystals
+
+## Wang, Huanan and Bongio, Matilde and Farbod, Kambiz and Nijhuis, Arnold W G. and van den Beucken, Jeroen and Boerman, Otto C. and van Hest, Jan C M. and Li, Yubao and Jansen, John A. and Leeuwenburgh, Sander C G.
+ACTBIOMAT
+
+<a href="https://doi.org/10.1016/j.actbio.2013.08.036">DOI</a>
+
+## Abstract
+Colloidal gels are a particularly attractive class of hydrogels for applications in regenerative medicine, and allow for a "bottom-up" fabrication of multi-functional biomaterials by employing micro- or nanoscale particles as building blocks to assemble into shape-specific bulk scaffolds. So far, however, the synthesis of colloidal composite gels composed of both organic and inorganic particles has hardly been investigated. The current study has focused on the development of injectable colloidal organic-inorganic composite gels using calcium phosphate (CaP) nanoparticles and gelatin (Gel) nanospheres as building blocks. These novel Gel-CaP colloidal composite gels exhibited a strongly enhanced gel elasticity, shear-thinning and self-healing behavior, and gel stability at high ionic strengths, while chemical - potentially cytotoxic - functionalizations were not necessary to introduce sufficiently strong cohesive interactions. Moreover, it was shown in vitro that osteoconductive CaP nanoparticles can be used as an additional tool to reduce the degradation rate of otherwise fast-degradable gelatin nanospheres and fine-tune the control over the release of growth factors. Finally, it was shown that these colloidal composite gels support attachment, spreading and proliferation of cultured stem cells. Based on these results, it can be concluded that proof-of-principle has been obtained for the design of novel advanced composite materials made of nanoscale particulate building blocks which exhibit great potential for use in regenerative medicine.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Wang14.pdf:pdfWang14.pdf:PDF by e-mail"></form>

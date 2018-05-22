@@ -1,0 +1,11 @@
+title: Cavity segmentation in chest radiographs
+
+## Pragnya Maduskar and Laurens Hogeweg and Helen Ayles and Rodney Dawson and Pim A. de Jong and Nico Karssemeijer and Bram van Ginneken
+The Fourth International Workshop on Pulmonary Image Analysis
+
+
+## Abstract
+Cavities are air-filled spaces within a pulmonary consolidation and can be indicative of various diseases like primary bronchogenic carcinoma, mycobacterium tuberculosis, cancer and infections. Segmentation of cavities is a challenging task in chest radiographs due to the presence of superimposed structures. It is important to accurately measure the extent of cavitation to measure temporal changes and response to therapy. In this paper, we propose a semi-automatic technique for cavity border segmentation based on dynamic programming. A pixel classifier is trained using cavity border pixels based on Gaussian, location and Hessian features to construct a cavity wall likelihood map. A polar transformation of this likelihood map around the seed point is then used as a cost function to find an optimal border using dynamic programming. We have validated our technique on 50 chest radiographs (2048 x 2048 resolution, pixel size 0.25 mm, Delft Imaging Systems, The Netherlands) containing in total 50 cavities. These cavities have been manually outlined by three human experts, one chest radiologist and two readers certified to read chest radiographs according to a tuberculosis scoring system. The automatic border segmentations are compared with manual segmentations provided by the readers using Jaccard overlapping measure. The agreement between the automatically determined outlines is comparable to the inter-observer agreement.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Madu11a.pdf:pdfMadu11a.pdf:PDF by e-mail"></form>

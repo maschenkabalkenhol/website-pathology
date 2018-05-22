@@ -1,0 +1,12 @@
+title: Incidence of high-strain patterns in human coronary arteries: assessment with three-dimensional intravascular palpography and correlation with clinical presentation
+
+## Schaar, Johannes A. and Regar, Evelyn and Mastik, Frits and McFadden, Eugene P. and Saia, Francesco and Disco, Clemens and de Korte, Chris L. and de Feyter, Pim J. and van der Steen, Antonius F W. and Serruys, Patrick W.
+Circulation
+
+<a href="https://doi.org/10.1161/01.CIR.0000131887.65955.3B">DOI</a>
+
+## Abstract
+Rupture of thin-cap fibroatheromatous plaques is a major cause of acute myocardial infarction (AMI). Such plaques can be identified in vitro by 3D intravascular palpography with high sensitivity and specificity. We used this technique in patients undergoing percutaneous intervention to assess the incidence of mechanically deformable regions. We further explored the relation of such regions to clinical presentation and to C-reactive protein levels.Three-dimensional palpograms were derived from continuous intravascular ultrasound pullbacks. Patients (n=55) were classified by clinical presentation as having stable angina, unstable angina, or AMI. In every patient, 1 coronary artery was scanned (culprit vessel in stable and unstable angina, nonculprit vessel in AMI), and the number of deformable plaques assessed. Stable angina patients had significantly fewer deformable plaques per vessel (0.6+/-0.6) than did unstable angina patients (P=0.0019) (1.6+/-0.7) or AMI patients (P<0.0001) (2.0+/-0.7). Levels of C-reactive protein were positively correlated with the number of mechanically deformable plaques (R2=0.65, P<0.0001).Three-dimensional intravascular palpography detects strain patterns in human coronary arteries that represent the level of deformation in plaques. The number of highly deformable plaques is correlated with both clinical presentation and levels of C-reactive protein. Further studies will assess the potential role of the technique to identify patients at risk of future clinical events
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Scha04.pdf:pdfScha04.pdf:PDF by e-mail"></form>

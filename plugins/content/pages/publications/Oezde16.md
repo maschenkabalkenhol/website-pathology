@@ -1,0 +1,11 @@
+title: Endovascular versus surgical revascularization in proximal subclavian artery obstruction.
+
+## Özdemir-VAN Brunschot, Denise M and Reijnen, Michel M and VAN Oostayen, Jacques A and Schultze Kool, Leo J and VAN DER Vliet, J Adam
+The Journal of cardiovascular surgery
+
+
+## Abstract
+The aim of this paper was to compare the outcomes of endovascular versus surgical treatment in patients with symptomatic proximal subclavian artery obstruction through a retrospective clinical study. Treatment of symptomatic subclavian artery obstruction can be performed with percutaneous transluminal angioplasty or open surgical reconstruction. Comparative studies are scarce. Technical success, patency and complication rates of 47 endovascular reconstructions in 46 patients were retrospectively compared with those of 19 open surgical reconstructions in 17 patients performed between 1996 and 2012. An additional series of 51 surgical reconstructions performed in the same institution between 1976 and 1993 served as a reference. The technical success rate was 79% for endovascular and 100% for open surgical reconstructions (P<0.05). Primary patency was 72% and 89% at 1 year or 54% and 55% at 5 years for the endovascular and open surgical groups, respectively (log rank 0.210, P=0.65). Assisted primary patency was 77% and 100% at 1 year or 67% and 67% at 5 years, respectively (log rank 0.528, P=0.47). There was no mortality and major complications were infrequent, occurring equally in both groups (P=0.22). Although with its less invasive character endovascular treatment has gained preference over surgical treatment of proximal subclavian obstruction in many cases, extrathoracic surgical reconstruction can be performed with a higher technical success rate, similar patency and a comparable number of complications.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Oezde16.pdf:pdfOezde16.pdf:PDF by e-mail"></form>

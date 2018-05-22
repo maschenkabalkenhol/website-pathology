@@ -1,0 +1,12 @@
+title: Added value of routine chest MDCT after blunt trauma: evaluation of additional findings and impact on patient management
+
+## Monique Brink and Jaap Deunk and Helena M Dekker and Digna R Kool and Michael J R Edwards and Arie B van Vugt and Johan G Blickman
+AJR
+
+<a href="https://doi.org/10.2214/AJR.07.3277">DOI</a>
+
+## Abstract
+The objective of our study was to evaluate the added value of a low-threshold routine thoracic MDCT algorithm compared with a selective MDCT algorithm in adult blunt trauma patients.A prospective cohort study was conducted in 464 consecutive blunt trauma patients who met criteria indicative of severe blunt trauma (66% male; age range, 16-93 years; median injury severity score, 13). After clinical evaluation and conventional radiography of the chest and thoracic spine, all patients underwent routine thoracic MDCT with an IV contrast agent (routine MDCT algorithm). Within this routine MDCT group, a subgroup was prospectively defined with abnormal or inconclusive clinical or conventional radiography evaluation (selective MDCT group). Two investigators determined the type, extent, and clinical impact of additional injuries found on MDCT as compared to conventional radiography for both MDCT groups.Of all 464 patients within the routine MDCT group, 164 patients underwent selective MDCT, which resulted in detection of additional diagnoses compared with conventional radiography in 97 (59%) patients. The routine MDCT algorithm detected additional diagnoses compared with conventional radiography in 201 of 464 patients (43%). Compared with the selective MDCT algorithm, this was an absolute increase of 104 of 464 (22%) extra patients, resulting in a change in patient management in 34 (7%; 95% CI, 5-9.7%), mostly because of additional findings of pulmonary and mediastinal injury.Routine MDCT has relatively lower, though still substantial, added diagnostic value compared with selective MDCT of the chest.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Brin08a.pdf:pdfBrin08a.pdf:PDF by e-mail"></form>

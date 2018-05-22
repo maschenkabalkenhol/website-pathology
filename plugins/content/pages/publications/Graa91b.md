@@ -1,0 +1,9 @@
+title: Solution conformation of a peptide fragment representing a proposed RNA-binding site of a viral coat protein studied by two-dimensional NMR
+
+## van der Graaf, M. and van Mierlo, C. P. and Hemminga, M. A.
+Biochemistry
+
+
+## Abstract
+The first 25 amino acids of the coat protein of cowpea chlorotic mottle virus are essential for binding the encapsidated RNA. Although an alpha-helical conformation has been predicted for this highly positively charged N-terminal region [Argos, P. (1981) Virology 110, 55-62; Vriend, G., Verduin, B. J. M., & Hemminga, M. A. (1986) J. Mol. Biol. 191, 453-460], no experimental evidence for this conformation has been presented so far. In this study, two-dimensional proton NMR experiments were performed on a chemically synthesized pentacosapeptide containing the first 25 amino acids of this coat protein [Ten Kortenaar, P. B. W., Krï¿½se, J., Hemminga, M. A., & Tesser, G. I. (1986) Int. J. Pept. Protein Res. 27, 401-413]. All resonances could be assigned by a combined use of two-dimensional correlated spectroscopy and nuclear Overhauser enhancement spectroscopy carried out at four different temperatures. Various NMR parameters indicate the presence of a conformational ensemble consisting of helical structures rapidly converting into more extended states. Differences in chemical shifts and nuclear Overhauser effects indicate that lowering the temperature induces a shift of the dynamic equilibrium toward more helical structures. At 10 degrees C, a perceptible fraction of the conformational ensemble consists of structures with an alpha-helical conformation between residues 9 and 17, likely starting with a turnlike structure around Thr9 and Arg10. Both the conformation and the position of this helical region agree well with the secondary structure predictions mentioned above.
+

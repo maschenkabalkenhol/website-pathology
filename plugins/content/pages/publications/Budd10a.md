@@ -1,0 +1,12 @@
+title: Simultaneous aortic and coronary assessment in abdominal aortic aneurysm patients by thoraco-abdominal 64-detector-row CT angiography: estimate of the impact on preoperative management: a pilot study
+
+## R. P J Budde and F. Huo and M. J M Cramer and P. A F M Doevendans and M. L. Bots and F. L. Moll and M. Prokop
+EJVES
+
+<a href="https://doi.org/10.1016/j.ejvs.2010.03.032">DOI</a>
+
+## Abstract
+To estimate the influence of information on the coronary arteries obtained from routine thoraco-abdominal CT angiography (CTA) on pre-operative clinical management in abdominal aortic aneurysm (AAA) patients.Twenty-eight AAA patients underwent pre-operative thoraco-abdominal electrocardiography (ECG)-gated 64-detector-row CTA to evaluate aortic pulsatility for prosthesis size matching. Retrospectively, the coronaries were reconstructed from the same data set and scored on a per segment basis for stenosis (0%, <or=50% or >50%) and grading confidence (poor, adequate or high). An experienced cardiologist was presented information on patient characteristics obtained from patient records and CTA findings. Suggested changes in European Society of Cardiology guidelines based patient management based on CTA information were scored.On CTA, 17 patients (61%) had significant coronary disease (>50% stenosis) including left main (n=4), single (n=7) and multiple (n=6) vessel disease. Grading confidence was adequate or high in 86% of proximal and middle segments. Based on CTA findings, patient management would have been changed in 4 out of the 28 patients (14%; 95% CI 1-27%) by adding coronary angiography (n=4). In five patients who underwent coronary artery bypass grafting previously, CT did not change management but confirmed graft patency.Information on coronary pathology and coronary bypass graft patency can be readily obtained from thoraco-abdominal CTA and may alter pre-operative patient management, as shown in 14% of AAA patients in our study.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Budd10a.pdf:pdfBudd10a.pdf:PDF by e-mail"></form>

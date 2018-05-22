@@ -1,0 +1,12 @@
+title: Bone suppression increases the visibility of invasive pulmonary aspergillosis in chest radiographs
+
+## Schalekamp, Steven and van Ginneken, Bram and van den Berk, Inge A H. and Hartmann, Ieneke J C. and Snoeren, Miranda M. and Odink, Arlette E. and van Lankeren, Winnifred and Pegge, Sjoert A H. and Schijf, Laura J. and Karssemeijer, Nico and Schaefer-Prokop, Cornelia M.
+PLOSONE
+
+<a href="https://doi.org/10.1371/journal.pone.0108551">DOI</a>
+
+## Abstract
+Chest radiographs (CXR) are an important diagnostic tool for the detection of invasive pulmonary aspergillosis (IPA) in critically ill patients, but their diagnostic value is limited by a poor sensitivity. By using advanced image processing, the aim of this study was to increase the value of chest radiographs in the diagnostic work up of neutropenic patients who are suspected of IPA.The frontal CXRs of 105 suspected cases of IPA were collected from four institutions. Radiographs could contain single or multiple sites of infection. CT was used as reference standard. Five radiologists and two residents participated in an observer study for the detection of IPA on CXRs with and without bone suppressed images (ClearRead BSI 3.2; Riverain Technologies). The evaluation was performed separately for the right and left lung, resulting in 78 diseased cases (or lungs) and 132 normal cases (or lungs). For each image, observers scored the likelihood of focal infectious lesions being present on a continuous scale (0-100). The area under the receiver operating characteristics curve (AUC) served as the performance measure. Sensitivity and specificity were calculated by considering only the lungs with a suspiciousness score of greater than 50 to be positive.The average AUC for only CXRs was 0.815. Performance significantly increased, to 0.853, when evaluation was aided with BSI (pâ€Š=â€Š0.01). Sensitivity increased from 49% to 66% with BSI, while specificity decreased from 95% to 90%.The detection of IPA in CXRs can be improved when their evaluation is aided by bone suppressed images. BSI improved the sensitivity of the CXR examination, outweighing a small loss in specificity.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Scha14h.pdf:pdfScha14h.pdf:PDF by e-mail"></form>

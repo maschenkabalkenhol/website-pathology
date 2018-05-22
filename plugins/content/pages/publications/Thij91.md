@@ -1,0 +1,9 @@
+title: Echographic differentiation of histological types of intraocular melanoma
+
+## Thijssen, J. M. and Verbeek, A. M. and Romijn, R. L. and de Wolff-Rouendaal, D. and Oosterhuis, J. A.
+UMB
+
+
+## Abstract
+The aim of this study was to assess the differentiation of histologically different types of choroidal melanomas by means of clinical and quantitative acoustic/texture parameters of echograms. Clinical parameters were graded by morphological, kinetic and quantitative statements about the A- and B-mode echograms by a skilled diagnostician. Acoustic/texture parameters were obtained by processing and analysing radio frequency, AM-demodulated and FM-demodulated echograms. The data were preprocessed to remove influences induced by beam diffraction and focusing. The correlations between the clinical parameters were lower than 0.5 but significant in a few cases. The best set of four clinical echographic parameters enabled a retrospective classification of spindle type melanomas vs. mixed + epithelioid type melanomas with an accuracy of 77% (area under the ROC-curve of 86%). These figures do not enable, however, a prospective diagnosis. The correlations of the clinical parameters with the acoustic/texture parameters were investigated. The mutual correlations between the latter parameters were also assessed, the most significant (0.70) being between the speckle size and the slope of the linearized backscattering spectrum. The discriminant analysis performed with the best four acoustic/texture parameters (n = 30) yielded a sensitivity of 89%, a specificity of 92% and an area under the ROC-curve corresponding to a probability of correct classification of 96.6%. When using these data prospectively to classify tumours of unknown cell type (n = 21), this classification could be performed in 86% of cases.
+

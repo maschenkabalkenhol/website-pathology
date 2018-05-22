@@ -1,0 +1,12 @@
+title: Three-dimensional ultrasound strain imaging of skeletal muscles.
+
+## Gijsbertse, K and Sprengers, A M J and Nillesen, M M and Hansen, H H G and Lopata, R G P and Verdonschot, N and de Korte, C L
+Physics in medicine and biology
+
+<a href="https://doi.org/10.1088/1361-6560/aa5077">DOI</a>
+
+## Abstract
+In this study, a multi-dimensional strain estimation method is presented to assess local relative deformation in three orthogonal directions in 3D space of skeletal muscles during voluntary contractions. A rigid translation and compressive deformation of a block phantom, that mimics muscle contraction, is used as experimental validation of the 3D technique and to compare its performance with respect to a 2D based technique. Axial, lateral and (in case of 3D) elevational displacements are estimated using a cross-correlation based displacement estimation algorithm. After transformation of the displacements to a Cartesian coordinate system, strain is derived using a least-squares strain estimator. The performance of both methods is compared by calculating the root-mean-squared error of the estimated displacements with the calculated theoretical displacements of the phantom experiments. We observe that the 3D technique delivers more accurate displacement estimations compared to the 2D technique, especially in the translation experiment where out-of-plane motion hampers the 2D technique. In vivo application of the 3D technique in the musculus vastus intermedius shows good resemblance between measured strain and the force pattern. Similarity of the strain curves of repetitive measurements indicates the reproducibility of voluntary contractions. These results indicate that 3D ultrasound is a valuable imaging tool to quantify complex tissue motion, especially when there is motion in three directions, which results in out-of-plane errors for 2D techniques.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Gijs2017.pdf:pdfGijs2017.pdf:PDF by e-mail"></form>

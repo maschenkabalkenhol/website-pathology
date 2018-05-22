@@ -1,0 +1,12 @@
+title: Gray-Scale Reversal for the Detection of Pulmonary Nodules on a PACS Workstation
+
+## D. W. de Boo and M. Uffmann and S. Bipat and E. F. A. Boorsma and M. J. Scheerder and M. Weber and C. M. Schaefer-Prokop
+AJR
+
+<a href="https://doi.org/10.2214/AJR.11.6625">DOI</a>
+
+## Abstract
+The purpose of this article is to evaluate the impact of gray-scale reversal on the detection of small pulmonary nodules in two-view chest radiography.One hundred twenty-eight patients (mean age, 62 years) who underwent CT and chest radiography within 6 weeks were retrospectively selected for this study. Seventy-three percent of patients showed variable degrees of radiographic findings of a "dirty lung." A total of 129 solid pulmonary nodules were present in 74 patients (nodule diameter range, 5-30 mm; mean diameter, 13 mm). The remaining 54 patients served as negative control subjects. Six readers with varying experience levels evaluated the images without and with the availability of gray-scale reversal in two separate reading sessions. Figure of merit (FOM), sensitivity per lesion, mean number of false-positive marks per image, and accuracy were calculated.Five of the six readers showed a slight increase in sensitivity with the use of gray-scale reversal, but on average, the difference was not significant (48% vs 50%; p > 0.05). The mean number of false-positive marks per image also nonsignificantly increased from 0.20 to 0.23. The increases in both sensitivity and the mean number of false-positive marks per image translated into nonsignificant decreases in average FOM (0.79 vs 0.77) and accuracy (72% vs 71%). Data analysis of subgroups of nodules or different reader groups, depending on level of experience, did not reveal significant differences.Using PACS display of digital chest radiographs, gray-scale reversal does not help the radiologists in detecting pulmonary nodules.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Boo11a.pdf:pdfBoo11a.pdf:PDF by e-mail"></form>

@@ -1,0 +1,12 @@
+title: Pretargeted immuno-PET and radioimmunotherapy of prostate cancer with an anti-TROP-2 x anti-HSG bispecific antibody
+
+## van Rij, Catharina M. and L"utje, Susanne and Frielink, Cathelijne and Sharkey, Robert M. and Goldenberg, David M. and Franssen, Gerben M. and McBride, William J. and Rossi, Edmund A. and Oyen, Wim J G. and Boerman, Otto C.
+EJNMMI
+
+<a href="https://doi.org/10.1007/s00259-013-2434-7">DOI</a>
+
+## Abstract
+TF12 is a trivalent bispecific antibody that consists of two anti-TROP-2 Fab fragments and one anti-histamine-succinyl-glycine (HSG) Fab fragment. The TROP-2 antigen is found in many epithelial cancers, including prostate cancer (PC), and therefore this bispecific antibody could be suitable for pretargeting in this cancer. In this study, the characteristics and the potential for pretargeted radioimmunoimaging and radioimmunotherapy with TF12 and the radiolabeled di-HSG peptide IMP288 in mice with human PC were investigated.The optimal TF12 protein dose, IMP288 peptide dose, and dose interval for PC targeting were assessed in nude mice with s.c. PC3 xenografts. Immuno-positron emission tomography (PET)/CT was performed using TF12/ï¿½?ï¿½ï¿½?ï¿½Ga-IMP288 at optimized conditions. The potential of pretargeted radioimmunotherapy (PRIT) using the TF12 pretargeted Â¹ï¿½?ï¿½ï¿½?ï¿½Lu-IMP288 was determined.TF12 and Â¹Â¹Â¹In-IMP288 showed high and fast accumulation in the tumor [20.4 Â± 0.6%ID/g at 1 h post-injection (p.i.)] at optimized conditions, despite the internalizing properties of TF12. The potential for PRIT was shown by retention of 50% of the Â¹Â¹Â¹In-IMP288 in the tumor at 48 h p.i. One cycle of treatment with TF12 and Â¹ï¿½?ï¿½ï¿½?ï¿½Lu-IMP288 showed significant improvement of survival compared to treatment with Â¹ï¿½?ï¿½ï¿½?ï¿½Lu-IMP288 alone (90 vs. 67 days, p<0.0001) with no renal or hematological toxicity.TROP-2-expressing PC can be pretargeted efficiently with TF12, with very rapid uptake of the radiolabeled hapten-peptide, IMP288, sensitive immuno-PET, and effective therapy.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Published version:pdfRij13.pdf:PDF by e-mail"></form>

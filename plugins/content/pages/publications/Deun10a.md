@@ -1,0 +1,10 @@
+title: The clinical outcome of occult pulmonary contusion on multidetector-row computed tomography in blunt trauma patients
+
+## Jaap Deunk and Tielke C Poels and Monique Brink and Helena M Dekker and Digna R Kool and Johan G Blickman and Arie B van Vugt and Michael John Richard Edwards
+JT
+
+<a href="https://doi.org/10.1097/TA.0b013e3181a7bdbd">DOI</a>
+
+## Abstract
+Multidetector-row computed tomography (MDCT) is a more sensitive modality as compared with conventional radiography (CR) in detecting pulmonary injuries. MDCT often detects pulmonary contusion that is not visualized by CR, defined as occult pulmonary contusion (OPC). The aim of this study was to investigate whether OPC on MDCT has implications for the outcome in blunt trauma patients.We used prospectively collected data from 1,040 adult high-energy blunt trauma patients who were primarily presented at our emergency department and who underwent CR and MDCT of the chest. All patients with pulmonary contusion were identified and divided into two groups: The "CR/computed tomography (CT) group" consisted of patients with pulmonary contusion visible on both CR and MDCT. The "CT-only" group consisted of patients with OPC, visible exclusively on MDCT. The control group consisted of blunt trauma patients without pulmonary contusion. These groups were compared with respect to difference in mortality and other outcome measures. In addition, a multivariate analysis was performed.Two hundred fifty-five patients suffered pulmonary contusion: The CT-only group consisted of 157 and the CR/CT group of 98 patients. The CT-only group did not differ from the control group with respect to mortality rate and other outcome measures. However, compared with the CR/CT group, mortality rate was significantly lower (8% versus 16%, p = 0.039) and most other outcome measures were significantly better in the CT-only group.OPC on MDCT is not associated with a worse outcome as compared with patients without pulmonary contusion. OPC has a better outcome as compared with pulmonary contusion visible on both CR and MDCT.
+

@@ -1,0 +1,12 @@
+title: Genetic Association Analysis of Drusen Progression
+
+## Hoffman, Joshua D. and van Grinsven, Mark J. J. P. and Li, Chun and Brantley, Jr, Milam and McGrath, Josephine and Agarwal, Anita and Scott, William K. and Schwartz, Stephen G. and Kovach, Jaclyn and Pericak-Vance, Margaret and Sanchez, Clara I. and Haines, Jonathan L.
+IOVS
+
+<a href="https://doi.org/10.1167/iovs.15-18571">DOI</a>
+
+## Abstract
+Age-related macular degeneration is a common form of vision loss affecting older adults. The etiology of AMD is multifactorial and is influenced by environmental and genetic risk factors. In this study, we examine how 19 common risk variants contribute to drusen progression, a hallmark of AMD pathogenesis.Exome chip data was made available through the International AMD Genomics Consortium (IAMDGC). Drusen quantification was carried out with color fundus photographs using an automated drusen detection and quantification algorithm. A genetic risk score (GRS) was calculated per subject by summing risk allele counts at 19 common genetic risk variants weighted by their respective effect sizes. Pathway analysis of drusen progression was carried out with the software package Pathway Analysis by Randomization Incorporating Structure.We observed significant correlation with drusen baseline area and the GRS in the age-related eye disease study (AREDS) dataset (? = 0.175, P = 0.006). Measures of association were not statistically significant between drusen progression and the GRS (P = 0.54). Pathway analysis revealed the cell adhesion molecules pathway as the most highly significant pathway associated with drusen progression (corrected P = 0.02).In this study, we explored the potential influence of known common AMD genetic risk factors on drusen progression. Our results from the GRS analysis showed association of increasing genetic burden (from 19 AMD associated loci) to baseline drusen load but not drusen progression in the AREDS dataset while pathway analysis suggests additional genetic contributors to AMD risk.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Hoff16.pdf:pdfHoff16.pdf:PDF by e-mail"></form>

@@ -1,0 +1,12 @@
+title: In vivo imaging of therapy-induced anti-cancer immune responses in humans
+
+## Aarntzen, Erik H J G. and Srinivas, Mangala and Radu, Caius G. and Punt, Cornelis J A. and Boerman, Otto C. and Figdor, Carl G. and Oyen, Wim J G. and de Vries, I Jolanda M.
+CELMLS
+
+<a href="https://doi.org/10.1007/s00018-012-1159-2">DOI</a>
+
+## Abstract
+Immunotherapy aims to re-engage and revitalize the immune system in the fight against cancer. Research over the past decades has shown that the relationship between the immune system and human cancer is complex, highly dynamic, and variable between individuals. Considering the complexity, enormous effort and costs involved in optimizing immunotherapeutic approaches, clinically applicable tools to monitor therapy-induced immune responses in vivo are most warranted. However, the development of such tools is complicated by the fact that a developing immune response encompasses several body compartments, e.g., peripheral tissues, lymph nodes, lymphatic and vascular systems, as well as the tumor site itself. Moreover, the cells that comprise the immune system are not static but constantly circulate through the vascular and lymphatic system. Molecular imaging is considered the favorite candidate to fulfill this task. The progress in imaging technologies and modalities has provided a versatile toolbox to address these issues. This review focuses on the detection of therapy-induced anticancer immune responses in vivo and provides a comprehensive overview of clinically available imaging techniques as well as perspectives on future developments. In the discussion, we will focus on issues that specifically relate to imaging of the immune system and we will discuss the strengths and limitations of the current clinical imaging techniques. The last section provides future directions that we envision to be crucial for further development.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Aarn13b.pdf:pdf/Aarn13b.pdf:PDF by e-mail"></form>

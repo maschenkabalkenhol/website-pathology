@@ -1,0 +1,12 @@
+title: Magnetic Resonance Lymphography-Guided Selective High-Dose Lymph Node Irradiation in Prostate Cancer
+
+## Meijer, Hanneke J M and Debats, Oscar A and Kunze-Busch, Martina and van Kollenburg, Peter and Leer, Jan Willem and Witjes, J. Alfred and Kaanders, Johannes H A M and Barentsz, Jelle O and van Lin, Emile N J Th
+IJROBP
+
+<a href="https://doi.org/10.1016/j.ijrobp.2010.09.023">DOI</a>
+
+## Abstract
+PURPOSE: To demonstrate the feasibility of magnetic resonance lymphography (MRL) -guided delineation of a boost volume and an elective target volume for pelvic lymph node irradiation in patients with prostate cancer. The feasibility of irradiating these volumes with a high-dose boost to the MRL-positive lymph nodes in conjunction with irradiation of the prostate using intensity-modulated radiotherapy (IMRT) was also investigated. METHODS AND MATERIALS: In 4 prostate cancer patients with a high risk of lymph node involvement but no enlarged lymph nodes on CT and/or MRI, MRL detected pathological lymph nodes in the pelvis. These lymph nodes were identified and delineated on a radiotherapy planning CT to create a boost volume. Based on the location of the MRL-positive lymph nodes, the standard elective pelvic target volume was individualized. An IMRT plan with a simultaneous integrated boost (SIB) was created with dose prescriptions of 42 Gy to the pelvic target volume, a boost to 60 Gy to the MRL-positive lymph nodes, and 72 Gy to the prostate. RESULTS: All MRL-positive lymph nodes could be identified on the planning CT. This information could be used to delineate a boost volume and to individualize the pelvic target volume for elective irradiation. IMRT planning delivered highly acceptable radiotherapy plans with regard to the prescribed dose levels and the dose to the organs at risk (OARs). CONCLUSION: MRL can be used to select patients with limited lymph node involvement for pelvic radiotherapy. MRL-guided delineation of a boost volume and an elective pelvic target volume for selective high-dose lymph node irradiation with IMRT is feasible. Whether this approach will result in improved outcome for these patients needs to be investigated in further clinical studies.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Meij12.pdf:pdfMeij12.pdf:PDF by e-mail"></form>

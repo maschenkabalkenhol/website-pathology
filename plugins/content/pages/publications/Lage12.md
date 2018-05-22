@@ -1,0 +1,12 @@
+title: Reproducibility of 3D (1)H MR spectroscopic imaging of the prostate at 1.5T
+
+## Miriam W Lagemaat and Christian M Zechmann and Jurgen J F"utterer and Elisabeth Weiland and Jianping Lu and Geert M Villeirs and Barbara A Holshouser and Paul van Hecke and Marc Lemort and Heinz-Peter Schlemmer and Jelle O Barentsz and Stefan O Roell and Arend Heerschap and Tom W J Scheenen
+JMRI
+
+<a href="https://doi.org/10.1002/jmri.22827">DOI</a>
+
+## Abstract
+PURPOSE: To determine the reproducibility of 3D proton magnetic resonance spectroscopic imaging ((1) H-MRSI) of the human prostate in a multicenter setting at 1.5T. MATERIALS AND METHODS: Fourteen subjects were measured twice with 3D point-resolved spectroscopy (PRESS) (1) H-MRSI using an endorectal coil. MRSI voxels were selected in the peripheral zone and combined central gland at the same location in the prostate in both measurements. Voxels with approved spectral quality were included to calculate Bland-Altman parameters for reproducibility from the choline plus creatine to citrate ratio (CC/C). The repeated spectroscopic data were also evaluated with a standardized clinical scoring system. RESULTS: A total of 74 voxels were included for reproducibility analysis. The complete range of biologically interesting CC/C ratios was covered. The overall within-voxel standard deviation (SD) of the CC/C ratio of the repeated measurements was 0.13. This value is equal to the between-subject SD of noncancer prostate tissue. In >90% of the voxels the standardized clinical score did not differ relevantly between the measurements. CONCLUSION: Repeated measurements of in vivo 3D (1) H-MRSI of the complete prostate at 1.5T produce equal and quantitative results. The reproducibility of the technique is high enough to provide it as a reliable tool in assessing tumor presence in the prostate. J. Magn. Reson. Imaging 2011;. ï¿½ 2011 Wiley-Liss, Inc.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Lage12.pdf:pdfLage12.pdf:PDF by e-mail"></form>

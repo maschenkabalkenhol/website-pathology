@@ -1,0 +1,12 @@
+title: Innovations in radiotherapy planning of head and neck cancers: role of PET
+
+## Troost, Esther G C. and Schinagl, Dominic A X. and Bussink, Johan and Boerman, Otto C. and van der Kogel, Albert J. and Oyen, Wim J G. and Kaanders, Johannes H A M.
+JNM
+
+<a href="https://doi.org/10.2967/jnumed.108.061499">DOI</a>
+
+## Abstract
+Modern radiotherapy techniques heavily rely on high-quality medical imaging. PET provides biologic information about the tumor, complementary to anatomic imaging. Integrated PET/CT has found its way into the practice of radiation oncology, and (18)F-FDG PET is being introduced for radiotherapy planning. The functional information possibly augments accurate delineation and treatment of the tumor and its extensions while reducing the dose to surrounding healthy tissues. In addition to (18)F-FDG, other PET tracers are available for imaging specific biologic tumor characteristics determining radiation resistance. For head and neck cancer, the potential gains of PET are increasingly being recognized. This review describes the current role of PET and perspectives on its future use for selection and delineation of radiotherapy target volumes and for biologic characterization of this tumor entity. Furthermore, the potential role of PET for early response monitoring, treatment modification, and patient selection is addressed in this review.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Published version:pdfTroo10e.pdf:PDF by e-mail"></form>

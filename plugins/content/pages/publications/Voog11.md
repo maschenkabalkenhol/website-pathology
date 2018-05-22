@@ -1,0 +1,12 @@
+title: Uterine fibroid embolisation for symptomatic uterine fibroids: a survey of clinical practice in Europe
+
+## Marianne J Voogt and Mark J Arntz and Paul N M Lohle and Willem P Th M Mali and Leo E H Lampmann
+CVIR
+
+<a href="https://doi.org/10.1007/s00270-010-9978-8">DOI</a>
+
+## Abstract
+To assess current uterine fibroid embolisation (UFE) practice in European countries and determine the clinical environment for UFE in different hospitals.In May 2009, an invitation for an online survey was sent by e-mail to all members of the Cardiovascular and Interventional Radiologic Society of Europe, representing a total number of 1,250 different candidate European treatment centres. The survey covered 21 questions concerning local UFE practice.A total of 282 respondents completed the questionnaire. Fifteen questionnaires were excluded because they were doubles from centres that had already returned a questionnaire. The response rate was 267 of 1,250 centres (21.4%). Ninety-four respondents (33%) did not perform UFE and were excluded, and six centres were excluded because demographic data were missing. The remaining 167 respondents from different UFE centres were included in the study. Twenty-six percent of the respondents were from the United Kingdom (n = 43); 16% were from Germany (n = 27); 11% were from France (n = 18); and the remaining 47% (n = 79) were from other European countries. Most centres (48%, n = 80) had 5 to 10 years experience with UFE and performed 10 to 50 procedures annually (53% [n = 88]) of respondents). Additional demographic data, as well as specific data on referral of patients, UFE techniques used, and periprocedural and postprocedural, care will be provided.Although UFE as an alternative treatment for hysterectomy or myomectomy is widespread in Europe, its impact on the management of the patient with symptomatic fibroids seems, according to the overall numbers of UFE procedures, somewhat disappointing. Multiple factors might be responsible for this observation.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Voog11.pdf:pdfVoog11.pdf:PDF by e-mail"></form>

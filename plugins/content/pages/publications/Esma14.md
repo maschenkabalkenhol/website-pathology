@@ -1,0 +1,12 @@
+title: In Vivo (31) P magnetic resonance spectroscopic imaging (MRSI) for metabolic profiling of human breast cancer xenografts
+
+## Esmaeili, Morteza and Moestue, Siver A. and Hamans, Bob C. and Veltien, Andor and Kristian, Alexandr and Engebraaten, Olav and Maelandsmo, Gunhild M. and Gribbestad, Ingrid S. and Bathen, Tone F. and Heerschap, Arend
+JMRI
+
+<a href="https://doi.org/10.1002/jmri.24588">DOI</a>
+
+## Abstract
+To study cancer associated with abnormal metabolism of phospholipids, of which several have been proposed as biomarkers for malignancy or to monitor response to anticancer therapy. We explored 3D (31) P magnetic resonance spectroscopic imaging (MRSI) at high magnetic field for in vivo assessment of individual phospholipids in two patient-derived breast cancer xenografts representing good and poor prognosis (luminal- and basal-like tumors).Metabolic profiles from luminal-like and basal-like xenograft tumors were obtained in vivo using 3D (31) P MRSI at 11.7T and from tissue extracts in vitro at 14.1T. Gene expression analysis was performed in order to support metabolic differences between the two xenografts.In vivo (31) P MR spectra were obtained in which the prominent resonances from phospholipid metabolites were detected at a high signal-to-noise ratio (SNR >7.5). Metabolic profiles obtained in vivo were in agreement with those obtained in vitro and could be used to discriminate between the two xenograft models, based on the levels of phosphocholine, phosphoethanolamine, glycerophosphocholine, and glycerophosphoethanolamine. The differences in phospholipid metabolite concentration could partly be explained by gene expression profiles.Noninvasive metabolic profiling by 3D (31) P MRSI can discriminate between subtypes of breast cancer based on different concentrations of choline- and ethanolamine-containing phospholipids.J. Magn. Reson. Imaging 2014. Â© 2014 Wiley Periodicals, Inc.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Esma14.pdf:pdfEsma14.pdf:PDF by e-mail"></form>

@@ -1,0 +1,10 @@
+title: The effect of purification of Ga-68-labeled exendin on in vivo distribution.
+
+## Brom, Maarten and Franssen, Gerben M and Joosten, Lieke and Gotthardt, Martin and Boerman, Otto C
+EJNMMI research
+
+<a href="https://doi.org/10.1186/s13550-016-0221-8">DOI</a>
+
+## Abstract
+Ga-labeled radiotracers are increasingly used for PET imaging. During the labeling procedure, formation of (68)Ga-colloid may occur. Upon i.v. injection, (68)Ga-colloid will accumulate rapidly in the liver, spleen, and bone marrow, resulting in reduced target-to-background ratios. In this study, we applied a thin layer chromatography (TLC) method to measure colloid content and we studied the effect of the purification method on the in vivo characteristics of (68)Ga-labeled DOTA-exendin-3. DOTA-exendin-3 was labeled with (68)Ga, and the colloid content was measured by TLC on silica gel ITLC with two mobile phases. The labeling mixture was purified by gel filtration on a 5-ml G25M column, by reversed-phase high-performance liquid chromatography (RP-HPLC) using a C8 column or by solid phase extraction (SPE) on an HLB cartridge. The in vivo characteristics of the preparations were determined in BALB/c nude mice, and PET images were acquired 1Â h p.i. using a microPET scanner. In these studies, unpurified (68)Ga-DOTA-exendin-3 and (111)In-DOTA-exendin-3 were used as a reference. The colloid content of (111)In-DOTA-exendin-3 and unpurified, gel filtration, RP-HPLC- and SPE-purified (68)Ga-DOTA exendin-3 was <3, 7, 9, <3, and <3Â %, respectively. Unpurified (68)Ga-DOTA exendin-3 showed high liver and spleen uptake. Gel filtration partly removed (68)Ga-colloid from the preparation, resulting in moderate liver and spleen SPE-purified (68)Ga-DOTA exendin-3 showed very low liver and spleen uptake, that was similar to that of RP-HPLC purified (68)Ga-DOTA exendin-3. We showed that the colloid content can be measured by TLC and that solid phase extraction and HPLC completely remove (68)Ga-colloid from (68)Ga-labeled tracer preparations, resulting in very low liver and spleen uptake. This study clearly shows the importance of removal of (68)Ga-colloid from preparations.
+

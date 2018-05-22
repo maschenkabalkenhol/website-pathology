@@ -1,0 +1,12 @@
+title: Functional genomics of chicken, mouse, and human titin supports splice diversity as an important mechanism for regulating biomechanics of striated muscle
+
+## Granzier, Henk and Radke, Michael and Royal, Joseph and Wu, Yiming and Irving, Thomas C. and Gotthardt, Michael and Labeit, Siegfried
+Am J Physiol Regul Integr Comp Physiol
+
+<a href="https://doi.org/10.1152/ajpregu.00001.2007">DOI</a>
+
+## Abstract
+Titin is a giant filamentous elastic protein that spans from the Z-disk to M-band regions of the sarcomere. The I-band region of titin is extensible and develops passive force in stretched sarcomeres. This force has been implicated as a factor involved in regulating cardiac contraction. To better understand the adaptation in the extensible region of titin, we report the sequence and annotation of the chicken and mouse titin genes and compare them to the human titin gene. Our results reveal a high degree of conservation within the genomic region encoding the A-band segment of titin, consistent with the structural similarity of vertebrate A-bands. In contrast, the genomic region encoding the Z-disk and I-band segments is highly divergent. This is most prominent within the central I-band segment, where chicken titin has fewer but larger PEVK exons (up to 1,992 bp). Furthermore, in mouse titin we found two LINE repeats that are inserted in the Z-disk and I-band regions, the regions that account for most of the splice isoform diversity. Transcript studies show that a group of 55 I-band exons is differentially expressed in chicken titin. Consistent with a large degree of titin isoform plasticity and variation in PEVK content, chicken skeletal titins range in size from approximately 3,000 to approximately 3,700 kDa and vary greatly in passive mechanical properties. Low-angle X-ray diffraction experiments reveal significant differences in myofilament lattice spacing that correlate with titin isoform expression. We conclude that titin splice diversity regulates structure and biomechanics of the sarcomere.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Published version:pdfGran07.pdf:PDF by e-mail"></form>

@@ -1,0 +1,12 @@
+title: Comprehensive genetic analysis of OEIS complex reveals no evidence for a recurrent microdeletion or duplication
+
+## Vlangos, Christopher N. and Siuniak, Amanda and Ackley, Todd and van Bokhoven, Hans and Veltman, Joris and Iyer, Ram and Park, John M. and Keppler-Noreuil, Kim and Keegan, Catherine E.
+AJMGA
+
+<a href="https://doi.org/10.1002/ajmg.a.33757">DOI</a>
+
+## Abstract
+Omphalocele-exstrophy of the bladder-imperforate anus-spinal defects (OEIS) complex, or cloacal exstrophy (EC), is a rare constellation of malformations in humans involving the urogenital, gastrointestinal, and skeletal systems, and less commonly the central nervous system. Although OEIS complex is well-recognized in the clinical setting, there remains a significant lack of understanding of this condition at both the developmental and the genetic level. While most cases are sporadic, familial cases have been reported, suggesting that one or more specific genes may play a significant role in this condition. Several developmental mechanisms have been proposed to explain the etiology of OEIS complex, and it is generally considered to be a defect early in caudal mesoderm development and ventral body wall closure. The goal of this study was to identify genetic aberrations in 13 patients with OEIS/EC using a combination of candidate gene analysis and microarray studies. Analysis of 14 candidate genes in combination with either high resolution SNP or oligonucleotide microarray did not reveal any disease-causing mutations, although novel variants were identified in five patients. To our knowledge, this is the most comprehensive genetic analysis of patients with OEIS complex to date. We conclude that OEIS is a complex disorder from an etiological perspective, likely involving a combination of genetic and environmental predispositions. Based on our data, OEIS complex is unlikely to be caused by a recurrent chromosomal aberration.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Vlan11.pdf:pdfVlan11.pdf:PDF by e-mail"></form>

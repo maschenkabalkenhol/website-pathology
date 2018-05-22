@@ -1,0 +1,12 @@
+title: Humoral and cellular immune responses after influenza vaccination in patients with chronic fatigue syndrome
+
+## Prinsen, Hetty and de Vries, I Jolanda M. and Torensma, Ruurd and Pots, Jeanette M. and Mulder, Sasja F. and van Herpen, Carla M L. and Elving, Lammy D. and Bleijenberg, Gijs and Stelma, Foekje F. and van Laarhoven, Hanneke W M.
+BMCIMM
+
+<a href="https://doi.org/10.1186/1471-2172-13-71">DOI</a>
+
+## Abstract
+Chronic fatigue syndrome (CFS) is a clinical condition characterized by severe and disabling fatigue that is medically unexplained and lasts longer than 6 months. Although it is possible to effectively treat CFS, the nature of the underlying physiology remains unclear. Various studies have sought evidence for an underlying disturbance in immunity. The aim of this study was to compare the humoral and cellular immune responses upon influenza vaccination in CFS patients and healthy controls.Identical antibody titers were observed in CFS patients and healthy controls. Patients and controls demonstrated similar seroprotection rates against all three virus-strains of the influenza vaccine, both pre- and post-vaccination. Functional T cell reactivity was observed in both CFS patients and healthy controls. CFS patients showed a non-significant, numerically lower cellular proliferation at baseline compared to controls. Vaccination induced a significant increase in cellular proliferation in CFS patients, but not in healthy controls. Cytokine production and the number of regulatory T cells were comparable in patients and controls.The humoral and cellular immune responses upon influenza vaccination were comparable in CFS patients and healthy controls. Putative aberrations in immune responses in CFS patients were not evident for immunity towards influenza. Standard seasonal influenza vaccination is thus justified and, when indicated, should be recommended for patients suffering from CFS.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Prin12a.pdf:pdfPrin12a.pdf:PDF by e-mail"></form>

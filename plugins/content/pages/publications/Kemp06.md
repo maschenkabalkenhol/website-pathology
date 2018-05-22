@@ -1,0 +1,12 @@
+title: Development of luciferase tagged brain tumour models in mice for chemotherapy intervention studies
+
+## Kemper, E. M. and Leenders, W. and K"usters, B. and Lyons, S. and Buckle, T. and Heerschap, A. and Boogerd, W. and Beijnen, J. H. and van Tellingen, O.
+EJC
+
+<a href="https://doi.org/10.1016/j.ejca.2006.07.013">DOI</a>
+
+## Abstract
+The blood-brain barrier (BBB) is considered one of the major causes for the low efficacy of cytotoxic compounds against primary brain tumours. The aim of this study was to develop intracranial tumour models in mice featuring intact or locally disrupted BBB properties, which can be used in testing chemotherapy against brain tumours. These tumours were established by intracranial injection of suspensions of different tumour cell lines. All cell lines had been transfected with luciferase to allow non-invasive imaging of tumour development using a super-cooled CCD-camera. Following their implantation, tumours developed which displayed the infiltrative, invasive or expansive growth patterns that are also found in primary brain cancer or brain metastases. Contrast-enhanced magnetic resonance imaging showed that the Mel57, K1735Br2 and RG-2 lesions grow without disruption of the BBB, whereas the BBB was leaky in the U87MG and VEGF-A-transfected Mel57 lesions. This was confirmed by immunohistochemistry. Bioluminescence measurements allowed the visualisation of tumour burden already within 4 days after injection of the tumour cells. The applicability of our models for performing efficacy studies was demonstrated in an experiment using temozolomide as study drug. In conclusion, we have developed experimental brain tumour models with partly disrupted, or completely intact BBB properties. In vivo imaging by luciferase allows convenient follow-up of tumour growth and these models will be useful for chemotherapeutic intervention studies.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Published version:pdfKemp06.pdf:PDF by e-mail"></form>

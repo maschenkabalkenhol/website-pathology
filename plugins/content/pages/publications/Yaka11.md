@@ -1,0 +1,12 @@
+title: Feasibility of a Pneumatically Actuated MR-compatible Robot for Transrectal Prostate Biopsy Guidance
+
+## Derya Yakar and Martijn G Schouten and Dennis G H Bosboom and Jelle O Barentsz and Tom W J Scheenen and Jurgen J F"utterer
+Radiology
+
+<a href="https://doi.org/10.1148/radiol.11101106">DOI</a>
+
+## Abstract
+PURPOSE: To assess the feasibility of using a remote-controlled, pneumatically actuated magnetic resonance (MR)-compatible robotic device to aid transrectal biopsy of the prostate performed with real-time 3-T MR imaging guidance. MATERIALS AND METHODS: This prospective study was approved by the ethics review board, and written informed consent was obtained from all patients. Twelve consecutive men who were clinically suspected of having prostate cancer and had a history of at least one transrectal ultrasonography (US)-guided prostate biopsy with negative results underwent diagnostic multiparametric MR imaging of the prostate. Two radiologists in consensus identified cancer-suspicious regions (CSRs) in 10 patients. These regions were subsequently targeted with the robot for MR imaging-guided prostate biopsy. To direct the needle guide toward the CSRs, the MR-compatible robotic device was remote controlled at the MR console by means of a controller and a graphical user interface for real-time MR imaging guidance of the needle guide. The ability to reach the CSRs with the robot for biopsy was analyzed. RESULTS: A total of 17 CSRs were detected in 10 patients at the diagnostic MR examinations. These regions were targeted for MR imaging-guided robot-assisted prostate biopsy. Thirteen (76%) of the 17 CSRs could be reached with the robot for biopsy. Biopsy of the remaining four CSRs was performed without use of the robot. CONCLUSION: It is feasible to perform transrectal prostate biopsy with real-time 3-T MR imaging guidance with the aid of a remote-controlled, pneumatically actuated MR-compatible robotic device. ? RSNA, 2011.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Yaka11.pdf:pdfYaka11.pdf:PDF by e-mail"></form>

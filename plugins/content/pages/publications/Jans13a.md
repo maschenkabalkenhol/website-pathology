@@ -1,0 +1,12 @@
+title: Impact of a multi-nutrient diet on cognition, brain metabolism, hemodynamics, and plasticity in apoE4 carrier and apoE knockout mice
+
+## Jansen, Diane and Zerbi, Valerio and Janssen, Carola I F. and van Rooij, Daan and Zinnhardt, Bastian and Dederen, Pieter J. and Wright, Alan J. and Broersen, Laus M. and L"utjohann, Dieter and Heerschap, Arend and Kiliaan, Amanda J.
+BRASF
+
+<a href="https://doi.org/10.1007/s00429-013-0606-7">DOI</a>
+
+## Abstract
+Lipid metabolism and genetic background together strongly influence the development of both cardiovascular and neurodegenerative diseases like Alzheimer's disease (AD). A non-pharmacological way to prevent the genotype-induced occurrence of these pathologies is given by dietary behavior. In the present study, we tested the effects of long-term consumption of a specific multi-nutrient diet in two models for atherosclerosis and vascular risk factors in AD: the apolipoprotein Îµ4 (apoE4) and the apoE knockout (apoE ko) mice. This specific multi-nutrient diet was developed to support neuronal membrane synthesis and was expected to contribute to the maintenance of vascular health. At 12 months of age, both genotypes showed behavioral changes compared to control mice and we found increased neurogenesis in apoE ko mice. The specific multi-nutrient diet decreased anxiety-related behavior in the open field, influenced sterol composition in serum and brain tissue, and increased the concentration of omega-3 fatty acids in the brain. Furthermore, we found that wild-type and apoE ko mice fed with this multi-nutrient diet showed locally increased cerebral blood volume and decreased hippocampal glutamate levels. Taken together, these data suggest that a specific dietary intervention has beneficial effects on early pathological consequences of hypercholesterolemia and vascular risk factors for AD.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Jans13a.pdf:pdfJans13a.pdf:PDF by e-mail"></form>

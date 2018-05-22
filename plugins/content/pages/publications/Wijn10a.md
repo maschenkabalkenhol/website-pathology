@@ -1,0 +1,12 @@
+title: In vivo 13C magnetic resonance spectroscopy of a human brain tumor after application of 13C-1-enriched glucose
+
+## Jannie P Wijnen and van der Graaf, Marinette and Tom W J Scheenen and Dennis W J Klomp and Bastiaan E de Galan and Albert J S Idema and Arend Heerschap
+MRI
+
+<a href="https://doi.org/10.1016/j.mri.2010.03.006">DOI</a>
+
+## Abstract
+As a unique tool to assess metabolic fluxes noninvasively, (13)C magnetic resonance spectroscopy (MRS) could help to characterize and understand malignancy in human tumors. However, its low sensitivity has hampered applications in patients. The aim of this study was to demonstrate that with sensitivity-optimized localized (13)C MRS and intravenous infusion of [1-(13)C]glucose under euglycemia, it is possible to assess the dynamic conversion of glucose into its metabolic products in vivo in human glioma tissue.Measurements were done at 3 T with a broadband single RF channel and a quadrature (13)C surface coil inserted in a (1)H volume coil. A (1)H/(13)C polarization transfer sequence was applied, modified for localized acquisition, alternatively in two (50 ml) voxels, one encompassing the tumor and the other normal brain tissue.After about 20 min of [1-(13)C]glucose infusion, a [3-(13)C]lactate signal appeared among several resonances of metabolic products of glucose in MR spectra of the tumor voxel. The resonance of [3-(13)C]lactate was absent in MR spectra from contralateral tissue. In addition, the intensity of [1-(13)C]glucose signals in the tumor area was about 50% higher than that in normal tissue, likely reflecting more glucose in extracellular space due to a defective blood-brain barrier. The signal intensity for metabolites produced in or via the tricarboxylic acid (TCA) cycle was lower in the tumor than in the contralateral area, albeit that the ratios of isotopomer signals were comparable.With an improved (13)C MRS approach, the uptake of glucose and its conversion into metabolites such as lactate can be monitored noninvasively in vivo in human brain tumors. This opens the way to assessing metabolic activity in human tumor tissue.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Wijn10a.pdf:pdfWijn10a.pdf:PDF by e-mail"></form>

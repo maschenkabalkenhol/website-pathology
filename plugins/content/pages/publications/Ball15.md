@@ -1,0 +1,12 @@
+title: TLR-3 is Present in Human Adipocytes, but Its Signalling is Not Required for Obesity-Induced Inflammation in Adipose Tissue In Vivo
+
+## Ballak, Dov B. and van Asseldonk, Edwin J P. and van Diepen, Janna A. and Jansen, Henry and Hijmans, Anneke and Joosten, Leo A B. and Tack, Cees J. and Netea, Mihai G. and Stienstra, Rinke
+PLOSONE
+
+<a href="https://doi.org/10.1371/journal.pone.0123152">DOI</a>
+
+## Abstract
+Innate immunity plays a pivotal role in obesity-induced low-grade inflammation originating from adipose tissue. Key receptors of the innate immune system including Toll-like receptors-2 and -4 (TLRs) are triggered by nutrient excess to promote inflammation. The role of other TLRs in this process is largely unknown. In addition to double-stranded viral mRNA, TLR-3 can also recognize mRNA from dying endogenous cells, a process that is frequently observed within obese adipose tissue. Here, we identified profound expression of TLR-3 in adipocytes and investigated its role during diet-induced obesity. Human adipose tissue biopsies (n=80) and an adipocyte cell-line were used to study TLR-3 expression and function. TLR-3-/- and WT animals were exposed to a high-fat diet (HFD) for 16 weeks to induce obesity. Expression of TLR-3 was significantly higher in human adipocytes compared to the non-adipocyte cells part of the adipose tissue. In vitro, TLR-3 expression was induced during differentiation of adipocytes and stimulation of the receptor led to elevated expression of pro-inflammatory cytokines. In vivo, TLR-3 deficiency did not significantly influence HFD-induced obesity, insulin sensitivity or inflammation. In humans, TLR-3 expression in adipose tissue did not correlate with BMI or insulin sensitivity (HOMA-IR). Together, our results demonstrate that TLR-3 is highly expressed in adipocytes and functionally active. However, TLR-3 appears to play a redundant role in obesity-induced inflammation and insulin resistance.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Ball15.pdf:pdfBall15.pdf:PDF by e-mail"></form>

@@ -1,0 +1,12 @@
+title: A specific dietary intervention to restore brain structure and function after ischemic stroke.
+
+## Wiesmann, Maximilian and Zinnhardt, Bastian and Reinhardt, Dirk and Eligehausen, Sarah and Wachsmuth, Lydia and Hermann, Sven and Dederen, Pieter J and Hellwich, Marloes and Kuhlmann, Michael T and Broersen, Laus M and Heerschap, Arend and Jacobs, Andreas H and Kiliaan, Amanda J
+Theranostics
+
+<a href="https://doi.org/10.7150/thno.17559">DOI</a>
+
+## Abstract
+Occlusion of the middle cerebral artery (MCAo) is among the most common causes of ischemic stroke in humans. Cerebral ischemia leads to brain lesions existing of an irreversibly injured core and an ischemic boundary zone, the penumbra, containing damaged but potentially salvageable tissue. Using a transient occlusion (30 min) of the middle cerebral artery (tMCAo) mouse model in this cross-institutional study we investigated the neurorestorative efficacy of a dietary approach (Fortasyn) comprising docosahexaenoic acid, eicosapentaenoic acid, uridine, choline, phospholipids, folic acid, vitamins B12, B6, C, and E, and selenium as therapeutic approach to counteract neuroinflammation and impairments of cerebral (structural+functional) connectivity, cerebral blood flow (CBF), and motor function. Male adult C57BL/6j mice were subjected to right tMCAo using the intraluminal filament model. Following tMCAo, animals were either maintained on Control diet or switched to the multicomponent Fortasyn diet. At several time points after tMCAo, behavioral tests, and MRI and PET scanning were conducted to identify the impact of the multicomponent diet on the elicited neuroinflammatory response, loss of cerebral connectivity, and the resulting impairment of motor function after experimental stroke. Mice on the multicomponent diet showed decreased neuroinflammation, improved functional and structural connectivity, beneficial effect on CBF, and also improved motor function after tMCAo. Our present data show that this specific dietary intervention may have beneficial effects on structural and functional recovery and therefore therapeutic potential after ischemic stroke.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Wies17a.pdf:pdfWies17a.pdf:PDF by e-mail"></form>

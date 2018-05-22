@@ -1,0 +1,12 @@
+title: Early metabolic response to high energy shock waves in a human tumor kidney xenograft monitored by 31P magnetic resonance spectroscopy
+
+## Smits, G. A. and Heerschap, A. and Oosterhof, G. O. and Ruys, J. H. and Hilbers, C. W. and Debruyne, F. M. and Schalken, J. A.
+UMB
+
+<a href="https://doi.org/10.1016/0301-5629(91)90162-P">DOI</a>
+
+## Abstract
+The effects of electromagnetically generated high-energy shock waves (HESW, Siemens Lithostar) on the phosphate metabolite levels of the NU-1 human kidney cancer xenograft implanted under the skin of the hind limb of nude mice were monitored by 31P magnetic resonance spectroscopy (MRS). Administration of 200 and 800 HESW (18.1 kV, P(+) = 37.5 MPa, P(-) = 5.2 MPa, tr = 30-120 nsec, tw = 340 nsec, freq. = 1.25 Hz), focused on the tumor centre, resulted in an immediate tumor decline; 2 h after exposure to the HESW, the high-energy phosphate resonances had decreased drastically. This decline in energy rich molecules was accompanied by a concomitant increase in the inorganic phosphate resonance and a decrease in pH of the tumor. During the following period, a dose-time dependent recovery of the original high-energy phosphate resonance intensities was observed. These changes are qualitatively similar to those produced by ischemic inhibition of energy metabolism and are correlated with early histological features like vascular disruption, stasis within capillaries, and focal thrombosis. These results demonstrate that experimental HESW treatment of the NU-1 kidney tumor is effective in provoking a temporary reduction of both high-energy phosphate metabolism and tissue pH of the tumor. The data presented here strongly suggest that these effects are predominantly indirect by affecting tumor vascularity. Overall, this study shows that MRS is a powerful technique for longitudinal investigations of HESW-induced effects and can provide information about its mode of action.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Published version:pdfSmit91.pdf:PDF by e-mail"></form>

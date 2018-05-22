@@ -1,0 +1,12 @@
+title: Preliminary results using a newly developed projection method to visualize vascular anatomy prior to DIEP flap breast reconstruction
+
+## Hummelink, S. and Hameeteman, M. and Hoogeveen, Y. and Slump, C. H. and Ulrich, D J O. and Schultze Kool, L. J.
+J Plast Reconstr Aesthet Surg
+
+<a href="https://doi.org/10.1016/j.bjps.2014.11.006">DOI</a>
+
+## Abstract
+In a deep inferior epigastric perforator (DIEP) flap breast reconstruction, computed tomography angiography (CTA) is currently considered as the gold standard in preoperative imaging for this procedure. Unidirectional Doppler ultrasound (US) is frequently used; however, this method does not distinguish the main axial vessels from perforator arteries at the height of the fascia, it has a limited penetration depth, and it cannot assess the branching patterns of the deep inferior arteries. A new method and system were developed, which consisted of a video projector preoperatively displaying the location and intramuscular course of the artery perforators and subcutaneous branching on the patient's abdomen.All patients (n = 9) underwent a standard protocol: a preoperative CTA was performed and the DIEPs were localized using a unidirectional Doppler probe. In addition, a three-dimensional (3D) reconstruction of the perforator locations based on CTA was projected on the abdomen of the patients. All projected perforator locations were assessed using a unidirectional Doppler probe. The intraoperative results were collected for comparison.A total of 88 locations were marked with the use of unidirectional Doppler and a total of 100 perforators were projected (p = 0.38). In 98 out of 100 projected perforator locations, a Doppler signal was audible. The intraoperative results demonstrate that 19 out of 34 transplanted perforators were correctly identified with unidirectional Doppler (56.9% Â± 31.4%), where the projection method properly revealed 29 locations (84.3% Â± 25.8%) (p = 0.030).The projection method is not only capable of providing more information and identifying more perforators used for transplantation than unidirectional Doppler probing but also more accurate in pointing out the corresponding perforator found intraoperatively.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Humm14.pdf:pdfHumm14.pdf:PDF by e-mail"></form>

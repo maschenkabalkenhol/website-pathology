@@ -1,0 +1,12 @@
+title: High-dose superselective intra-arterial cisplatin and concomitant radiation (RADPLAT) for advanced head and neck cancer
+
+## Balm, Alfons J M. and Rasch, Coen R N. and Schornagel, Jan H. and Hilgers, Frans J M. and Keus, Ronald B. and Schultze-Kool, Leo and Ackerstaff, Annemieke H. and Busschers, Wim and Tan, I Bing
+HEADN
+
+<a href="https://doi.org/10.1002/hed.20006">DOI</a>
+
+## Abstract
+The purpose of this study was to study the effect of intensive targeted chemoradiation in a group of patients with head and neck cancer with stage IV inoperable disease.We examined 79 patients with inoperable stage IV head and neck cancer receiving intra-arterial infusion of high-dose cisplatin (150 mg/m(2)) on days 2, 9, 16, and 23 concomitant with delivery of external beam radiotherapy (total dose, 70 Gy; 2 Gy, 35 fractions; 1 fraction/day for 7 weeks). Sodium thiosulfate was administered intravenously to provide effective cisplatin neutralization.Four patients were not assessable. Complete local tumor response was achieved in 72 patients (91%) and a partial response in three patients. The complete response rate of neck node metastases was 90%. The 1- and 2-year locoregional control rates were 82% and 69%, respectively. The median overall survival time was 2.2 years, with a 3-year overall survival probability of 43%. Acute toxicities were as follows: grade III/IV hematologic toxicity (22%/16%), grade III/IV nephrotoxicity (0%), grade III mucositis (43%), grade III skin reactions (24%), grade III toxicity of the upper gastrointestinal tract (57%), grade III nausea (20%), and grade III subjective hearing loss (10%). Grade V toxicity (treatment-related deaths) was 3.8%. Six (18%) of 33 patients with complete remission needed tube feeding 2 years after treatment without intercurrent salvage surgery.Supradose superselective intra-arterial cisplatin and concomitant radiation is an effective organ-preserving therapy in an unfavorable group of patients. Our series confirms encouraging results reported previously. This regimen is justified in unresectable patients despite the substantial toxicity.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Balm04.pdf:pdfBalm04.pdf:PDF by e-mail"></form>

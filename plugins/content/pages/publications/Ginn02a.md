@@ -1,0 +1,12 @@
+title: Automatic detection of abnormalities in chest radiographs using local texture analysis
+
+## van Ginneken, B. and Katsuragawa, S. and ter Haar Romeny, B. M. and Doi, K. and Viergever, M. A.
+TMI
+
+<a href="https://doi.org/10.1109/42.993132">DOI</a>
+
+## Abstract
+A fully automatic method is presented to detect abnormalities in frontal chest radiographs which are aggregated into an overall abnormality score. The method is aimed at finding abnormal signs of a diffuse textural nature, such as they are encountered in mass chest screening against tuberculosis (TB). The scheme starts with automatic segmentation of the lung fields, using active shape models. The segmentation is used to subdivide the lung fields into overlapping regions of various sizes. Texture features are extracted from each region, using the moments of responses to a multiscale filter bank. Additional "difference features" are obtained by subtracting feature vectors from corresponding regions in the left and right lung fields. A separate training set is constructed for each region. All regions are classified by voting among the k nearest neighbors, with leave-one-out. Next, the classification results of each region are combined, using a weighted multiplier in which regions with higher classification reliability weigh more heavily. This produces an abnormality score for each image. The method is evaluated on two databases. The first database was collected from a TB mass chest screening program, from which 147 images with textural abnormalities and 241 normal images were selected. Although this database contains many subtle abnormalities, the classification has a sensitivity of 0.86 at a specificity of 0.50 and an area under the receiver operating characteristic (ROC) curve of 0.820. The second database consist of 100 normal images and 100 abnormal images with interstitial disease. For this database, the results were a sensitivity of 0.97 at a specificity of 0.90 and an area under the ROC curve of 0.986.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Ginn02a.pdf:pdfGinn02a.pdf:PDF by e-mail"></form>

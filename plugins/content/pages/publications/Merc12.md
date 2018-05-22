@@ -1,0 +1,12 @@
+title: Effect of stenting on cerebral CT perfusion in symptomatic and asymptomatic patients with carotid artery stenosis
+
+## Merckel, L. G. and Van der Heijden, J. and Jongen, L. M. and van Es, H. W. and Prokop, M. and Waaijer, A.
+AJNR
+
+<a href="https://doi.org/10.3174/ajnr.A2757">DOI</a>
+
+## Abstract
+The introduction of CAS has led to increased treatment of both symptomatic and asymptomatic patients with internal carotid stenosis. This study was performed to compare the effect of stent placement on cerebral perfusion in symptomatic and asymptomatic patients using CT perfusion.We included 45 patients with carotid artery stenosis of =70% who underwent arterial stent placement. Thirty-one patients were treated because of symptoms; 14 asymptomatic patients were treated before coronary artery bypass grafting. Patients underwent CTP before and after stent placement. We calculated MTT, CBV, and CBF, and derived relative numbers that compared treated with untreated hemispheres: ratios of CBV and CBF and difference in MTT. We compared the effect of carotid stent placement on cerebral perfusion in symptomatic and asymptomatic patients.All perfusion parameters changed significantly after treatment in symptomatic patients: rCBF increased from 0.81 to 0.93 (P < .001), rCBV decreased from 1.02 to 0.95 (P < .05), and dMTT decreased from 1.29 to 0.14 (P < .001). In asymptomatic patients only, rCBF changed significantly with an increase from 0.92 to 1.03 (P < .05). When we compared symptomatic and asymptomatic patients before treatment, rCBF in symptomatic patients was significantly lower. The decrease of rCBV after treatment in symptomatic patients resulted in a significantly lower value than in asymptomatic patients.Carotid artery stent placement improves blood flow in the affected hemisphere in symptomatic and asymptomatic patients. CBF before treatment is more strongly impaired in patients with symptomatic carotid stenosis. Compensatory hyperemia on the symptomatic side before treatment (rCBV > 1) turns into hypoxemia after treatment, suggesting impaired autoregulation in these patients.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Merc12.pdf:pdfMerc12.pdf:PDF by e-mail"></form>

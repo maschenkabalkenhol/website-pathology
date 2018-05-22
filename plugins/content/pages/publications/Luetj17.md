@@ -1,0 +1,10 @@
+title: Imaging of Prostate-Specific Membrane Antigen Expression in Metastatic Differentiated Thyroid Cancer Using 68Ga-HBED-CC-PSMA PET/CT
+
+## L"utje, Susanne and Gomez, Benedikt and Cohnen, Joseph and Umutlu, Lale and Gotthardt, Martin and Poeppel, Thorsten D and Bockisch, Andreas and Rosenbaum-Krumme, Sandra
+Clinical nuclear medicine
+
+<a href="https://doi.org/10.1097/RLU.0000000000001454">DOI</a>
+
+## Abstract
+The prostate-specific membrane antigen (PSMA) was shown to be overexpressed on the neovasculature of several malignancies. Here, the role of Ga-HBED-CC-PSMA PET/CT for the detection of PSMA expression in patients with metastasized differentiated thyroid cancer (DTC) was evaluated. Six patients with iodine-negative and F-FDG-positive metastasized DTC (mean TG, 1616 ng/mL) received 71-93 MBq of the Ga-labeled PSMA ligand and underwent PET/CT at 62 ± 7 minutes p.i.. Tumor accumulation capacity of the tracer and the detection rate of local recurrences and metastases were compared with F-FDG. Tracer uptake was quantified in terms of the SUVmax. In 5 of 6 patients, sites of putative metastatic disease could be identified using Ga-HBED-CC-PSMA PET/CT. All lesions detected with Ga-HBED-CC-PSMA PET/CT (n = 42) were confirmed by F-FDG PET/CT or conventional CT imaging. Using Ga-HBED-CC-PSMA PET/CT, all tumor lesions identified with F-FDG PET/CT imaging could be visualized in 3 of 5 patients. In 2 patients, only the most prominent lesions detected with F-FDG PET/CT imaging were visualized by Ga-HBED-CC-PSMA PET/CT. Ga-HBED-CC-PSMA uptake ranged from low in 1 patient (mean SUVmax 3.3) to intermediate (1 patient; mean SUVmax, 6.1) to intense (3 patients; mean SUVmax, 12.8, 16.2, and 18.3). The highest SUVmax values were observed for a bone lesion, reaching 39.7. These preliminary results indicate that Ga-HBED-CC-PSMA PET/CT might be suitable for staging of patients with metastasized DTC. Ga-HBED-CC-PSMA PET/CT could be useful for the identification of patients who might qualify for PSMA-targeted radionuclide therapy because of high PSMA uptake.
+

@@ -1,0 +1,12 @@
+title: Effects of morphine and alcohol on functional brain connectivity during "resting state": a placebo-controlled crossover study in healthy young men
+
+## Khalili-Mahani, Najmeh and Zoethout, Remco M W. and Beckmann, Christian F. and Baerends, Evelinda and de Kam, Marieke L. and Soeter, Roelof P. and Dahan, Albert and van Buchem, Mark A. and van Gerven, Joop M A. and Rombouts, Serge A R B.
+HUMBM
+
+<a href="https://doi.org/10.1002/hbm.21265">DOI</a>
+
+## Abstract
+A major challenge in central nervous system (CNS) drug research is to develop a generally applicable methodology for repeated measurements of drug effects on the entire CNS, without task-related interactions and a priori models. For this reason, data-driven resting-state fMRI methods are promising for pharmacological research. This study aimed to investigate whether different psychoactive substances cause drug-specific effects in functional brain connectivity during resting-state. In this double blind placebo-controlled (double dummy) crossover study, seven resting-state fMRI scans were obtained in 12 healthy young men in three different drug sessions (placebo, morphine and alcohol; randomized). Drugs were administered intravenously based on validated pharmacokinetic protocols to minimize the inter- and intra-subject variance in plasma drug concentrations. Dual-regression was used to estimate whole-brain resting-state connectivity in relation to eight well-characterized resting-state networks, for each data set. A mixed effects analysis of drug by time interactions revealed dissociable changes in both pharmacodynamics and functional connectivity resulting from alcohol and morphine. Post hoc analysis of regions of interest revealed adaptive network interactions in relation to pharmacokinetic and pharmacodynamic curves. Our results illustrate the applicability of resting-state functional brain connectivity in CNS drug research.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Khal12.pdf:pdfKhal12.pdf:PDF by e-mail"></form>

@@ -1,0 +1,12 @@
+title: Monitoring of tumor growth and post-irradiation recurrence in a diffuse intrinsic pontine glioma mouse model
+
+## Caretti, Viola and Zondervan, Ilse and Meijer, Dimphna H. and Idema, Sander and Vos, Wim and Hamans, Bob and Bugiani, Marianna and Hulleman, Esther and Wesseling, Pieter and Vandertop, W Peter and Noske, David P. and Kaspers, Gertjan and Molthoff, Carla F M. and Wurdinger, Thomas
+BRAP
+
+<a href="https://doi.org/10.1111/j.1750-3639.2010.00468.x">DOI</a>
+
+## Abstract
+Diffuse intrinsic pontine glioma (DIPG) is a fatal malignancy because of its diffuse infiltrative growth pattern. Translational research suffers from the lack of a representative DIPG animal model. Hence, human E98 glioma cells were stereotactically injected into the pons of nude mice. The E98 DIPG tumors presented a strikingly similar histhopathology to autopsy material of a DIPG patient, including diffuse and perivascular growth, brainstem- and supratentorial invasiveness and leptomeningeal growth. Magnetic resonance imaging (MRI) was effectively employed to image the E98 DIPG tumor. [(18) F] 3'-deoxy-3'-[(18) F]fluorothymidine (FLT) positron emission tomography (PET) imaging was applied to assess the subcutaneous (s.c.) E98 tumor proliferation status but no orthotopic DIPG activity could be visualized. Next, E98 cells were cultured in vitro and engineered to express firefly luciferase and mCherry (E98-Fluc-mCherry). These cultured E98-Fluc-mCherry cells developed focal pontine glioma when injected into the pons directly. However, the diffuse E98 DIPG infiltrative phenotype was restored when cells were injected into the pons immediately after an intermediate s.c. passage. The diffuse E98-Fluc-mCherry model was subsequently used to test escalating doses of irradiation, applying the bioluminescent Fluc signal to monitor tumor recurrence over time. Altogether, we here describe an accurate DIPG mouse model that can be of clinical relevance for testing experimental therapeutics in vivo.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Care11.pdf:pdfCare11.pdf:PDF by e-mail"></form>

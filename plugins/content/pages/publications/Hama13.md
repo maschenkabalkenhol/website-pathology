@@ -1,0 +1,12 @@
+title: Multivoxel 1H MR spectroscopy is superior to contrast-enhanced MRI for response assessment after anti-angiogenic treatment of orthotopic human glioma xenografts and provides handles for metabolic targeting
+
+## Hamans, Bob and Navis, Anna Catharina and Wright, Alan and Wesseling, Pieter and Heerschap, Arend and Leenders, William
+NEUONC
+
+<a href="https://doi.org/10.1093/neuonc/not129">DOI</a>
+
+## Abstract
+BackgroundAnti-angiogenic treatment of glioblastoma characteristically results in therapy resistance and tumor progression via diffuse infiltration. Monitoring tumor progression in these patients is thwarted because therapy results in tumor invisibility in contrast-enhanced (CE) MRI. To address this problem, we examined whether tumor progression could be monitored by metabolic mapping using (1)H MR spectroscopic imaging (MRSI).MethodsWe treated groups of BALB/c nu/nu mice carrying different orthotopic diffuse-infiltrative glioblastoma xenografts with bevacizumab (anti-vascular endothelial growth factor [VEGF] antibody, n = 13), cabozantinib (combined VEGF receptor 2/c-Met tyrosine kinase inhibitor, n = 11), or placebo (n = 15) and compared CE-MRI with MRS-derived metabolic maps before, during, and after treatment. Metabolic maps and CE-MRIs were subsequently correlated to histology and immunohistochemistry.ResultsIn vivo imaging of choline/n-acetyl aspartate ratios via multivoxel MRS is better able to evaluate response to therapy than CE-MRI. Lactate imaging revealed that diffuse infiltrative areas in glioblastoma xenografts did not present with excessive glycolysis. In contrast, glycolysis was observed in hypoxic areas in angiogenesis-dependent compact regions of glioma only, especially after anti-angiogenic treatment.ConclusionOur data present MRSI as a powerful and feasible approach that is superior to CE-MRI and may provide handles for optimizing treatment of glioma. Furthermore, we show that glycolysis is more prominent in hypoxic areas than in areas of diffuse infiltrative growth. The Warburg hypothesis of persisting glycolysis in tumors under normoxic conditions may thus not be valid for diffuse glioma.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Hama13.pdf:pdfHama13.pdf:PDF by e-mail"></form>

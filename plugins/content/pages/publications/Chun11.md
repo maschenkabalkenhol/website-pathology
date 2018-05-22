@@ -1,0 +1,12 @@
+title: Titin based viscosity in ventricular physiology: an integrative investigation of PEVK-actin interactions
+
+## Chung, Charles S. and Methawasin, Methajit and Nelson, O Lynne and Radke, Michael H. and Hidalgo, Carlos G. and Gotthardt, Michael and Granzier, Henk L.
+JMOLCELCAR
+
+<a href="https://doi.org/10.1016/j.yjmcc.2011.06.006">DOI</a>
+
+## Abstract
+Viscosity is proposed to modulate diastolic function, but only limited understanding of the source(s) of viscosity exists. In vitro experiments have shown that the proline-glutamic acid-valine-lysine (PEVK) rich element of titin interacts with actin, causing a viscous force in the sarcomere. It is unknown whether this mechanism contributes to viscosity in vivo. We tested the hypothesis that PEVK-actin interaction causes cardiac viscosity and is important in vivo via an integrative physiological study on a unique PEVK knockout (KO) model. Both skinned cardiomyocytes and papillary muscle fibers were isolated from wildtype (WT) and PEVK KO mice and passive viscosity was examined using stretch-hold-release and sinusoidal analysis. Viscosity was reduced by ~60% in KO myocytes and ~50% in muscle fibers at room temperature. The PEVK-actin interaction was not modulated by temperature or diastolic calcium, but was increased by lattice compression. Stretch-hold and sinusoidal frequency protocols on intact isolated mouse hearts showed a smaller, 30-40% reduction in viscosity, possibly due to actomyosin interactions, and showed that microtubules did not contribute to viscosity. Transmitral Doppler echocardiography similarly revealed a 40% decrease in LV chamber viscosity in the PEVK KO in vivo. This integrative study is the first to quantify the influence of a specific molecular (PEVK-actin) viscosity in vivo and shows that PEVK-actin interactions are an important physiological source of viscosity.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Published version:pdfChun11.pdf:PDF by e-mail"></form>

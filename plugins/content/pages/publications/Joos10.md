@@ -1,0 +1,10 @@
+title: Differential susceptibility to lethal endotoxaemia in mice deficient in IL-1$alpha$, IL-1$beta$ or IL-1 receptor type I
+
+## Joosten, Leo A B. and Van De Veerdonk, Frank L. and Vonk, Alieke G. and Boerman, Otto C. and Keuter, Monique and Fantuzzi, Giamilla and Verschueren, Ineke and Van Der Poll, Tom and Dinarello, Charles A. and Kullberg, Bart Jan and Van Der Meer, Jos W M. and Netea, Mihai G.
+APMIS
+
+<a href="https://doi.org/10.1111/j.1600-0463.2010.02684.x">DOI</a>
+
+## Abstract
+The role of intereukin-1 (IL-1) in mortality caused by endotoxaemia remains controversial. While IL-1 receptor antagonist (IL-1Ra) protects mice from lethal endotoxaemia, mice deficient in IL-1Î² (IL-1Î²ï¿½?ï¿½(â€Š/)ï¿½?ï¿½) display normal susceptibility to lipopolysaccharide (LPS). The aim of this study was to identify the source of these discrepancies. Mice deficient in IL-1Î±, IL-1Î² or IL-1R type I were injected intraperitoneally with Escherichia coli or Salmonella typhimurium LPS. Survival of the mice was examined and compared with C57/Bl6 wild-type mice. In addition, serum cytokine concentrations were determined after LPS challenge and in vitro cytokine production by peritoneal macrophages was analysed. Clearance of radioactive IL-1Î± was examined in IL-1Î±ï¿½?ï¿½(/)ï¿½?ï¿½ and wild-type mice. IL-1Î²ï¿½?ï¿½(/)ï¿½?ï¿½ mice were normally susceptible to endotoxaemia and cytokine production did not differ from that in control mice. Surprisingly, LPS mortality in IL-1Î±ï¿½?ï¿½(/)ï¿½?ï¿½ mice was significantly greater than that in control mice, accompanied by higher interferon-Î³ release. These effects were mediated by a distorted homeostasis of IL-1RI receptors, as shown by a strongly delayed clearance of IL-1Î±. In contrast to the IL-1Î±ï¿½?ï¿½(/)ï¿½?ï¿½ and IL-1Î²ï¿½?ï¿½(/)ï¿½?ï¿½ mice, IL-1RIï¿½?ï¿½(/)ï¿½?ï¿½ mice were completely resistant to high doses of LPS. In conclusion, IL-1RI-mediated signals are crucial in mediating mortality occurring as a result of lethal endotoxaemia. Investigation of IL-1-mediated pathways in IL-1 knock-out mice is complicated by a distorted homeostasis of IL-1Rs.
+

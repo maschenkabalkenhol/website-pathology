@@ -1,0 +1,10 @@
+title: Concerns in using multi-detector computed tomography for diagnosing pulmonary embolism in daily practice. A cross-sectional analysis using expert opinion as reference standard
+
+## Lucassen, Wim A M. and Beenen, Ludo F M. and B"uller, Harry R. and Erkens, Petra M G. and Schaefer-Prokop, Cornelia M. and van den Berk, Inge A H. and van Weert, Henk C.
+THRRES
+
+<a href="https://doi.org/10.1016/j.thromres.2012.11.027">DOI</a>
+
+## Abstract
+Multi-detector computed tomography (MDCT) is considered to be the reference standard in diagnosing pulmonary embolism (PE). However, two concerns remain. Firstly, with the introduction of MDCT the prevalence of (sub)segmental emboli increased but the clinical implications of these small clots are uncertain. Secondly, we are not well informed about the number of false-positive CT-scans due to the lack of a gold standard.We used data from a prospective primary care study including patients suspected of pulmonary embolism. CT-scan-reading by the local radiologist in daily care was retrospectively compared with expert reading as reference standard. Final diagnosis was categorized as central/lobar, segmental or subsegmental PE.A total of 79 patients were included. In 3 of 30 patients (10%) diagnosed with PE by the local radiologist the experts refuted the diagnosis. In 7 of 49 patients (14%) not diagnosed with PE by the local radiologist the experts confirmed the presence of PE. The experts diagnosed 17 of 32 PE-patients (53%) with a central or lobar PE. All these 17 patients were also diagnosed with PE by the local radiologist. The experts diagnosed 15 patients with (sub)segmental PE. In 7 of these 15 patients (47%) the local radiologist refuted PE.Accuracy of MDCT using the expert radiologist as reference standard is not optimal. On the one hand it shows 10% false-positives exposing patients to anticoagulant treatment unnecessarily. On the other hand small emboli seem to be missed although the clinical implications of this finding are not fully clear.
+

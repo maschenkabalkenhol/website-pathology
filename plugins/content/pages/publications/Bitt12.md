@@ -1,0 +1,12 @@
+title: Prostate MRI: diffusion-weighted imaging at 1.5T correlates better with prostatectomy Gleason grades than TRUS-guided biopsies in peripheral zone tumours
+
+## L. K. Bittencourt and J. O. Barentsz and L. C. Duarte de Miranda and E. L. Gasparetto
+ER
+
+<a href="https://doi.org/10.1007/s00330-011-2269-1">DOI</a>
+
+## Abstract
+OBJECTIVES: To investigate the usefulness of Apparent Diffusion Coefficients (ADC) in predicting prostatectomy Gleason Grades (pGG) and Scores (GS), compared with ultrasound-guided biopsy Gleason Grades (bGG). METHODS: Twenty-four patients with biopsy-proven prostate cancer were included in the study. Diffusion-weighted images were obtained using 1.5-T MR with a pelvic phased-array coil. Median ADC values (b0,500,1000?s/mm?) were measured at the most suspicious areas in the peripheral zone. The relationship between ADC values and pGG or GS was assessed using Pearson's coefficient. The relationship between bGG and pGG or GS was also evaluated. Receiver operating characteristic (ROC) curve analysis was performed to assess the performance of each method on a qualitative level. RESULTS: A significant negative correlation was found between mean ADCs of suspicious lesions and their pGG (r?=?-0.55; p?<?0.01) and GS (r?=?-0.63; p?<?0.01). No significant correlation was found between bGG and pGG (r?=?0.042; p?>?0.05) or GS (r?=?0.048; p?>?0.05). ROC analysis revealed a discriminatory performance of AUC?=?0.82 for ADC and AUC?=?0.46 for bGG in discerning low-grade from intermediate/high-grade lesions. CONCLUSIONS: The ADC values of suspicious areas in the peripheral zone perform better than bGG in the correlation with prostate cancer aggressiveness, although with considerable intra-subject heterogeneity. KEY POINTS: ? Prostate cancer aggressiveness is probably underestimated and undersampled by routine ultrasound-guided biopsies. ? Diffusion-weighted MR images show good linear correlation with prostate cancer aggressiveness. ? DWI information may be used to improve risk-assessment in prostate cancer.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Bitt12.pdf:pdfBitt12.pdf:PDF by e-mail"></form>

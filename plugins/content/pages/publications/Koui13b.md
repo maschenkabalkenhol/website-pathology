@@ -1,0 +1,12 @@
+title: The value of 18F-FDG PET/CT in diagnosing infectious endocarditis
+
+## Kouijzer, Ilse J E. and Vos, Fidel J. and Janssen, Marcel J R. and van Dijk, Arie P J. and Oyen, Wim J G. and Bleeker-Rovers, Chantal P.
+EJNMMI
+
+<a href="https://doi.org/10.1007/s00259-013-2376-0">DOI</a>
+
+## Abstract
+Early detection of infectious endocarditis is challenging. For diagnosing infectious endocarditis, the revised Duke criteria are the gold standard. Evidence of endocardial involvement on echocardiography is a major criterion, but sensitivity and specificity of echocardiography are not optimal. Here we investigated the utility of (18)F-fluorodeoxyglucose (FDG) positron emission tomography and computed tomography (PET/CT) to diagnose infectious endocarditis in patients with gram-positive bacteraemia.Seventy-two patients with gram-positive bacteraemia were prospectively included. Patients with a positive blood culture growing Staphylococcus aureus, Streptococcus species or Enterococcus species were eligible when a risk factor for developing metastatic infectious foci was present. Infectious endocarditis was defined according to the revised Duke criteria. All patients underwent (18)F-FDG PET/CT and echocardiography. (18)F-FDG uptake in or around the heart valves was evaluated independently by two nuclear medicine physicians.Sensitivity for diagnosing infectious endocarditis with (18)F-FDG PET/CT was 39% and specificity was 93%. The positive predictive value was 64% and negative predictive value was 82%. The mortality rate in patients without infectious endocarditis and without increased (18)F-FDG uptake in or around the heart valves was 18%, and in patients without infectious endocarditis but with high (18)F-FDG uptake in or around the heart valves the mortality rate was 50% (p = 0.181).(18)F-FDG PET/CT is currently not sufficiently adequate for the diagnosis of infectious endocarditis because of its low sensitivity. Improvements such as patient preparation with low carbohydrate-fat allowed diet and technical advances in the newest PET/CT scanners may increase sensitivity in future studies.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Koui13b.pdf:pdf/Koui13b.pdf:PDF by e-mail"></form>

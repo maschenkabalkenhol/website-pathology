@@ -1,0 +1,11 @@
+title: Electroosmotic and pressure-driven flow in open and packed capillaries: velocity distributions and fluid dispersion
+
+## Tallarek and Rapp and Scheenen and Bayer and Van As H
+ANALCHEM
+
+
+## Abstract
+The flow field dynamics in open and packed segments of capillary columns has been studied by a direct motion encoding of the fluid molecules using pulsed magnetic field gradient nuclear magnetic resonance. This noninvasive method operates within a time window that allows a quantitative discrimination of electroosmotic against pressure-driven flow behavior. The inherent axial fluid flow field dispersion and characteristic length scales of either transport mode are addressed, and the results demonstrate a significant performance advantage of an electrokinetically driven mobile phase in both open-tubular and packed-bed geometries. In contrast to the parabolic velocity profile and its impact on axial dispersion characterizing laminar flow through an open cylindrical capillary, a pluglike velocity distribution of the electroosmotic flow field is revealed in capillary electrophoresis. Here, the variance of the radially averaged, axial displacement probability distributions is quantitatively explained by longitudinal molecular diffusion at the actual buffer temperature, while for Poiseuille flow, the preasymptotic regime to Taylor-Aris dispersion can be shown. Compared to creeping laminar flow through a packed bed, the increased efficiency observed in capillary electrochromatography is related to the superior characteristics of the electroosmotic flow profile over any length scale in the interstitial pore space and to the origin, spatial dimension, and hydrodynamics of the stagnant fluid on the support particles' external surface. Using the Knox equation to analyze the axial plate height data, an eddy dispersion term smaller by a factor of almost 2.5 than in capillary high-performance liquid chromatography is revealed for the electroosmotic flow field in the same column.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Tall00.pdf:pdfTall00.pdf:PDF by e-mail"></form>

@@ -1,0 +1,12 @@
+title: Detection of Breast Cancer in Automated 3D Breast Ultrasound
+
+## Tao Tan and Bram Platel and Roel Mus and Nico Karssemeijer
+MI
+
+<a href="https://doi.org/10.1117/12.911068">DOI</a>
+
+## Abstract
+Automated 3D breast ultrasound (ABUS) is a novel imaging modality, in which motorized scans of the breasts are made with a wide transducer through a membrane under modest compression. The technology has gained high interest and may become widely used in screening of dense breasts, where sensitivity of mammography is poor. ABUS has a high sensitivity for detecting solid breast lesions. However, reading ABUS images is time consuming, and subtle abnormalities may be missed. Therefore, we are developing a computer aided detection (CAD) system to help reduce reading time and errors. In the multi-stage system we propose, segmentations of the breast and nipple are performed, providing landmarks for the detection algorithm. Subsequently, voxel features characterizing coronal spiculation patterns, blobness, contrast, and locations with respect to landmarks are extracted. Using an ensemble of classifiers, a likelihood map indicating potential malignancies is computed. Local maxima in the likelihood map are determined using a local maxima detector and form a set of candidate lesions in each view. These candidates are further processed in a second detection stage, which includes region segmentation, feature extraction and a final classification. Region segmentation is performed using a 3D spiral-scanning dynamic programming method. Region features include descriptors of shape, acoustic behavior and texture. Performance was determined using a 78-patient dataset with 93 images, including 50 malignant lesions. We used 10-fold cross-validation. Using FROC analysis we found that the system obtains a lesion sensitivity of 60% and 70% at 2 and 4 false positives per image respectively.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send :./pdf/Tan12.pdf:PDF by e-mail"></form>

@@ -1,0 +1,12 @@
+title: Dynamics of the aorta before and after endovascular aneurysm repair: a systematic review
+
+## J. W. van Keulen and J. van Prehn and M. Prokop and F. L. Moll and J. A. van Herwaarden
+EJVES
+
+<a href="https://doi.org/10.1016/j.ejvs.2009.06.018">DOI</a>
+
+## Abstract
+An overview of the knowledge of thoracic (TAA), and abdominal aortic aneurysm (AAA) dynamics, before and after endovascular repair, is given.Medline, EMBASE and the Cochrane database were searched for relevant articles. After inclusion and exclusion, 25 relevant articles reporting on aneurysm dynamics remained, allowing for comparison. Results provided in the included studies were assumed (statistically) significant if they were larger than the repeatability of the used method.The sample size of dynamic studies is limited and translational studies are missing. Magnetic resonance angiography (MRA) and computed tomographic angiography (CTA) were shown to have lower inter-observer variabilities than ultrasonography (US). The distension of several relevant stent-graft-landing zones during the cardiac cycle in both the abdominal and thoracic aorta are significant (mean diameter change of the AAA neck in the included studies ranged from 0.9 mm to 2.4 mm; mean area change of the thoracic aorta ranged from 4.8% to 12.7% at various levels). This distension remained preserved after stent-graft placement. Preoperatively, the renal arteries displace per heartbeat. Significant movement of the aorta in the anteroposterior (AP) and lateral direction, during the cardiac cycle, was observed.The aorta exhibits a wide variety of morphologic changes throughout the cardiac cycle. CTA and MRA are reliable modalities to investigate aortic shape changes during the cardiac cycle. Significant changes per heartbeat are reported in the AAA neck and thoracic aorta. The renal artery displaces per heartbeat. The clinical relevance of dynamic imaging has not been proven yet, but dynamic changes of the aorta have to be taken into account in stent-graft selection and future stent-graft design.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Keul09a.pdf:pdfKeul09a.pdf:PDF by e-mail"></form>

@@ -1,0 +1,9 @@
+title: Surgery and radioimmunotherapy in peritoneal carcinomatosis of colorectal origin
+
+## Manuel Koppe
+
+## Abstract
+The working hypothesis for the experimental work described in this thesis was established in view of the clinical picture of a small group of patients with peritoneal carcinomatosis of colorectal origin, for whom there still is no effective treatment. Although aggressive cytoreductive surgery, resecting as much macroscopic disease as is considered compatible with life, followed by hyperthermic intraperitoneal chemotherapy has been shown to be effective in selected patients with peritoneal carcinomatosis of colorectal origin, most patients eventually present with intraperitoneal recurrence and succumb to their disease. Since even most patients with favorable clinicopathological characteristics, i.e. those in whom a macroscopically complete resection is achieved, die from their disease, one might conclude that the chemotherapy given is not sufficiently effective and that other therapies could be of benefit. The success of radioimmunotherapy using radiolabeled monoclonal antibodies (MAbs) directed against tumor-associated antigens for the treatment of non-Hodgkinâ€™s lymphoma inspired us to hypothesize that this treatment modality could be used in peritoneal carcinomatosis of colorectal origin. The experimental studies described in het present thesis therefore aimed to investigate the therapeutic potential of radioimmunotherapy in small volume and resectable peritoneal carcinomatosis of colorectal origin.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Kopp06.pdf:pdfKopp06.pdf:PDF by e-mail"></form>

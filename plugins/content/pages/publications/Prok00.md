@@ -1,0 +1,11 @@
+title: Multislice CT angiography
+
+## Prokop, M.
+EJR
+
+
+## Abstract
+Multislice CT has overcome past limitations of CT angiography (CTA): Scan length and spatial resolution can be simultaneously optimized with multislice CTA, contrast medium can be saved, and the evaluation of large anatomic areas and vessels smaller than 1 mm become possible. This article describes how to optimize scanning protocols and contrast injection, and discusses the main clinical applications of this new technique. Only three main scanning protocolssuffice for all indications. A high speed / high-volume protocol (using 4*2mm or 4*2.5mm collimation) can be employed to scan the chest or abdomen in 8-10s, or to cover the whole abdominal aorta and the peripheral runoff including the feet within 40-65s. A high resolution protocol (using 4*1mm or 4*1.25mm) can be employed for the aorta and most regional vascular beds. It allows for near isotrophic imaging and depicts fine vascular structures with excellent detail. Ultra-high resolution protocols (using 2*0.5mm or 4*0.5mm collimation) yield totally isotropic data sets, and are mainly reserved for cerebrovascular imaging. Image processing techniques, and, in particular, volume rendering have made image presentation faster and easier. Multislice CTA exceeds MRA in spatial resolution and is now able to display even small vascular side branches. Its main indications will be aortic diseases, suspected pulmonary embolism but also renal artery stenoses, preoperative workup of abdominal or cerebral vessels, and acute vascular diseases. Multisplice CTA will become a strong competitor of other minimally invasive vascular imaging techniques.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Prok00.pdf:pdfProk00.pdf:PDF by e-mail"></form>

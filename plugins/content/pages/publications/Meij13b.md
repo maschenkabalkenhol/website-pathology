@@ -1,0 +1,12 @@
+title: A retrospective analysis of the prognosis of prostate cancer patients with lymph node involvement on MR lymphography: who might be cured
+
+## Meijer, Hanneke J M and Debats, Oscar A and van Lin, Emile N J T H and Witjes, Johannes Alfred and Kaanders, Johannes H A M and Barentsz, Jelle O
+RADONC
+
+<a href="https://doi.org/10.1186/1748-717X-8-190">DOI</a>
+
+## Abstract
+BACKGROUND: The prognosis of prostate cancer patients with lymph node metastases so small they can only be visualized by new imaging techniques as MR lymphography (MRL) is unknown. The purpose of this study was to investigate the prognosis of prostate cancer patients with non-enlarged metastatic lymph nodes on MRL and to identify a subgroup of MRL-positive patients who might be candidates for curative treatment. METHODS: The charts of 138 prostate cancer patients without enlarged lymph nodes on CT, in whom a pre-treatment MRL was performed were reviewed. Endpoints were distant metastases-free survival and overall survival. Relation between the following factors and outcome were investigated: T-stage, PSA value at diagnosis, Gleason score, diameter (short axis and long axis) of the largest MRL-positive lymph node, number of MRL-positive lymph nodes, the presence of extra-pelvic nodal disease, and the extent of resection of the positive lymph nodes. Kaplan-Meier analysis was performed to estimate the survival functions. RESULTS: Of the 138 patients, 24 (17%) had a positive MRL. Patients with a short axis of the largest positive lymph node of <=8 mm had a significantly better 5-year distant metastases-free (79% vs 16%) and overall survival (81% vs 36%) than patients with larger positive lymph nodes. This also accounted for patients with a largest long axis of <=10 mm (71% vs 20% and 73% vs 40%, respectively). Outcome was also better in patients in whom all positive lymph nodes had been resected. CONCLUSION: A selection of MRL-positive patients with a good prognosis could be identified, consisting of patients with small positive lymph nodes. In these patients, cure might be pursued.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Meij13b.pdf:pdfMeij13b.pdf:PDF by e-mail"></form>

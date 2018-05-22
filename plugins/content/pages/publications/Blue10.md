@@ -1,0 +1,12 @@
+title: Consequences of digital mammography in population-based breast cancer screening: initial changes and long-term impact on referral rates
+
+## Adriana M J Bluekens and Nico Karssemeijer and David Beijerinck and Jan J M Deurenberg and Ruben E van Engen and Mireille J M Broeders and Gerard J den Heeten
+ER
+
+<a href="https://doi.org/10.1007/s00330-010-1786-7">DOI</a>
+
+## Abstract
+OBJECTIVES: To investigate the referral pattern after the transition to full-field digital mammography (FFDM) in a population-based breast cancer screening programme. METHODS: Preceding the nationwide digitalisation of the Dutch screening programme, an FFDM feasibility study was conducted. Detection and referral rates for FFDM and screen-film mammography (SFM) were compared for first and subsequent screens. Furthermore, radiological characteristics of referrals in digital screening were assessed. RESULTS: A total of 312,414 screening mammograms were performed (43,913 digital and 268,501 conventional), with 4,473 consecutive referrals (966 following FFDM). Initially the FFDM referral rate peaked, and many false-positive results were noted as a consequence of pseudolesions and increased detection of (benign) microcalcifications. A higher overall referral rate was observed in FFDM screening in both first and subsequent examinations (p < .001), with a significant increase in cancer detection (p = .010). CONCLUSION: As a result of initial inexperience with digital screening images implementing FFDM in a population-based breast cancer screening programme may lead to a strong, but temporary increase in referral. Dedicated training in digital screening for radiographers and screening radiologists is therefore recommended. Referral rates decrease and stabilise (learning curve effect) at a higher level than in conventional screening, yet with significantly enhanced cancer detection.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Blue10.pdf:pdf/Blue10.pdf:PDF by e-mail"></form>

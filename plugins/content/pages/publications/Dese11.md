@@ -1,0 +1,12 @@
+title: Comparison of Nodal Risk Formula and MR Lymphography for Predicting Lymph Node Involvement in Prostate Cancer
+
+## Willem M L L G Deserno and Oscar A Debats and Tom Rozema and Ansje S Fortuin and Roel A M Heesakkers and Yvonne Hoogeveen and Petronella G M Peer and Jelle O Barentsz and Emile N J T van Lin
+IJROBP
+
+<a href="https://doi.org/10.1016/j.ijrobp.2010.05.043">DOI</a>
+
+## Abstract
+PURPOSE: To compare the nodal risk formula (NRF) as a predictor for lymph node (LN) metastasis in patients with prostate cancer with magnetic resonance lymphography (MRL) using Ultrasmall Super-Paramagnetic particles of Iron Oxide (USPIO) and with histology as gold standard. METHODS AND MATERIALS: Logistic regression analysis was performed with the results of histopathological evaluation of the LN as dependent variable and the nodal risk according to the NRF and the result of MRL as independent input variables. Receiver operating characteristic (ROC) analysis was performed to assess the performance of the models. RESULTS: The analysis included 375 patients. In the single-predictor regression models, the NRF and MRL results were both significantly (p <0.001) predictive of the presence of LN metastasis. In the models with both predictors included, NRF was nonsignificant (p = 0.126), but MRL remained significant (p <0.001). For NRF, sensitivity was 0.79 and specificity was 0.38; for MRL, sensitivity was 0.82 and specificity was 0.93. After a negative MRL result, the probability of LN metastasis is 4% regardless of the NRF result. After a positive MRL, the probability of having LN metastasis is 68%. CONCLUSIONS: MRL is a better predictor of the presence of LN metastasis than NRF. Using only the NRF can lead to a significant overtreatment on the pelvic LN by radiation therapy. When the MRL result is available, the NRF is no longer of added value.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Dese11.pdf:pdfDese11.pdf:PDF by e-mail"></form>

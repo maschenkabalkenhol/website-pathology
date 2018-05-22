@@ -1,0 +1,9 @@
+title: Development and clinical application of peptide-based radiopharmaceuticals
+
+## Gotthardt, M. and Boermann, O. C. and Behr, T. M. and B'eh'e, M. P. and Oyen, W J G.
+Curr Pharm Des
+
+
+## Abstract
+Peptide-based radiopharmaceuticals have been introduced into clinical work more than a decade ago. The first and most successful imaging agent to date is the somatostatin analog octreotide. It is used for somatostatin receptor scintigraphy and also receptor-mediated peptide-radiotherapy of neuroendocrine tumors. For in vivo use as radiopharmaceutical, the natural peptide is modified in order to enhance the metabolic stability and to allow stable labeling with a so-called residualizing label. This means, that a radiometal chelator complex bound to a modified peptide stable in serum is internalized into the target cells via a specific receptor. The peptide then undergoes lysosomal degradation leaving the radiometal-chelator complex trapped inside the cell, leading to a high target to background ratio. The successful development of new radiopeptides is thus dependent on modifications of a given natural peptide while preserving the binding affinity for the target receptor(s) at the same time. Other peptides than somatostatin are under development for use as radiopeptides such as Minigastrin, GLP-1, VIP, Substance P, or Neurotensin. Some show very favorable results in clinical trials, like Minigastrin for example. Furthermore, there is increasing interest in peptide-binding sites other than the "classical" receptors for regulatory peptides specifically over-expressed by (neuroendocrine) tumors. In this paper, we provide an overview of the biochemical and radiochemical aspects of radiopeptide development, the current state of clinical use of radiopeptides for diagnosis and therapy of tumors, the current state of development of new compounds, and future developments.
+

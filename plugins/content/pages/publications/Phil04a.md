@@ -1,0 +1,12 @@
+title: Characterization of late radiation effects in the rat thoracolumbar spinal cord by MR imaging using USPIO
+
+## Philippens, M E P. and Gambarota, G. and Pikkemaat, J. A. and Peeters, W J M. and van der Kogel, A. J. and Heerschap, A.
+MRMPBM
+
+<a href="https://doi.org/10.1007/s10334-004-0085-1">DOI</a>
+
+## Abstract
+The aim of this study was to detect late radiation effects in the rat spinal cord using MR imaging with ultra-small particles of iron oxide (USPIO) contrast agent to better understand the development of late radiation damage with emphasis on the period preceding neurological signs. Additionally, the role of an inflammatory reaction was assessed by measuring macrophages that internalized USPIO. T2-weighted spin echo MR measurements were performed at 7T in six rats before paresis was expected (130-150 days post-irradiation, early group), and in six paretic rats (150-190 days post-irradiation, late group). Measurements were performed before, directly after and, only in the early group, 40 h after USPIO administration and compared with histology. In the early group, MR images showed focal regions in grey matter (GM) and white matter (WM) with signal intensity reduction after USPIO injection. Larger lesions with contrast enhancement were located in and around edematous GM of three animals of the early group and five of the late group. Forty hours after injection, additional lesions in WM, GM and nerve roots appeared in animals with GM edema. In the late paretic group, MR imaging showed WM necrosis adjacent to areas with large contrast enhancement. In conclusion, detection of early focal lesions was improved by contrast administration. In the animals with extended radiation damage, large hypo-intense regions appeared due to USPIO, which might be attributed to blood spinal cord barrier breakdown, but the involvement of blood-derived iron-loaded macrophages could not be excluded.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Published version:pdfPhil04a.pdf:PDF by e-mail"></form>

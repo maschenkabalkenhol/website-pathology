@@ -1,0 +1,9 @@
+title: Texture in tissue echograms. Speckle or information?
+
+## Thijssen, J. M. and Oosterveld, B. J.
+JUM
+
+
+## Abstract
+Models of biological tissues are described in terms of acoustic parameters and of structure. Beam formation is discussed for continuous wave and pulsed modes of transducer operation and the concept of the point spread function (PSF) is introduced. The PSF is equivalent to the resolution cell, or the sampling volume, of echographic equipment. The generation of echograms from parenchymal tissues is described in terms of speckle formation due to interference at reception on the transducer. The speckle dimensions are quantitatively compared to the sampling volume of the employed transducer. It is shown that for fully developed speckle the tissue characteristics are exclusively reflected in the mean echolevel and not in the speckle size. The speckle size is, however, greatly dependent on the bandwidth, the frequency, and the geometry of the employed transducer. The attenuation by the insonated tissue yields a depth-dependent increase of mainly the lateral speckle size, in addition to the depth dependence caused by the beam formation. If the number density of scattering sites within the tissue is relatively low, the speckle characteristics are dependent on this density and, hence, tissue characterization is feasible if these characteristics are analyzed by statistical methods. These methods are gray level histogram analysis and the estimation of the autocorrelation function, ie, first and second order statistics, respectively. Structural order in tissues can be quantified by autocorrelation analysis and clinical studies on diffuse liver diseases support this conclusion. The effects of pre- and postprocessing on the detectability of focal lesions are outlined. The impact of multifocus systems and of the acquisition of radio frequency echograms on further developments of clinical echography is discussed.
+

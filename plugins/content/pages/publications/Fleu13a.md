@@ -1,0 +1,10 @@
+title: Expression and clinical relevance of MET and ALK in Ewing sarcomas
+
+## Fleuren, Emmy D G. and Roeffen, Melissa H S. and Leenders, William P. and Flucke, Uta E. and Vlenterie, Myrella and Schreuder, Hendrik W. and Boerman, Otto C. and van der Graaf, Winette T A. and Versleijen-Jonkers, Yvonne M H.
+IJC
+
+<a href="https://doi.org/10.1002/ijc.28047">DOI</a>
+
+## Abstract
+Because novel therapeutic options are limited in Ewing sarcomas (ES), we investigated the expression, genetic aberrations and clinical relevance of MET and anaplastic lymphoma kinase (ALK) in ES and determined the relevance of targeting these receptors. MET and ALK protein expression was determined immunohistochemically in 31 (50 samples) and 36 (59 samples) ES patients, respectively. Samples included primary tumors, postchemotherapy resections, metastases and relapses. MET and ALK RTK domains were sequenced in respectively 33 and 32 tumors. Five ES cell lines were treated in vitro with the MET/ALK-inhibitor crizotinib, the ALK-inhibitor NVP-TAE684 or the MET-inhibitor cabozantinib and analyzed by MTT assays. Modest to high MET and ALK expression was detected in the majority of ES (86 and 69%, respectively). ALK expression was significantly lower in postchemotherapy resections compared to paired untreated primary tumors (p = 0.031, z = -2.310, n = 11). In primary tumors (n = 20), membranous MET expression significantly correlated with a poor overall survival (OS) (60 vs. 197 months, p = 0.014). There was a trend toward a poor event-free survival (67 vs. 111 months, p = 0.078) and OS (88 vs. 128 months, p = 0.074) in patients with highest ALK levels (n = 29). ALK or MET RTK domain aberrations were demonstrated in 5/32 (16%) and 3/33 (9%) tumors, respectively. Crizotinib (IC50 1.22-3.59 Î¼mol/L), NVP-TAE684 (IC50 0.15-0.79 Î¼mol/L) and cabozantinib (IC50 2.69-8.27 Î¼mol/L) affected ES cell viability in vitro. Altogether, our data suggest that MET and ALK are potential novel therapeutic targets in ES and targeting these receptors may be of great interest to rationally design future studies in ES.
+

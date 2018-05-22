@@ -1,0 +1,9 @@
+title: Vascular tissue characterisation with IVUS elastography
+
+## de Korte, C. L. and Woutman, H. A. and van der Steen, A. F. and Pasterkamp, G. and C'espedes, E. I.
+Ultrasonics
+
+
+## Abstract
+Knowledge about the mechanical properties of the vessel wall and plaque is important for guiding intravascular interventional procedures and detection of plaque vulnerability. Rupture of atherosclerotic plaques is associated with acute myocardial infarction and unstable angina pectoris. In a plaque with a lipid core, the stress due to the arterial pulsation will be concentrated in the cap and a thin cap may be unable to bear this stress. In this study, the potential of intravascular elastography to characterise fibrous, fibro-fatty and fatty tissue based on their mechanical properties was investigated. Using a custom-made set-up, intravascular echograms and elastograms of excised human femoral arteries were determined. High frequency r.f. data (30 MHz) were acquired using an intravascular catheter. The tissue was compressed using intravascular pressures of 80 and 100 mmHg. The cross-sections of interest were marked with a needle for matching with histology. Using cross-correlation estimation of gated echosignals, elastograms (images of the local strain) were determined. After the intravascular experiments, the specimens were fixed in formaldehyde and processed for paraffin embedding. Sections were stained with picrosirius red and alpha-actin to counterstain collagen and smooth muscle cells (SMC), respectively. Results of vessel cross-sections with fibrous and fatty plaque regions will be presented. The elastograms of these specimens show that the strain in fatty tissue is higher than the strain in fibrous material. In conclusion, these in vitro experiments on human femoral arteries indicate the potential of intravascular elastography to characterise different plaque components.
+

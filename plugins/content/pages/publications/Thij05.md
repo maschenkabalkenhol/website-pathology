@@ -1,0 +1,12 @@
+title: Modeling ultrasound contrast measurement of blood flow and perfusion in biological tissue
+
+## Thijssen, Johan M. and de Korte, Chris L.
+UMB
+
+<a href="https://doi.org/10.1016/j.ultrasmedbio.2004.11.006">DOI</a>
+
+## Abstract
+The aim of this paper was to obtain a parametric description of ultrasound (US) contrast dilution curves obtained in piglet brain after a bolus injection of contrast agent (Sonovue). Several models for so-called dye-dilution curves were considered, and a choice for the gamma probability density function (pdf) was made. This function was chosen primarily because of the elegant mathematical opportunities to achieve a practical one-parameter curve fitting and to extend this model for incorporating recirculation. The model was fitted to US contrast data obtained in piglet brain. The software enables interactive insertion of curve landmarks and a single parameter (i.e., order of gamma pdf) iterative least squares fit was then made to the first bolus passage part of the curve. Sequential recirculation curve fits were calculated from this fit. A preliminary result for 24 experimental curves is a median value of 3 (range 3 to 5) for the order of the gamma function (kappa) and a median of 0.6/s (range 0.3 to 0.9) for the event rate (lambda). The theoretical background for obtaining the relative plasma flow and volume in tissue (i.e., "blood flow index", BFI, and "blood volume index", BVI, respectively) from the reconstructed first passage curve is given as well. The potential of assessment of the relative fraction of left-to-right shunting of the cardiac output in case of persistent ductus arteriosis is outlined. The requirements for an absolute measurement of tissue blood flow and tissue perfusion are discussed. The conclusion is that the gamma model can well be fitted to the experimental contrast curves; thus, yielding the parameters kappa and lambda. Assessment of BFI and BVI is feasible.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Thij05.pdf:pdfThij05.pdf:PDF by e-mail"></form>

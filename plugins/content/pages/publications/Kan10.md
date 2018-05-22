@@ -1,0 +1,12 @@
+title: Only fat infiltrated muscles in resting lower leg of FSHD patients show disturbed energy metabolism
+
+## H. E. Kan and D. W J Klomp and M. Wohlgemuth and I. van Loosbroek-Wagemans and B. G M van Engelen and G. W. Padberg and A. Heerschap
+NMRB
+
+<a href="https://doi.org/10.1002/nbm.1494">DOI</a>
+
+## Abstract
+Facioscapulohumeral muscular dystrophy (FSHD) is characterized by asymmetric dysfunctioning of individual muscles. Currently, it is unknown why specific muscles are affected before others and more particularly what pathophysiology is causing this differential progression. The aim of our study was to use a combination of (31)P magnetic resonance spectroscopic imaging (MRSI) and T1-weighted MRI to uncover metabolic differences in fat infiltrated and not fat infiltrated muscles in patients with FSHD. T1-weighted images and 3D (31)P MRSI were obtained from the calf muscles of nine patients with diagnosed FSHD and nine healthy age and sex matched volunteers. Muscles of patients were classified as fat infiltrated (PFM) and non fat-infiltrated (PNM) based on visual assessment of the MR images. Ratios of phosphocreatine (PCr), phosphodiesters (PDE) and inorganic phosphate (Pi) over ATP and tissue pH were compared between PFM and PNM and the same muscles in healthy volunteers. Of all patients, seven showed moderate to severe fatty infiltration in one or more muscles. In these muscles, decreases in PCr/ATP and increases in tissue pH were observed compared to the same muscles in healthy volunteers. Interestingly, these differences were absent in the PNM group. Our data show that differences in metabolite ratios and tissue pH in skeletal muscle between healthy volunteers and patients with FSHD appear to be specific for fat infiltrated muscles. Normal appearing muscles on T1 weighted images of patients showed normal phosphoryl metabolism, which suggests that in FSHD disease progression is truly muscle specific.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Kan10.pdf:pdfKan10.pdf:PDF by e-mail"></form>

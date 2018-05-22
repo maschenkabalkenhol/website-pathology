@@ -1,0 +1,12 @@
+title: Combined quantitative dynamic contrast-enhanced MR imaging and (1)H MR spectroscopic imaging of human prostate cancer
+
+## van Dorsten, Ferdinand A. and van der Graaf, Marinette and Engelbrecht, Marc R W. and van Leenders, Geert J L H. and Verhofstad, Albert and Rijpkema, Mark and de la Rosette, Jean J M C H. and Barentsz, Jelle O. and Heerschap, Arend
+JMRI
+
+<a href="https://doi.org/10.1002/jmri.20113">DOI</a>
+
+## Abstract
+To differentiate prostate carcinoma from healthy peripheral zone and central gland using quantitative dynamic contrast-enhanced (DCE) magnetic resonance (MR) imaging and two-dimensional (1)H MR spectroscopic imaging (MRSI) combined into one clinical protocol.Twenty-three prostate cancer patients were studied with a combined DCE-MRI and MRSI protocol. Cancer regions were localized by histopathology of whole mount sections after radical prostatectomy. Pharmacokinetic modeling parameters, K(trans) and k(ep), as well as the relative levels of the prostate metabolites citrate, choline, and creatine, were determined in cancer, healthy peripheral zone (PZ), and in central gland (CG).K(trans) and k(ep) were higher (P < 0.05) in cancer and in CG than in normal PZ. The (choline + creatine)/citrate ratio was elevated in cancer compared to the PZ and CG (P < 0.05). While a (choline + creatine)/citrate ratio above 0.68 was found to be a reliable indicator of cancer, elevated K(trans) was only a reliable cancer indicator in the diagnosis of individual patients. K(trans) and (choline + creatine)/citrate ratios in cancer were poorly correlated (Pearson r(2) = 0.07), and thus microvascular and metabolic abnormalities may have complementary value in cancer diagnosis.The combination of high-resolution spatio-vascular information from dynamic MRI and metabolic information from MRSI has excellent potential for improved localization and characterization of prostate cancer in a clinical setting. J. Magn. Reson. Imaging 2004;20:279-287.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Dors04.pdf:pdfDors04.pdf:PDF by e-mail"></form>

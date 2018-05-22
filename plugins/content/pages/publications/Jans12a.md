@@ -1,0 +1,12 @@
+title: Liver fat content is linked to inflammatory changes in subcutaneous adipose tissue in type 2 diabetes patients
+
+## Jansen, Henry J. and Vervoort, Gerald M. and van der Graaf, M. and Stienstra, R. and Tack, Cees J.
+CLINEND
+
+<a href="https://doi.org/10.1111/cen.12105">DOI</a>
+
+## Abstract
+CONTEXT: Patients with type 2 diabetes mellitus (T2DM) are typically overweight and have an increased liver fat content (LFAT). High LFAT may be explained by an increased efflux of free fatty acids from the adipose tissue which is partly instigated by inflammatory changes. This would imply an association between inflammatory features of the adipose tissue and liver fat content. OBJECTIVE: To analyse associations between inflammatory features of the adipose tissue and liver fat content. DESIGN: A cross-sectional study. PATIENTS: Twenty-seven obese patients with insulin-treated T2DM were studied. MEASUREMENTS: LFAT content was measured by proton magnetic resonance spectroscopy. A subcutaneous (sc) fat biopsy was obtained to determine morphology and protein levels within adipose tissue. In addition to fat cell size, the percentage of macrophages and the presence of crown like structures (CLSs) within sc fat was assessed by CD68-immunohistochemical staining. RESULTS: Mean LFAT percentage was 11.1 Â± 1.7% (range 0.75-32.9%); 63% of the patients were diagnosed with an elevated LFAT (upper range of normal â‰¤ 5.5%). Whereas adipocyte size did not correlate with LFAT, 3 out of 4 subjects with CLSs in sc fat had elevated LFAT and the percentage of macrophages present in sc adipose tissue was positively associated with LFAT. Protein concentrations of adiponectin within adipose tissue negatively correlated with LFAT. Adipose tissue protein levels of the key inflammatory adipokine plasminogen activator inhibitor-1 (PAI-1) were positively associated with LFAT. CONCLUSIONS: Several pro-inflammatory changes in sc adipose tissue associate with increased LFAT content in obese insulin-treated patients with T2DM. These findings suggest that inflammatory changes at the level of the adipose tissue may drive liver fat accumulation. Â© 2012 Blackwell Publishing Ltd.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Jans12a.pdf:pdfJans12a.pdf:PDF by e-mail"></form>

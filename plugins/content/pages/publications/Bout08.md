@@ -1,0 +1,10 @@
+title: The effect of cholecalciferol supplementation on vitamin D levels and insulin sensitivity is dose related in vitamin D-deficient HIV-1-infected patients
+
+## van den Bout-van den Beukel, C J P. and van den Bos, M. and Oyen, W J G. and Hermus, Ad R M M. and Sweep, F C G J. and Tack, C J J. and Bosch, M E W. and Burger, D. M. and Koopmans, P. P. and van der Ven, A J A M.
+HIV Med
+
+<a href="https://doi.org/10.1111/j.1468-1293.2008.00630.x">DOI</a>
+
+## Abstract
+The aim of this study was to explore the effects of cholecalciferol supplementation on vitamin D levels, bone mineral density (BMD), body fat distribution and insulin sensitivity in vitamin D-deficient HIV-1-infected patients.Twenty vitamin D-deficient HIV-1-infected patients were prospectively treated with 2000 IU cholecalciferol/day for 14 weeks, whereafter treatment was continued with half this dosage until 48 weeks. BMD, body fat distribution, 1,25-dihydroxy vitamin D(3) (1,25(OH)2D3), fasting glucose, insulin, adiponectin, leptin, interleukin (IL)-6 and tumour necrosis factor (TNF)-alpha were measured at baseline, and at 24 and 48 weeks. Parathyroid hormone (PTH), 25-hydroxy vitamin D(3) [25(OH)D(3)], cholesterol and triglycerides were measured at baseline, and at 12, 24 and 48 weeks.After 24 weeks, cholecalciferol supplementation significantly increased 25(OH)D3 and 1,25(OH)2D3 levels and decreased PTH and insulin sensitivity. After 48 weeks, however, only 25(OH)D3 levels remained significantly different from baseline, while the other parameter levels returned to baseline, suggesting a dose-response effect. Cholecalciferol had no effect on BMD, adipokines and triglycerides.The effect of cholecalciferol treatment in this cohort appears to be dose dependent. Cholecalciferol dosages of > or =2000 IU are necessary to achieve 1,25(OH)2D3 levels that significantly decrease PTH, but also negatively affect insulin sensitivity. The results of this hypothesis-driven explorative study need to be confirmed in larger clinical trials.
+

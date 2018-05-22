@@ -1,0 +1,12 @@
+title: Calcium sensitivity and the Frank-Starling mechanism of the heart are increased in titin N2B region-deficient mice
+
+## Lee, Eun-Jeong and Peng, Jun and Radke, Michael and Gotthardt, Michael and Granzier, Henk L.
+JMOLCELCAR
+
+<a href="https://doi.org/10.1016/j.yjmcc.2010.05.006">DOI</a>
+
+## Abstract
+Previous work suggests that titin-based passive tension is a factor in the Frank-Starling mechanism of the heart, by increasing length-dependent activation (LDA) through an increase in calcium sensitivity at long sarcomere length. We tested this hypothesis in a mouse model (N2B KO model) in which titin-based passive tension is elevated as a result of the excision of the N2B element, one of cardiac titin's spring elements. LDA was assessed by measuring the active tension-pCa (-log[Ca(2+)]) relationship at sarcomere length (SLs) of 1.95, 2.10, and 2.30 microm in WT and N2B KO skinned myocardium. LDA was positively correlated with titin-based passive tension due to an increase in calcium sensitivity at the longer SLs in the KO. For example, at pCa 6.0, the KO:WT tension ratio was 1.28+/-0.07 and 1.42+/-0.04 at SLs of 2.1 and 2.3 microm, respectively. There was no difference in protein expression or total phosphorylation of sarcomeric proteins. We also measured the calcium sensitivity after PKA treating the skinned muscle and found that titin-based passive tension was also now correlated with LDA, with a slope that was significantly increased compared to no PKA treatment. Finally, we performed isolated heart experiments and measured the Frank-Starling relation (slope of developed wall stress-LV volume relation) as well as diastolic stiffness (slope of diastolic wall stress-volume relation). The FSM was more pronounced in the N2B KO hearts and the slope of the FSM correlated with diastolic stiffness. These findings support that titin-based passive tension triggers an increase in calcium sensitivity at long sarcomere length, thereby playing an important role in the Frank-Starling mechanism of the heart.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Published version:pdfLee10d.pdf:PDF by e-mail"></form>

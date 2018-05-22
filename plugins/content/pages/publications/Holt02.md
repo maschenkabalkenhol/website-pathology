@@ -1,0 +1,10 @@
+title: Smooth muscle-selective deletion of guanylyl cyclase-A prevents the acute but not chronic effects of ANP on blood pressure
+
+## Holtwick, Rita and Gotthardt, Michael and Skryabin, Boris and Steinmetz, Martin and Potthast, Regine and Zetsche, Bernd and Hammer, Robert E. and Herz, Joachim and Kuhn, Michaela
+PNAS
+
+<a href="https://doi.org/10.1073/pnas.102650499">DOI</a>
+
+## Abstract
+Atrial natriuretic peptide (ANP) is an important regulator of arterial blood pressure. The mechanisms mediating its hypotensive effects are complex and involve the inhibition of the sympathetic and renin-angiotensin-aldosterone (RAA) systems, increased diuresis/natriuresis, vasodilation, and enhanced vascular permeability. In particular, the contribution of the direct vasodilating effect of ANP to the hypotensive actions remains controversial, because variable levels of the ANP receptor, guanylyl cyclase A (GC-A), are expressed in different vascular beds. The objective of our study was to determine whether a selective deletion of GC-A in vascular smooth muscle would affect the hypotensive actions of ANP. We first created a mutant allele of mouse GC-A by flanking a required exon with loxP sequences. Crossing floxed GC-A with SM22-Cre transgene mice expressing Cre recombinase in smooth muscle cells (SMC) resulted in mice in which vascular GC-A mRNA expression was reduced by approximately 80%. Accordingly, the relaxing effects of ANP on isolated vessels from these mice were abolished; despite this fact, chronic arterial blood pressure of awake SMC GC-A KO mice was normal. Infusion of ANP caused immediate decreases in blood pressure in floxed GC-A but not in SMC GC-A knockout mice. Furthermore, acute vascular volume expansion, which causes release of cardiac ANP, did not affect resting blood pressure of floxed GC-A mice, but rapidly and significantly increased blood pressure of SMC GC-A knockout mice. We conclude that vascular GC-A is dispensable in the chronic and critical in the acute moderation of arterial blood pressure by ANP.
+

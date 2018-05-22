@@ -1,0 +1,10 @@
+title: PET-CT for radiotherapy treatment planning and response monitoring in solid tumors
+
+## Bussink, Johan and Kaanders, Johannes H A M. and van der Graaf, Winette T A. and Oyen, Wim J G.
+NATREVCLIONC
+
+<a href="https://doi.org/10.1038/nrclinonc.2010.218">DOI</a>
+
+## Abstract
+PET imaging has evolved as an indispensible tool for staging in oncology. Multiple quantitative measurements can be performed, enabling the effects of treatment to be monitored before changes are detectable with the use of conventional imaging modalities. PET tracers are available to visualize and quantify the most important mechanisms of resistance to radiotherapy and chemoradiotherapy. Reproducibility of these tracers depends on the particular tracer and the underlying biology of the process that is being investigated. PET enables clinicians to select patients for intensified treatment on the basis of resistance mechanisms taking place at the molecular level. From translational studies and randomized trials, it has become clear that appropriate patient selection can prevent unnecessary rejection of various treatment options through the observation of individual patients rather than only looking at the results of a large study population.
+

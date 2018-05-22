@@ -1,0 +1,12 @@
+title: Phosphorylated guanidinoacetate partly compensates for the lack of phosphocreatine in skeletal muscle of mice lacking guanidinoacetate methyltransferase
+
+## Kan, Hermien E. and Renema, W Klaas Jan and Isbrandt, Dirk and Heerschap, Arend
+JPHYSIOL
+
+<a href="https://doi.org/10.1113/jphysiol.2004.067926">DOI</a>
+
+## Abstract
+The effects of creatine (Cr) absence in skeletal muscle caused by a deletion of guanidinoacetate methyltransferase (GAMT) were studied in a knockout mouse model by in vivo (31)P magnetic resonance (MR) spectroscopy. (31)P MR spectra of hindleg muscle of GAMT-deficient (GAMT-/-) mice showed no phosphocreatine (PCr) signal and instead showed the signal for phosphorylated guanidinoacetate (PGua), the immediate precursor of Cr, which is not normally present. Tissue pH did not differ between wild-type (WT) and GAMT-/- mice, while relative inorganic phosphate (P(i)) levels were increased in the latter. During ischaemia, PGua was metabolically active in GAMT-/- mice and decreased at a rate comparable to the decrease of PCr in WT mice. However, the recovery rate of PGua in GAMT-/- mice after ischaemia was reduced compared to PCr in WT mice. Saturation transfer measurements revealed no detectable flux from PGua to gamma-ATP, indicating severely reduced enzyme kinetics. Supplementation of Cr resulted in a rapid increase in PCr signal intensity until only this resonance was visible, along with a reduction in relative P(i) values. However, the PGua recovery rate after ischaemia did not change. Our results show that despite the absence of Cr, GAMT-/- mice can cope with mild ischaemic stress by using PGua for high energy phosphoryl transfer. The reduced affinity of creatine kinase (CK) for (P)Gua only becomes apparent during recovery from ischaemia. It is argued that absence of Cr causes the higher relative P(i) concentration also observed in animals lacking muscle CK, indicating an important role of the CK system in P(i) homeostasis.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Kan04.pdf:pdfKan04.pdf:PDF by e-mail"></form>

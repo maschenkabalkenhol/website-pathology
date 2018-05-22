@@ -1,0 +1,12 @@
+title: Cardiovascular MR dobutamine stress in adult tetralogy of Fallot: disparity between CMR volumetry and flow for cardiovascular function
+
+## Israel Valverde and Victoria Parish and Aphrodite Tzifa and Catherine Head and Samir Sarikouch and Gerald Greil and Tobias Schaeffter and Reza Razavi and Philipp Beerbaum
+JMRI
+
+<a href="https://doi.org/10.1002/jmri.22573">DOI</a>
+
+## Abstract
+To evaluate the MR agreement of cardiac function parameters between volumetric (cine SSFP) and phase contrast flow (PC-flow) assessment in patients with repaired tetralogy of Fallot (r-TOF) and chronic pulmonary regurgitation (PR) at rest and under dobutamine stress (DS-MR).We studied 18 patients with r-TOF and severe chronic PR (34 ï¿½ 12.7 years, PR fraction([flow]) 44 ï¿½ 15%) by cardiac MR at rest, 10 and 20 ï¿½g/kg/min of dobutamine. We compared analogous functional parameters by volumetry and PC-flow: (i) Systemic output [left ventricle stroke volume (LV(SV)) versus aortic forward flow (AO(FF))], (ii) Pulmonary output [right ventricle stroke volume (RV(SV)) versus pulmonary forward flow (PA(FF))], (iii) PR volume [(RV(SV)-LV(SV)) versus pulmonary backward flow (PA(BF))], (iv) PR fraction [(RV(SV)-LV(SV)/RV(SV)) versus (PA(BF)/PA(FF))].We found excellent Bland-Altman agreement (mean difference ï¿½ limits of agreement, mL/beat/m(2)) at rest for both the systemic (-0.8 ï¿½ 5.7) and pulmonary strokes volumes (-0.1 ï¿½ 7.6), which slightly deteriorates during DS-MR. The PR volume showed acceptable agreement at rest (-3.6 ï¿½ 15.1), but also further deteriorated during stress (5.4 ï¿½ 24). In contrast, the PR fraction showed poor agreement equally at rest (-5.6 ï¿½ 22.8) and DS-MR (3.2 ï¿½ 19.2).In r-TOF with chronic PR, analogous functional parameters should not be used interchangeably between volumetric and PC-flow assessment during DS-MR evaluation.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Valv11a.pdf:pdfValv11a.pdf:PDF by e-mail"></form>

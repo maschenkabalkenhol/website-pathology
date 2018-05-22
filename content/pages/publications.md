@@ -1,3 +1,4 @@
 title: Publications
+template: publications
 
-Work in progress.
+link to bibtex 

@@ -1,0 +1,9 @@
+title: Optimizing lutetium 177-anti-carbonic anhydrase IX radioimmunotherapy in an intraperitoneal clear cell renal cell carcinoma xenograft model
+
+## Muselaers, Constantijn H J. and Oosterwijk, Egbert and Bos, Desir'ee L. and Oyen, Wim J G. and Mulders, Peter F A. and Boerman, Otto C.
+MOLI
+
+
+## Abstract
+A new approach in the treatment of clear cell renal carcinoma (ccRCC) is radioimmunotherapy (RIT) using anti-carbonic anhydrase IX (CAIX) antibody G250. To investigate the potential of RIT with lutetium 177 (177Lu)-labeled G250, we conducted a protein dose escalation study and subsequently an RIT study in mice with intraperitoneally growing ccRCC lesions. Mice with intraperitoneal xenografts were injected with 1, 3, 10, 30, or 100 Î¼g of G250 labeled with 10 MBq indium 111 (111In) to determine the optimal protein dose. The optimal protein dose determined with imaging and biodistribution studies was used in a subsequent RIT experiment in three groups of 10 mice with intraperitoneal SK-RC-52 tumors. One group received 13 MBq 177Lu-DOTA-G250, a control group received 13 MBq nonspecific 177Lu-MOPC21, and the second control group was not treated and received 20 MBq 111In-DOTA-G250. The optimal G250 protein dose to target ccRCC in this model was 10 Î¼g G250. Treatment with 13 MBq 177Lu-DOTA-G250 was well tolerated and resulted in significantly prolonged median survival (139 days) compared to controls (49-53 days, p â€Š=â€Š .015), indicating that RIT has potential in this metastatic ccRCC model.
+

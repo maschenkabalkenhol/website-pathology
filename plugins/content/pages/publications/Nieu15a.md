@@ -1,0 +1,12 @@
+title: Carotid plaque elasticity estimation using ultrasound elastography, MRI, and inverse FEA - A numerical feasibility study.
+
+## Nieuwstadt, H A and Fekkes, S and Hansen, H H G and de Korte, C L and van der Lugt, A and Wentzel, J J and van der Steen, A F W and Gijsen, F J H
+Medical engineering & physics
+
+<a href="https://doi.org/10.1016/j.medengphy.2015.06.003">DOI</a>
+
+## Abstract
+The material properties of atherosclerotic plaques govern the biomechanical environment, which is associated with rupture-risk. We investigated the feasibility of noninvasively estimating carotid plaque component material properties through simulating ultrasound (US) elastography and in vivo magnetic resonance imaging (MRI), and solving the inverse problem with finite element analysis. 2D plaque models were derived from endarterectomy specimens of nine patients. Nonlinear neo-Hookean models (tissue elasticity C1) were assigned to fibrous intima, wall (i.e., media/adventitia), and lipid-rich necrotic core. Finite element analysis was used to simulate clinical cross-sectional US strain imaging. Computer-simulated, single-slice in vivo MR images were segmented by two MR readers. We investigated multiple scenarios for plaque model elasticity, and consistently found clear separations between estimated tissue elasticity values. The intima C1 (160Â kPa scenario) was estimated as 125.8Â Â±Â 19.4Â kPa (reader 1) and 128.9Â Â±Â 24.8Â kPa (reader 2). The lipid-rich necrotic core C1 (5Â kPa) was estimated as 5.6Â Â±Â 2.0Â kPa (reader 1) and 8.5Â Â±Â 4.5Â kPa (reader 2). A scenario with a stiffer wall yielded similar results, while realistic US strain noise and rotating the models had little influence, thus demonstrating robustness of the procedure. The promising findings of this computer-simulation study stimulate applying the proposed methodology in a clinical setting.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Nieu15a.pdf:pdfNieu15a.pdf:PDF by e-mail"></form>

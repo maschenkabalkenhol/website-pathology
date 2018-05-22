@@ -1,0 +1,12 @@
+title: EUS-FNA for the detection of left adrenal metastasis in patients with lung cancer
+
+## Schuurbiers, Olga C J. and Tournoy, Kurt G. and Schoppers, Hans J. and Dijkman, Bernadette G. and Timmers, Henri J L M. and de Geus-Oei, Lioe-Fee and Grefte, Johanna M M. and Rabe, Klaus F. and Dekhuijzen, P N Richard and van der Heijden, Henricus F M. and Annema, Jouke T.
+LUNGC
+
+<a href="https://doi.org/10.1016/j.lungcan.2010.12.019">DOI</a>
+
+## Abstract
+In patients with lung cancer, enlarged or (18)Fluoro-deoxyglucose positron emission tomography ((18)FDG-PET) positive left adrenal glands are suspected for distant metastases and require tissue confirmation for a definitive assessment. The aim of this study was to assess the sensitivity of endoscopic ultrasound-guided fine-needle aspiration (EUS-FNA) for left adrenal metastases in lung cancer patients with a suspect adrenal gland based on imaging. EUS-FNA findings of patients with (suspected) lung cancer and CT enlarged or (18)FDG-PET positive left adrenal glands were retrospectively evaluated. In the absence of metastases at EUS, clinical and radiological follow-up was obtained. In 85 patients, EUS-FNA demonstrated left adrenal metastases of lung cancer in 53 (62%), benign adrenal tissue in 25 (29%), a metastasis from colon carcinoma in 1 (1%) and a primary adrenocortical carcinoma in 1 (1%) patient. In five patients (5.9%), the aspirates contained non-representative material. EUS outcomes were false negative in two patients. Sensitivity and negative predictive value (NPV) for EUS-FNA of the left adrenal gland were at least 86% (95% CI 74-93%) and 70% (95% CI 50-85%). No complications occurred. EUS-FNA is a sensitive, safe and minimally invasive technique to provide tissue proof of left adrenal metastases in patients with (suspected) lung cancer and enlarged or (18)FDG-PET positive adrenal glands. Therefore, EUS-FNA qualifies as the staging test of choice for patients with lung cancer with suspected left adrenal metastases.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Published version:pdfSchu11a.pdf:PDF by e-mail"></form>

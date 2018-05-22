@@ -1,0 +1,12 @@
+title: Initial clinical experience with oral manganese (CMC-001) for liver MR imaging
+
+## Henrik S Thomsen and Jelle O Barentsz and Flemming Burcharth and Elizaveta Chabanova and Helena M Dekker and Flemming Moesgaard and Jakob M Moller and Per Leth-Espensen and Vibeke Logager and Satoru Takahashi
+ER
+
+<a href="https://doi.org/10.1007/s00330-006-0336-9">DOI</a>
+
+## Abstract
+Recently, a new oral liver-specific manganese-based MR agent (CMC-001) has been introduced. This contrast medium is delivered to the liver in high concentrations in the portal vein and very low doses in the hepatic artery, as only small amounts of manganese enter the general circulation. It is taken up by the hepatocytes and excreted in the bile. Our initial experience with the new MR contrast medium in a variety of patients is reported. A total of 20 patients (11 males and 9 females) were studied with MR imaging 2 h after oral ingestion of the contrast agent. Sixteen patients were referred for evaluation of focal liver lesion(s), whereas in the remaining four patients, evaluation of the biliary tract was requested. In the 17 patients without biliary obstruction, there was an increased signal intensity of the liver parenchyma, whereas in the three patients with biliary obstruction, the uptake was delayed. There was excellent visualization of the biliary system on the T1-weighted images in the 16 patients without biliary obstruction referred for evaluation of a focal liver lesion. In seven patients, the uptake was patchy. In patients with focal liver lesions or biliary tract diseases, it is possible to increase the signal intensity of the liver parenchyma after the oral intake of CMC-001. In patients without biliary tract obstruction, the biliary system is easily visualized. Oral manganese seems to be useful in hepatobiliary MRI. Further research is strongly warranted.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Thom07.pdf:pdfThom07.pdf:PDF by e-mail"></form>

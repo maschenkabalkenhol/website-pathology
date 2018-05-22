@@ -1,0 +1,10 @@
+title: Beriberi, a severe complication after metabolic surgery - review of the literature.
+
+## Stroh, Christine and Meyer, Frank and Manger, Thomas
+Obesity facts
+
+<a href="https://doi.org/10.1159/000366012">DOI</a>
+
+## Abstract
+The epidemic growth of morbid obesity has led to an increase in the number of bariatric interventions. During the distribution process of bariatric surgical interventions, the risk for severe nutritious complications such as bariatric beriberi can rise. By means of systematic literature review, epidemiological data, clinical characteristics and diagnostic as well as therapeutic recommendations for bariatric beriberi were elicited. Databases and registries such as PubMed, Cochrane and Ovid were searched for a defined time period with the key words 'lack of thiamine' / 'Wernicke-Korsakoff syndrome' / 'encephalopathy' after bariatric surgical interventions. Up to December 2013, overall 255 patients had been found as published cases, indicating that the risk for the postoperative occurrence of thiamine deficiency and Wernicke-Korsakoff syndrome is increased in women. In addition, the risk correlates with patient's age. The majority of patients developed symptoms of a dry beriberi with peripheral neuritis, ataxia and paraplegia, indicating an advanced stage of disease approximately 4-12 weeks postoperatively. Laboratory analysis in case of a suspicious clinical finding is the appropriate diagnostics. As treatment, prompt initiation of parenteral thiamine substitution under clinical monitoring is required. Bariatric beriberi can occur within the first 1-3 postoperative months. To minimize the risk of severe consequences, immediate substitution of thiamine in clinical suspicion or prolonged parenteral nutrition is necessary. A delayed diagnosis or missing the correct diagnosis can lead to irreversible damages of the CNS with coma and fatal outcome. Knowledge on the subject, including development of thiamine deficiency, symptomatology and emergency treatment, are considered essential for bariatric surgeons but also for further medical disciplines involved in treatment.
+

@@ -1,0 +1,11 @@
+title: Automated correction of unwanted phase jumps in reference signals which corrupt MRSI spectra after eddy current correction
+
+## Simonetti, A. W. and Melssen, W. J. and van der Graaf, M. and Heerschap, A. and Buydens, L M C.
+JMR
+
+
+## Abstract
+A commonly applied step in the postprocessing of gradient localized proton MR spectroscopy, is correction for eddy current effects using the water signal as a reference. However, this method can degrade some of the metabolite signals, in particular if applied on proton MR spectroscopic imaging data. This artifact arises from the water reference signal in the presence of a second signal which resonates close to the main water resonance. The interference of both resonances will introduce jumps in the phase of the reference time domain signal. Using this phase for eddy current correction will result in a ringing artifact in the frequency domain of the metabolite signal over the whole frequency range. We propose a moving window correction algorithm, which screens the phase of reference signals and removes phase jumps in time domain caused by interference of signals from multiple spin systems. The phase jumps may be abrupt or gradually distributed over several time data points. Because the correction algorithm only corrects time data points which contain phase jumps, the phase is minimally disrupted. Furthermore, the algorithm is automated for large datasets, correcting only those water reference signals which are corrupted. After correction of the corrupted reference signals, normal eddy current correction may be performed. The algorithm is compared with a method which uses a low-pass filter and tested on simulated data as well as on in vivo proton spectroscopic imaging data from a healthy volunteer and from patients with a brain tumor.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Simo02.pdf:pdfSimo02.pdf:PDF by e-mail"></form>

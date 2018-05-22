@@ -1,0 +1,12 @@
+title: Maximal exercise performance in patients with postcancer fatigue
+
+## Prinsen, H. and Hopman, M T E. and Zwarts, M. J. and Leer, J W H. and Heerschap, A. and Bleijenberg, G. and van Laarhoven, H W M.
+SCC
+
+<a href="https://doi.org/10.1007/s00520-012-1531-7">DOI</a>
+
+## Abstract
+The aim of this study is to examine whether physical fitness of severely fatigued and non-fatigued cancer survivors, as measured by maximal exercise performance, is different between both groups and, if so, whether this difference can be explained by differences in physical activity, self-efficacy regarding the exercise test, and/or social support.Severely fatigued (n = 20) and sex- and age-matched non-fatigued (n = 20) disease-free cancer survivors, who completed treatment for a malignant, solid tumor at least 1 year earlier, participated in this case-control study. Maximal oxygen consumption was measured during an incremental cycling exercise test. Physical activity was assessed via actigraphy. Self-efficacy regarding the test and social support were assessed via questionnaires to study its relationship with physical fitness.Maximal oxygen consumption was significantly lower in fatigued compared to non-fatigued participants. Actual physical activity, self-efficacy regarding the test, and negative interactions of social support were significantly different between both groups. However, after inclusion of these three variables in linear regression analyses, the difference in physical fitness between fatigued and non-fatigued cancer survivors persisted.Maximal oxygen consumption, a measure for physical fitness, was reduced in severely fatigued compared to non-fatigued cancer survivors. The inferior maximal exercise performance cannot fully be explained by differences in physical activity, self-efficacy, or social support between both groups. Other currently still unknown factors, such as a disturbance in the cardiopulmonary circuit, may play a role.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Prin13a.pdf:pdfPrin13a.pdf:PDF by e-mail"></form>

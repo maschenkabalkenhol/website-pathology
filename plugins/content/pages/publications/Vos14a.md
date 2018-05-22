@@ -1,0 +1,12 @@
+title: Image quality and cancer visibility of T2-weighted Magnetic Resonance Imaging of the prostate at 7 Tesla
+
+## Vos, E. K. and Lagemaat, M. W. and Barentsz, J. O. and F"utterer, J. J. and Z'amecnik, P. and Roozen, H. and Orzada, S. and Bitz, A. K. and Maas, M. C. and Scheenen, T W J.
+ER
+
+<a href="https://doi.org/10.1007/s00330-014-3234-6">DOI</a>
+
+## Abstract
+To assess the image quality of T2-weighted (T2w) magnetic resonance imaging of the prostate and the visibility of prostate cancer at 7 Tesla (T).Seventeen prostate cancer patients underwent T2w imaging at 7T with only an external transmit/receive array coil. Three radiologists independently scored images for image quality, visibility of anatomical structures, and presence of artefacts. Krippendorff's alpha and weighted kappa statistics were used to assess inter-observer agreement. Visibility of prostate cancer lesions was assessed by directly linking the T2w images to the confirmed location of prostate cancer on histopathology.T2w imaging at 7T was achievable with 'satisfactory' (3/5) to 'good' (4/5) quality. Visibility of anatomical structures was predominantly scored as 'satisfactory' (3/5) and 'good' (4/5). If artefacts were present, they were mostly motion artefacts and, to a lesser extent, aliasing artefacts and noise. Krippendorff's analysis revealed an Î±â€‰=â€‰0.44 between three readers for the overall image quality scores. Clinically significant cancer lesions in both peripheral zone and transition zone were visible at 7T.T2w imaging with satisfactory to good quality can be routinely acquired, and cancer lesions were visible in patients with prostate cancer at 7T using only an external transmit/receive body array coil.â€¢ Satisfactory to good T2-weighted image quality of the prostate is achievable at 7T. â€¢ Periprostatic lipids appear hypo-intense compared to healthy peripheral zone tissue at 7T. â€¢ Prostate cancer is visible on T2-weighted MRI at 7T.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Vos14a.pdf:pdfVos14a.pdf:PDF by e-mail"></form>

@@ -1,0 +1,12 @@
+title: Spatially matched in vivo and ex vivo MR metabolic profiles of prostate cancer - investigation of a correlation with Gleason score
+
+## Selnaes, Kirsten M. and Gribbestad, Ingrid S. and Bertilsson, Helena and Wright, Alan and Angelsen, Anders and Heerschap, Arend and Tessem, May-Britt
+NMRB
+
+<a href="https://doi.org/10.1002/nbm.2901">DOI</a>
+
+## Abstract
+MR metabolic profiling of the prostate is promising as an additional diagnostic approach to separate indolent from aggressive prostate cancer. The objective of this study was to assess the relationship between the Gleason score and the metabolic biomarker (choline + creatine + spermine)/citrate (CCS/C) measured by ex vivo high-resolution magic angle spinning MRS (HR-MAS MRS) and in vivo MRSI, and to evaluate the correlation between in vivo- and ex vivo-measured metabolite ratios from spatially matched prostate regions. Patients (nâ€‰=â€‰13) underwent in vivo MRSI prior to radical prostatectomy. A prostate tissue slice was snap-frozen shortly after surgery and the locations of tissue samples (nâ€‰=â€‰40) collected for ex vivo HR-MAS were matched to in vivo MRSI voxels (nâ€‰=â€‰40). In vivo MRSI was performed on a 3T clinical MR system and ex vivo HR-MAS on a 14.1T magnet. Relative metabolite concentrations were calculated by LCModel fitting of in vivo spectra and by peak integration of ex vivo spectra. Spearman's rank correlations (ï¿½?) between CCS/C from in vivo and ex vivo MR spectra, and with their corresponding Gleason score, were calculated. There was a strong positive correlation between the Gleason score and CCS/C measured both in vivo and ex vivo (ï¿½? = 0.77 and ï¿½? = 0.69, respectively; pâ€‰<â€‰0.001), and between in vivo and ex vivo metabolite ratios from spatially matched regions (ï¿½?â€‰=â€‰0.67, pâ€‰<â€‰0.001). Our data indicate that MR metabolic profiling is a potentially useful tool for the assessment of cancer aggressiveness. Moreover, the good correlation between in vivo- and ex vivo-measured CCS/C demonstrates that our method is able to bridge MRSI and HR-MAS molecular analysis. Copyright Â© 2012 John Wiley & Sons, Ltd.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Seln12a.pdf:pdfSeln12a.pdf:PDF by e-mail"></form>

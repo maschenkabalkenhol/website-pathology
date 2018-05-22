@@ -1,0 +1,10 @@
+title: An innovative method of planning and displaying flap volume in DIEP flap breast reconstructions.
+
+## Hummelink, S and Verhulst, Arico C and Maal, Thomas J J and Hoogeveen, Yvonne L and Schultze Kool, Leo J and Ulrich, Dietmar J O
+Journal of plastic, reconstructive & aesthetic surgery : JPRAS
+
+<a href="https://doi.org/10.1016/j.bjps.2017.04.008">DOI</a>
+
+## Abstract
+Determining the ideal volume of the harvested flap to achieve symmetry in deep inferior epigastric artery perforator (DIEP) flap breast reconstructions is complex. With preoperative imaging techniques such as 3D stereophotogrammetry and computed tomography angiography (CTA) available nowadays, we can combine information to preoperatively plan the optimal flap volume to be harvested. In this proof-of-concept, we investigated whether projection of a virtual flap planning onto the patient's abdomen using a projection method could result in harvesting the correct flap volume. In six patients (n = 9 breasts), 3D stereophotogrammetry and CTA data were combined from which a virtual flap planning was created comprising perforator locations, blood vessel trajectory and flap size. All projected perforators were verified with Doppler ultrasound. Intraoperative flap measurements were collected to validate the determined flap delineation volume. The measured breast volume using 3D stereophotogrammetry was 578 ± 127 cc; on CTA images, 527 ± 106 cc flap volumes were planned. The nine harvested flaps weighed 533 ± 109 g resulting in a planned versus harvested flap mean difference of 5 ± 27 g (flap density 1.0 g/ml). In 41 out of 42 projected perforator locations, a Doppler signal was audible. This proof-of-concept shows in small numbers that flap volumes can be included into a virtual DIEP flap planning, and transferring the virtual planning to the patient through a projection method results in harvesting approximately the same volume during surgery. In our opinion, this innovative approach is the first step in consequently achieving symmetric breast volumes in DIEP flap breast reconstructions.
+

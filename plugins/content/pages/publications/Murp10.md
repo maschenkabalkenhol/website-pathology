@@ -1,0 +1,12 @@
+title: Semi-automatic construction of reference standards for evaluation of image registration
+
+## K. Murphy and B. van Ginneken and S. Klein and M. Staring and B. J. de Hoop and M. A. Viergever and J. P. W. Pluim
+MIA
+
+<a href="https://doi.org/10.1016/j.media.2010.07.005">DOI</a>
+
+## Abstract
+Quantitative evaluation of image registration algorithms is a difficult and under-addressed issue due to the lack of a reference standard in most registration problems. In this work a method is presented whereby detailed reference standard data may be constructed in an efficient semi-automatic fashion. A well-distributed set of n landmarks is detected fully automatically in one scan of a pair to be registered. Using a custom-designed interface, observers define corresponding anatomic locations in the second scan for a specified subset of s of these landmarks. The remaining n > s landmarks are matched fully automatically by a thin-plate-spline based system using the s manual landmark correspondences to model the relationship between the scans. The method is applied to 47 pairs of temporal thoracic CT scans, three pairs of brain MR scans and five thoracic CT datasets with synthetic deformations. Interobserver differences are used to demonstrate the accuracy of the matched points. The utility of the reference standard data as a tool in evaluating registration is shown by the comparison of six sets of registration results on the 47 pairs of thoracic CT data.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Murp10.pdf:pdfMurp10.pdf:PDF by e-mail"></form>

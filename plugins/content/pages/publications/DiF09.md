@@ -1,0 +1,12 @@
+title: FBXO7 mutations cause autosomal recessive, early-onset parkinsonian-pyramidal syndrome
+
+## Di Fonzo, A. and Dekker, M C J. and Montagna, P. and Baruzzi, A. and Yonova, E. H. and Correia Guedes, L. and Szczerbinska, A. and Zhao, T. and Dubbel-Hulsman, L O M. and Wouters, C. H. and de Graaff, E. and Oyen, W J G. and Simons, E. J. and Breedveld, G. J. and Oostra, B. A. and Horstink, M. W. and Bonifati, V.
+Neurology
+
+<a href="https://doi.org/10.1212/01.wnl.0000338144.10967.2b">DOI</a>
+
+## Abstract
+The combination of early-onset, progressive parkinsonism with pyramidal tract signs has been known as pallido-pyramidal or parkinsonian-pyramidal syndrome since the first description by Davison in 1954. Very recently, a locus was mapped in a single family with an overlapping phenotype, and an FBXO7 gene mutation was nominated as the likely disease cause.We performed clinical and genetic studies in two families with early-onset, progressive parkinsonism and pyramidal tract signs.An FBXO7 homozygous truncating mutation (Arg498Stop) was found in an Italian family, while compound heterozygous mutations (a splice-site IVS7 + 1G/T mutation and a missense Thr22Met mutation) were present in a Dutch family. We also found evidence of expression of novel normal splice-variants of FBXO7. The phenotype associated with FBXO7 mutations consisted of early-onset, progressive parkinsonism and pyramidal tract signs, thereby matching clinically the pallido-pyramidal syndrome of Davison. The parkinsonism exhibits varying degrees of levodopa responsiveness in different patients.We conclusively show that recessive FBXO7 mutations cause progressive neurodegeneration with extrapyramidal and pyramidal system involvement, delineating a novel genetically defined entity that we propose to designate as PARK15. Understanding how FBXO7 mutations cause disease will shed further light on the molecular mechanisms of neurodegeneration, with potential implications also for more common forms of parkinsonism, such as Parkinson disease and multiple system atrophy.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Published version:pdfDiF09.pdf:PDF by e-mail"></form>

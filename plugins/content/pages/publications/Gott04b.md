@@ -1,0 +1,10 @@
+title: Clinical value of parathyroid scintigraphy with technetium-99m methoxyisobutylisonitrile: discrepancies in clinical data and a systematic metaanalysis of the literature
+
+## Gotthardt, Martin and Lohmann, Bodo and Behr, Thomas M. and Bauhofer, Artur and Franzius, Christiane and Schipper, Meike L. and Wagner, Maria and H"offken, Helmut and Sitter, Helmut and Rothmund, Matthias and Joseph, Klaus and Nies, Christoph
+WJSURG
+
+<a href="https://doi.org/10.1007/s00268-003-6991-y">DOI</a>
+
+## Abstract
+There is a considerable discrepancy in the literature concerning the sensitivity of parathyroid scintigraphy (PS) with 99mTc-MIBI. We therefore analyzed our own data and compared them to the literature in a metaanalysis. All patients who received 99mTc -MIBI scintigraphy and subsequent surgery in our department for the detection of enlarged parathyroid glands in primary (pHPT) or secondary (sHPT) hyperparathyroidism between 1991 and 1999 were included in our retrospective analysis. The results of surgery served as the gold standard. For a true positive result, the scintigraphy had to predict the exact location of parathyroid adenoma (PA) or parathyroid hyperplasia (PH). We then compared these data to the results of a nonstatistical systematic metaanalysis of the literature. Patients (178) underwent PS between 1991 and 1999; 139 were operated on and included in this study. Of these, 109 had pHPT and 30 had sHPT. The sensitivity and specificity of the PS were found to be 45%/94% for pHPT and 39%/40% for sHPT. Fifty-two studies concerning PS were included in the metaanalysis. Sensitivities reported varied from 39% to >90%. Consideration of the different possible techniques used for PS could not explain these discrepancies. Our data show that the sensitivity of PS in clinical routine may be lower than expected from the literature. Our data are consistent with other studies and with partially unpublished clinical observations from other university hospitals. We believe that a well-designed and properly conducted prospective study is necessary to evaluate the reasons for the differences observed.
+

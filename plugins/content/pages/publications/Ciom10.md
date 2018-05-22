@@ -1,0 +1,11 @@
+title: Fusing in-vitro and in-vivo intravascular ultrasound data for plaque characterization
+
+## Ciompi, Francesco and Pujol, Oriol and Gatta, Carlo and Rodriguez-Leor, Oriol and Mauri-Ferre, Josepa and Radeva, Petia
+IJCI
+
+
+## Abstract
+Accurate detection of in-vivo vulnerable plaque in coronary arteries is still an open problem. Recent studies show that it is highly related to tissue structure and composition. Intravascular Ultrasound (IVUS) is a powerful imaging technique that gives a detailed cross-sectional image of the vessel, allowing to explore arteries morphology. IVUS data validation is usually performed by comparing post-mortem (invitro) IVUS data and corresponding histological analysis of the tissue. The main drawback of this method is the few number of available case studies and validated data due to the complex procedure of histological analysis of the tissue. On the other hand, IVUS data from in-vivo cases is easy to obtain but it can not be histologically validated. In this work, we propose to enhance the in-vitro training data set by selectively including examples from in-vivo plaques. For this purpose, a Sequential Floating Forward Selection method is reformulated in the context of plaque characterization. The enhanced classifier performance is validated on in-vitro data set, yielding an overall accuracy of 91.59% in discriminating among fibrotic, lipidic and calcified plaques, while reducing the gap between in-vivo and in-vitro data analysis. Experimental results suggest that the obtained classifier could be properly applied on in-vivo plaque characterization and also demonstrate that the common hypothesis of assuming the difference between in-vivo and in-vitro as negligible is incorrect.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Ciom10.pdf:pdfCiom10.pdf:PDF by e-mail"></form>

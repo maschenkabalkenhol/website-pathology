@@ -1,0 +1,10 @@
+title: Pretransplant-corrected QT dispersion as a predictor of pericardial effusion after pediatric hematopoietic stem cell transplantation.
+
+## Yanagisawa, Ryu and Ishii, Eizaburo and Motoki, Noriko and Yamazaki, Shoko and Morita, Daisuke and Sakashita, Kazuo and Shiohara, Masaaki and Tanaka, Miyuki and Hidaka, Yoshihiko and Kubota, Noriko and Hidaka, Eiko and Ogiso, Yoshifumi and Nakamura, Tomohiko and Yasukochi, Satoshi
+Transplant international : official journal of the European Society for Organ Transplantation
+
+<a href="https://doi.org/10.1111/tri.12532">DOI</a>
+
+## Abstract
+Pericardial effusion is a potentially fatal complication following hematopoietic stem cell transplantation (HSCT). Therefore, the identification of risk factors could improve the outcome. Prolonged QT dispersion (QTD) and corrected QTD (QTcD) are associated with serious arrhythmias and sudden death in many forms of heart disease. However, no study has evaluated the efficacy of QTD and QTcD to predict pericardial effusion post-HSCT. We studied 89 pediatric HSCT patients to identify preoperative risk factors for pericardial effusion with particular focus on QTD and QTcD. Pericardial effusion occurred in 15 patients (cumulative onset rate: 17.4%) within one year post-HSCT, of which 8 (9.2%) were symptomatic. Patients with pericardial effusion following allogeneic HSCT showed significantly lower overall survival; however, pericardial effusion was not the direct cause of death in any patient. Univariate and multivariate analyses revealed that transplantation-associated thrombotic microangiopathy (TA-TMA) was an independent risk factor for post-HSCT pericardial effusion. In addition, pretransplant QTcD was significantly prolonged in the pericardial effusion group. These results suggest that pediatric patients with abnormally prolonged QTcD before the preparative regimen for HSCT should be regularly followed-up by echocardiography to detect pericardial effusion, particularly when accompanied by complications including TA-TMA.
+

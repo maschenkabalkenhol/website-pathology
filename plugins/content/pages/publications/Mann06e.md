@@ -1,0 +1,9 @@
+title: Image Analysis in CT Angiography
+
+## Rashindra Manniesing
+
+## Abstract
+In this thesis we develop and validate novel image processing techniques for the analysis of vascular structures in medical images. First a new type of filter is proposed which is capable of enhancing vascular structures while suppressing noise in the remainder of the image. This filter is based on a controlled smoothing process and results in a so-called scale space representation of the vascular structures. This representation can be used as preprocessing step for other vascular image processing techniques, such as vessel axis tracking and vessel segmentation. Second, a new method is proposed to track the central vessel axis in vessels with known topology. The method utilizes surface evolution which is typically applied to object segmentation. In our approach surface evolution is extended by repeatedly estimating and constraining the current vessel axis. This way, vessel information is gathered while the vessel axis tracking method proceeds along the vessel. Finally, an automated method is proposed for segmentation of the complete intracranial arterial vasculature. The methods are applied to, and evaluated on 3D head and neck Computed Tomography Angiography (CTA) data sets.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Mann06e.pdf:pdfMann06e.pdf:PDF by e-mail"></form>

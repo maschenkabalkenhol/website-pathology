@@ -1,0 +1,12 @@
+title: Detection of monitoring materials on bedside chest radiographs with the most recent generation of storage phosphor plates: dose increase does not improve detection performance
+
+## Eisenhuber, Edith and Stadler, Alfred and Prokop, Mathias and Fuchsjager, Michael and Weber, Michael and Schaefer-Prokop, Cornelia
+Radiology
+
+<a href="https://doi.org/10.1148/radiol.2271020045">DOI</a>
+
+## Abstract
+To evaluate the performance of the most recent generation of storage phosphor plates for the detection of low-contrast catheter material on bedside chest radiographs.In 10 patients in the intensive care unit, bedside chest radiographs were obtained with a 400-speed conventional screen-film system and with storage phosphor plates with exposure levels comparable to a 200-, 400-, or 800-speed conventional system. The chest radiograph was divided into 20 regions, 60% of which were superimposed with low-contrast catheter fragments. Six observers independently assessed the presence of catheter fragments by using a receiver operating characteristic (ROC) methodology.Detection performance (mean area under the ROC curve [Az]) with the storage phosphor plates was significantly superior to that with the screen-film system (Az = 0.76) at all three dose levels (Az = 0.88, 0.87, and 0.83 for 200-, 400-, and 800-speed doses, respectively; P <.05). Increasing the dose to a 200-speed system did not significantly increase detection performance compared with that with the 400-speed digital radiographs (Az = 0.88 vs 0.87). Dose reduction to 800 speed significantly deteriorated the detection performance (Az = 0.83) compared with that with the 400- and 200-speed digital radiographs, respectively.The most recent generation of storage phosphor plates is superior to a 400-speed screen-film system for the detection of catheter material, even at an exposure level of 800 speed.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Eise03.pdf:pdfEise03.pdf:PDF by e-mail"></form>

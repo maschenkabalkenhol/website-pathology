@@ -1,0 +1,12 @@
+title: Magnetic Resonance Lymphography Findings in Patients With Biochemical Recurrence After Prostatectomy and the Relation With the Stephenson Nomogram
+
+## Meijer, Hanneke J M. and Debats, Oscar A. and Roach, 3rd, Mack and Span, Paul N. and Witjes, J Alfred and Kaanders, Johannes H A M. and van Lin, Emile N J Th and Barentsz, Jelle O.
+IJROBP
+
+<a href="https://doi.org/10.1016/j.ijrobp.2012.02.039">DOI</a>
+
+## Abstract
+PURPOSE: To estimate the occurrence of positive lymph nodes on magnetic resonance lymphography (MRL) in patients with a prostate-specific antigen (PSA) recurrence after prostatectomy and to investigate the relation between score on the Stephenson nomogram and lymph node involvement on MRL. METHODS AND MATERIALS: Sixty-five candidates for salvage radiation therapy were referred for an MRL to determine their lymph node status. Clinical and histopathologic features were recorded. For 49 patients, data were complete to calculate the Stephenson nomogram score. Receiver operating characteristic (ROC) analysis was performed to determine how well this nomogram related to the MRL result. Analysis was done for the whole group and separately for patients with a PSA <1.0 ng/mL to determine the situation in candidates for early salvage radiation therapy, and for patients without pathologic lymph nodes at initial lymph node dissection. RESULTS: MRL detected positive lymph nodes in 47 patients. ROC analysis for the Stephenson nomogram yielded an area under the curve (AUC) of 0.78 (95% confidence interval, 0.61-0.93). Of 29 patients with a PSA <1.0 ng/mL, 18 had a positive MRL. Of 37 patients without lymph node involvement at initial lymph node dissection, 25 had a positive MRL. ROC analysis for the Stephenson nomogram showed AUCs of 0.84 and 0.74, respectively, for these latter groups. CONCLUSION: MRL detected positive lymph nodes in 72% of candidates for salvage radiation therapy, in 62% of candidates for early salvage radiation therapy, and in 68% of initially node-negative patients. The Stephenson nomogram showed a good correlation with the MRL result and may thus be useful for identifying patients with a PSA recurrence who are at high risk for lymph node involvement.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Meij12a.pdf:pdfMeij12a.pdf:PDF by e-mail"></form>

@@ -1,0 +1,12 @@
+title: Fleischner recommendations for the management of subsolid pulmonary nodules: high awareness but limited conformance - a survey study
+
+## Mets, Onno M. and de Jong, Pim A. and Chung, Kaman and Lammers, Jan-Willem J. and van Ginneken, Bram and Schaefer-Prokop, Cornelia M.
+ER
+
+<a href="https://doi.org/10.1007/s00330-016-4249-y">DOI</a>
+
+## Abstract
+The aim of this study was to assess awareness and conformance to the Fleischner society recommendations for the management of subsolid pulmonary nodules (SSN) in clinical practice. An online questionnaire with four imaging cases was sent to 1579 associates from the European Respiratory Society and 757 from the European Society of Thoracic Imaging. Each respondent was asked to choose from several options which one they thought was the indicated management for the nodule presented. Awareness and conformance to the Fleischner recommendations (FR) were assessed and correlated to respondents characteristics. In total, 119 radiologists (response rate 16.0%) and 243 pulmonologists (response rate 16.5%) were included. Awareness of the FR was higher in radiologists than in pulmonologists (93% vs. 70%, p<0.001), as was implementation in daily practice (66% vs. 47%, p<0.001). Radiologists conformed to FR in rates of 31, 69, 68, and 82%, and pulmonologists in 12, 43, 70, and 75% for cases 1 to 4, respectively. Overmanagement was common. Conformance in SSN management was associated with awareness, working in an academic practice, larger practice size, teaching residents, and higher SSN exposure. Although awareness of the Fleischner recommendations for SSN management is widespread, management choices in clinical practice show large heterogeneity.Guideline awareness among clinicians is widespread, but conformance shows large heterogeneity. Awareness and conformance is significantly higher among radiologists than pulmonologists. Overmanagement is common, which may lead to avoidable financial and physical burden.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Mets16.pdf:pdfMets16.pdf:PDF by e-mail"></form>

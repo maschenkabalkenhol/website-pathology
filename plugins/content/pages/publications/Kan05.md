@@ -1,0 +1,12 @@
+title: Lower force and impaired performance during high-intensity electrical stimulation in skeletal muscle of GAMT-deficient knockout mice
+
+## Kan, H. E. and Buse-Pot, T. E. and Peco, R. and Isbrandt, D. and Heerschap, A. and de Haan, A.
+AJPCP
+
+<a href="https://doi.org/10.1152/ajpcell.00040.2005">DOI</a>
+
+## Abstract
+Force characteristics of skeletal muscle of knockout mice lacking creatine (Cr) due to a deletion of guanidinoacetate methyltransferase (GAMT) were studied in situ. Medial gastrocnemius muscles of anesthetized GAMT-deficient (GAMT-/-) and control (Con) littermates were stimulated at optimum length via the sciatic nerve at different stimulation frequencies (60-250 Hz). GAMT-/- mice showed reduced maximal tetanic and twitch force, reduced relative force at 60 Hz, and increased relaxation times. High-intensity fatigue protocols consisting of 30 successive isometric or dynamic contractions showed a strong reduction in force at the beginning of the series in GAMT-/- mice, followed by a smaller reduction compared with Con littermates toward the end of the series. Cr supplementation for 2 days in GAMT-/- animals (GAMT(Cr)-/-) resulted in normalization to Con values for relaxation times, relative force at lower stimulation frequencies, and relative force during 30 isometric contractions. Force per muscle mass, however, remained decreased. Furthermore,GAMT(Cr)-/- mice showed differences compared with both Con and unsupplemented animals in maximal rates of force rise and relaxation times during the isometric protocol as well as in force during the dynamic protocol. Our results show that the absence of Cr plays a direct role in relaxation times, maximal rate of force rise, and force production during high-intensity fatigue protocols. The lower force per muscle mass, however, is probably caused by other factors; i.e., high intracellular guanidinoacetate concentrations.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Kan05.pdf:pdfKan05.pdf:PDF by e-mail"></form>

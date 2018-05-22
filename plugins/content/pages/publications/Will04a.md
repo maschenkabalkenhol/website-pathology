@@ -1,0 +1,11 @@
+title: MR imaging and proton MR spectroscopic studies in Sjï¿½gren-Larsson syndrome: characterization of the leukoencephalopathy
+
+## Willemsen, Mich`el A A P. and Van Der Graaf, Marinette and Van Der Knaap, Marjo S. and Heerschap, Arend and Van Domburg, Peter H M F. and Gabre"els, Fons J M. and Rotteveel, Jan J.
+AJNR
+
+
+## Abstract
+Sjï¿½gren-Larsson syndrome (SLS) is a neurocutaneous syndrome caused by a genetic enzyme deficiency in lipid metabolism. Our purpose was to characterize the nature of the cerebral involvement in SLS.MR imaging was performed in 18 patients (aged 5 months to 45 years) and repeated in 14. Single-voxel proton MR spectra were acquired from cerebral white matter and gray matter in 16 patients, with follow-up studies in 11. LCModel fits were used to determine brain metabolite levels.MR imaging showed retardation of myelination and a mild persistent myelin deficit. A zone of increased signal intensity was seen in the periventricular white matter on T2-weighted images. Proton MR spectroscopy of white matter revealed a prominent peak at 1.3 ppm, normal levels of N-acetylaspartate, and elevated levels of creatine (+14%), choline (+18%), and myo-inositol (+54%). MR imaging and proton MR spectroscopy of gray matter were normal. In the two patients examined during the first years of life, abnormalities on MR imaging and proton MR spectroscopy gradually emerged and then stabilized, as in all other patients.Abnormalities on MR imaging and proton MR spectroscopy emerge during the first years of life and are similar in all patients with SLS, but the severity varies. The changes are confined to cerebral white matter and suggest an accumulation of lipids, periventricular gliosis, delayed myelination, and a mild permanent myelin deficit.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Will04a.pdf:pdfWill04a.pdf:PDF by e-mail"></form>

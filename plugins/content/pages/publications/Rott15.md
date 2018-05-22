@@ -1,0 +1,12 @@
+title: High resolution pituitary gland MRI at 7.0 tesla: a clinical evaluation in Cushing's disease
+
+## de Rotte, Alexandra A J. and Groenewegen, Amy and Rutgers, Dik R. and Witkamp, Theo and Zelissen, Pierre M J. and Meijer, F J Anton and van Lindert, Erik J. and Hermus, Ad and Luijten, Peter R. and Hendrikse, Jeroen
+ER
+
+<a href="https://doi.org/10.1007/s00330-015-3809-x">DOI</a>
+
+## Abstract
+To evaluate the detection of pituitary lesions at 7.0 T compared to 1.5 T MRI in 16 patients with clinically and biochemically proven Cushing's disease.In seven patients, no lesion was detected on the initial 1.5 T MRI, and in nine patients it was uncertain whether there was a lesion. Firstly, two readers assessed both 1.5 T and 7.0 T MRI examinations unpaired in a random order for the presence of lesions. Consensus reading with a third neuroradiologist was used to define final lesions in all MRIs. Secondly, surgical outcome was evaluated. A comparison was made between the lesions visualized with MRI and the lesions found during surgery in 9/16 patients.The interobserver agreement for lesion detection was good at 1.5 T MRI (Îºâ€‰=â€‰0.69) and 7.0 T MRI (Îºâ€‰=â€‰0.62). In five patients, both the 1.5 T and 7.0 T MRI enabled visualization of a lesion on the correct side of the pituitary gland. In three patients, 7.0 T MRI detected a lesion on the correct side of the pituitary gland, while no lesion was visible at 1.5 T MRI.The interobserver agreement of image assessment for 7.0 T MRI in patients with Cushing's disease was good, and lesions were detected more accurately with 7.0 T MRI.â€¢ Interobserver agreement for lesion detection on 1.5 T MRI was good; â€¢ Interobserver agreement for lesion detection on 7.0 T MRI was good; â€¢ 7.0 T enabled confirmation of unclear lesions at 1.5 T; â€¢ 7.0 T enabled visualization of lesions not visible at 1.5 T.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Rott15.pdf:pdfRott15.pdf:PDF by e-mail"></form>

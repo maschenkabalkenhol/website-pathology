@@ -1,0 +1,12 @@
+title: Targeted deletion of titin N2B region leads to diastolic dysfunction and cardiac atrophy
+
+## Radke, Michael H. and Peng, Jun and Wu, Yiming and McNabb, Mark and Nelson, O Lynne and Granzier, Henk and Gotthardt, Michael
+PNAS
+
+<a href="https://doi.org/10.1073/pnas.0608543104">DOI</a>
+
+## Abstract
+Titin is a giant protein that is in charge of the assembly and passive mechanical properties of the sarcomere. Cardiac titin contains a unique N2B region, which has been proposed to modulate elasticity of the titin filament and to be important for hypertrophy signaling and the ischemic stress response through its binding proteins FHL2 and alphaB-crystallin, respectively. To study the role of the titin N2B region in systole and diastole of the heart, we generated a knockout (KO) mouse deleting only the N2B exon 49 and leaving the remainder of the titin gene intact. The resulting mice survived to adulthood and were fertile. Although KO hearts were small, they produced normal ejection volumes because of an increased ejection fraction. FHL2 protein levels were significantly reduced in the KO mice, a finding consistent with the reduced size of KO hearts. Ultrastructural analysis revealed an increased extension of the remaining spring elements of titin (tandem Ig segments and the PEVK region), which, together with the reduced sarcomere length and increased passive tension derived from skinned cardiomyocyte experiments, translates to diastolic dysfunction as documented by echocardiography. We conclude from our work that the titin N2B region is dispensable for cardiac development and systolic properties but is important to integrate trophic and elastic functions of the heart. The N2B-KO mouse is the first titin-based model of diastolic dysfunction and, considering the high prevalence of diastolic heart failure, it could provide future mechanistic insights into the disease process.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Published version:pdfRadk07.pdf:PDF by e-mail"></form>

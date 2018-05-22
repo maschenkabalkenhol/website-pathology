@@ -1,0 +1,12 @@
+title: Dimensionality reduction of image features using the canonical contextual correlation projection
+
+## M. Loog and B. van Ginneken and R. P. W. Duin
+PR
+
+<a href="https://doi.org/10.1016/j.patcog.2005.04.011">DOI</a>
+
+## Abstract
+A linear, discriminative, supervised technique for reducing feature vectors extracted from image data to a lower-dimensional representation is proposed. It is derived from classical linear discriminant analysis (LDA), extending this technique to cases where there is dependency between the output variables, i.e., the class labels, and not only between the input variables. (The latter can readily be dealt with in standard LDA.) The novel method is useful, for example, in supervised segmentation tasks in which high-dimensional feature vectors describe the local structure of the image. The principal idea is that where standard LDA merely takes into account a single class label for every feature vector, the new technique incorporates class labels of its neighborhood in the analysis as well. In this way, the spatial class label configuration in the vicinity of every feature vector is accounted for, resulting in a technique suitable for, e.g. image data. This extended LDA, that takes spatial label context into account, is derived from a formulation of standard LDA in terms of canonical correlation analysis. The novel technique is called the canonical contextual correlation projection (CCCP). An additional drawback of LDA is that it cannot extract more features than the number of classes minus one. In the two-class case this means that only a reduction to one dimension is possible. Our contextual LDA approach can avoid such extreme deterioration of the classification space and retain more than one dimension. The technique is exemplified on a pixel-based medical image segmentation problem in which it is shown that it may give significant improvement in segmentation accuracy.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Loog05.pdf:pdfLoog05.pdf:PDF by e-mail"></form>

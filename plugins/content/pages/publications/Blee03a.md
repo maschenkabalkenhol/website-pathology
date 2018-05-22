@@ -1,0 +1,9 @@
+title: Diagnosis of renal and hepatic cyst infections by 18-F-fluorodeoxyglucose positron emission tomography in autosomal dominant polycystic kidney disease
+
+## Bleeker-Rovers, Chantal P. and de S'evaux, Ruud G L. and van Hamersvelt, Henk W. and Corstens, Frans H M. and Oyen, Wim J G.
+Am J Kidney Dis
+
+
+## Abstract
+Infection of a renal or hepatic cyst is a serious complication of autosomal dominant polycystic kidney disease (ADPKD). Although crucial for successful management, early diagnosis is difficult, largely because of nonspecific symptoms and limitations of conventional imaging techniques. Because of an increased metabolic rate, inflammatory cells take up large amounts of glucose. 18-F-fluorodeoxyglucose (FDG), therefore, represents a promising agent for detection of cyst infections using positron emission tomography (PET).The authors studied the results of 7 FDG PET scans in 3 ADPKD patients suspected of renal or hepatic cyst infection. Two PET scans were performed in patient A (PET 1 and 2), one PET scan was performed in patient B (PET 3), and 4 PET scans were performed in patient C (PET 4, 5, 6 and 7).FDG PET identified the infected cysts in 2 episodes of renal cyst infection (PET 2 and 3), 2 episodes of hepatic cyst infection (PET 6 and 7), and 1 episode of both renal and hepatic cyst infection (PET 1). In patient C, FDG PET was normal after 6 weeks of antibiotic treatment for hepatic cyst infection (PET 4) and again at a time when hepatic cyst infection was suspected, but eventually colchicine intoxication was diagnosed (PET 5).In these patients, FDG PET proved very helpful in diagnosing and in excluding renal and hepatic cyst infections. It is concluded that FDG PET is a promising new imaging technique enabling early identification of renal and hepatic cyst infections in ADPKD patients.
+

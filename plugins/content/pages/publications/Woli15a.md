@@ -1,0 +1,9 @@
+title: Clinical application of quantative SPECT in patient specific dosimetry and beta cell quantification
+
+## Wietske Woliner - van der Weg
+
+## Abstract
+Radioactivity is widely utilized for both diagnosis and treatment of patients. It enables visualization of biological and physiological processes and selective treatment by local delivery of high radiation doses. Two types of cameras are the workhorses for visualization of radioactivity distribution: 1. The gamma camera produces two-dimensional (2D), also called planar, images of the distribution of photon-emitting (photons are gamma-radiation) radio- nuclides and when used in rotating mode it provides three-dimensional (3D) imaging called single photon emission computed tomography (SPECT). 2. The positron emission tomograph (PET scanner) creates 3D images of the spatial distribution of positron-emitting radionuclides. In this case, two photons originating from the annihilation of the positron with an electron are detected simultaneously. In both PET and SPECT, physics plays a role in quantification, but PET-imaging was optimized for quantification decades ago. From the moment PET was used in the clinic, it has resulted in reconstructed data in units of radioactivity per unit volume (kBq/cm 3 ) (1, 3), while SPECT was long considered as â€˜non-quantitativeâ€™ (3). Recent developments in SPECT image reconstruction resulted in uncomplicated use of iterative reconstruction techniques and methods for adequate scatter and attenuation correction. This made quantitative use of SPECT images possible within errors of less than 10%.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Woli15a.pdf:pdfWoli15a.pdf:PDF by e-mail"></form>

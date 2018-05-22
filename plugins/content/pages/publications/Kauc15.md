@@ -1,0 +1,12 @@
+title: ESR/ERS white paper on lung cancer screening
+
+## Kauczor, Hans-Ulrich and Bonomo, Lorenzo and Gaga, Mina and Nackaerts, Kristiaan and Peled, Nir and Prokop, Mathias and Remy-Jardin, Martine and von Stackelberg, Oyunbileg and Sculier, Jean-Paul and the European Society of Radiology (ESR) and the European Respiratory Society (ERS)
+ERJ
+
+<a href="https://doi.org/10.1183/09031936.00033015">DOI</a>
+
+## Abstract
+Lung cancer is the most frequently fatal cancer, with poor survival once the disease is advanced. Annual low dose computed tomography has shown a survival benefit in screening individuals at high risk for lung cancer. Based on the available evidence, the European Society of Radiology and the European Respiratory Society recommend lung cancer screening in comprehensive, quality-assured, longitudinal programmes within a clinical trial or in routine clinical practice at certified multidisciplinary medical centres. Minimum requirements include: standardised operating procedures for low dose image acquisition, computer-assisted nodule evaluation, and positive screening results and their management; inclusion/exclusion criteria; expectation management; and smoking cessation programmes. Further refinements are recommended to increase quality, outcome and cost-effectiveness of lung cancer screening: inclusion of risk models, reduction of effective radiation dose, computer-assisted volumetric measurements and assessment of comorbidities (chronic obstructive pulmonary disease and vascular calcification). All these requirements should be adjusted to the regional infrastructure and healthcare system, in order to exactly define eligibility using a risk model, nodule management and quality assurance plan. The establishment of a central registry, including biobank and image bank, and preferably on a European level, is strongly encouraged.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Kauc15.pdf:pdfKauc15.pdf:PDF by e-mail"></form>

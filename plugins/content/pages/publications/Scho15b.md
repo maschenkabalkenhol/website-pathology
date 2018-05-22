@@ -1,0 +1,12 @@
+title: Computed tomographic characteristics of interval and post screen carcinomas in lung cancer screening.
+
+## Scholten, Ernst Th and Horeweg, Nanda and de Koning, Harry J. and Vliegenthart, Rozemarijn and Oudkerk, Matthijs and Mali, Willem P Th M. and de Jong, Pim A.
+ER
+
+<a href="https://doi.org/10.1007/s00330-014-3394-4">DOI</a>
+
+## Abstract
+To analyse computed tomography (CT) findings of interval and post-screen carcinomas in lung cancer screening.Consecutive interval and post-screen carcinomas from the Dutch-Belgium lung cancer screening trial were included. The prior screening and the diagnostic chest CT were reviewed by two experienced radiologists in consensus with knowledge of the tumour location on the diagnostic CT.Sixty-one participants (53 men) were diagnosed with an interval or post-screen carcinoma. Twenty-two (36%) were in retrospect visible on the prior screening CT. Detection error occurred in 20 cancers and interpretation error in two cancers. Errors involved intrabronchial tumour (n = 5), bulla with wall thickening (n = 5), lymphadenopathy (n = 3), pleural effusion (n = 1) and intraparenchymal solid nodules (n = 8). These were missed because of a broad pleural attachment (n = 4), extensive reticulation surrounding a nodule (n = 1) and extensive scarring (n = 1). No definite explanation other than human error was found in two cases. None of the interval or post-screen carcinomas involved a subsolid nodule.Interval or post-screen carcinomas that were visible in retrospect were mostly due to detection errors of solid nodules, bulla wall thickening or endobronchial lesions. Interval or post-screen carcinomas without explanation other than human errors are rare.â€¢ 22% of missed carcinomas originally presented as bulla wall thickening on CT. â€¢ 22% of missed carcinomas originally presented as endobronchial lesions on CT. â€¢ All malignant endobronchial lesions presented as interval carcinomas. â€¢ In the NELSON trial subsolid nodules were not a source of missed carcinomas.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Scho15b.pdf:pdfScho15b.pdf:PDF by e-mail"></form>

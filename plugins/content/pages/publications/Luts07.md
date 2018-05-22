@@ -1,0 +1,12 @@
+title: A combined MRI and MRSI based multiclass system for brain tumour recognition using LS-SVMs with class probabilities and feature selection
+
+## Jan Luts and Arend Heerschap and Johan A K Suykens and Sabine Van Huffel
+AIM
+
+<a href="https://doi.org/10.1016/j.artmed.2007.02.002">DOI</a>
+
+## Abstract
+This study investigates the use of automated pattern recognition methods on magnetic resonance data with the ultimate goal to assist clinicians in the diagnosis of brain tumours. Recently, the combined use of magnetic resonance imaging (MRI) and magnetic resonance spectroscopic imaging (MRSI) has demonstrated to improve the accuracy of classifiers. In this paper we extend previous work that only uses binary classifiers to assess the type and grade of a tumour to a multiclass classification system obtaining class probabilities. The important problem of input feature selection is also addressed.Least squares support vector machines (LS-SVMs) with radial basis function kernel are applied and compared with linear discriminant analysis (LDA). Both a Bayesian framework and cross-validation are used to infer the parameters of the LS-SVM classifiers. Four different techniques to obtain multiclass probabilities as a measure of accuracy are compared. Four variable selection methods are explored. MRI and MRSI data are selected from the INTERPRET project database.The results illustrate the significantly better performance of automatic relevance determination (ARD), in combination with LS-SVMs in a Bayesian framework and coupling of class probabilities, compared to classical LDA.It is demonstrated that binary LS-SVMs can be extended to a multiclass classifier system obtaining class probabilities by Bayesian techniques and pairwise coupling. Feature selection based on ARD further improves the results. This classifier system can be of great help in the diagnosis of brain tumours.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Luts07.pdf:pdfLuts07.pdf:PDF by e-mail"></form>

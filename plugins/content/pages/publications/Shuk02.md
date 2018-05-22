@@ -1,0 +1,12 @@
+title: Prediction of treatment response of head and neck cancers with P-31 MR spectroscopy from pretreatment relative phosphomonoester levels
+
+## Shukla-Dave, Amita and Poptani, Harish and Loevner, Laurie A. and Mancuso, Anthony and Serrai, Hacene and Rosenthal, David I. and Kilger, Alexandra M. and Nelson, David S. and Zakian, Kristen L. and Arias-Mendoza, Fernando and Rijpkema, Mark and Koutcher, Jason A. and Brown, Truman R. and Heerschap, Arend and Glickson, Jerry D.
+AR
+
+<a href="https://doi.org/10.1016/S1076-6332(03)80314-8">DOI</a>
+
+## Abstract
+Combinations of chemotherapy and fractionated radiation therapy are the currently preferred nonsurgical treatment methods for squamous cell carcinoma of the head and neck, but to the authors' knowledge there is no reliable marker for predicting therapeutic response. Early identification of nonresponders would allow prompt replacement of ineffective, toxic therapy by alternative, potentially more effective procedures. Frequent regional node involvement facilitates surface coil investigation with phosphorus-31 magnetic resonance spectroscopy.P-31 magnetic resonance spectra were acquired from 12 patients before radiation therapy or chemotherapy. In vivo three-dimensional localized P-31 nuclear magnetic resonance chemical shift imaging was performed with a 1.5-T clinical imager and a dual-tuned H-1/P-31 surface coil. Proton decoupling and nuclear Overhauser enhancement were used to improve sensitivity and resolve overlapping signals in the phosphomonoester region of the spectrum.The average pretreatment ratio of phosphomonoester to beta-nucleoside triphosphate was significantly smaller in complete responders (n = 4) than in incomplete responders (partial responders plus nonresponders, n = 8) (0.0 +/- 0.0 vs 1.22 +/- 0.17 [P = .004]).Results of this preliminary study suggest that H-1-decoupled P-31 magnetic resonance spectroscopy may prove to be a useful predictor of therapeutic response in head and neck cancers.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Shuk02.pdf:pdfShuk02.pdf:PDF by e-mail"></form>

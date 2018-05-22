@@ -1,0 +1,12 @@
+title: 2-D Versus 3-D Cross-Correlation-Based Radial and Circumferential Strain Estimation Using Multiplane 2-D Ultrafast Ultrasound in a 3-D Atherosclerotic Carotid Artery Model.
+
+## Fekkes, Stein and Swillens, Abigail E S and Hansen, Hendrik H G and Saris, Anne E C M and Nillesen, Maartje M and Iannaccone, Francesco and Segers, Patrick and de Korte, Chris L
+IEEE transactions on ultrasonics, ferroelectrics, and frequency control
+
+<a href="https://doi.org/10.1109/TUFFC.2016.2603189">DOI</a>
+
+## Abstract
+Three-dimensional (3-D) strain estimation might improve the detection and localization of high strain regions in the carotid artery (CA) for identification of vulnerable plaques. This paper compares 2-D versus 3-D displacement estimation in terms of radial and circumferential strain using simulated ultrasound (US) images of a patient-specific 3-D atherosclerotic CA model at the bifurcation embedded in surrounding tissue generated with ABAQUS software. Global longitudinal motion was superimposed to the model based on the literature data. A Philips L11-3 linear array transducer was simulated, which transmitted plane waves at three alternating angles at a pulse repetition rate of 10 kHz. Interframe (IF) radio-frequency US data were simulated in Field II for 191 equally spaced longitudinal positions of the internal CA. Accumulated radial and circumferential displacements were estimated using tracking of the IF displacements estimated by a two-step normalized cross-correlation method and displacement compounding. Least-squares strain estimation was performed to determine accumulated radial and circumferential strain. The performance of the 2-D and 3-D methods was compared by calculating the root-mean-squared error of the estimated strains with respect to the reference strains obtained from the model. More accurate strain images were obtained using the 3-D displacement estimation for the entire cardiac cycle. The 3-D technique clearly outperformed the 2-D technique in phases with high IF longitudinal motion. In fact, the large IF longitudinal motion rendered it impossible to accurately track the tissue and cumulate strains over the entire cardiac cycle with the 2-D technique.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Fekk16.pdf:pdfFekk16.pdf:PDF by e-mail"></form>

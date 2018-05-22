@@ -1,0 +1,10 @@
+title: The predictive value of endorectal 3-Tesla multiparametric MRI for extraprostatic extension in low-, intermediate and high-risk prostate cancer patients
+
+## Somford, D. M. and Hamoen, E. H. and F"utterer, J. J. and van Basten, J. P. and van de Kaa, C A Hulsbergen and Vreuls, W. and van Oort, I. M. and Vergunst, H. and Kiemeney, L. A. and Barentsz, J. O. and Witjes, J. A.
+JU
+
+<a href="https://doi.org/10.1016/j.juro.2013.05.021">DOI</a>
+
+## Abstract
+PURPOSE: We aimed to determine the positive and negative predictive values of multiparametric MRI (MP-MRI) for extraprostatic extension (EPE) at radical prostatectomy (RP) for different prostate cancer (PCa) risk groups. MATERIALS AND METHODS: We evaluated a cohort of 183 patients that underwent 3 Tesla (3-T) MP-MRI, including T2-weighted, diffusion-weighted MR Imaging (DWI) and dynamic contrast-enhanced (DCE) sequences, with an endorectal coil (ERC) before RP, pathological stage at RP was used as standard reference for EPE. The cohort was classified into low-, intermediate and high-risk groups according to the d'Amico criteria. We recorded prevalence of EPE at RP and determined sensitivity, specificity, positive predictive value (PPV) and negative predictive value (NPV) of MP-MRI for EPE in each group. Uni- and multivariable analyses were performed to identify predictors of EPE at RP. RESULTS: Overall prevalence of EPE at RP was 49.7% ranging from 24.7-77.1% between low- and high-risk categories. Overall staging accuracy of MP-MRI for EPE was 73.8%, with sensitivity, specificity, PPV and NPV of 58.2%, 89.1%, 84.1% and 68.3%, respectively. PPV of MP-MRI for EPE was best in the high-risk cohort with 88.8%. NPV was highest in the low-risk cohort with 87.7%. With an odds ratio (OR) of 10.3 MP-MRI is by far the best pre-operative predictor of EPE at RP. CONCLUSIONS: For adequate patient counselling, knowledge of predictive values of MP-MRI for EPE is of utmost importance. High NPV, important for decisions on nerve-sparing strategies at RP, is only reached in low-risk subjects.
+

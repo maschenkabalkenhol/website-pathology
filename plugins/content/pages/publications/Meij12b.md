@@ -1,0 +1,12 @@
+title: Contribution of routine brain MRI to the differential diagnosis of parkinsonism: a 3-year prospective follow-up study
+
+## Meijer, Frederick J A. and Aerts, Marjolein B. and Abdo, Wilson F. and Prokop, Mathias and Borm, George F. and Esselink, Rianne A J. and Goraj, Bozena and Bloem, Bastiaan R.
+JN
+
+<a href="https://doi.org/10.1007/s00415-011-6280-x">DOI</a>
+
+## Abstract
+Various signs on routine brain MRI can help differentiate between Parkinson's disease (PD) and the various forms of atypical parkinsonism (AP). Here, we evaluate what routine brain MRI contributes to the clinical diagnosis, in both early and advanced disease stages. We performed a prospective observational study in 113 patients with parkinsonism, but without definite diagnosis upon inclusion. At baseline, patients received a structured interview, comprehensive and standardized neurological assessment, and brain MRI. The silver standard diagnosis was made after 3ï¿½years of follow-up (PD nï¿½=ï¿½43, AP nï¿½=ï¿½57), which was based on disease progression, repeat standardized neurological examination and response to treatment. The clinical diagnosis was classified as having either 'low certainty' (lower than 80%) or 'high certainty' (80% or higher). The added diagnostic yield of baseline MRI results were then studied relative to clinical neurological evaluation at presentation, and at follow-up. Sensitivity and specificity for separating AP from PD were calculated for all potentially distinguishing MRI abnormalities described previously in the literature. MRI abnormalities showed moderate to high specificity but limited sensitivity for the diagnosis of AP. These MRI abnormalities contributed little over and above the clinically based diagnosis, except when the clinical diagnosis was uncertain. For these patients, presence of putaminal or cerebellar atrophy was particularly indicative of AP. Routine brain MRI has limited added value for differentiating between PD and AP when clinical certainty is already high, but has some diagnostic value when the clinical diagnosis is still uncertain.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Meij15b.pdf:pdfMeij15b.pdf:PDF by e-mail"></form>

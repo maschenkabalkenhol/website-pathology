@@ -1,0 +1,12 @@
+title: Nigrosome-1 on Susceptibility Weighted Imaging to Differentiate Parkinson's Disease From Atypical Parkinsonism: An In Vivo and Ex Vivo Pilot Study.
+
+## Meijer, Frederick J A and Steens, Stefan C and van Rumund, Anouke and van Cappellen van Walsum, Anne-Marie and K"usters, Benno and Esselink, Rianne A J and Verbeek, Marcel M and Bloem, Bastiaan R and Goraj, Bo?ena
+Polish journal of radiology
+
+<a href="https://doi.org/10.12659/PJR.897090">DOI</a>
+
+## Abstract
+Previous case-control studies have suggested that the absence of a swallow-tail appearance in the substantia nigra on high-resolution SWI, representing nigrosome-1, has high accuracy to identify Parkinson's disease (PD). The first goal of our study was to evaluate nigrosome-1 ex vivo using optimized high-resolution susceptibility sensitive MRI. Our second goal was to evaluate its diagnostic value in vivo using a clinical 3T SWI sequence to differentiate between PD and atypical parkinsonism (AP) in a cohort of patients with early-stage parkinsonism. Case-control pilot study to evaluate nigrosome-1 ex vivo (2 PD, 2 controls), using high-resolution susceptibility sensitive sequences at 11.7 T MRI. Next, evaluation of nigrosome-1 in vivo using a clinical 3 T SWI sequence in a prospective cohort of 60 patients with early-stage parkinsonism (39 PD, 21 AP). Moreover, 12 control subjects were scanned. The bilateral substantia nigra was evaluated by two neuroradiologists for the presence, absence or indecisive presence of nigrosome-1. The discriminative power was evaluated by Receiver-Operating Characteristic. We identified nigrosome-1 in ex vivo control subjects. Nigrosome-1 was not identified in the ex vivo PD cases. In our prospective clinical cohort study, the AUC for the swallow-tail sign to discriminate between PD and AP was 0.56 (0.41-0.71) for reader 1 and 0.68 (0.55-0.82) for reader 2. The diagnostic accuracy of the swallow-tail sign was marginal to discriminate between PD and AP using our clinical 3 T SWI sequence.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Meij16b.pdf:pdfMeij16b.pdf:PDF by e-mail"></form>

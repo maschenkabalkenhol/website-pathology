@@ -1,0 +1,12 @@
+title: Relation of epicardial and pericoronary fat to coronary atherosclerosis and coronary artery calcium in patients undergoing coronary angiography
+
+## Gorter, Petra M. and de Vos, Alexander M. and van der Graaf, Yolanda and Stella, Pieter R. and Doevendans, Pieter A. and Meijs, Matthijs F L. and Prokop, Mathias and Visseren, Frank L J.
+AJC
+
+<a href="https://doi.org/10.1016/j.amjcard.2008.04.002">DOI</a>
+
+## Abstract
+Fat surrounding coronary arteries might aggravate coronary artery disease (CAD). We investigated the relation between epicardial adipose tissue (EAT) and pericoronary fat and coronary atherosclerosis and coronary artery calcium (CAC) in patients with suspected CAD and whether this relation is modified by total body weight. This was a cross-sectional study of 128 patients with angina pectoris (61 +/- 6 years of age) undergoing coronary angiography. EAT volume and pericoronary fat thickness were measured with cardiac computed tomography. Severity of coronary atherosclerosis was assessed by the number of stenotic (> or =50%) coronary vessels; extent of CAC was determined by the Agatston score. Patients were stratified for median total body weight (body mass index [BMI] 27 kg/m(2)). Overall, EAT and pericoronary fat were not associated with severity of coronary atherosclerosis and extent of CAC. In patients with low BMI, those with multivessel disease had increased EAT volume (100 vs 67 cm(3), p = 0.04) and pericoronary fat thickness (9.8 vs 8.4 mm, p = 0.06) compared with those without CAD. Also, patients with severe CAC had increased EAT volume (108.0 vs 69 cm(3), p = 0.02) and pericoronary fat thickness (10.0 vs 8.2 mm, p value = 0.01) compared with those with minimal/absent CAC. In conclusion, EAT and pericoronary fat were not associated with severity of coronary atherosclerosis and CAC in patients with suspected CAD. However, in those with low BMI, increased EAT and pericoronary fat were related to more severe coronary atherosclerosis and CAC. Fat surrounding coronary arteries may be involved in the process of coronary atherosclerosis, although this is different for patients with low and high BMIs.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Gort08a.pdf:pdfGort08a.pdf:PDF by e-mail"></form>

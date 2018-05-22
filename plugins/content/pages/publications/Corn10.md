@@ -1,0 +1,12 @@
+title: Detection of occult endoleaks after endovascular treatment of abdominal aortic aneurysm using magnetic resonance imaging with a blood pool contrast agent: preliminary observations
+
+## Sandra A P Cornelissen and Mathias Prokop and Hence J Verhagen and Miraude E Adriaensen and Frans L Moll and Lambertus W Bartels
+IR
+
+<a href="https://doi.org/10.1097/RLI.0b013e3181e992ac">DOI</a>
+
+## Abstract
+To determine whether blood pool contrast agent-enhanced magnetic resonance imaging (MRI) can visualize endoleaks that are occult on computed tomography (CT) in patients with nonshrinking aneurysms after endovascular aneurysm repair.Written informed consent was obtained for this prospective institutional review board approved study. Twelve patients with nonshrinking aneurysms but no evidence of endoleak on CT angiography and delayed CT underwent MRI with a blood pool contrast agent (Gadofosveset trisodium, Bayer Schering Pharma, Berlin, Germany). Patients could participate once in the study. T1-weighted images were acquired before injection, 3 minutes and 30 minutes after injection. Two blinded readers independently scored the images into "endoleak," "possible endoleak," or "no endoleak" by comparing postcontrast MR images with precontrast images. Weighted kappas with linear weighting scheme were calculated for interobserver agreement.One MRI examination was nondiagnostic because of patient motion. In the successful 11 MRI exams, MRI 3 minutes after injection demonstrated endoleak in 2/11 MRI exams (18%) and possible endoleak in 2/11 MRI exams (18%). After 30 minutes, MRI demonstrated endoleak in 6/11 scans (55%) and possible endoleak in 1/11 scans (9%). Weighted kappa was 0.78 and 0.89 for early and late postcontrast images.Endoleaks that are occult on CT can be detected by MRI with blood pool contrast agents. Late phase MRI 30 minutes after injection revealed additional endoleaks not seen 3 minutes after injection.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Corn10.pdf:pdfCorn10.pdf:PDF by e-mail"></form>

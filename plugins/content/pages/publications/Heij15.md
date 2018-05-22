@@ -1,0 +1,12 @@
+title: Multimodality imaging to predict response to systemic treatment in patients with advanced colorectal cancer
+
+## Heijmen, Linda and Ter Voert, Edwin E G W. and Oyen, Wim J G. and Punt, Cornelis J A. and van Spronsen, Dick Johan and Heerschap, Arend and de Geus-Oei, Lioe-Fee and van Laarhoven, Hanneke W M.
+PLOSONE
+
+<a href="https://doi.org/10.1371/journal.pone.0120823">DOI</a>
+
+## Abstract
+Aim of this study was to investigate the potential of 18F-FDG PET, diffusion weighted imaging (DWI) and susceptibility-weighted (T2*) MRI to predict response to systemic treatment in patients with colorectal liver metastases. The predictive values of pretreatment measurements and of early changes one week after start of therapy, were evaluated.Imaging was performed prior to and one week after start of first line chemotherapy in 39 patients with colorectal liver metastases. 18F-FDG PET scans were performed on a PET/CT scanner and DWI and T2* were performed on a 1.5T MR scanner. The maximum standardized uptake values (SUV), total lesion glycolysis (TLG), apparent diffusion coefficient (ADC) and T2* value were assessed in the same lesions. Up to 5 liver metastases per patient were analyzed. Outcome measures were progression free survival (PFS), overall survival (OS) and size response.Pretreatment, high SUVmax, high TLG, low ADC and high T2* were associated with a shorter OS. Low pretreatment ADC value was associated with shorter PFS. After 1 week a significant drop in SUVmax and rise in ADC were observed. The drop in SUV was correlated with the rise in ADC (r=-0.58, p=0.002). Neither change in ADC nor in SUV was predictive of PFS or OS. T2* did not significantly change after start of treatment.Pretreatment SUVmax, TLG, ADC, and T2* values in colorectal liver metastases are predictive of patient outcome. Despite sensitivity of DWI and 18F-FDG PET for early treatment effects, change in these parameters was not predictive of long term outcome.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Heij15.pdf:pdfHeij15.pdf:PDF by e-mail"></form>

@@ -1,0 +1,12 @@
+title: Lack of specific binding of Shiga-like toxin (verocytotoxin) and non-specific interaction of Shiga-like toxin 2 antibody with human polymorphonuclear leucocytes
+
+## Geelen, Joyce M. and van der Velden, Thea J A M. and Te Loo, D Maroeska W M. and Boerman, Otto C. and van den Heuvel, Lambertus P W J. and Monnens, Leo A H.
+NDT
+
+<a href="https://doi.org/10.1093/ndt/gfl688">DOI</a>
+
+## Abstract
+After gastrointestinal infection with Shiga-like toxin (Stx) producing Escherichia coli, the toxin is transported from the intestine to the renal microvascular endothelium. This is the main target for Stx in humans. Previous studies indicated that polymorphonuclear leucocytes (PMN) could serve as carriers for Stx in the systemic circulation. As at a later stage we could not confirm these data, we performed new studies.The binding of Stx1 to PMN was determined in vitro (isolated human PMN and whole blood) and in vivo (injection in mice). The specificity of binding of an antibody against Stx2 to PMN from patients with haemolytic uraemic syndrome (HUS) was determined. This was compared with binding to PMN from healthy controls, and patients after haemodialysis (HD) or on peritoneal dialysis (PD). Furthermore, PMN were incubated with Stx to study possible activation.No specific binding of Stx1 to PMN could be detected. After intravenous injection of the toxin in mice, it was not associated with PMN. The binding of an antibody against Stx2 to PMN was detected in both patients with HUS and patients after HD, but not in patients on PD. Stx was not able to activate PMN.PMN are not acting as transporter for Stx in the pathogenesis of HUS. The interaction of a Stx antibody with PMN from HUS patients is not specific as it can also be observed in patients after HD (possibly due to activation of the PMN). Therefore, binding of Stx antibody to PMN is not reliable as a diagnostic tool for HUS.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Published version:pdfGeel07.pdf:PDF by e-mail"></form>

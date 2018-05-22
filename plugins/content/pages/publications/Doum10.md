@@ -1,0 +1,10 @@
+title: Comparison of 4- and 64-slice CT scanning in the diagnosis of pulmonary embolism
+
+## Douma, Ren'ee A. and Hofstee, Herman M A. and Schaefer-Prokop, Cornelia and van Waesberghe, Jan Hein T M. and Lely, Rutger J. and Kamphuisen, Pieter W. and Gerdes, Victor E A. and Kramer, Mark H H. and B"uller, Harry R.
+THRHAE
+
+<a href="https://doi.org/10.1160/TH09-06-0406">DOI</a>
+
+## Abstract
+With the introduction of multi-detector row CT (MDCT), sensitivity to diagnose pulmonary embolism (PE) has greatly improved. The use of newer generation CT-scans may lead to a higher prevalence and a different distribution of PE. We compared 64-slice with 4-slice MDCT regarding prevalence and distribution of PE, the number of inconclusive test results and inter-reader variability. CT-scans from a random sample of 110 consecutive patients who underwent 4-slice CT-scanning were compared with 64-slice CT-scans from 107 patients from a second cohort. Three radiologists independently reassessed all CT-scans. Consensus was reached in case of disagreement between the readers. Final diagnosis of PE was categorised as central, segmental or subsegmental by the thrombus' most proximal end. The prevalence of PE was 24% (26/110, 95% confidence interval [CI] 17-32%) and 22% (24/107, 16-31%) for the 4-slice and 64-slice cohort, respectively. The prevalence of isolated subsegmental emboli was 2/26 (7.7%; 2.1-24%) and 5/24 (21%; 9.2-41%), respectively (p=0.424). The number of inconclusive scans was 10% in both cohorts, mostly due to movement artefacts and suboptimal intravascular contrast, respectively. The inter-reader agreement between the three readers was 0.70 for the 4-slice scans and 0.68 for the 64-slice scans. Although absolute prevalence of PE was equal in both cohorts, there was a trend towards more subsegmental PE with 64-slice CT. In a multi-reader setting, the number of inconclusive examinations was higher than quoted for clinical management studies, indicating that the diagnosis of PE with MDCT could be less straightforward than assumed.
+

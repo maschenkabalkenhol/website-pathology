@@ -1,0 +1,12 @@
+title: Automatic identification of reticular pseudodrusen using multimodal retinal image analysis
+
+## Mark J. J. P. van Grinsven and Gabri"elle H. S. Buitendijk and Corina Brussee and Bram van Ginneken and Carel B. Hoyng and Thomas Theelen and Caroline C. W. Klaver and Clara I. S'anchez
+IOVS
+
+<a href="https://doi.org/10.1167/iovs.14-15019">DOI</a>
+
+## Abstract
+To examine human performance and agreement on reticular pseudodrusen (RPD) detection and quantification by using single- and multimodality grading protocols and to describe and evaluate a machine learning system for the automatic detection and quantification of reticular pseudodrusen by using single- and multimodality information.Color fundus, fundus autofluoresence, and near-infrared images of 278 eyes from 230 patients with or without presence of RPD were used in this study. All eyes were scored for presence of RPD during single- and multimodality setups by two experienced observers and a developed machine learning system. Furthermore, automatic quantification of RPD area was performed by the proposed system and compared with human delineations.Observers obtained a higher performance and better interobserver agreement for RPD detection with multimodality grading, achieving areas under the receiver operating characteristic (ROC) curve of 0.940 and 0.958, and a Îº agreement of 0.911. The proposed automatic system achieved an area under the ROC of 0.941 with a multimodality setup. Automatic RPD quantification resulted in an intraclass correlation (ICC) value of 0.704, which was comparable with ICC values obtained between single-modality manual delineations.Observer performance and agreement for RPD identification improved significantly by using a multimodality grading approach. The developed automatic system showed similar performance as observers, and automatic RPD area quantification was in concordance with manual delineations. The proposed automatic system allows for a fast and accurate identification and quantification of RPD, opening the way for efficient quantitative imaging biomarkers in large data set analysis.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Grin15.pdf:pdfGrin15.pdf:PDF by e-mail"></form>

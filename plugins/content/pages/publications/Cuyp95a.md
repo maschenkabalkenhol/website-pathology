@@ -1,0 +1,9 @@
+title: Discriminative power of visual evoked potential characteristics in multiple sclerosis
+
+## Cuypers, M. H. and Dickson, K. and Pinckers, A. J. and Thijssen, J. M. and Hommes, O. R.
+Doc Ophthalmol
+
+
+## Abstract
+To investigate the discriminative power of pattern-reversal visual evoked potential characteristics (peak latencies and amplitude) and to test whether the addition of visual evoked potential amplitude can increase the power of the visual evoked potential in the diagnosis of multiple sclerosis, we retrospectively studied visual evoked potentials in 59 patients with definite multiple sclerosis and 126 control subjects. Two check sizes (17' and 10') were used. Females had significantly higher amplitudes and shorter latencies than males. N80 latency showed a gradual increase and P100 amplitude a decrease with age. P100 latency was stable between the ages of 20 and 55 years but was increased in childhood and the elderly. The significance of visual evoked potential peak latencies and amplitude in separating the two groups was investigated by means of a (multivariate) discriminant analysis. The visual evoked potential with a pattern of 10' could be measured in 58% of patients with multiple sclerosis. The exclusive use of the P100 amplitude in the discriminant analysis resulted in a percentage of correctly classified cases of 84%, whereas for P100 and N80 latency it was 85% and 90%, respectively. With the 17' pattern, the N80 latency yielded also a higher correct percentage than did the P100 latency. Although N80 latency is, to a greater extent than P100 latency, influenced by age, sex and size of stimulus pattern, when these influences are accounted for, the N80 latency is a more sensitive measure than P100 latency in the classification of multiple sclerosis. Combined use of latency and amplitude for discriminant analysis yielded no significant improvement of the percentage of correctly classified cases.
+

@@ -1,0 +1,12 @@
+title: A national survey on radiation dose in CT in The Netherlands
+
+## van der Molen, A. J. and Schilham, A. and Stoop, P. and Prokop, M. and Geleijns, J.
+INSI
+
+<a href="https://doi.org/10.1007/s13244-013-0253-9">DOI</a>
+
+## Abstract
+OBJECTIVES: To assess radiation exposure due to CT in the Netherlands. METHODS: Twenty-one hospitals participated in a dose survey for the 21 most frequently used CT protocols. Hospitals completed a Web survey with detailed parameters for one patient per protocol, including the dose length product (DLP) from the scanner dose report. Only standard-sized patients (1.74 m and 77 kg and BMI 25.4 kg/m(2)â€‰Â±â€‰15 %) for each protocol and available scanner were considered. Effective dose (E) per protocol was estimated using ICRP-103-based E/DLP coefficients. Dose levels were compared to surveys from other countries and to diagnostic reference levels. RESULTS: Data of 186 patients (247 scan phases) from 14 hospitals and 19 scanners were used for final analysis of DLP and E. Effective doses varied from 0.2 mSv in sinus CT to 19.4 mSv for multiphase liver. The most frequent exams were brain (1.5 mSv), abdomen (8.0 mSv), and thorax-abdomen (11.5 mSv). These results are lower than in Germany and comparable to those in the UK, and are within reference levels. Results between hospitals varied, with per protocol minimum/maximum E ratios ranging from 1.1-5.4. CONCLUSIONS: Compared to surrounding countries, CT in the Netherlands is associated with relatively low radiation doses in standard patients. Important differences remain between hospitals. MAIN MESSAGES : â€¢ A national dose survey providing updated, detailed data for patient dose in the most frequently used CT protocols. â€¢ CT in the Netherlands is associated with relatively low individual radiation doses in standard patients compared to surrounding European countries. â€¢ Considerable differences remain between hospitals for the most frequently used CT protocols, indicating the need for further optimisation.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Mole13.pdf:pdfMole13.pdf:PDF by e-mail"></form>

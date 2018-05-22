@@ -1,0 +1,12 @@
+title: Short term and long term results of patients with colorectal liver metastases undergoing surgery with or without radiofrequency ablation.
+
+## van Amerongen, M. J. and van der Stok, E. P. and F"utterer, J. J. and Jenniskens, S F M. and Moelker, A. and Gr"unhagen, D. J. and Verhoef, C. and de Wilt, J H W.
+Eur J Surg Oncol
+
+<a href="https://doi.org/10.1016/j.ejso.2016.01.013">DOI</a>
+
+## Abstract
+The combination of resection and radiofrequency ablation (RFA) may provide an alternative treatment for patients with unresectable colorectal liver metastases (CRLM). Although the results in literature look promising, uncertainty exists with regard to complication risks and survival for this therapy.From January 2000 to May 2013, patients were included in a prospective multicenter database when treated for CRLM. Exclusion criteria were: two-staged treatment, synchronous resection of liver metastases and primary tumor, loss to follow-up or extrahepatic metastases. Patients were divided in a resection-only group (ROG) and combination group (CG). Outcome variables were retrospectively analyzed.In CG, 98 patients were included versus 534 patients in ROG. There were no differences in general patient characteristics. Patients in CG had a higher Fong clinical risk score (CRS; Pï¿½=ï¿½0.001), better ASA classification (Pï¿½=ï¿½0.04) and received more neoadjuvant chemotherapy (Pï¿½=ï¿½0.001). There was no difference in postoperative morbidity or 90-day mortality. The 5-year disease-free survival (DFS) for CG and ROG was 25% and 36.1% (Pï¿½=ï¿½0.03), respectively. For the 5-year overall survival (OS) this was respectively 42% and 62.2% (Pï¿½=ï¿½0.001). On multivariate analysis, Fong CRS was a significant predictor for DFS. For OS, Fong CRS, ASA class IV and the combination therapy were significant predictors.The combination of hepatic resection and intraoperative RFA is a safe procedure, without increase in postoperative morbidity or mortality. Combining RFA and resection in one session is a valid treatment option for patients who would otherwise be inoperable.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send van16d.pdf:pdfvan16d.pdf:PDF by e-mail"></form>

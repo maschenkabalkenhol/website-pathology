@@ -1,0 +1,12 @@
+title: Observer training for computer-aided detection of pulmonary nodules in chest radiography
+
+## De Boo, Diederick W. and van Hoorn, FranÃ§ois and van Schuppen, Joost and Schijf, Laura and Scheerder, Maeke J. and Freling, Nicole J. and Mets, Onno and Weber, Michael and Schaefer-Prokop, Cornelia M.
+ER
+
+<a href="https://doi.org/10.1007/s00330-012-2412-7">DOI</a>
+
+## Abstract
+To assess whether short-term feedback helps readers to increase their performance using computer-aided detection (CAD) for nodule detection in chest radiography.The 140 CXRs (56 with a solitary CT-proven nodules and 84 negative controls) were divided into four subsets of 35; each were read in a different order by six readers. Lesion presence, location and diagnostic confidence were scored without and with CAD (IQQA-Chest, EDDA Technology) as second reader. Readers received individual feedback after each subset. Sensitivity, specificity and area under the receiver-operating characteristics curve (AUC) were calculated for readings with and without CAD with respect to change over time and impact of CAD.CAD stand-alone sensitivity was 59 % with 1.9 false-positives per image. Mean AUC slightly increased over time with and without CAD (0.78 vs. 0.84 with and 0.76 vs. 0.82 without CAD) but differences did not reach significance. The sensitivity increased (65 % vs. 70 % and 66 % vs. 70 %) and specificity decreased over time (79 % vs. 74 % and 80 % vs. 77 %) but no significant impact of CAD was found.Short-term feedback does not increase the ability of readers to differentiate true- from false-positive candidate lesions and to use CAD more effectively.â€¢ Computer-aided detection (CAD) is increasingly used as an adjunct for many radiological techniques. â€¢ Short-term feedback does not improve reader performance with CAD in chest radiography. â€¢ Differentiation between true- and false-positive CAD for low conspicious possible lesions proves difficult. â€¢ CAD can potentially increase reader performance for nodule detection in chest radiography.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Boo12a.pdf:pdfBoo12a.pdf:PDF by e-mail"></form>

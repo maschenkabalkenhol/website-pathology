@@ -1,0 +1,12 @@
+title: Long-Term Serial Follow-Up of Pulmonary Artery Size and Wall Shear Stress in Fontan Patients.
+
+## Bossers, Sjoerd S M. and Cibis, Merih and Kapusta, Livia and Potters, Wouter V. and Snoeren, Miranda M. and Wentzel, Jolanda J. and Moelker, Adriaan and Helbing, Willem A.
+Pediatr Cardiol
+
+<a href="https://doi.org/10.1007/s00246-015-1326-y">DOI</a>
+
+## Abstract
+Pulmonary arterial (PA) flow is abnormal after the Fontan operation and is marked by a lack of pulsatility. We assessed the effects of this abnormal flow on the size and function of the PA's in Fontan patients in long-term serial follow-up. Twenty-three Fontan patients with serial follow-up were included. Median age was 11.1 (9.5-16.0) years at baseline and 15.5 (12.5-22.7) years at follow-up. Median follow-up duration was 4.4 (4.0-5.8) years. Flow and size of the left pulmonary artery were determined using phase-contrast MRI. From this wall shear stress (WSS), distensibility and pulsatility were determined. A group of healthy peers was included for reference. Flow and pulsatility were significantly lower in patients than in controls (pÂ <Â 0.001). Mean area was comparable in patients and controls, but distensibility was significantly higher in controls (pÂ <Â 0.001). Mean and peak WSS were significantly lower in Fontan patients (pÂ <Â 0.001). Between baseline and follow-up, there was a significant increase in normalized flow (15.1 (14.3-19.1) to 18.7 (14.0-22.6)Â ml/s/m(2), pÂ =Â 0.023). Area, pulsatility, distensibility and WSS did not change, but there was a trend toward a lower mean WSS (pÂ =Â 0.068). Multivariable regression analysis showed that flow, area and age were important predictors for WSS. WSS in Fontan patients is decreased compared to healthy controls and tends to decrease further with age. Pulsatility and distensibility are significantly lower compared to healthy controls. Pulmonary artery size, however, is not significantly different from healthy controls and long-term growth after Fontan operation is proportionate to body size.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Boss16b.pdf:pdfBoss16b.pdf:PDF;:Boss16b.pdf:PDF by e-mail"></form>

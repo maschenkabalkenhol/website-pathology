@@ -1,17 +1,27 @@
-import bibtexlib
-import bibtexformatter
+""" This plugin will write the md files for each publication found in diag.bib
+ 
+"""
 import os
 import time
 
+from bibtex import bibtexlib
+from bibtex import bibtexformatter
+from pelican import signals
 
-def generate_md_bibitem():
+def register():
+    signals.initialized.connect(generate_md_bibitem)
+    
+def generate_md_bibitem(sender):
+    out_dir = r'../../content/pages/publications'
+    bib_file = 'plugins/bibtex/diag.bib'
+    print('Bibtex plugin loaded')
     start_time = time.clock()
-    index, global_index, string_rules = bibtexlib.read_bibtex_file('diag.bib')
+    index, global_index, string_rules = bibtexlib.read_bibtex_file(bib_file)
     html_format = bibtexformatter.HTML_Formatter(string_rules)
     time_diagbib = time.clock() - start_time
     start_time = time.clock()
 
-    out_dir = r'../content/pages/publications'
+    
     if not os.path.exists(out_dir):
         os.makedirs(out_dir)
 
@@ -62,13 +72,10 @@ def generate_md_bibitem():
             list_bibs_error.append(bibitem)
 
     print('\nTime to process diag.bib ', time_diagbib)
-    print('Time to create ' + len(global_index) + ' MD files ', time.clock() - start_time)
+    print('Time to create ' + str(len(global_index)) + ' MD files ', time.clock() - start_time)
     print('List of bibkeys returning UnicodeEncodeError')
 
     for bib in list_bibs_error:
         print(bib)
 
-
-if __name__ == '__main__':
-    generate_md_bibitem()
 

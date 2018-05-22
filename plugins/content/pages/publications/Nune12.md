@@ -1,0 +1,12 @@
+title: Increased intramyocellular lipids but unaltered in vivo mitochondrial oxidative phosphorylation in skeletal muscle of adipose triglyceride lipase-deficient mice
+
+## Nunes, P. M. and van de Weijer, T. and Veltien, A. and Arnts, H. and Hesselink, M K C. and Glatz, J F C. and Schrauwen, P. and Tack, C. J. and Heerschap, A.
+AJPEM
+
+<a href="https://doi.org/10.1152/ajpendo.00597.2011">DOI</a>
+
+## Abstract
+Adipose triglyceride lipase (ATGL) is a lipolytic enzyme that is highly specific for triglyceride hydrolysis. The ATGL-knockout mouse (ATGL(-/-)) accumulates lipid droplets in various tissues, including skeletal muscle, and has poor maximal running velocity and endurance capacity. In this study, we tested whether abnormal lipid accumulation in skeletal muscle impairs mitochondrial oxidative phosphorylation, and hence, explains the poor muscle performance of ATGL(-/-) mice. In vivo (1)H magnetic resonance spectroscopy of the tibialis anterior of ATGL(-/-) mice revealed that its intramyocellular lipid pool is approximately sixfold higher than in WT controls (P = 0.0007). In skeletal muscle of ATGL(-/-) mice, glycogen content was decreased by 30% (P < 0.05). In vivo (31)P magnetic resonance spectra of resting muscles showed that WT and ATGL(-/-) mice have a similar energy status: [PCr], [P(i)], PCr/ATP ratio, PCr/P(i) ratio, and intracellular pH. Electrostimulated muscles from WT and ATGL(-/-) mice showed the same PCr depletion and pH reduction. Moreover, the monoexponential fitting of the PCr recovery curve yielded similar PCr recovery times (tPCr; 54.1 ï¿½ 6.1 s for the ATGL(-/-) and 58.1 ï¿½ 5.8 s for the WT), which means that overall muscular mitochondrial oxidative capacity was comparable between the genotypes. Despite similar in vivo mitochondrial oxidative capacities, the electrostimulated muscles from ATGL(-/-) mice displayed significantly lower force production and increased muscle relaxation time than the WT. These findings suggest that mechanisms other than mitochondrial dysfunction cause the impaired muscle performance of ATGL(-/-) mice.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Nune12.pdf:pdfNune12.pdf:PDF by e-mail"></form>

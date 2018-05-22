@@ -1,0 +1,9 @@
+title: The First International Workshop on Pulmonary Image Analysis
+
+## M. Brown and M. de Bruijne and B. van Ginneken and A. Kiraly and J.-M. Kuhnigk and C. Lorenz and K. Mori and J. Reinhardt
+
+## Abstract
+Both the quantity and quality of image data available to study the pulmonary system have increased enormously in the last decade. The goal of this workshop is to bring together researchers in pulmonary image analysis and discuss recent advances in this rapidly developing field. We invited papers on all aspects of image analysis of pulmonary image data, including segmentation, registration, quantification, modeling of the image acquisition process, visualization, statistical modeling, biophysical modeling of the lungs (computational anatomy), and novel applications. In addition, we want to address the effective use of these methodologies for diagnosis and therapy in clinical applications, bringing together theory and practice, by including a hands-on demo session focusing on clinical workstations for pulmonary analysis. We received many high quality submissions covering a broad spectrum of issues in pulmonary image analysis. All papers underwent a thorough review process with 3-4 reviews per paper by members of the program committee and additional reviewers. We finally accepted 12 papers for oral presentation, 16 poster presentations, and 3 papers describing software systems which will be demonstrated during the poster and demo session.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Brow08a.pdf:pdfBrow08a.pdf:PDF by e-mail"></form>

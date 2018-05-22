@@ -1,0 +1,12 @@
+title: Cardiac deletion of the Coxsackievirus-adenovirus receptor abolishes Coxsackievirus B3 infection and prevents myocarditis in vivo
+
+## Shi, Yu and Chen, Chen and Lisewski, Ulrike and Wrackmeyer, Uta and Radke, Michael and Westermann, Dirk and Sauter, Martina and Tsch"ope, Carsten and Poller, Wolfgang and Klingel, Karin and Gotthardt, Michael
+JACC
+
+<a href="https://doi.org/10.1016/j.jacc.2008.10.064">DOI</a>
+
+## Abstract
+We investigated the role of the Coxsackievirus-adenovirus receptor (CAR) in viral myocarditis.CAR is involved in virus uptake into various cell types. It has therefore been suggested as a therapeutic target to prevent or treat Coxsackievirus B3 (CVB3)-induced diseases such as myocarditis and cardiomyopathy. Recent work in CAR-deficient animals has indicated a role in embryonic development and remodeling with cardiac malformation and lethality.We generated a tamoxifen-inducible knockout (KO) mouse to study CAR in the adult heart after CVB3 infection. Histomorphology, virus distribution, and cardiac function were compared in CAR-KO versus noninduced littermate control animals expressing wild-type CAR (WT).We have demonstrated that eliminating CAR prevents signs of inflammatory cardiomyopathy, with essentially no pathology in KO hearts. Unlike CVB3-infected WT control animals, the cardiac inducible KO mice did not exhibit structural changes such as monocyte infiltration or fibrosis after CVB3 infection or increased production of markers of inflammation such as interleukin-6 and -10. Whereas CVB3 infection resulted in severe contractile dysfunction in the hearts of animals that express WT, the CAR-deficient hearts appeared normal.Elimination of CAR in adult hearts can efficiently block virus entry and the associated pathology including contractile dysfunction. The lack of infiltration or other morphological changes in CVB3-infected KO hearts emphasizes the contribution of direct virus-mediated pathology in enteroviral myocarditis.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Published version:pdfShi09.pdf:PDF by e-mail"></form>

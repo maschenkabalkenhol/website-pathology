@@ -1,0 +1,12 @@
+title: Screening for pulmonary tuberculosis in a Tanzanian prison and computer-aided interpretation of chest X-rays
+
+## Steiner, A. and Mangu, C. and van den Hombergh, J. and van Deutekom, H. and van Ginneken, B. and Clowes, P. and Mhimbira, F. and Mfinanga, S. and Rachow, A. and Reither, K. and Hoelscher, M.
+Public Health Action
+
+<a href="https://doi.org/10.5588/pha.15.0037">DOI</a>
+
+## Abstract
+Tanzania is a high-burden country for tuberculosis (TB), and prisoners are a high-risk group that should be screened actively, as recommended by the World Health Organization. Screening algorithms, starting with chest X-rays (CXRs), can detect asymptomatic cases, but depend on experienced readers, who are scarce in the penitentiary setting. Recent studies with patients seeking health care for TB-related symptoms showed good diagnostic performance of the computer software CAD4TB.To assess the potential of computer-assisted screening using CAD4TB in a predominantly asymptomatic prison population.Cross-sectional study.CAD4TB and seven health care professionals reading CXRs in local tuberculosis wards evaluated a set of 511 CXRs from the Ukonga prison in Dar es Salaam. Performance was compared using a radiological reference. Two readers performed significantly better than CAD4TB, three were comparable, and two performed significantly worse (area under the curve 0.75 in receiver operating characteristics analysis). On a superset of 1321 CXRs, CAD4TB successfully interpreted >99%, with a predictably short time to detection, while 160 (12.2%) reports were delayed by over 24 h with conventional CXR reading.CAD4TB reliably evaluates CXRs from a mostly asymptomatic prison population, with a diagnostic performance inferior to that of expert readers but comparable to local readers.Abstract available from the publisher.Abstract available from the publisher.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Stei15.pdf:pdfStei15.pdf:PDF by e-mail"></form>

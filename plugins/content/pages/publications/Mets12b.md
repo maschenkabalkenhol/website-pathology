@@ -1,0 +1,12 @@
+title: Variation in quantitative CT air trapping in heavy smokers on repeat CT examinations
+
+## Mets, Onno M. and Isgum, Ivana and Mol, Christian P. and Gietema, Hester A. and Zanen, Pieter and Prokop, Mathias and de Jong, Pim A.
+ER
+
+<a href="https://doi.org/10.1007/s00330-012-2526-y">DOI</a>
+
+## Abstract
+OBJECTIVES: To determine the variation in quantitative computed tomography (CT) measures of air trapping in low-dose chest CTs of heavy smokers. METHODS: We analysed 45 subjects from a lung cancer screening trial, examined by CT twice within 3ï¿½months. Inspiratory and expiratory low-dose CT was obtained using breath hold instructions. CT air trapping was defined as the percentage of voxels in expiratory CT with an attenuation below -856ï¿½HU (EXP(-856)) and the expiratory to inspiratory ratio of mean lung density (E/I-ratio(MLD)). Variation was determined using limits of agreement, defined as 1.96 times the standard deviation of the mean difference. The effect of both lung volume correction and breath hold reproducibility was determined. RESULTS: The limits of agreement for uncorrected CT air trapping measurements were -15.0 to 11.7ï¿½% (EXP(-856)) and -9.8 to 8.0ï¿½% (E/I-ratio(MLD)). Good breath hold reproducibility significantly narrowed the limits for EXP(-856) (-10.7 to 7.5ï¿½%, P?=?0.002), but not for E/I-ratio(MLD) (-9.2 to 7.9ï¿½%, P?=?0.75). Statistical lung volume correction did not improve the limits for EXP(-856) (-12.5 to 8.8ï¿½%, P?=?0.12) and E/I-ratio(MLD) (-7.5 to 5.8ï¿½%, P?=?0.17). CONCLUSIONS: Quantitative air trapping measures on low-dose CT of heavy smokers show considerable variation on repeat CT examinations, regardless of lung volume correction or reproducible breath holds. KEY POINTS: ï¿½ Computed tomography quantitatively measures small airways disease in heavy smokers. ï¿½ Measurements of air trapping vary considerably on repeat CT examinations. ï¿½ Variation remains substantial even with reproducible breath holds and lung volume correction.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Mets12b.pdf:pdfMets12b.pdf:PDF by e-mail"></form>

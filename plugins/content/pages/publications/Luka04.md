@@ -1,0 +1,12 @@
+title: Brain tumor classification based on long echo proton MRS signals
+
+## Lukas, L. and Devos, A. and Suykens, J A K. and Vanhamme, L. and Howe, F. A. and Maj'os, C. and Moreno-Torres, A. and Van der Graaf, M. and Tate, A. R. and Ar'us, C. and Van Huffel, S.
+AIM
+
+<a href="https://doi.org/10.1016/j.artmed.2004.01.001">DOI</a>
+
+## Abstract
+There has been a growing research interest in brain tumor classification based on proton magnetic resonance spectroscopy (1H MRS) signals. Four research centers within the EU funded INTERPRET project have acquired a significant number of long echo 1H MRS signals for brain tumor classification. In this paper, we present an objective comparison of several classification techniques applied to the discrimination of four types of brain tumors: meningiomas, glioblastomas, astrocytomas grade II and metastases. Linear and non-linear classifiers are compared: linear discriminant analysis (LDA), support vector machines (SVM) and least squares SVM (LS-SVM) with a linear kernel as linear techniques and LS-SVM with a radial basis function (RBF) kernel as a non-linear technique. Kernel-based methods can perform well in processing high dimensional data. This motivates the inclusion of SVM and LS-SVM in this study. The analysis includes optimal input variable selection, (hyper-) parameter estimation, followed by performance evaluation. The classification performance is evaluated over 200 stratified random samplings of the dataset into training and test sets. Receiver operating characteristic (ROC) curve analysis measures the performance of binary classification, while for multiclass classification, we consider the accuracy as performance measure. Based on the complete magnitude spectra, automated binary classifiers are able to reach an area under the ROC curve (AUC) of more than 0.9 except for the hard case glioblastomas versus metastases. Although, based on the available long echo 1H MRS data, we did not find any statistically significant difference between the performances of LDA and the kernel-based methods, the latter have the strength that no dimensionality reduction is required to obtain such a high performance.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Luka04.pdf:pdfLuka04.pdf:PDF by e-mail"></form>

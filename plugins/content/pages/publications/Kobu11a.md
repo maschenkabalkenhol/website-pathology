@@ -1,0 +1,10 @@
+title: In vivo assessment of prostate cancer aggressiveness using magnetic resonance spectroscopic imaging at 3 T with an endorectal coil.
+
+## Kobus, Thiele and Hambrock, Thomas and Hulsbergen-van de Kaa, Christina A and Wright, Alan J and Barentsz, Jelle O and Heerschap, Arend and Scheenen, Tom W J
+European urology
+
+<a href="https://doi.org/10.1016/j.eururo.2011.03.002">DOI</a>
+
+## Abstract
+One of the most important clinical challenges in prostate cancer (PCa) management is an in vivo assessment of cancer aggressiveness. To validate the performance of magnetic resonance (MR) spectroscopic imaging (MRSI) of the prostate at 3 T for the purpose of assessing tumour aggressiveness based on the ratio of choline plus creatine to citrate (Cho+Cr/Cit) and of choline to creatine (Cho/Cr), using the Gleason score of the radical prostatectomy (RP) specimen as the gold standard. A total of 43 biopsy-proven PCa patients with 53 clinically relevant tumour foci were retrospectively included in this study. Patients underwent MR imaging and MRSI examination followed by RP. From MRSI, all spectroscopy voxels containing tumour were selected by a radiologist guided by the prostatectomy histopathology map only. For each tumour, two spectroscopists determined the maximum Cho+Cr/Cit, Cho/Cr, and malignancy rating using a standardised threshold approach, incorporating both metabolic ratios. The maximum Cho+Cr/Cit, Cho/Cr, and malignancy ratings showed a relation to tumour aggressiveness and so were used to differentiate among tumour aggressiveness classes. The maximum Cho+Cr/Cit ratio, maximum Cho/Cr ratio, and malignancy rating of a standardised threshold approach separated low-grade from higher-grade tumours, with areas under the receiver operating characteristic (ROC) curves of 0.70, 0.74, and 0.78, respectively. MRSI offers possibilities for an in vivo, noninvasive assessment of PCa aggressiveness. The combination of the different metabolite ratios was used with promising results for discrimination among different aggressiveness classes.
+

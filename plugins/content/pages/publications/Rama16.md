@@ -1,0 +1,12 @@
+title: X-ray scatter correction method for dedicated breast computed tomography: improvements and initial patient testing.
+
+## Ramamurthy, S and D'Orsi, Carl J. and Sechopoulos, Ioannis
+Physics in Medicine and Biology
+
+<a href="https://doi.org/10.1088/0031-9155/61/3/1116">DOI</a>
+
+## Abstract
+A previously proposed x-ray scatter correction method for dedicated breast computed tomography was further developed and implemented so as to allow for initial patient testing. The method involves the acquisition of a complete second set of breast CT projections covering 360ï¿½ with a perforated tungsten plate in the path of the x-ray beam. To make patient testing feasible, a wirelessly controlled electronic positioner for the tungsten plate was designed and added to a breast CT system. Other improvements to the algorithm were implemented, including automated exclusion of non-valid primary estimate points and the use of a different approximation method to estimate the full scatter signal. To evaluate the effectiveness of the algorithm, evaluation of the resulting image quality was performed with a breast phantom and with nine patient images. The improvements in the algorithm resulted in the avoidance of introduction of artifacts, especially at the object borders, which was an issue in the previous implementation in some cases. Both contrast, in terms of signal difference and signal difference-to-noise ratio were improved with the proposed method, as opposed to with the correction algorithm incorporated in the system, which does not recover contrast. Patient image evaluation also showed enhanced contrast, better cupping correction, and more consistent voxel values for the different tissues. The algorithm also reduces artifacts present in reconstructions of non-regularly shaped breasts. With the implemented hardware and software improvements, the proposed method can be reliably used during patient breast CT imaging, resulting in improvement of image quality, no introduction of artifacts, and in some cases reduction of artifacts already present. The impact of the algorithm on actual clinical performance for detection, diagnosis and other clinical tasks in breast imaging remains to be evaluated.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send :pdfRama16.pdf:PDF by e-mail"></form>

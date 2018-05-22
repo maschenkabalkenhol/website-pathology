@@ -1,0 +1,12 @@
+title: Timing-Invariant Imaging of Collateral Vessels in Acute Ischemic Stroke
+
+## Smit, Ewoud J. and Vonken, Evert-Jan and van Seeters, Tom and Dankbaar, Jan Willem and van der Schaaf, Irene C. and Kappelle, L Jaap and van Ginneken, Bram and Velthuis, Birgitta K. and Prokop, Mathias
+Stroke
+
+<a href="https://doi.org/10.1161/STROKEAHA.111.000675">DOI</a>
+
+## Abstract
+BACKGROUND AND PURPOSE: Although collateral vessels have been shown to be an important prognostic factor in acute ischemic stroke, patients with lack of collaterals on standard imaging techniques may still have good clinical outcome. We postulate that in these cases collateral vessels are present though not visible on standard imaging techniques that are based on a single time frame. METHODS: This study included 40 consecutive patients with acute ischemic stroke with a large-vessel occlusion. Standard computed tomography angiography (CTA, single time frame) and CT perfusion (multiple time frames) were obtained at admission and timing-invariant (TI)-CTA was created from the CT perfusion data. Clinical outcome data (modified Rankin Scale) were assessed at 3-month follow-up. Four experienced observers independently assessed collateral status twice on both standard CTA and TI-CTA in an independent, blinded, randomized manner. Collateral status was rated as good if â‰¥50% and poor if <50% of collaterals were present compared with the contralateral hemisphere. RESULTS: Collateral status was rated higher on TI-CTA (good in 84%) compared with standard CTA (good in 49%; P<0.001). Thirty-one percent of patients with poor collateral status on standard CTA still had good clinical outcome. All of those patients, however, showed good collaterals on TI-CTA. All cases with poor collateral status rated on TI-CTA had poor clinical outcome. CONCLUSIONS: Collateral vessels may not always be visible on standard single time-frame CTA because of delayed contrast arrival. Future prognostic studies in acute stroke should consider delay-insensitive techniques, such as TI-CTA, instead of standard single time-frame imaging, such as standard CTA.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Smit13.pdf:pdfSmit13.pdf:PDF by e-mail"></form>

@@ -1,0 +1,12 @@
+title: Magnetic resonance spectroscopy shows an inverse correlation between intramyocellular lipid content in human calf muscle and local glycogen synthesis rate
+
+## Marinette van der Graaf and Cees J Tack and Jacco H de Haan and Dennis W J Klomp and Arend Heerschap
+NMRB
+
+<a href="https://doi.org/10.1002/nbm.1433">DOI</a>
+
+## Abstract
+Intramyocellular lipid (IMCL) content of skeletal muscle, as measured with (1)H MRS, is inversely correlated with insulin sensitivity as determined by whole body glucose uptake. The latter, however, does not necessarily represent the actual glucose uptake in the corresponding skeletal muscle. In this study, we examined whether IMCL content in human calf muscle correlated with local glucose uptake assessed by measurement of glycogen synthesis rate within the same muscle compartment. We studied 20 subjects belonging to four subgroups of five persons each: young lean, elderly lean, young obese and elderly obese. IMCL content in the soleus and gastrocnemius muscle was determined using (1)H MR spectroscopic imaging and local glycogen synthesis rate in the calf muscle was measured by (13)C MRS during a euglycaemic hyperinsulinaemic clamp with 20% w/v 30% (13)C-1-labelled glucose infusion. Significantly higher IMCL contents were found in elderly (soleus: p < 0.0001 and gastrocnemius: p < 0.01) and obese subjects (p < 0.01 for both muscles). Local glycogen synthesis rate decreased significantly with obesity (p < 0.01). The principal finding of this study was that the mean IMCL content of the soleus and gastrocnemius muscles was indeed inversely correlated with the local glycogen synthesis rate in the calf muscle (r(s) = -0.50, p < 0.05), with a very similar dependency as the inverse correlation between mean IMCL content and total body glucose uptake (r(s) = -0.54, p < 0.05). We conclude that IMCL content of the soleus and gastrocnemius muscles reflects a measure for local insulin resistance within the same muscle compartment as determined by glycogen synthesis rate. Although the inverse correlation suggests that insulin sensitivity is affected by the local amount of fat present, it remains to be determined if this is a cause or a consequence.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Graa10a.pdf:pdfGraa10a.pdf:PDF by e-mail"></form>

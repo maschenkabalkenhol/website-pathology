@@ -1,0 +1,10 @@
+title: Performance of automatic image segmentation algorithms for calculating total lesion glycolysis for early response monitoring in non-small cell lung cancer patients during concomitant chemoradiotherapy.
+
+## Grootjans, Willem and Usmanij, Edwin A. and Oyen, Wim J. G. and van der Heijden, Erik H. F. M. and Visser, Eric P. and Visvikis, Dimitris and Hatt, Mathieu and Bussink, Johan and de Geus-Oei, Lioe-Fee
+Radiother Oncol
+
+<a href="https://doi.org/10.1016/j.radonc.2016.04.039">DOI</a>
+
+## Abstract
+This study evaluated the use of total lesion glycolysis (TLG) determined by different automatic segmentation algorithms, for early response monitoring in non-small cell lung cancer (NSCLC) patients during concomitant chemoradiotherapy.Twenty-seven patients with locally advanced NSCLC treated with concomitant chemoradiotherapy underwent (18)F-fluorodeoxyglucose (FDG) PET/CT imaging before and in the second week of treatment. Segmentation of the primary tumours and lymph nodes was performed using fixed threshold segmentation at (i) 40% SUVmax (T40), (ii) 50% SUVmax (T50), (iii) relative-threshold-level (RTL), (iv) signal-to-background ratio (SBR), and (v) fuzzy locally adaptive Bayesian (FLAB) segmentation. Association of primary tumour TLG (TLGT), lymph node TLG (TLGLN), summed TLG (TLGS=TLGT+TLGLN), and relative TLG decrease (?TLG) with overall-survival (OS) and progression-free survival (PFS) was determined using univariate Cox regression models.Pretreatment TLGT was predictive for PFS and OS, irrespective of the segmentation method used. Inclusion of TLGLN improved disease and early response assessment, with pretreatment TLGS more strongly associated with PFS and OS than TLGT for all segmentation algorithms. This was also the case for ?TLGS, which was significantly associated with PFS and OS, with the exception of RTL and T40.?TLGS was significantly associated with PFS and OS, except for RTL and T40. Inclusion of TLGLN improves early treatment response monitoring during concomitant chemoradiotherapy with FDG-PET.
+

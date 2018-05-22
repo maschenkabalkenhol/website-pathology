@@ -1,0 +1,12 @@
+title: Comparison between local ablative therapy and chemotherapy for non-resectable colorectal liver metastases: a prospective study
+
+## Theo J M Ruers and Joris J Joosten and Bastiaan Wiering and Barbara S Langenhoff and Heleen M Dekker and Theo Wobbes and Wim J G Oyen and Paul F M Krabbe and Cornelis J A Punt
+AOSO
+
+<a href="https://doi.org/10.1245/s10434-006-9312-5">DOI</a>
+
+## Abstract
+There is a growing interest for the use of local ablative techniques in patients with non-resectable colorectal liver metastases. Evidence on the efficacy over systemic chemotherapy is, however, extremely weak. In this prospective study we aim to assess the additional benefits of local tumour ablation.A consecutive series of 201 colorectal cancer patients, without extrahepatic disease, that underwent laparotomy for surgical treatment of liver metastases, were prospectively followed for survival and HRQoL. At laparotomy three groups were identified: patients in whom radical resection of metastases proved feasible, patients in whom resection was not feasible and received local ablative therapy, and patients in whom resection or local ablation was not feasible for technical reasons and who received systemic chemotherapy.Patients in the chemotherapy and in local ablation group were comparable for all prognostic variables tested. For the local ablation group overall survival at 2 and 5 years was 56 and 27%, respectively (median 31 months, n = 45), for the chemotherapy group 51 and 15%, respectively (median 26 months, n = 39) (P = 0.252). After resection these figures were 83 and 51%, respectively (median 61 months, n = 117) (P < 0.001). The median DFS after local ablation was 9 months, HRQoL was restored within 3 months. Patients after local ablation gained far more QALY's (317) than in the chemotherapy group (165) (P < 0.001).Although overall survival did not reached statistical significance, the median DFS of 9 months suggests a beneficial effect of local tumour ablation for non-resectable colorectal liver metastases. Moreover, compared with systemic chemotherapy more QALY's were gained after local ablative therapy.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Published version:pdfRuer07.pdf:PDF by e-mail"></form>

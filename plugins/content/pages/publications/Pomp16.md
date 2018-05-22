@@ -1,0 +1,12 @@
+title: Smokers with emphysema and small airway disease on computed tomography have lower bone density
+
+## Pompe, Esther and de Jong, Pim A and van Rikxoort, Eva M and Gallardo Estrella, Leticia and de Jong, Werner U and Vliegenthart, Rozemarijn and Oudkerk, Matthijs and van der Aalst, Carlijn M and van Ginneken, Bram and Lammers, Jan-Willem J and Mohamed Hoesein, Firdaus Aa
+IJCOPD
+
+<a href="https://doi.org/10.2147/COPD.S103680">DOI</a>
+
+## Abstract
+Osteoporosis is more common in patients with COPD and in smokers. The aim of this study was to assess whether measures of emphysema and airway disease on computed tomography (CT) were associated with lower bone density or vertebral fractures in smokers with and without COPD. For this purpose, we included participants from the NELSON lung cancer screening trial. Bone density was measured as Hounsfield Units in the first lumbar vertebra, and vertebral fractures were assessed semiquantitatively. The 15th percentile method (Perc15) was used to assess emphysema, and the airway lumen perimeter (Pi10) was used for airway wall thickness. Expiratory/inspiratory-ratiomean lung density (E/I-ratioMLD) was used as a measure for air trapping and tracheal index to assess tracheal deformity. Linear regression models and logistic regression models were used to assess associations between CT biomarkers, bone density, and presence of fractures. Exactly 1,093 male participants were eligible for analysis. Lower Perc15 and higher E/I-ratioMLD were significantly associated with lower bone density (b=-1.27, P=0.02 and b=-0.37, P=0.02, respectively). Pi10 and tracheal index were not associated with bone density changes. CT-derived biomarkers were not associated with fracture prevalence. Bone density is lower with increasing extent of emphysema and small airway disease but is not associated with large airway disease and tracheal deformity. This may indicate the necessity to measure bone density early in smokers with emphysema and air trapping to prevent vertebral fractures.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Pomp16.pdf:pdfPomp16.pdf:PDF by e-mail"></form>

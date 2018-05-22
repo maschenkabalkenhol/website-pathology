@@ -1,0 +1,12 @@
+title: L-arginine:glycine amidinotransferase deficiency protects from metabolic syndrome
+
+## Choe, Chi-Un and Nabuurs, Christine and Stockebrand, Malte C. and Neu, Axel and Nunes, Patricia and Morellini, Fabio and Sauter, Kathrin and Schillemeit, Stefan and Hermans-Borgmeyer, Irm and Marescau, Bart and Heerschap, Arend and Isbrandt, Dirk
+HUMMG
+
+<a href="https://doi.org/10.1093/hmg/dds407">DOI</a>
+
+## Abstract
+Phosphorylated creatine (Cr) serves as an energy buffer for ATP replenishment in organs with highly fluctuating energy demand. The central role of Cr in the brain and muscle is emphasized by severe neurometabolic disorders caused by Cr deficiency. Common symptoms of inborn errors of creatine synthesis or distribution include mental retardation and muscular weakness. Human mutations in l-arginine:glycine amidinotransferase (AGAT), the first enzyme of Cr synthesis, lead to severely reduced Cr and guanidinoacetate (GuA) levels. Here, we report the generation and metabolic characterization of AGAT-deficient mice that are devoid of Cr and its precursor GuA. AGAT-deficient mice exhibited decreased fat deposition, attenuated gluconeogenesis, reduced cholesterol levels and enhanced glucose tolerance. Furthermore, Cr deficiency completely protected from the development of metabolic syndrome caused by diet-induced obesity. Biochemical analyses revealed the chronic Cr-dependent activation of AMP-activated protein kinase (AMPK), which stimulates catabolic pathways in metabolically relevant tissues such as the brain, skeletal muscle, adipose tissue and liver, suggesting a mechanism underlying the metabolic phenotype. In summary, our results show marked metabolic effects of Cr deficiency via the chronic activation of AMPK in a first animal model of AGAT deficiency. In addition to insights into metabolic changes in Cr deficiency syndromes, our genetic model reveals a novel mechanism as a potential treatment option for obesity and type 2 diabetes mellitus.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Choe12.pdf:pdfChoe12.pdf:PDF by e-mail"></form>

@@ -1,0 +1,12 @@
+title: Resolving the sources of plasma glucose excursions following a glucose tolerance test in the rat with deuterated water and [U-13C]glucose
+
+## Delgado, Teresa C. and Barosa, Cristina and Nunes, Patr'icia M. and Cerd'an, Sebasti'an and Geraldes, Carlos F G C. and Jones, John G.
+PLOSONE
+
+<a href="https://doi.org/10.1371/journal.pone.0034042">DOI</a>
+
+## Abstract
+Sources of plasma glucose excursions (PGE) following a glucose tolerance test enriched with [U-(13)C]glucose and deuterated water were directly resolved by (13)C and (2)H Nuclear Magnetic Resonance spectroscopy analysis of plasma glucose and water enrichments in rat. Plasma water (2)H-enrichment attained isotopic steady-state within 2-4 minutes following the load. The fraction of PGE derived from endogenous sources was determined from the ratio of plasma glucose position 2 and plasma water (2)H-enrichments. The fractional gluconeogenic contributions to PGE were obtained from plasma glucose positions 2 and 5 (2)H-positional enrichment ratios and load contributions were estimated from plasma [U-(13)C]glucose enrichments. At 15 minutes, the load contributed 26ï¿½5% of PGE while 14ï¿½2% originated from gluconeogenesis in healthy control rats. Between 15 and 120 minutes, the load contribution fell whereas the gluconeogenic contribution remained constant. High-fat fed animals had significant higher 120-minute blood glucose (173ï¿½6 mg/dL vs. 139ï¿½10 mg/dL, p<0.05) and gluconeogenic contributions to PGE (59ï¿½5 mg/dL vs. 38ï¿½3 mg/dL, p<0.01) relative to standard chow-fed controls. In summary, the endogenous and load components of PGE can be resolved during a glucose tolerance test and these measurements revealed that plasma glucose synthesis via gluconeogenesis remained active during the period immediately following a glucose load. In rats that were placed on high-fat diet, the development of glucose intolerance was associated with a significantly higher gluconeogenic contribution to plasma glucose levels after the load.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Delg12.pdf:pdfDelg12.pdf:PDF by e-mail"></form>

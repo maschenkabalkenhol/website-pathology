@@ -1,0 +1,12 @@
+title: Small White Matter Lesion Detection in Cerebral Small Vessel Disease
+
+## Mohsen Ghafoorian and Nico Karssemeijer and Frank Erik de Leeuw and Tom Heskes and Elena Marchiori and Bram Platel
+MI
+
+<a href="https://doi.org/10.1117/12.2081597">DOI</a>
+
+## Abstract
+Cerebral small vessel disease (SVD) is a common finding on magnetic resonance images of elderly people. White matter lesions (WML) are important markers for not only the small vessel disease, but also neuro-degenerative diseases including multiple sclerosis, Alzheimerâ€™s disease and vascular dementia. Volumetric measurements such as the â€œtotal lesion loadï¿½?, have been studied and related to these diseases. With respect to SVD we conjecture that small lesions are important, as they have been observed to grow over time and they form the majority of lesions in number. To study these small lesions they need to be annotated, which is a complex and time-consuming task. Existing (semi)automatic methods have been aimed at volumetric measurements and large lesions, and are not suitable for the detection of small lesions. In this research we established a supervised voxel classification CAD system, optimized and trained to exclusively detect small WMLs. To achieve this, several preprocessing steps were taken, which included a robust standardization of subject intensities to reduce inter-subject intensity variability as much as possible. A number of features that were found to be well identifying small lesions were calculated including multimodal intensities, tissue probabilities, several features for accurate location description, a number of second order derivative features as well as multi-scale annular filter for blobness detection. Only small lesions were used to learn the target concept via Adaboost using random forests as its basic classifiers. Finally the results were evaluated using Free-response receiver operating characteristic.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Mohs15.pdf:pdfMohs15.pdf:PDF by e-mail"></form>

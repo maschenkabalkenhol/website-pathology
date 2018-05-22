@@ -1,0 +1,11 @@
+title: Intravascular ultrasound elastography: assessment and imaging of elastic properties of diseased arteries and vulnerable plaque
+
+## de Korte, C. L. and C'espedes, E. I. and van der Steen, A. F. and Pasterkamp, G. and Bom, N.
+EJUS
+
+
+## Abstract
+Intravascular elastography is concerned with methods for measuring the local elastic properties using intravascular ultrasound (IVUS). The elastic properties of the vessel wall and atheroma can be measured through the strain. Knowledge of these mechanical properties is useful for guiding interventional procedures (balloon dilatation, ablation) and detection of plaque vulnerability.Elastograms and palpograms (images of strain) were constructed using the relative local displacements between IVUS images acquired at two levels of intravascular pressure with a 30-MHz echo catheter. These displacements were estimated from the time shift between gated radio-frequency echo signals using cross-correlation algorithms with interpolation around the peak.Experiments on gel-based phantoms mimicking atherosclerotic vessels demonstrated the capability of elastography to identify soft and hard plaques independently of the echogenicity contrast. In vitro experiments on human arteries have demonstrated the potential of intravascular elastography to identify different plaque types based on the mechanical properties. These plaques could not be identified using the IVUS image alone. Regions with elevated mechanical stress could also be detected. These stress concentrations are related to plaque fracture.Intravascular elastography provides information that is frequently unavailable or inconclusive from the IVUS image and therefore may assist in the diagnosis and treatment of atherosclerotic disease.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Kort98a.pdf:pdfKort98a.pdf:PDF by e-mail"></form>

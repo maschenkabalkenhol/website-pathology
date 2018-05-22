@@ -1,0 +1,11 @@
+title: New developments in intravascular ultrasound imaging
+
+## Bom, N. and Li, W. and van der Steen, A. F. and Lanc'ee, C. T. and C'espedes, E. I. and Slager, C. J. and de Korte, C. L.
+EJUS
+
+
+## Abstract
+IntraVascular Ultrasound Imaging (IVUS) has already been proposed in the early days of diagnostic ultrasound. Today, it has come under further full attention as a result of minimal invasive techniques. Not only excellent intravascular two-dimensional (2D) images are presently obtained, also three-dimensional (3D) reconstructed images show their diagnostic value. Based on 3D information, quantitative data such as plaque volume can be calculated. The procedure includes automatic contour detection based on image segmentation methods and greatly speeds up clinical evaluation. With the use of additional X-ray information, the true tortuous vessel geometry can be reconstructed in 3D. This allows, by numerical modelling techniques, to calculate endothelial shear stress values, which in turn may indicate sites prone to stenosis. With a decorrelation technique for radiofrequency (RF) echo information from sequential data in the same beam direction and integration method over the entire cross section, blood velocity can be shown colour-coded during the cardiac cycle, while even blood flow quantification seems to be possible. In vitro as well as in vivo experiments have shown the feasibility of the method. Intravascular imaging can be used to study the biomechanical properties of atheroma components. Local radial strain, used as a measure of local tissue hardness, can be estimated to identify hard or soft plaques independently of the echogenicity contrast between plaque and vessel wall.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Bom98a.pdf:pdfBom98a.pdf:PDF by e-mail"></form>

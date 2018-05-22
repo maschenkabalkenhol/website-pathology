@@ -1,0 +1,12 @@
+title: Regional ventricular performance and exercise training in children and young adults after repair of tetralogy of Fallot: randomized controlled pilot study.
+
+## Duppen, Nienke and Geerdink, Lianne M. and Kuipers, Irene M. and Bossers, Sjoerd S M. and Koopman, Laurens P. and van Dijk, Arie P J. and Roos-Hesselink, Jolien W. and De Korte, Chris L. and Helbing, Willem A. and Kapusta, Livia
+Circ Cardiovasc Imaging
+
+<a href="https://doi.org/10.1161/CIRCIMAGING.114.002006">DOI</a>
+
+## Abstract
+Public-health guidelines recommend patients with congenital heart disease to exercise. Studies have shown that patients with congenital heart disease can improve physical exercise capacity. The effect of training on regional ventricular performance has hardly been studied. We performed a pilot study to assess whether an exercise training program would result in adverse changes of regional ventricular performance in patients with corrected tetralogy of Fallot.Multicenter prospective randomized controlled pilot study in patients with tetralogy of Fallot aged 10 to 25 years. A 12-week standardized aerobic dynamic exercise training program (3 one-hour sessions per week) was used. Pre- and post-training cardiopulmonary exercise tests, MRI, and echocardiography, including tissue-Doppler imaging, were performed. Patients were randomized to the exercise group (n=28) or control group (n=20). One patient in the exercise group dropped out. Change in tissue-Doppler imaging parameters was similar in the exercise group and control group (change in right ventricle free wall peak velocity E' exercise group, 0.8Â±2.6 cm/s; control group, 0.9Â±4.1; peak velocity A' exercise group, 0.4Â±2.4 m/s; control group 4.6Â±18.1 cm/s).This randomized controlled pilot study provides preliminary data suggesting that regional ventricular performance is well maintained during 3-month aerobic dynamic exercise training in children and young adults with repaired tetralogy of Fallot. This information might help patients adhere to current public-health guidelines.URL: http//:www.trialregister.nl. Unique identifier: NTR2731.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Dupp15.pdf:pdfDupp15.pdf:PDF by e-mail"></form>

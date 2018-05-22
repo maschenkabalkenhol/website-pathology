@@ -1,0 +1,12 @@
+title: Malignancy estimation of Lung-RADS criteria for subsolid nodules on CT: accuracy of low and high risk spectrum when using NLST nodules
+
+## Chung, Kaman and Jacobs, Colin and Scholten, Ernst T and Mets, Onno M and Dekker, Irma and Prokop, Mathias and van Ginneken, Bram and Schaefer-Prokop, Cornelia M
+ER
+
+<a href="https://doi.org/10.1007/s00330-017-4842-8">DOI</a>
+
+## Abstract
+Lung-RADS proposes malignancy probabilities for categories 2 (<1%) and 4B (>15%). The purpose of this study was to quantify and compare malignancy rates for Lung-RADS 2 and 4B subsolid nodules (SSNs) on a nodule base. We identified all baseline SSNs eligible for Lung-RADS 2 and 4B in the National Lung Screening Trial (NLST) database. Solid cores and nodule locations were annotated using in-house software. Malignant SSNs were identified by an experienced radiologist using NLST information. Malignancy rates and percentages of persistence were calculated. Of the Lung-RADS 2SSNs, 94.3% (1790/1897) could be located on chest CTs. Likewise, 95.1% (331/348) of part-solid nodules larger or equal to 6 mm in diameter could be located. Of these, 120 had a solid core larger or equal to 8 mm, corresponding to category 4B. Category 2 SSNs showed a malignancy rate of 2.5%, exceeding slightly the proposed rate of <1%. Category 4B SSNs showed a malignancy rate of 23.9%. In both categories one third of benign lesions were transient. Malignancy probabilities for Lung-RADS 2 and 4B generally match malignancy rates in SSNs. An option to include also category 2 SSNs for upgrade to 4X designed for suspicious nodules might be useful in the future. Integration of short-term follow-up to confirm persistence would prevent unnecessary invasive work-up in 4B SSNs. Malignancy probabilities for Lung-RADS 2/4B generally match malignancy risks in SSNs. Transient rate between low-risk Lung-RADS 2 and high-risk 4B lesions were similar. Upgrade of highly suspicious Lung-RADS 2 SSNs to Lung-RADS 4X might be useful. Up to one third of the benign high-risk Lung-RADS 4B lesions were transient. Short-term follow-up confirming persistence would avoid unnecessary invasive work-up of 4B lesions.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Chun17a.pdf:pdfChun17a.pdf:PDF by e-mail"></form>

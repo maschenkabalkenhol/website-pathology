@@ -1,0 +1,10 @@
+title: Inflammatory response after ischemic stroke: a USPIO-enhanced MRI study in patients.
+
+## Nighoghossian, Norbert and Wiart, Marlène and Cakmak, Serkan and Berthezène, Yves and Derex, Laurent and Cho, Tae-Hee and Nemoz, Chantal and Chapuis, François and Tisserand, Guy-Louis and Pialat, Jean-Baptiste and Trouillas, Paul and Froment, Jean-Claude and Hermier, Marc
+Stroke
+
+<a href="https://doi.org/10.1161/01.STR.0000254548.30258.f2">DOI</a>
+
+## Abstract
+The intensity of the inflammatory response may be related to the volume of acute infarction. Ultra-small superparamagnetic particles of iron oxide (USPIO) may enable assessment of neuroinflammation. We aimed to assess whether the intensity of the inflammatory response might be related to the subacute ischemic lesion volume. We enrolled patients who presented with acute anterior circulation stroke. MRI was performed at day 0, day 6, and day 9. The MRI protocol included T1-weighted imaging, gradient-echo T2*-weighted imaging, diffusion-weighted imaging, perfusion-weighted imaging and MR angiography. Blood-brain barrier disruption was defined as post-gadolinium enhancement on T1-weighted images. USPIO was administered after day 6 MRI. USPIO enhancement ratios were defined as the ratio between USPIO-related signal volume on day 9 T1-weighted imaging (respectively T2*-weighted imaging) and day 6 diffusion-weighted imaging infarct volume. The relationship between day 6 infarct volume and the enhancement ratio was assessed using Pearson and Spearman correlation tests. The protocol was completed in 10 patients. Signal alterations after USPIO injection was observed in 9/10 patients on day 9 T1-weighted imaging and in 5/10 patients on day 9 T2*-weighted imaging. USPIO-related MRI enhancement was heterogeneous. Lesion volume on day 6 diffusion-weighted imaging had no impact on USPIO enhancement at day 9 according to the Pearson correlation test (P=0.39) or Spearman test (P=0.25). There was no relationship between blood-brain barrier disruption and USPIO enhancement. USPIO MRI enhancement is heterogeneous and not clearly related to subacute lesion volume.
+

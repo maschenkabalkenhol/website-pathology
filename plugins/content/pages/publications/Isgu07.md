@@ -1,0 +1,12 @@
+title: Detection of coronary calcifications from computed tomography scans for automated risk assessment of coronary artery disease
+
+## I. Isgum and A. Rutten and M. Prokop and B. van Ginneken
+MP
+
+<a href="https://doi.org/10.1118/1.2710548">DOI</a>
+
+## Abstract
+A fully automated method for coronary calcification detection from non-contrast-enhanced, ECG-gated multi-slice computed tomography CT data is presented. Candidates for coronary calcifications are extracted by thresholding and component labeling. These candidates include coronary calcifications, calcifications in the aorta and in the heart, and other high-density structures such as noise and bone. A dedicated set of 64 features is calculated for each candidate object. They characterize the object's spatial position relative to the heart and the aorta, for which an automatic segmentation scheme was developed, its size and shape, and its appearance, which is described by a set of approximated Gaussian derivatives for which an efficient computational scheme is presented. Three classification strategies were designed. The first one tested direct classification without feature selection. The second approach also utilized direct classification, but with feature selection. Finally, the third scheme employed two-stage classification. In a computationally inexpensive first stage, the most easily recognizable false positives were discarded. The second stage discriminated between more difficult to separate coronary calcium and other candidates. Performance of linear, quadratic, nearest neighbor, and support vector machine classifiers was compared. The method was tested on 76 scans containing 275 calcifications in the coronary arteries and 335 calcifications in the heart and aorta. The best performance was obtained employing a two-stage classification system with a k-nearest neighbor (k-NN) classifier and a feature selection scheme. The method detected 73.8% of coronary calcifications at the expense of on average 0.1 false positives per scan. A calcium score was computed for each scan and subjects were assigned one of four risk categories based on this score. The method assigned the correct risk category to 93.4% of all scans.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Isgu07.pdf:pdfIsgu07.pdf:PDF by e-mail"></form>

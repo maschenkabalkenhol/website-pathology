@@ -1,0 +1,10 @@
+title: Right ventricular outflow and apical pacing comparably worsen the echocardiographic normal left ventricle.
+
+## ten Cate, Tim J F and Scheffer, Mike G and Sutherland, George R and Verzijlbergen, J Fred and van Hemel, Norbert M
+European journal of echocardiography : the journal of the Working Group on Echocardiography of the European Society of Cardiology
+
+<a href="https://doi.org/10.1093/ejechocard/jen108">DOI</a>
+
+## Abstract
+A depressed left ventricular function (LVF) is sometimes observed during right ventricular apical (RVA) pacing, but any prediction of this adverse effect cannot be done. Right ventricular outflow tract (RVOT) pacing is thought to deteriorate LVF less frequently because of a more normal LV activation pattern. This study aims to assess the acute effects of RVA and RVOT pacing on LVF in order to determine the contribution of echocardiography for the selection of the optimum pacing site during pacemaker (PM) implantation. Fourteen patients with a DDD-pacemaker (7 RVA, 7 RVOT) and normal LVF without other cardiac abnormalities were studied. PM dependency, because of sick sinus syndrome with normal atrioventricular and intraventricular conduction, was absent in all, allowing acute programming changes. Wall motion score (WMS), longitudinal LV strain, and tissue Doppler imaging for electromechanical delay were assessed with echocardiography during AAI pacing constituting baseline and DDD pacing. The WMS was normal at baseline (AAI pacing) in all patients and LV dyssynchrony was absent. Acute RVA and RVOT pacing deteriorated WMS, electromechanical delay, and longitudinal LV strain, but no difference of the deterioration between both pacing sites was present and dyssynchrony did not emerge. Both acute RVA and RVOT pacing negatively affect WMS, longitudinal LV strain, and mechanical activation times, without clear differences between both pacing sites. Thus echocardiographic techniques do not facilitate the selection between RVOT and RVA pacing to exclude adverse effects on LVF during PM implantation in patients with a normal LVF.
+

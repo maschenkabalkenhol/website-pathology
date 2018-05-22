@@ -1,0 +1,12 @@
+title: The Effect of Training with SFM Images in a FFDM CAD System
+
+## Kallenberg, M. G. J. and Karssemeijer, N.
+Proceedings of SPIE -- Volume 6915, Medical Imaging 2008: Computer-Aided Diagnosis
+
+<a href="https://doi.org/10.1117/12.767681">DOI</a>
+
+## Abstract
+The development of CAD systems that can handle Full Field Digital Mammography (FFDM) images is needed, as FFDM is getting more important. In order to develop a CAD system a large database containing training samples is of major importance. However, as FFDM is not yet as widely used as Screen Film Mammography (SFM) it is difficult to collect a sufficient amount of exams with malignant abnormalities. Therefore it would be of great value if the available databases of SFM images can be used to train a FFDM CAD system. In this paper we investigate this possibility. As we trained our system with SFM images we developed a method that converts the FFDM test images into a SFM-like representation. Key point in this conversion method is the implementation of the characteristic curve which describes the relationship between exposure and optical density for a SFM image. As exposure values can be extracted from the raw FFDM images, the SFM-like representation can be obtained by applying a fitted characteristic curve. Parameters of the curve were computed by simulating the Automatic Exposure Control procedure as implemented in clinical practice. We found that our FFDM CAD system, aimed at detection and classification of masses into normal and malignant, achieved a case based sensitivity of 70%, 80%, 90%, at 0.06, 0.20, 0.60 FP/image when using SFM-training with 552 abnormal and 810 normal cases, compared to 0.06, 0.17, 0.72 FP/image with FFDM-training with 80 abnormal and 131 normal cases. These results demonstrate that digitized film databases can still be used as part of a FFDM CAD system.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Kall08a.pdf:pdf/Kall08a.pdf:PDF by e-mail"></form>

@@ -1,0 +1,10 @@
+title: Molecular imaging of solid tumors: exploiting the potential
+
+## Oyen, Wim J G. and van der Graaf, Winette T A.
+NATREVCLIONC
+
+<a href="https://doi.org/10.1038/nrclinonc.2009.139">DOI</a>
+
+## Abstract
+Targeted treatment has substantially changed the field of oncology. Compared with cytotoxic chemotherapy, many novel targeted therapies are administered over long periods of time, and result in disease stabilization rather than tumor shrinkage. The activity of these novel agents might, therefore, be better reflected by changes in molecular features of the tumor rather than reduction in size or volume. Thus, noninvasive procedures to measure such features are urgently needed. Factors that need to be predicted are early response (silencing of tumor signaling) or resistance to therapy, and whether therapy can be interrupted. Molecular imaging techniques, such as PET, may provide clinically relevant information; however, data are so far available mainly from small, observational, retrospective studies. Findings need to be further assessed in clinical trials to assess whether molecular imaging can be exploited and widely introduced to aid daily practice in oncology.
+

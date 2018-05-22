@@ -1,0 +1,12 @@
+title: Clinical symptoms related to anal sphincter defects and atrophy on external phased-array MR imaging
+
+## Kessels, Imke Maria Henricus and F"utterer, Jurgen Jacobus and Sultan, Abdul Hameed and Kluivers, Kirsten Birgit
+IUGJ
+
+<a href="https://doi.org/10.1007/s00192-015-2743-4">DOI</a>
+
+## Abstract
+Defecatory complaints have a severe impact on quality of life. The additional value of pelvic floor MRI in patients with defecatory complaints is unclear. Our aim was to correlate the presence of defects and atrophy of the anal sphincter complex using pelvic floor MRI in women with mixed pelvic floor symptoms and to establish patient characteristics and self reported complaints predictive of pathology.This is a retrospective study among women with mixed pelvic floor symptoms who underwent external phased-array MRI and completed a questionnaire on bothersome defecatory complaints. Data on patient characteristics, including obstetrical history and questionnaire scores were correlated with the assessment of anal sphincter defects and atrophy on pelvic floor MRI.One hundred and fifty-eight women were included. A defect of the external anal sphincter (EAS) and internal anal sphincter (IAS) was found in 18 (11 %) and 5 (3 %) patients respectively. Atrophy of the EAS was present in 72 patients (46 %), with more cases of mild (nâ€‰=â€‰52, 33 %) than severe atrophy (nâ€‰=â€‰20, 13 %). The variable "previous third or fourth degree tear" had a significant positive association with an IAS defect on MRI, with an OR of 9.533 (1.425-63.776). Patients with EAS atrophy had higher scores for fecal incontinence (indicating more bother) than patients without EAS atrophy. Higher age and BMI were true predictors of the presence of more severe EAS atrophy.Atrophy of the EAS was highly prevalent in this population and was associated with bothersome symptoms of fecal incontinence.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Kess15.pdf:pdfKess15.pdf:PDF by e-mail"></form>

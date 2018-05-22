@@ -1,0 +1,10 @@
+title: In vivo release of rhBMP-2 loaded porous calcium phosphate cement pretreated with albumin
+
+## Ruh'e, P. Q. and Boerman, O. C. and Russel, F G M. and Mikos, A. G. and Spauwen, P H M. and Jansen, J. A.
+JMATSCIMATMED
+
+<a href="https://doi.org/10.1007/s10856-006-0181-z">DOI</a>
+
+## Abstract
+In this study, the release of rhBMP-2 loaded porous Ca-P cement was studied in vitro and in vivo. We hypothesized that adsorption sites of Ca-P ceramic with high affinity for rhBMP-2 can be blocked by pretreatment of the ceramic with albumin prior to rhBMP-2 loading, which would result in weaker rhBMP-2 binding and enhanced release of rhBMP-2. Preset porous Ca-P cement discs with a diameter of 6.35 mm (volume: 75 mm3) were pretreated by incubation in a solution of 10% rat serum albumin for 24 h or in ddH2O (control group) prior to administration of 5 mug radiolabeled 131I-rhBMP-2. Release was assessed in vitro in phosphate buffered saline (PBS) and fetal calf serum and in vivo by longitudinal scintigraphic imaging of radiolabeled 131I-rhBMP-2 and gamma counting of dissected implants. In vitro release from pretreated discs was higher during the first day. For both formulations, release in PBS was limited compared to release in serum. In vivo release considerably exceeded in vitro release. In vivo release kinetics showed no significant difference of half-lives between pretreated and control discs. Both formulations showed sustained release during at least 4 weeks. Ex vivo gamma counting of retrieved samples confirmed scintigraphic results and showed that the capsule and surrounding tissues only contained a minor fraction rhBMP-2. We conclude that 1. scintigraphy of 131I-labeled rhBMP-2 provides a reliable method for longitudinal measurement of rhBMP-2 release kinetics in vivo. 2. albumin pretreatment of porous Ca-P cement does not results in relevant increase of initial release of rhBMP-2 in vivo, and 3. preset rhBMP-2 loaded porous Ca-P cement discs exhibit one phase exponential release kinetics in the rat ectopic model, characterized by a retention of 20-30% after 4 weeks.
+

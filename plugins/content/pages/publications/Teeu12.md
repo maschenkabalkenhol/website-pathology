@@ -1,0 +1,10 @@
+title: Hybrid 18F-FDG PET/CT of colonic anastomosis. A possibility to detect anastomotic leakage?
+
+## Teeuwen, P H E. and de Geus-Oei, L. F. and Hendriks, T. and van Goor, H. and Bremers, A J A. and Oyen, W J G. and Bleichrodt, R. P.
+Nuklearmedizin
+
+<a href="https://doi.org/10.3413/Nukmed-0493-12-04">DOI</a>
+
+## Abstract
+18F-fluorodeoxyglucose positron emission tomography (FDG-PET) is a known method to diagnose inflammatory processes and thus may be a promising imaging technique to detect anastomotic bowel leak. The aim of this study was to assess postoperative FDG uptake in colorectal anastomosis in patients without suspicion of active infection or anastomotic leakage.Design of a prospective observational pilot study in order to assess normal FDG uptake in the patient anastomosis after colorectal surgery. Patients that underwent colorectal surgery with primary anastomosis received FDG-PET of the abdomen, 2-6 days postoperatively.35 patients met the inclusion criteria. Three patients were not scanned for various reasons. Of the remaining 32 patients, one demonstrated an increased uptake of FDG at the site of the anastomosis. In the other 31 patients FDG uptake was negligible (n = 17) or scored as physiological (n = 14). None of the scanned patients developed a clinical relevant anastomotic leakage within the first 30 days after surgery.The present study shows that FDG uptake in colorectal anastomosis remains low within the first six days after surgery in patients without anastomotic leakage. Therefore, FDG-PET might be useful to investigate further as a tool to detect anastomotic leakage in an the early postoperative phase.
+

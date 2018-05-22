@@ -1,0 +1,12 @@
+title: Prevalence of subependymal giant cell tumors in patients with tuberous sclerosis and a review of the literature
+
+## M. E A P M Adriaensen and C. M. Schaefer-Prokop and T. Stijnen and D. A C Duyndam and B. A. Zonnenberg and M. Prokop
+EJN
+
+<a href="https://doi.org/10.1111/j.1468-1331.2009.02567.x">DOI</a>
+
+## Abstract
+To investigate the prevalence of subependymal giant cell ependymomas (SEGA) in patients with tuberous sclerosis complex (TSC).We performed a retrospective cross-sectional study in a cohort of 285 patients with known TSC. Institutional review board approval was obtained. We included all 214 TSC-patients who had received a contrast-enhanced computed tomography (CT) scan of the brain. The most recent scan was evaluated for SEGA and presence of hydrocephalus. Additionally, a literature search was performed, and pooled estimates of SEGA prevalence in TSC were calculated. We used descriptive statistics, two sample t-test, chi-squared-test, and meta-analysis as appropriate.Computed tomography showed radiological evidence of SEGA in 43 of the 214 TSC-patients (20%); 23 of 105 men (22%) and 20 of 109 women (18%; P = .52). Average maximum tumor size was 11.4 mm (range, 4-29 mm). Patients with SEGA (mean, 31 years; range, 16-58 years) were on average younger than patients without SEGA (mean, 37 years; range, 10-72 years; P = 0.007). No association between tumor size and patient age was detected. Nine patients had bilateral SEGA. Hydrocephalus was present in six of the 43 patients (14%). Meta-analysis of reported prevalence and our current study showed that studies using radiological evidence to diagnose SEGA gave a higher pooled estimate of the prevalence of SEGA in TSC (0.16; 95% CI: 0.12, 0.21) than studies using mainly histopathological evidence of SEGA (0.09; 95% CI: 0.07, 0.12).In our cohort, CT demonstrated evidence of SEGA in 20% of TSC-patients. Prevalence of SEGA in TSC is higher in studies using radiological evidence to diagnose SEGA than in studies using histopathological evidence.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Adri09a.pdf:pdfAdri09a.pdf:PDF by e-mail"></form>

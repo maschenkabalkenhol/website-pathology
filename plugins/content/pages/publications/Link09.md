@@ -1,0 +1,10 @@
+title: Evaluation of an orthotopically implanted calcium phosphate cement containing gelatin microparticles
+
+## Link, Dennis P. and van den Dolder, Juliette and van den Beucken, Jeroen J J P. and Habraken, Wouter and Soede, Annemieke and Boerman, Otto C. and Mikos, Antonios G. and Jansen, John A.
+JBMRA
+
+<a href="https://doi.org/10.1002/jbm.a.32091">DOI</a>
+
+## Abstract
+This study focused on the degradation properties of gelatin microparticles incorporated in calcium phosphate (CaP) cement and the subsequent effect of these composites on bone formation. Positively charged alkaline gelatin (type A) microparticles or negatively charged acidic gelatin (type B) microparticles were incorporated in CaP cement, which was implanted in critical-sized cranial defect in rats and left in place for 2, 4, and 8 weeks. The degradation of the gelatin was monitored using radioiodinated microparticles. After 4 and 8 weeks of implantation, a significantly faster degradation of type A gelatin over type B gelatin was found. Light microscopic analysis of the specimens showed similar bone response concerning implants containing either type A or B gelatin microparticles. At 2 weeks of implantation, a minimal amount of bone formation was observed from the cranial bone toward the implant, while after 8 weeks of implantation an entire layer of newly formed bone was present from the cranial bone toward the implant periphery. Bone ingrowth into the implant was observed at sites of gelatin microparticle degradation, predominantly at the implant periphery. Histomorphometrical evaluation did not reveal significant differences in bone formation between CaP cement incorporated with either type A or B gelatin microparticles during implantation periods up to 8 weeks. In conclusion, this study demonstrates that gelatin type influences the degradation of gelatin microparticles incorporated in CaP cements. However, this difference in degradation and the concomitant subsequent macroporosity did not induce differences in the biological response.
+

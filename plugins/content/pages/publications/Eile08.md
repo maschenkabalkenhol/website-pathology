@@ -1,0 +1,12 @@
+title: Differential impact of conventional and low-dose oral hormone therapy, tibolone and raloxifene on mammographic breast density, assessed by an automated quantitative method
+
+## A. L. Eilertsen and N. Karssemeijer and P. Skaane and E. Qvigstad and P. M. Sandset
+BJOG
+
+<a href="https://doi.org/10.1111/j.1471-0528.2008.01690.x">DOI</a>
+
+## Abstract
+OBJECTIVE: To evaluate impact of different postmenopausal hormone therapy (HT) regimens and raloxifene on mammographic breast density. DESIGN: Open, randomised, comparative clinical trial. SETTING: Women were recruited through local newspapers and posters. They were examined at the Departments of Haematology, Gynaecology, and Radiology in a University Hospital. POPULATION: A total of 202 healthy postmenopausal women between the age of 45 and 65 years. METHODS: Women were randomly assigned to receive daily treatment for 12 weeks with tablets containing low-dose HT containing 1 mg 17 beta-estradiol + 0.5 mg norethisterone acetate (NETA) (n = 50), conventional-dose HT containing 2 mg 17 beta-estradiol and 1 mg NETA (n = 50), 2.5 mg tibolone (n = 51), or 60 mg raloxifene (n = 51). Mammographic density was determined at baseline and after 12 weeks by an automated technique in full-field digital mammograms. MAIN OUTCOME MEASURES: Mammographic density was expressed as volumetric breast density estimations. RESULTS: Mammographic breast density increased significantly and to a similar degree in both the conventional- and low-dose HT groups. A small reduction in mammographic breast density was seen in the raloxifene group, whereas those allocated to tibolone treatment only showed minor changes. CONCLUSIONS: Our findings demonstrated a significant difference in impact on mammographic breast density between the regimens. Although these results indicate a differential effect of these regimens on breast tissue, the relation to breast cancer risk remains unresolved.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Eile08.pdf:pdfEile08.pdf:PDF by e-mail"></form>

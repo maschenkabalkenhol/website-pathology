@@ -1,0 +1,12 @@
+title: The oncologic role of local treatment in primary metastatic prostate cancer
+
+## Ghadjar, Pirus and Briganti, Alberto and De Visschere, Peter J L. and F"utterer, Jurgen J. and Giannarini, Gianluca and Isbarn, Hendrik and Ost, Piet and Sooriakumaran, Prasanna and Surcel, Christian I. and van den Bergh, Roderick C N. and van Oort, Inge M. and Yossepowitch, Ofer and Ploussard, Guillaume
+WJU
+
+<a href="https://doi.org/10.1007/s00345-014-1347-9">DOI</a>
+
+## Abstract
+To determine the oncologic benefit or otherwise of local treatment of the prostate in patients with primary metastatic prostate cancer.A review of the literature was performed in April 2014 using the Medline/PubMed database. Studies were identified using the search terms "prostate cancer," "metastatic," "metastasis," "high risk," "radiation therapy," "radiotherapy" and "prostatectomy" from 1990 until April, 2014. Articles were also identified through searches of references of these articles.Retrospective series and population-based data suggest that the use of local treatment of the prostate in patients with primary metastatic prostate cancer may improve cancer-specific survival and overall survival compared with treating these patients with androgen deprivation therapy alone. The clinical outcome in metastatic prostate cancer is largely determined by the extent of lymph node involvement and overall metastatic burden. Contemporary data are lacking to recommend one alternative of local therapy (radiotherapy or radical prostatectomy) over the other. The primary limitation of this literature review is the lack of published randomized trial assessing the role of local treatment in addition to systemic therapy.Local treatment appears to improve oncologic outcomes in metastatic prostate cancer patients. Nevertheless, due to the lack of high-quality evidence, its role needs to be confirmed in future prospective trials. The selection of ideal candidates and optimal treatment alternative (radiotherapy, radical prostatectomy or other) warrants further investigation.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Ghad14.pdf:pdfGhad14.pdf:PDF by e-mail"></form>

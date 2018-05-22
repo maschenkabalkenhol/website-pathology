@@ -1,0 +1,12 @@
+title: A finite element model for performing intravascular ultrasound elastography of human atherosclerotic coronary arteries
+
+## Baldewsing, Radj A. and de Korte, Chris L. and Schaar, Johannes A. and Mastik, Frits and van der Steen, Antonius F W.
+UMB
+
+<a href="https://doi.org/10.1016/j.ultrasmedbio.2004.04.005">DOI</a>
+
+## Abstract
+Intravascular ultrasound (US) elastography measures in an artery the arterial radial strain and displays it in an elastogram. An elastogram adds diagnostic information, such as the proneness of a plaque to rupture and its material composition. However, radial strain depends upon the material properties of an artery, including geometry and used catheter position. Therefore, there is not always a one-to-one correspondence between radial strain and rupture-proneness or material composition. Both the dependence and the correspondence can be quantified after a proper finite element model (FEM) is available. Therefore, this paper proposes a FEM and shows that it can model the arterial strain behavior. Its modelling capability was evaluated by comparing simulated with measured elastograms. Measured elastograms were processed from radiofrequency (RF) data obtained in vitro from six objects: a vessel-mimicking phantom and five excised human atherosclerotic coronary arteries. A FEM was created for each object and used to simulate an elastogram; the material properties and geometry of the FEM were obtained from the histology of the object. Comparison was performed upon high strain regions (HStR), because these regions have proven to contain plaques that show the hallmarks of vulnerable plaques. Eight HStR were automatically identified from the five arteries. Statistical tests showed that there was no significant difference between simulated and corresponding measured elastograms in location, surface area or mean strain value of a HStR. The results demonstrate that the FEM can simulate elastograms measured from arteries. As such, the FEM may help in quantifying strain-dependencies and assist in tissue characterization by reconstructing a Young's modulus image from a measured elastogram.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Bald04a.pdf:pdfBald04a.pdf:PDF by e-mail"></form>

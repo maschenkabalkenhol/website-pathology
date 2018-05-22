@@ -1,0 +1,12 @@
+title: Prospective ECG triggering reduces prosthetic heart valve-induced artefacts compared with retrospective ECG gating on 256-slice CT
+
+## Symersky, Petr and Habets, Jesse and Westers, Paul and de Mol, Bas A J M. and Prokop, Mathias and Budde, Ricardo P J.
+ER
+
+<a href="https://doi.org/10.1007/s00330-011-2358-1">DOI</a>
+
+## Abstract
+Multidetector computed tomography (MDCT) has diagnostic value for the evaluation of prosthetic heart valve (PHV) dysfunction but it is hampered by artefacts. We hypothesised that image acquisition using prospective triggering instead of retrospective gating would reduce artefacts related to pulsating PHV.In a pulsatile in vitro model, a mono- and bileaflet PHV were imaged using 256 MDCT at 60, 75 and 90 beats per minute (BPM) with either retrospective gating (120 kV, 600 mAs, pitch 0.2, CTDI(vol) 39.8 mGy) or prospective triggering (120 kV, 200 mAs, CTDI(vol) 13.3 mGy). Two thresholds (>175 and <-45HU), derived from the density of surrounding structures, were used for quantification of hyper- and hypodense artefacts. Image noise and artefacts were compared between protocols.Prospective triggering reduced hyperdense artefacts for both valves at every BPM (P = 0.001 all comparisons). Hypodense artefacts were reduced for the monoleaflet valve at 60 (P = 0.009), 75 (P = 0.016) and 90 BPM (P = 0.001), and for the bileaflet valves at 60 (P = 0.001), 90 (P = 0.001) but not at 75 BPM (P = 0.6). Prospective triggering reduced image noise at 60 (P = 0.001) and 75 (P < 0.03) but not at 90 BPM.Compared with retrospective gating, prospective triggering reduced most artefacts related to pulsating PHV in vitro.ï¿½ Computed tomographic images are often degraded by prosthetic heart valve-induced artefacts ï¿½ Prospective triggering reduces prosthetic heart valve-induced artefacts in vitro ï¿½ Artefact reduction at 90 beats per minute occurs without image noise reduction ï¿½ Prospective triggering may improve CT image quality of moving hyperdense structures.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Syme12.pdf:pdfSyme12.pdf:PDF by e-mail"></form>

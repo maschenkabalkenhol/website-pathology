@@ -1,0 +1,12 @@
+title: Discrepancies between guidelines and clinical practice regarding prostate-specific antigen testing
+
+## Hamoen, Esther Hj and Reukers, Daphne Fm and Numans, Mattijs E. and Barentsz, Jelle O. and Witjes, J Alfred and Rovers, Maroeska M.
+Fam Pract
+
+<a href="https://doi.org/10.1093/fampra/cmt045">DOI</a>
+
+## Abstract
+Most guidelines recommend a judicious use of prostate-specific antigen (PSA) testing, whereas in daily practice, an increase of the incidence of PSA testing has been shown. Accurate up-to-date PSA test incidence rates are, however, lacking.To investigate the PSA test incidence rates in general practices over the past 10 years and to study which factors are associated with more frequent test use.We performed a retrospective cohort study using the routine health care database of the Julius General Practitioners Network from 2002 to 2011, of which data were available from more than 65 000 male patients. We calculated the annual incidence of PSA testing rates per 1000 person-years. Co-morbidities were analysed by means of International Classification of Primary Care codes. Relative risks (RRs) of having a PSA test were estimated as the ratio of observed rates of co-morbidities in men who underwent the test compared with a control group, and 95% confidence intervals (CI) were calculated.From 2002 to 2011, the overall incidence rate of PSA testing in men â‰¥45 years increased almost 4-fold, from 15.5 to 54.3 per 1000 person-years. As from 2005, the incidence rates appear to increase more than those before 2005. Men with cardiovascular diseases, joint disorders, psychiatric diseases, respiratory diseases, overweight and diabetes mellitus were predisposed to undergo a PSA test, but men with urinary problems had the highest relative risk (RR 1.77, 95% CI 1.72-1.82).From 2002 to 2011, PSA incidence testing rates increased, particularly in men with urinary symptoms and cardiovascular disease, despite several international guidelines that suggest a judicious use of PSA tests.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Hamo13.pdf:pdfHamo13.pdf:PDF by e-mail"></form>

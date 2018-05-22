@@ -1,0 +1,12 @@
+title: Correlating signs and symptoms with pubovisceral muscle avulsions on magnetic resonance imaging
+
+## Lammers, Karin and F"utterer, Jurgen J. and Inthout, Joanna and Prokop, Mathias and Vierhout, Mark E. and Kluivers, Kirsten B.
+AJOG
+
+<a href="https://doi.org/10.1016/j.ajog.2012.12.006">DOI</a>
+
+## Abstract
+OBJECTIVE: To correlate signs and symptoms of pelvic organ prolapse (POP) with pubovisceral muscle avulsions on magnetic resonance (MR) imaging. STUDY DESIGN: In this retrospective cohort study of 189 women with recurrent POP or unexplained symptoms of pelvic floor dysfunction, we reviewed T(2)-weighted pelvic floor MR images and categorized defects as minor or major avulsion, or as no defect present. Outcomes were correlated to quality of life questionnaire scores and data on obstetric and surgical history, together with pelvic organ prolapse quantification (POP-Q) measurements. Multivariable ordinal logistic regression analysis with manual backward elimination was applied to calculate odds ratios (ORs). RESULTS: Major pubovisceral avulsions were diagnosed in 83 (44%) women, minor avulsions in 49 (26%) women, while no defects were seen in 57 (30%) women. Women with a history of episiotomy or anterior vaginal wall reconstructive surgery had a higher OR for more severe pubovisceral muscle avulsions (adjusted OR 3.77 and 3.29, respectively), as well as women with symptoms of POP (OR 1.01, per unit increase) or higher stage POP of the central vaginal compartment based on POP-Q measurement "C" (OR 1.18). Women with symptoms of obstructive defecation were more likely to have no defect of the pubovisceral muscle on MR imaging (OR 0.97, per unit increase). CONCLUSIONS: The variables episiotomy, previous anterior vaginal wall reconstructive surgery, POP-Q measurement "C", and symptoms scored with the Urogenital Distress Inventory "genital prolapse" and Defecatory Distress Inventory "obstructive defecation" subscales are correlated with pubovisceral muscle avulsions on pelvic floor MR imaging.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Lamm12a.pdf:pdfLamm12a.pdf:PDF by e-mail"></form>

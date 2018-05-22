@@ -1,0 +1,12 @@
+title: The Effect of Supplementary Bone-Suppressed Chest Radiographs on the Assessment of a Variety of Common Pulmonary Abnormalities: Results of an Observer Study
+
+## Schalekamp, Steven and Karssemeijer, Nico and Cats, Ariane M. and De Hoop, Bartjan and Geurts, Bram H J. and Berger-Hartog, Olette and van Ginneken, Bram and Schaefer-Prokop, Cornelia M.
+JTI
+
+<a href="https://doi.org/10.1097/RTI.0000000000000195">DOI</a>
+
+## Abstract
+The aim of the study was to investigate the effect of bone-suppressed chest radiographs on the detection of common chest abnormalities.A total of 261 posteroanterior and lateral chest radiographs were collected from 2 hospitals. Radiographs could contain single or multiple focal opacities <3 cm (n=66), single or multiple focal opacities >3 cm (n=33), diffuse lung disease (n=49), signs of cardiogenic congestion (n=26), or no abnormalities (n=110). Twenty-one cases contained >1 type of disease. All abnormalities were confirmed by a computed tomographic scan obtained within 4 weeks of the radiograph. Bone-suppressed images (BSIs) were generated from every posteroanterior radiograph (ClearRead BSI 3.2). All cases were read by 6 radiologists without BSI, followed by an evaluation of the same case with BSI. Presence or absence of each disease category and confidence (0-100) of the observers were documented for each interpretation. Differences in the number of correct detections without and with BSI were analyzed using the Wilcoxon signed-rank test.On average, 6 more cases with focal lesions were correctly identified with BSI (P=0.03), and 1 additional case with diffuse abnormalities was found with BSI (P=0.32). None of the observers demonstrated a decrease in the number of correctly detected cases with diffuse abnormalities or cardiogenic congestion with BSI. False positives in normal cases with availability of BSI mainly referred to the detection of small focal lesions (on average 7 per reader; P=0.04).BSI does not negatively affect the interpretation of diffuse lung disease, while improving visualization of focal lesions on chest radiographs. BSI leads to overcalling of focal abnormalities in normal radiographs.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Scha16.pdf:pdfScha16.pdf:PDF by e-mail"></form>

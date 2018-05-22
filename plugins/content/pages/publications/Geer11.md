@@ -1,0 +1,12 @@
+title: A new technique in the treatment of distal radius fractures: the Micronail(R)
+
+## Ron Wilhelmus Petrus Maria Geerts and Hanneke Gerlinde Toonen and Josephus Marinus Jacobus van Unen and R. van Vugt and Andries Jan Werre
+ACTOTT
+
+<a href="https://doi.org/10.3944/AOTT.2011.2333">DOI</a>
+
+## Abstract
+In 2006, an intramedullar titanium osteosynthesis for the stabilization of distal radius fractures was introduced in The Netherlands: the Micronail(R). The Micronail(R) can be used in approximately 30% of distal radius fracture treatments. This article presents the introduction of this new treatment, and first clinical results.In the first year after introduction of the Micronail(R) in our clinic, 10 patients have been treated with 11 Micronailsï¿½ (eight 23-A2 radius fractures and three distal 22-A3 forearm fractures). Our patients were mainly woman (n=9) and had a mean age of 81 years (range 69-88 years). After re-alignment of the fracture, the Micronail(R) was placed into the medulla through a small incision over the styloid process of the radius. By using a guidance system, three locking buttress screws were placed in the distal radial fragment and two locking bolts were placed in the proximal radius. Postoperative treatment consisted of a splint for 5 days, after which full loadcarrying exercises can be started.After 6 weeks, six patients had a full range of motion. Two patients were still in a cast because of secondary dislocation and CTS, respectively. One patient had a cast because of newly sustained trauma, which resulted in a peri-osteosynthetic fracture. Pain was not recorded in these patients. All fractures healed without major loss of alignment. Patients experienced good to excellent results on an analog scale showing the wrist function. At 4 months, all patients had a good range of motion in the operated wrist; the difference between the two wrists was a maximum of 10 ï¿½.The first results of Micronail(R) are promising. It has the advantages of other operative techniques (minimally invasive, stable, intramedullar) without their known disadvantages. Short immobilization is sufficient, after which full load-carrying exercises are indicated.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Geer11.pdf:pdfGeer11.pdf:PDF by e-mail"></form>

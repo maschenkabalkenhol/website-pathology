@@ -1,0 +1,12 @@
+title: Gray scale registration of mammograms using a model of image acquisition
+
+## P. R. Snoeren and N. Karssemeijer
+IPMI
+
+<a href="https://doi.org/10.1007/978-3-540-45087-0_34">DOI</a>
+
+## Abstract
+A parametric technique is proposed to match the pixel-value distributions of two mammograms of the same woman. It can be applied to mammograms of the left and the right breast, or, more effectively, to temporal mammograms, e.g., from two screening rounds. The main reason to match mammograms is to lessen irrelevant differences between images due to acquisition: by varying breast compression, different film types, et cetera. Firstly, a technique like this might reduce the radiologist's efforts to detect relevant differences like abnormal growth in breast tissue that signals breast cancer. Secondly, though not the aim of this study, applications might be found in subtraction radiology or in the computer aided detection of abnormalities in temporal mammograms. Instead of arbitrarily shifting and/or scaling the pixel-values of one image to match the other or directly mapping one histogram to the other, the proposed method is based on general aspects of acquisition. This encompasses (1) breast compression; (2) exposure time; (3) incident radiation intensity; and, (4a) film properties and digitization for screen-film mammograms, or (4b) detector response for unprocessed digital mammograms. The method does not require a priori knowledge about specific settings of acquisition to match histograms; the degrees of freedom are estimated from the pixel-value distributions of the two mammograms themselves. By the method it is possible to match digitized screen-film mammograms (in the next also referred to as analog mammograms) as well as unprocessed digital mammograms in any of the four possible combinations: analog to analog, analog to digital, digital to analog, and digital to digital.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Snoe03.pdf:pdfSnoe03.pdf:PDF by e-mail"></form>

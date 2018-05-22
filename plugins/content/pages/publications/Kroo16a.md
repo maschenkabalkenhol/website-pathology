@@ -1,0 +1,12 @@
+title: Noninvasive Imaging of Islet Transplants with 111In-Exendin-3 SPECT/CT.
+
+## van der Kroon, Inge and Andralojc, Karolina and Willekens, Stefanie M A and Bos, Desirée and Joosten, Lieke and Boerman, Otto C and Brom, Maarten and Gotthardt, Martin
+Journal of nuclear medicine : official publication, Society of Nuclear Medicine
+
+<a href="https://doi.org/10.2967/jnumed.115.166330">DOI</a>
+
+## Abstract
+Islet transplantation is a promising treatment for type 1 diabetic patients. However, there is acute as well as chronic loss of islets after transplantation. A noninvasive imaging method that could monitor islet mass might help to improve transplantation outcomes. In this study, islets were visualized after transplantation in a rat model with a dedicated small-animal SPECT scanner by targeting the glucagonlike peptide-1 receptor (GLP-1R), specifically expressed on ?-cells, with (111)In-labeled exendin-3. Targeting of (111)In-exendin-3 to GLP-1R was tested in vitro on isolated islets of WAG/Rij rats. For in vivo evaluation, 400 or 800 islets were transplanted into the calf muscle of WAG/Rij rats (6-8 wk old). Four weeks after transplantation, SPECT/CT images were acquired 1 h after injection of (111)In-labeled exendin-3. After SPECT acquisition, the muscles containing the transplant were analyzed immunohistochemically and autoradiographically. The binding assay, performed on isolated islets, showed a linear correlation between the number of islets and (111)In-exendin-3 accumulation (Pearson r = 0.98). In vivo, a 1.70 ± 0.44-fold difference in tracer uptake between 400 and 800 transplanted islets was observed. Ex vivo analysis of the islet transplant showed colocalization of tracer accumulation on autoradiography, with insulin-positive cells and GLP-1R expression on immunohistochemistry. (111)In-exendin-3 accumulates specifically in the ?-cells after islet transplantation and is a promising tracer for noninvasive monitoring of the islet mass.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Kroo16a.pdf:pdfKroo16a.pdf:PDF by e-mail"></form>

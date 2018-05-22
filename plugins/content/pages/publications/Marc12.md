@@ -1,0 +1,12 @@
+title: Synchronicity of systolic deformation in healthy pediatric and young adult subjects: a two-dimensional strain echocardiography study
+
+## Marcus, Karen A. and Janousek, Jan and Barends, Marlieke E. and Weijers, Gert and de Korte, Chris L. and Kapusta, Livia
+AJPHCP
+
+<a href="https://doi.org/10.1152/ajpheart.00740.2011">DOI</a>
+
+## Abstract
+Background: Two-dimensional speckle tracking echocardiography (2DSTE) offers valuable information in the echocardiographic assessment of ventricular myocardial function. It enables the quantification and timing of systolic ventricular myocardial deformation. In addition, 2DSTE can be used to identify mechanical dyssynchrony which is an important parameter in predicting the response to cardiac resynchronization therapy for heart failure. Detailed knowledge of normal timing of systolic deformation and its degree of synchronicity in children is lacking. Objective: We aimed to establish the normal timing of left ventricular myocardial systolic deformation using 2DSTE in a large cohort of healthy children and young adults. Methods: Transthoracic echocardiograms were acquired in 195 healthy subjects (139 children and 56 young adult < 40 years of age) and were retrospectively analyzed. Time to peak systolic longitudinal, circumferential and radial strain was determined by means of speckle tracking. Results: Strong, statistically significant relations between age as well as various anthropometric variables (e.g., heart rate) and timing of systolic deformation (P<0.0001) were present. The extent of dyssynchronous deformation increased with age. Conclusion: This is the first report that establishes reference values per cardiac segment for time to peak systolic myocardial strain values in all three directions assessed with 2DSTE in a large pediatric and young adult cohort. We emphasize the need for using age specific reference values as well as heart rate correction for the adequate interpretation of 2DSTE measurements.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Marc12.pdf:pdfMarc12.pdf:PDF by e-mail"></form>

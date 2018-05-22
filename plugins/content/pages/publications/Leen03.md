@@ -1,0 +1,12 @@
+title: Vascular endothelial growth factor-A determines detectability of experimental melanoma brain metastasis in GD-DTPA-enhanced MRI
+
+## Leenders, William and K"usters, Benno and Pikkemaat, Jeroen and Wesseling, Pieter and Ruiter, Dirk and Heerschap, Arend and Barentsz, Jelle and de Waal, Robert M W.
+IJC
+
+<a href="https://doi.org/10.1002/ijc.11102">DOI</a>
+
+## Abstract
+We have previously shown that the dense vascular network in mouse brain allows for growth of human melanoma xenografts (Mel57) by co-option of preexisting vessels. Overexpression of recombinant vascular endothelial growth factor-A (VEGF-A) by such xenografts induced functional and morphologic alterations of preexisting vessels. We now describe the effects of VEGF-A expression on visualization of these brain tumors in mice by magnetic resonance imaging (MRI), using gadolinium diethylenetriaminepenta-acetic acid (Gd-DTPA) and ultra small paramagnetic iron oxide particles (USPIO) as contrast agents. Brain lesions derived from (mock-transfected) Mel57 cells were undetectable in MRI after Gd-DTPA injection. However, the majority of such lesions became visible after injection of USPIO, due to the lower vascular density in the lesions as compared to the surrounding parenchyma. In contrast, VEGF-A-expressing lesions were visualized using Gd-DTPA-enhanced MRI by a rapid circumferential enhancement, due to leaky peritumoral vasculature. USPIO-enhanced MRI of these tumors corroborated the immunohistochemic finding that peritumorally located, highly irregular and dilated vessels were present, while intratumoral vessel density was low. Our study shows that VEGF-A is a key factor in imaging of brain neoplasms. Our data also demonstrate that, at least in brain, blood-pool agent-enhanced MRI may be a valuable diagnostic tool to detect malignancies that are not visible on Gd-DTPA-enhanced MRI. Furthermore, the involvement of VEGF-A in MRI visibility suggests that care must be taken with MRI-based evaluation of antiangiogenic therapy, as anti-VEGF treatment might revert a tumor to a co-opting phenotype, resulting in loss of contrast enhancement in MRI.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Leen03.pdf:pdfLeen03.pdf:PDF by e-mail"></form>

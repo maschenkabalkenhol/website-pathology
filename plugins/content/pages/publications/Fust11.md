@@ -1,0 +1,12 @@
+title: Compatibility between 3T 1H SV-MRS data and automatic brain tumour diagnosis support systems based on databases of 1.5T 1H SV-MRS spectra
+
+## Elies Fuster-Garcia and Clara Navarro and Javier Vicente and Salvador Tortajada and Juan M Garc'ia-G'omez and Carlos S'aez and Jorge Calvar and John Griffiths and Margarida Julia-Sap'e and Franklyn A Howe and Jes'us Pujol and Andrew C Peet and Arend Heerschap and Angel Moreno-Torres and M. C. Mart'inez-Bisbal and Beatriz Mart'inez-Granados and Pieter Wesseling and Wolfhard Semmler and Jaume Capellades and Carles Maj'os and Angel Alberich-Bayarri and Antoni Capdevila and Daniel Monle'on and Luis Mart'i-Bonmat'i and Carles Ar'us and Bernardo Celda and Montserrat Robles
+MRMPBM
+
+<a href="https://doi.org/10.1007/s10334-010-0241-8">DOI</a>
+
+## Abstract
+This study demonstrates that 3T SV-MRS data can be used with the currently available automatic brain tumour diagnostic classifiers which were trained on databases of 1.5T spectra. This will allow the existing large databases of 1.5T MRS data to be used for diagnostic classification of 3T spectra, and perhaps also the combination of 1.5T and 3T databases.Brain tumour classifiers trained with 154 1.5T spectra to discriminate among high grade malignant tumours and common grade II glial tumours were evaluated with a subsequently-acquired set of 155 1.5T and 37 3T spectra. A similarity study between spectra and main brain tumour metabolite ratios for both field strengths (1.5T and 3T) was also performed.Our results showed that classifiers trained with 1.5T samples had similar accuracy for both test datasets (0.87 ï¿½ 0.03 for 1.5T and 0.88 ï¿½ 0.03 for 3.0T). Moreover, non-significant differences were observed with most metabolite ratios and spectral patterns.These results encourage the use of existing classifiers based on 1.5T datasets for diagnosis with 3T (1)H SV-MRS. The large 1.5T databases compiled throughout many years and the prediction models based on 1.5T acquisitions can therefore continue to be used with data from the new 3T instruments.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Fust11.pdf:pdfFust11.pdf:PDF by e-mail"></form>

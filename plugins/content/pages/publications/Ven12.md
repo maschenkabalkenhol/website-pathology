@@ -1,0 +1,12 @@
+title: Steady-state brain glucose concentrations during hypoglycemia in healthy humans and patients with type 1 diabetes
+
+## van de Ven, Kim C C. and van der Graaf, Marinette and Tack, Cees J. and Heerschap, Arend and de Galan, Bastiaan E.
+Diabetes
+
+<a href="https://doi.org/10.2337/db11-1778">DOI</a>
+
+## Abstract
+The objective of this study was to investigate the relationship between plasma and brain glucose levels during euglycemia and hypoglycemia in healthy subjects and patients with type 1 diabetes mellitus (T1DM). Hyperinsulinemic euglycemic (5 mmol/L) and hypoglycemic (3 mmol/L) [1-(13)C]glucose clamps were performed in eight healthy subjects and nine patients with uncomplicated T1DM (HbA(1c) 7.7 ï¿½ 1.4%). Brain glucose levels were measured by (13)C magnetic resonance spectroscopy. Linear regression analysis was used to fit the relationship between plasma and brain glucose levels and calculate reversible Michaelis-Menten (MM) kinetic parameters. Brain glucose values during euglycemia (1.1 ï¿½ 0.4 ï¿½mol/g vs. 1.1 ï¿½ 0.3 ï¿½mol/g; P = 0.95) and hypoglycemia (0.5 ï¿½ 0.2 ï¿½mol/g vs. 0.6 ï¿½ 0.3 ï¿½mol/g; P = 0.52) were comparable between healthy subjects and T1DM patients. MM kinetic parameters of combined data were calculated to be maximum transport rate/cerebral metabolic rate of glucose (T(max)/CMR(glc)) = 2.25 ï¿½ 0.32 and substrate concentration at half maximal transport (K(t)) = 1.53 ï¿½ 0.88 mmol/L, which is in line with previously published data obtained under hyperglycemic conditions. In conclusion, the linear MM relationship between plasma and brain glucose can be extended to low plasma glucose levels. We found no evidence that the plasma to brain glucose relationship or the kinetics describing glucose transport over the blood-brain barrier differ between healthy subjects and patients with uncomplicated, reasonably well-controlled T1DM.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Ven12.pdf:pdfVen12.pdf:PDF by e-mail"></form>

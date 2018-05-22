@@ -1,0 +1,12 @@
+title: Is there a role for CT coronary angiography in patients with symptomatic angina? Effect of coronary calcium score on identification of stenosis
+
+## Matthijs F L Meijs and W. Bob Meijboom and Mathias Prokop and Nico R Mollet and Carlos A G van Mieghem and Pieter A Doevendans and Pim J de Feyter and Maarten J Cramer
+IJCVI
+
+<a href="https://doi.org/10.1007/s10554-009-9485-7">DOI</a>
+
+## Abstract
+Present guidelines discourage the use of CT coronary angiography (CTCA) in symptomatic angina patients. We examined the relation between coronary calcium score (CS) and the performance of CTCA in patients with stable and unstable angina in order to understand under which conditions CTCA might be a gate-keeper to conventional coronary angiography (CCA) in such patients. We included 360 patients between 50 and 70 years old with stable and unstable angina who were clinically referred for CCA irrespective of CS. Patients received CS and CCTA on 64-slice scanners in a multicenter cross-sectional trial. The institutional review board approved the study. Diagnostic performance of CTCA to detect or rule out significant coronary artery disease was calculated on a per patient level in pre-defined CS categories. The prevalence of significant coronary artery disease strongly increased with CS. Negative CTCA were associated with a negative likelihood ratio of <0.1 independent of CS. Positive CTCA was associated with a high positive likelihood ratio of 9.4 if CS was <10. However, for higher CS the positive likelihood ratio never exceeded 3.0 and for CS >400 it decreased to 1.3. In the 62 (17%) patients with CS <10, CTCA reliably identified the 42 (68%) of these patients without significant CAD, at no false negative CTCA scans. In symptomatic angina patients, a negative CTCA reliably excludes significant CAD but the additional value of CTCA decreases sharply with CS >10 and especially with CS >400. In patients with CS <10, CTCA provides excellent diagnostic performance.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Meij09.pdf:pdfMeij09.pdf:PDF by e-mail"></form>

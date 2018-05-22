@@ -1,0 +1,12 @@
+title: Detection of hard exudates in retinal images using a radial basis function classifier
+
+## M. Garc'ia and C. I. S'anchez and J. Poza and M. I. L'opez and R. Hornero
+AOBE
+
+<a href="https://doi.org/10.1007/s10439-009-9707-0">DOI</a>
+
+## Abstract
+Diabetic retinopathy (DR) is one of the most important causes of visual impairment. Automatic recognition of DR lesions, like hard exudates (EXs), in retinal images can contribute to the diagnosis and screening of the disease. The aim of this study was to automatically detect these lesions in fundus images. To achieve this goal, each image was normalized and the candidate EX regions were segmented by a combination of global and adaptive thresholding. Then, a group of features was extracted from image regions and the subset which best discriminated between EXs and retinal background was selected by means of logistic regression (LR). This optimal subset was subsequently used as input to a radial basis function (RBF) neural network. To improve the performance of the proposed algorithm, some noisy regions were eliminated by an innovative postprocessing of the image. The main novelty of the paper is the use of LR in conjunction with RBF and the proposed postprocessing technique. Our database was composed of 117 images with variable color, brightness and quality. The database was divided into a training set of 50 images (from DR patients) and a test set of 67 images (40 from DR patients and 27 from healthy retinas). Using a lesion-based criterion (pixel resolution), a mean sensitivity of 92.1% and a mean positive predictive value of 86.4% were obtained. With an image-based criterion, a mean sensitivity of 100%, mean specificity of 70.4% and mean accuracy of 88.1% were achieved. These results suggest that the proposed method could be a diagnostic aid for ophthalmologists in the screening for DR.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Garc09.pdf:pdfGarc09.pdf:PDF by e-mail"></form>

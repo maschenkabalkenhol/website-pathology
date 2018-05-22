@@ -1,0 +1,12 @@
+title: Effect of acute hypoglycemia on human cerebral glucose metabolism measured by 13C magnetic resonance spectroscopy
+
+## Kim C C van de Ven and Bastiaan E de Galan and Marinette van der Graaf and Alexander A Shestov and Pierre-Gilles Henry and Cees J J Tack and Arend Heerschap
+Diabetes
+
+<a href="https://doi.org/10.2337/db10-1592">DOI</a>
+
+## Abstract
+To investigate the effect of acute insulin-induced hypoglycemia on cerebral glucose metabolism in healthy humans, measured by (13)C magnetic resonance spectroscopy (MRS).Hyperinsulinemic glucose clamps were performed at plasma glucose levels of 5 mmol/L (euglycemia) or 3 mmol/L (hypoglycemia) in random order in eight healthy subjects (four women) on two occasions, separated by at least 3 weeks. Enriched [1-(13)C]glucose 20% w/w was used for the clamps to maintain stable plasma glucose labeling. The levels of the (13)C-labeled glucose metabolites glutamate C4 and C3 were measured over time in the occipital cortex during the clamp by continuous (13)C MRS in a 3T magnetic resonance scanner. Time courses of glutamate C4 and C3 labeling were fitted using a one-compartment model to calculate metabolic rates in the brain.Plasma glucose (13)C isotopic enrichment was stable at 35.1 ? 1.8% during euglycemia and at 30.2 ? 5.5% during hypoglycemia. Hypoglycemia stimulated release of counterregulatory hormones (all P < 0.05) and tended to increase plasma lactate levels (P = 0.07). After correction for the ambient (13)C enrichment values, label incorporation into glucose metabolites was virtually identical under both glycemic conditions. Calculated tricarboxylic acid cycle rates (V(TCA)) were 0.48 ? 0.03 ?mol/g/min during euglycemia and 0.43 ? 0.08 ?mol/g/min during hypoglycemia (P = 0.42).These results indicate that acute moderate hypoglycemia does not affect fluxes through the main pathways of glucose metabolism in the brain of healthy nondiabetic subjects.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Ven11.pdf:pdfVen11.pdf:PDF by e-mail"></form>

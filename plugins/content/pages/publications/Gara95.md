@@ -1,0 +1,9 @@
+title: Fatal pneumopathy in children after bone marrow transplantation--report from the Italian Registry. Italian Association of Pediatric Hematology-Oncology BMT Group.
+
+## Garaventa, A and Rondelli, R and Castagnola, E and Locatelli, F and Dallorso, S and Porta, F and Uderzo, C and Rossetti, F and Miniero, R and Andolina, M
+Bone marrow transplantation
+
+
+## Abstract
+We have examined data reported in the AIEOP-BMT Registry in order to determine the incidence, causes and risk factors for fatal pneumopathy after bone marrow transplantation in a pediatric population. Overall, in the Registry 1134 children are reported, 531 of whom received an autologous BMT, 468 allomatched BMT, eight syngeneic, 75 mismatched, 29 unrelated and 23 peripheral blood progenitor cells as rescue after myeloablative therapy in the period 1983-1993. 198 patients out of 1134 (17%) died of transplant-related causes and 86 of them died of pulmonary complications: 12 were recorded as fungal pneumonia, eight bacterial, four bacterial and fungal, six viral, two Pneumocystis carinii pneumonia, 12 ARDS, 13 interstitial, 29 unspecified 'respiratory failure'. Multivariate analysis showed that only type of graft and presence or absence of Pneumocystis carinii prophylaxis influence the cumulative incidence of fatal pneumonia. After autologous BMTs only Pneumocystis carinii prophylaxis was significant in multivariate analysis. After allogeneic BMTs multivariate analysis showed that BMT type, Pneumocystis carinii prophylaxis and GVHD grade seem to maintain their influence on cumulative incidence of fatal pneumonia. After BMT the incidence of fatal pneumopathy in children is low (9%), but it represents the second cause of death after primary disease. Pneumocysti carinii prophylaxis should also be given after autologous BMT.
+

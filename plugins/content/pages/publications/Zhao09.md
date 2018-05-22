@@ -1,0 +1,10 @@
+title: Pain fMRI in rat cervical spinal cord: an echo planar imaging evaluation of sensitivity of BOLD and blood volume-weighted fMRI.
+
+## Zhao, Fuqiang and Williams, Mangay and Meng, Xiangjun and Welsh, Denise C and Grachev, Igor D and Hargreaves, Richard and Williams, Donald S
+NeuroImage
+
+<a href="https://doi.org/10.1016/j.neuroimage.2008.09.001">DOI</a>
+
+## Abstract
+Objective measure of pain is valuable in drug discovery research and development of analgesics. Spinal cord is an important relay of the pain pathway, and fMRI offers an excellent opportunity to quantify pain using activation in the spinal cord induced by painful stimuli. fMRI literature of cervical spinal cord with regard to the spatial extent, in both longitudinal and cross-sectional directions, of neuronal activation induced by noxious stimulation is ambiguous. This study investigates the feasibility of developing a robust pain assay using fMRI in the cervical spinal cord in alpha-chloralose anesthetized rats subjected to transcutaneous noxious electrical stimulation of the forepaw. Blood oxygenation level dependent (BOLD) and blood volume (BV)-weighted fMRI data were acquired without and with intravenous injection of ultra small superparamagnetic iron oxide particles (USPIO), respectively. BOLD data were acquired by gradient-echo (GE) and spin-echo (SE) echo planar imaging (EPI), while BV-weighted fMRI data were acquired only by GE EPI. Cervical spinal cord activity was robustly detected by all three fMRI techniques. The sensitivity of the fMRI signal was highest in GE BV-weighted fMRI followed in order by GE BOLD, and SE BOLD, respectively. Spatially, the fMRI signal extended approximately 9 mm in the longitudinal direction, covering C(4)-C(8) segments, coinciding with the synapse location of afferent terminals from the stimulated site. In the cross-sectional direction, the signal change is localized predominantly to the ipsilateral dorsal region. This study demonstrates that cervical spinal cord fMRI can be performed reliably in anesthetized rats offering it as a potential tool for analgesic drug development.
+

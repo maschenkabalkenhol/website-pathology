@@ -1,0 +1,12 @@
+title: Bone cysts in patients with afibrinogenaemia: a literature review and two new cases
+
+## van Meegeren, M E R. and de Rooy, J W J. and Schreuder, H W B. and Brons, P P T.
+Haemophilia
+
+<a href="https://doi.org/10.1111/hae.12337">DOI</a>
+
+## Abstract
+Afibrinogenaemia is an autosomal recessive disease with an estimated prevalence of approximately one in a million. The most common symptoms of afibrinogenaemia are umbilical cord bleeding, bleeding into skin, mouth, muscles, gastrointestinal and genitourinary tracts and the central nervous system. Other recognized complications include; haemarthroses, spontaneous splenic rupture, epistaxis, menorrhagia, recurrent abortion and venous and arterial thromboembolism. Bone cysts have also been described as a rare complication of afibrinogenaemia. The aim of this study was to conduct a systematic literature review, summarize the reported cases and to report two new cases. Three electronic databases were searched for relevant publications: PubMed, Medline and EMBASE. The following search criteria were used: '(bone cysts OR intraosseous haematoma OR intraosseous haemorrhage) AND (afibrinogenaemia OR fibrinogen deficiency)'. The reference lists of the selected papers were searched for more relevant literature. In total, eight patients had bone cysts as complication of afibrinogenaemia and six of them suffered from pain in their extremities. Bone cysts were primarily located in the vicinity of the cortex or trabeculae in the diaphysis of the long bones, especially in the femora, tibiae and humeri. Some were regressive, probably due to reactive bone remodelling. A number of cysts were filled with serosanguinous fluid. It might be useful to check for bone cysts when patients with congenital afibrinogenaemia complain of 'rheumatic' pains in their extremities. Whole body magnetic resonance imaging is the diagnostic imaging technique of choice. Recurrent episodes of pain, but not radiological deterioration, appear to benefit from prophylactic therapy with fibrinogen concentrate.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Meeg14.pdf:pdfMeeg14.pdf:PDF by e-mail"></form>

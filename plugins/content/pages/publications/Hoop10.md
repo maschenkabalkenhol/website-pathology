@@ -1,0 +1,12 @@
+title: Pulmonary ground-glass nodules: increase in mass as an early indicator of growth
+
+## B. de Hoop and H. Gietema and S. van de Vorst and K. Murphy and R. J. van Klaveren and M. Prokop
+Radiology
+
+<a href="https://doi.org/10.1148/radiol.09090571">DOI</a>
+
+## Abstract
+PURPOSE: To compare manual measurements of diameter, volume, and mass of pulmonary ground-glass nodules (GGNs) to establish which method is best for identifying malignant GGNs by determining change across time. MATERIALS AND METHODS: In this ethics committee-approved retrospective study, baseline and follow-up CT examinations of 52 GGNs detected in a lung cancer screening trial were included, resulting in 127 GGN data sets for evaluation. Two observers measured GGN diameter with electronic calipers, manually outlined GGNs to obtain volume and mass, and scored whether a solid component was present. Observer 1 repeated all measurements after 2 months. Coefficients of variation and limits of agreement were calculated by using Bland-Altman methods. In a subgroup of GGNs containing all resected malignant lesions, the ratio between intraobserver variability and growth (growth-to-variability ratio) was calculated for each measurement technique. In this subgroup, the mean time for growth to exceed the upper limit of agreement of each measurement technique was determined. RESULTS: The kappa values for intra- and interobserver agreement for identifying a solid component were 0.55 and 0.38, respectively. Intra- and interobserver coefficients of variation were smallest for GGN mass (P < .001). Thirteen malignant GGNs were resected. Mean growth-to-variability ratios were 11, 28, and 35 for diameter, volume, and mass, respectively (P = .03); mean times required for growth to exceed the upper limit of agreement were 715, 673, and 425 days, respectively (P = .02). CONCLUSION: Mass measurements can enable detection of growth of GGNs earlier and are subject to less variability than are volume or diameter measurements.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Hoop10.pdf:pdfHoop10.pdf:PDF by e-mail"></form>

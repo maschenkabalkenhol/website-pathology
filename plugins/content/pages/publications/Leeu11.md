@@ -1,0 +1,12 @@
+title: Prostate cancer detection and dutasteride: utility and limitations of prostate-specific antigen in men with previous negative biopsies
+
+## Pim J van Leeuwen and Konrad K"olble and Hartwig Huland and Thomas Hambrock and Jelle Barentsz and Fritz H Schr"oder
+EU
+
+<a href="https://doi.org/10.1016/j.eururo.2010.09.035">DOI</a>
+
+## Abstract
+We addressed the question whether the change of serum prostate-specific antigen (PSA) in men who use 5a-reductase inhibitor (5-ARI) dutasteride is sensitive for the detection of aggressive prostate cancer (PCa).The case of a man using dutasteride diagnosed with Gleason 7 transition zone cancer at biopsy indicated by a rising PSA is described. The following issues are discussed: (1) Is a rise of PSA in patients using dutasteride predictive of aggressive PCa in men with prior negative biopsies? (2) Is it safe not to biopsy men using dutasteride who do not show a rising PSA? (3) How can we avoid potentially unnecessary biopsies in men using dutasteride without a rising PSA?We reviewed the recent literature addressing our objective that relates to two studies: the Prostate Cancer Prevention Trial and the Reduction by Dutasteride of Prostate Cancer Events trial.In men using dutasteride, the positive predictive value/detection rate of Gleason 7-10 PCa is 13.2% and 4.0% for men with and without a rising PSA, respectively. However, a substantial proportion of Gleason 7-10 cases (42.9%) would be missed if a rising PSA was used as the only biopsy indication. Currently available data do not provide selective mechanisms to diagnose these cancers.A rising PSA for a patient using dutasteride should be an indication for prostate biopsies. Currently, in the case of stable PSA a biopsy may still be considered. Options for a selective approach are therefore suggested in this review to avoid unnecessary biopsies and to achieve a more selective PCa detection in men on 5-ARI treatment.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Leeu11.pdf:pdfLeeu11.pdf:PDF by e-mail"></form>

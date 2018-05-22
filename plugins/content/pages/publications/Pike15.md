@@ -1,0 +1,12 @@
+title: A minimum spanning forest based classification method for dedicated breast CT images.
+
+## Pike, Robert and Sechopoulos, Ioannis and Fei, Baowei
+Med Phys
+
+<a href="https://doi.org/10.1118/1.4931958">DOI</a>
+
+## Abstract
+To develop and test an automated algorithm to classify different types of tissue in dedicated breast CT images.Images of a single breast of five different patients were acquired with a dedicated breast CT clinical prototype. The breast CT images were processed by a multiscale bilateral filter to reduce noise while keeping edge information and were corrected to overcome cupping artifacts. As skin and glandular tissue have similar CT values on breast CT images, morphologic processing is used to identify the skin based on its position information. A support vector machine (SVM) is trained and the resulting model used to create a pixelwise classification map of fat and glandular tissue. By combining the results of the skin mask with the SVM results, the breast tissue is classified as skin, fat, and glandular tissue. This map is then used to identify markers for a minimum spanning forest that is grown to segment the image using spatial and intensity information. To evaluate the authors' classification method, they use DICE overlap ratios to compare the results of the automated classification to those obtained by manual segmentation on five patient images.Comparison between the automatic and the manual segmentation shows that the minimum spanning forest based classification method was able to successfully classify dedicated breast CT image with average DICE ratios of 96.9%, 89.8%, and 89.5% for fat, glandular, and skin tissue, respectively.A 2D minimum spanning forest based classification method was proposed and evaluated for classifying the fat, skin, and glandular tissue in dedicated breast CT images. The classification method can be used for dense breast tissue quantification, radiation dose assessment, and other applications in breast imaging.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send :pdfPike15.pdf:PDF by e-mail"></form>

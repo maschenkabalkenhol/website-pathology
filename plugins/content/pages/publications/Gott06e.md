@@ -1,0 +1,9 @@
+title: Decrease of (99m)Tc-uptake in autonomous thyroid tissue in Germany since the 1970s. Clinical implications for radioiodine therapy
+
+## Gotthardt, M. and St"ubinger, M. and Pansegrau, J. and Buchwald, B. and Goecke, J. and Pfestroff, A. and Corstens, F H M. and Behr, T. M.
+Nuklearmedizin
+
+
+## Abstract
+The clinical relevance of thyroidal autonomy, i.e. the risk of a patient to become hyperthyroid after exposure to iodine, can be estimated by measurement of the thyroidal (99m)Tc uptake under suppression of TSH (TcTUs). The upper tolerable limit has been set to 2% some 25 years ago. Considering the increase in nutritional iodine uptake over the last 15 years, we wanted to find out if the TcTUs per ml of autonomous volume may have changed.We performed a pilot study in 1166 randomly chosen patients from 1980-2003 with different kinds of benign thyroid disorders to determine changes in TcTU or TcTUs over time. A second analysis was performed in 1063 patients from 1987-2004 with unifocal autonomy (UFA). In these patients, the volume of the autonomous tissue can be determined precisely thus allowing for exact determination of TcTUs per ml of autonomous volume.The pilot study demonstrated that the TcTUs or the TcTU has been falling over the last 25 years in all benign thyroid disorders (p < 0.01). The total thyroid volume has also been decreasing in all disorders. In the second analysis of UFA only, 500 from the 1063 patients fulfilled the inclusion criteria. In these patients, the TcTUs per ml of autonomous volume has fallen from an average of 0.48% to an average of 0.28%. These results are statistically significant as determined by ANOVA testing (p = 0.032).As the TcTUs in relation to autonomous volume has dropped by approximately 40% over the last 25 years, the upper limit for a normal TcTUs should be reduced to 1-1.4%, dependent on regional factors.
+

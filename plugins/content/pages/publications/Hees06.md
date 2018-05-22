@@ -1,0 +1,12 @@
+title: Prostate cancer evaluated with ferumoxtran-10-enhanced T2*-weighted MR Imaging at 1.5 and 3.0 T: early experience
+
+## Roel A M Heesakkers and Jurgen J F"utterer and Anke M H"ovels and Harrie C M van den Bosch and Tom W J Scheenen and Yvonne L Hoogeveen and Jelle O Barentsz
+Radiology
+
+<a href="https://doi.org/10.1148/radiol.2392050411">DOI</a>
+
+## Abstract
+To prospectively evaluate the feasibility of ferumoxtran-10-enhanced magnetic resonance (MR) imaging at high magnetic field strength (3.0 T) and to compare image quality between 1.5- and 3.0-T MR imaging in terms of lymph node detection in patients with prostate cancer.This study was institutional review board approved, and all patients gave written informed consent. Forty-eight consecutive patients aged 51-79 years (mean, 65.5 years) with prostate cancer were enrolled. T2*-weighted 1.5- and 3.0-T MR images of the pelvis were acquired in a sagittal plane parallel to the psoas muscle 24 hours after ferumoxtran-10 administration. A pelvic and body phased-array coil was used and yielded an in-plane resolution of 0.56 x 0.56 x 3.00 mm at 1.5 T and 0.50 x 0.50 x 2.50 mm at 3.0 T. All images were evaluated by three readers for total image quality, lymph node border delineation, muscle-fat contrast, and vessel-fat contrast. Statistical significance was calculated by using the Mann-Whitney U test. Subsequently, the general linear mixed model was used to estimate the contributions of three factors-patient, reader, and technique-to the variability of the imaging results.Significantly (P < .05) better muscle-fat contrast, vessel-fat contrast, lymph node border delineation, and total image quality were observed at 3.0-T MR imaging. The general linear mixed model revealed that the variability of all results could be attributed to the use of 3.0-T imaging.Ferumoxtran-10-enhanced MR imaging can be performed at high magnetic field strengths and result in improved image quality, which may lead to improved detection of small positive lymph nodes.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Hees06.pdf:pdfHees06.pdf:PDF by e-mail"></form>

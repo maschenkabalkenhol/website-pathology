@@ -1,0 +1,12 @@
+title: Nanoscale organization of the pathogen receptor DC-SIGN mapped by single-molecule high-resolution fluorescence microscopy
+
+## de Bakker, B"arbel I. and de Lange, Frank and Cambi, Alessandra and Korterik, Jeroen P. and van Dijk, Erik M H P. and van Hulst, Niek F. and Figdor, Carl G. and Garcia-Parajo, Maria F.
+Chemphyschem
+
+<a href="https://doi.org/10.1002/cphc.200700169">DOI</a>
+
+## Abstract
+DC-SIGN, a C-type lectin exclusively expressed on dendritic cells (DCs), plays an important role in pathogen recognition by binding with high affinity to a large variety of microorganisms. Recent experimental evidence points to a direct relation between the function of DC-SIGN as a viral receptor and its spatial arrangement on the plasma membrane. We have investigated the nanoscale organization of fluorescently labeled DC-SIGN on intact isolated DCs by means of near-field scanning optical microscopy (NSOM) combined with single-molecule detection. Fluorescence spots of different intensity and size have been directly visualized by optical means with a spatial resolution of less than 100 nm. Intensity- and size-distribution histograms of the DC-SIGN fluorescent spots confirm that approximately 80 % of the receptors are organized in nanosized domains randomly distributed on the cell membrane. Intensity-size correlation analysis revealed remarkable heterogeneity in the molecular packing density of the domains. Furthermore, we have mapped the intermolecular organization within a dense cluster by means of sequential NSOM imaging combined with discrete single-molecule photobleaching. In this way we have determined the spatial coordinates of 13 different individual dyes, with a localization accuracy of 6 nm. Our experimental observations are all consistent with an arrangement of DC-SIGN designed to maximize its chances of binding to a wide range of microorganisms. Our data also illustrate the potential of NSOM as an ultrasensitive, high-resolution technique to probe nanometer-scale organization of molecules on the cell membrane.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Bakk07.pdf:pdfBakk07.pdf:PDF by e-mail"></form>

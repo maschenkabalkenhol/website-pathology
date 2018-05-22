@@ -1,0 +1,12 @@
+title: Obstetric brachial plexus lesions: CT myelography
+
+## Steens, Stefan C A. and Pondaag, Willem and Malessy, Martijn J A. and Verbist, Berit M.
+Radiology
+
+<a href="https://doi.org/10.1148/radiol.10101417">DOI</a>
+
+## Abstract
+To evaluate the value of computed tomographic (CT) myelography in the detection of root damage and differentiation of root avulsions from neurotmesis in a large cohort of patients with an obstetric brachial plexus lesion (OBPL).Institutional review board approval was obtained. Informed consent was waived by the medical ethics committee. One hundred eighteen patients with OBPL born in the cephalic position and six patients born in the breech position were selected for surgery by two neurosurgeons in a multidisciplinary team. Functional loss of the C5 through T1 innervated muscles was noted. All patients underwent preoperative CT myelography at an average age of 19 weeks. CT myelographic examination results were reviewed by two radiologists, who were blinded to the clinical findings, for the presence of root avulsions and pseudocysts. Interobserver agreement was assessed by calculating ? values.CT myelographic results showed root avulsions in at least one level in 66 (56%) of 118 patients born in the cephalic position and in six (100%) of six patients born in the breech position. Levels C7 and C8 showed the most root avulsions, even if not expected from clinical examination results. A large number of root avulsions showed pseudocysts (73 [68%] of 107 levels in patients born in the cephalic position and 11 [73%] of 15 levels in patients born in the breech position).CT myelographic results showed root avulsions in more than half of patients with OBPL. Root avulsions were even detected at levels that were not expected at clinical examination. Because root avulsions require specific reconstructive techniques, CT myelography is recommended for every preoperative patient with OBPL.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Stee11.pdf:pdfStee11.pdf:PDF by e-mail"></form>

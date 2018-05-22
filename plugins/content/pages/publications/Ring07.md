@@ -1,0 +1,10 @@
+title: Lossy three-dimensional JPEG2000 compression of abdominal CT images: assessment of the visually lossless threshold and effect of compression ratio on image quality
+
+## Ringl, Helmut and Schernthaner, Ruediger E. and Kulinna-Cosentini, Christiane and Weber, Michael and Schaefer-Prokop, Cornelia and Herold, Christian J. and Schima, Wolfgang
+Radiology
+
+<a href="https://doi.org/10.1148/radiol.2452061713">DOI</a>
+
+## Abstract
+To retrospectively determine the maximum compression ratio at which compressed images are indistinguishable from the original by using a three-dimensional (3D) wavelet algorithm.The protocol of this study was approved by the local Institutional Review Board and informed consent was waived. Sixty emergency abdominal computed tomographic (CT) scans of patients (31 men, 29 women; mean age +/- standard deviation, 50.8 years +/- 20.1; range, 17-80 years) with acute abdominal pain were subjected to lossy irreversible three-dimensional Joint Photographic Experts Group 2000 (3D-JPEG2000) compression by using four compression ratios (4:1, 8:1, 12:1, and 16:1). Groups contained five patients for each of 12 common diagnoses for acute abdominal pain. Images were obtained by using a multidetector CT scanner (Sensation Cardiac 64; Siemens, Forcheim, Germany) with 3- and 6-mm-thick sections. Three radiologists independently compared one case-relevant image per patient with the original image at different compression ratios. They had to determine which image was the original by using a forced-choice, two-alternative model and to subjectively rank image quality. For analysis, a binomial test was used, a Bonferroni correction was applied, and a P value of .01 indicated a significant difference.Images compressed at ratios of 4:1 and 8:1 were visually indistinguishable and essentially indistinguishable, respectively, from the original images (P > .01 for all readers). For the 12:1 and 16:1 ratios, all readers definitively (P < .001) identified the original images.The highest 3D-JPEG2000 compression ratio for abdominal CT scans, at which compressed images are essentially indistinguishable from the original, is 8:1.
+

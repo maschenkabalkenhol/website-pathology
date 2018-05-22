@@ -1,0 +1,12 @@
+title: Diagnostic value of FDG-PET/(CT) in children with fever of unknown origin and unexplained fever during immune suppression
+
+## Blokhuis, Gijsbert J. and Bleeker-Rovers, Chantal P. and Diender, Marije G. and Oyen, Wim J G. and Draaisma, Jos M Th and de Geus-Oei, Lioe-Fee
+EJNMMI
+
+<a href="https://doi.org/10.1007/s00259-014-2801-z">DOI</a>
+
+## Abstract
+Fever of unknown origin (FUO) and unexplained fever during immune suppression in children are challenging medical problems. The aim of this study is to investigate the diagnostic value of fluorine-18 fluorodeoxyglucose positron emission tomography (FDG-PET) and FDG-PET combined with computed tomography (FDG-PET/CT) in children with FUO and in children with unexplained fever during immune suppression.All FDG-PET/(CT) scans performed in the Radboud university medical center for the evaluation of FUO or unexplained fever during immune suppression in the last 10 years were reviewed. Results were compared with the final clinical diagnosis.FDG-PET/(CT) scans were performed in 31 children with FUO. A final diagnosis was established in 16 cases (52 %). Of the total number of scans, 32 % were clinically helpful. The sensitivity and specificity of FDG-PET/CT in these patients was 80 % and 78 %, respectively. FDG-PET/(CT) scans were performed in 12 children with unexplained fever during immune suppression. A final diagnosis was established in nine patients (75 %). Of the total number of these scans, 58 % were clinically helpful. The sensitivity and specificity of FDG-PET/CT in children with unexplained fever during immune suppression was 78 % and 67 %, respectively.FDG-PET/CT appears a valuable imaging technique in the evaluation of children with FUO and in the diagnostic process of children with unexplained fever during immune suppression. Prospective studies of FDG-PET/CT as part of a structured diagnostic protocol are warranted to assess the additional diagnostic value.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Blok14.pdf:pdfBlok14.pdf:PDF by e-mail"></form>

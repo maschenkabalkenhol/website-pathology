@@ -1,0 +1,12 @@
+title: Temporal change analysis for characterization of mass lesions in mammography
+
+## S. Timp and C. Varela and N. Karssemeijer
+TMI
+
+<a href="https://doi.org/10.1109/TMI.2007.897392">DOI</a>
+
+## Abstract
+In this paper, we present a fully automated computer-aided diagnosis (CAD) program to detect temporal changes in mammographic masses between two consecutive screening rounds. The goal of this work was to improve the characterization of mass lesions by adding information about the tumor behavior over time. Towards this goal we previously developed a regional registration technique that finds for each mass lesion on the current view a location on the prior view where the mass was most likely to develop. For the task of interval change analysis, we designed two kinds of temporal features: difference features and similarity features. Difference features indicate the (relative) change in feature values determined on prior and current views. These features may be especially useful for lesions that are visible on both views. Similarity features measure whether two regions are comparable in appearance and may be useful for lesions that are visible on the prior view as well as for newly developing lesions. We evaluated the classification performance with and without the use of temporal features on a dataset consisting of 465 temporal mammogram pairs, 238 benign, and 227 malignant. We used cross validation to partition the dataset into a training set and a test set. The training set was used to train a support vector machine classifier and the test set to evaluate the classifier. The average A(z) value (area under the receiver operating characteristic curve) for classifying each lesion was 0.74 without temporal features and 0.77 with the use of temporal features. The improvement obtained by adding temporal features was statistically significant (P = 0.005). In particular, similarity features contributed to this improvement. Furthermore, we found that the improvement was comparable for masses that were visible and for masses that were not visible on the prior view. These results show that the use of temporal features is an effective approach to improve the characterization of masses.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Timp07.pdf:pdfTimp07.pdf:PDF by e-mail"></form>

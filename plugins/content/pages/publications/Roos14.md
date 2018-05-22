@@ -1,0 +1,12 @@
+title: PET and SPECT Imaging of a Radiolabeled Minigastrin Analogue Conjugated with DOTA, NOTA, and NODAGA and Labeled with (64)Cu, (68)Ga, and (111)In
+
+## Roosenburg, S. and Laverman, P. and Joosten, L. and Cooper, M. S. and Kolenc-Peitl, P. K. and Foster, J. M. and Hudson, C. and Leyton, J. and Burnet, J. and Oyen, W J G. and Blower, P. J. and Mather, S. J. and Boerman, O. C. and Sosabowski, J. K.
+MOLPHA
+
+<a href="https://doi.org/10.1021/mp500283k">DOI</a>
+
+## Abstract
+Cholecystokinin-2 (CCK-2) receptors, overexpressed in cancer types such as small cell lung cancers (SCLC) and medullary thyroid carcinomas (MTC), may serve as targets for peptide receptor radionuclide imaging. A variety of CCK and gastrin analogues has been developed, but a major drawback is metabolic instability or high kidney uptake. The minigastrin analogue PP-F11 has previously been shown to be a promising peptide for imaging of CCK-2 receptor positive tumors and was therefore further evaluated. The peptide was conjugated with one of the macrocyclic chelators DOTA, NOTA, or NODAGA. The peptide conjugates were then radiolabeled with either (68)Ga, (64)Cu, or (111)In. All (radio)labeled compounds were evaluated in vitro (IC50) and in vivo (biodistribution and PET/CT and SPECT/CT imaging). IC50 values were in the low nanomolar range for all compounds (0.79-1.51 nM). In the biodistribution studies, (68)Ga- and (111)In-labeled peptides showed higher tumor-to-background ratios than the (64)Cu-labeled compounds. All tested radiolabeled compounds clearly visualized the CCK2 receptor positive tumor in PET or SPECT imaging. The chelator did not seem to affect in vivo behavior of the peptide for (111)In- and (68)Ga-labeled peptides. In contrast, the biodistribution of the (64)Cu-labeled peptides showed high uptake in the liver and in other organs, most likely caused by high blood levels, probably due to dissociation of (64)Cu from the chelator and subsequent transchelation to proteins. Based on the present study, (68)Ga-DOTA-PP-F11 might be a promising radiopharmaceutical for PET/CT imaging of CCK2 receptor expressing tumors such as MTC and SCLC. Clinical studies are warranted to investigate the potential of this tracer.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Roos14.pdf:pdfRoos14.pdf:PDF by e-mail"></form>

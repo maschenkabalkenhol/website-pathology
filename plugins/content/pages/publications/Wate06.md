@@ -1,0 +1,10 @@
+title: Intravenously administered short interfering RNA accumulates in the kidney and selectively suppresses gene function in renal proximal tubules
+
+## van de Water, Femke M. and Boerman, Otto C. and Wouterse, Alfons C. and Peters, Janny G P. and Russel, Frans G M. and Masereeuw, Rosalinde
+Drug Metab Dispos
+
+<a href="https://doi.org/10.1124/dmd.106.009555">DOI</a>
+
+## Abstract
+Different gene-silencing methods, like antisense and short interfering RNA (siRNA), are widely used as experimental tools to inhibit gene expression. In the present study, the in vivo behavior of siRNA in rats and siRNA-mediated silencing of genes in the renal proximal tubule were investigated. To study the biodistribution of siRNA, rats were injected i.v. with radiolabeled siRNA or radiolabel alone (control), and scintigraphic images were acquired at different time intervals postinjection. The siRNA preferentially accumulated in the kidneys and was excreted in the urine. One hour after injection, the amount of siRNA present in both kidneys (1.7 +/- 0.3% of injected dose/g tissue) was on average 40 times higher than in other tissues (liver, brain, intestine, muscle, lung, spleen, and blood). Besides the biodistribution, the effect of siRNA on multidrug resistance protein isoform 2 (Mrp2/Abcc2, siRNAMrp2) in renal proximal tubules was investigated. Mrp2 function was assessed by measuring the excretion of its fluorescent substrate calcein in the isolated perfused rat kidney. Four days after administration, siRNAMrp2 reduced the urinary calcein excretion rate significantly (35% inhibition over the period 80-150 min of perfusion). This down-regulation was specific because another siRNA sequence directed against a different transporter in the proximal tubule, Mrp4 (Abcc4, siRNAMrp4), did not alter the Mrp2-mediated excretion of calcein. In conclusion, siRNA accumulates spontaneously in the kidney after i.v. injection, where it selectively suppresses gene function in the proximal tubules. Therefore, i.v. administered siRNA provides a novel experimental and potential therapeutic tool for gene silencing in the kidney.
+

@@ -1,0 +1,12 @@
+title: Temsirolimus combined with cisplatin or bevacizumab is active in osteosarcoma models
+
+## Fleuren, Emmy D G. and Versleijen-Jonkers, Yvonne M H. and Roeffen, Melissa H S. and Franssen, Gerben M. and Flucke, Uta E. and Houghton, Peter J. and Oyen, Wim J G. and Boerman, Otto C. and van der Graaf, Winette T A.
+IJC
+
+<a href="https://doi.org/10.1002/ijc.28933">DOI</a>
+
+## Abstract
+Mammalian target of rapamycin (mTOR) is a new promising oncological target. However, most clinical studies reported only modest antitumor activity during mTOR-targeted monotherapies, including studies in osteosarcomas, emphasizing a need for improvement. We hypothesized that the combination with rationally selected other therapeutic agents may improve response. In this study, we examined the efficacy of the mTOR inhibitor temsirolimus combined with cisplatin or bevacizumab on the growth of human osteosarcoma xenografts (OS-33 and OS-1) in vivo, incorporating functional imaging techniques and microscopic analyses to unravel mechanisms of response. In both OS-33 and OS-1 models, the activity of temsirolimus was significantly enhanced by the addition of cisplatin (TC) or bevacizumab (TB). Extensive immunohistochemical analysis demonstrated apparent effects on tumor architecture, vasculature, apoptosis and the mTOR-pathway with combined treatments. 3'-Deoxy-3'-(18) F-fluorothymidine ((18) F-FLT) positron emission tomography (PET) scans showed a remarkable decrease in (18) F-FLT signal in TC- and TB-treated OS-1 tumors, which was already noticeable after 1 week of treatment. No baseline uptake was observed in the OS-33 model. Both immunohistochemistry and (18) F-FLT-PET demonstrated that responses as determined by caliper measurements underestimated the actual tumor response. Although (18) F-FLT-PET could be used for accurate and early response monitoring for temsirolimus-based therapies in the OS-1 model, we could not evaluate OS-33 tumors with this molecular imaging technique. Further research on the value of the use of (18) F-FLT-PET in this setting in osteosarcomas is warranted. Overall, these findings urge the further exploration of TC and TB treatment for osteosarcoma (and other cancer) patients.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Fleu14a.pdf:pdfFleu14a.pdf:PDF by e-mail"></form>

@@ -1,0 +1,12 @@
+title: Automatic Drusen Quantification and Risk Assessment of Age-related Macular Degeneration on Color Fundus Images
+
+## van Grinsven, Mark J J P. and Lechanteur, Yara T E. and van de Ven, Johannes P H. and van Ginneken, Bram and Hoyng, Carel B. and Theelen, Thomas and S'anchez, Clara I.
+IOVS
+
+<a href="https://doi.org/10.1167/iovs.12-11449">DOI</a>
+
+## Abstract
+PURPOSE: To evaluate a machine learning algorithm that allows for computer aided diagnosis (CAD) of non-advanced age-related macular degeneration (AMD) by providing an accurate detection and quantification of drusen location, area and size. METHODS: Color fundus photographs of 407 eyes without AMD or with early to moderate AMD were randomly selected from a large European multicenter database. A machine learning system was developed to automatically detect and quantify drusen on each image. Based on detected drusen, the CAD software provided a risk assessment to develop advanced AMD. Evaluation of the CAD system was performed using annotations made by two blinded human graders. RESULTS: Free-response Receiver Operating Characteristics (FROC) analysis showed that the proposed system approaches the performance of human observers in detecting drusen. The estimated drusen area showed excellent agreement with both observers, with mean intra-class correlation coefficients (ICC) larger than 0.85. Maximum druse diameter agreement was lower with a maximum ICC of 0.69 but comparable to the interobserver agreement (ICC=0.79). For automatic AMD risk assessment, the system achieved areas under the Receiver Operating Characteristic (ROC) curve of 0.948 and 0.954, reaching similar performance as human observers. CONCLUSIONS: A machine learning system, capable of separating high risk from low risk patients with non-advanced AMD by providing accurate detection and quantification of drusen, was developed. The proposed method allows for quick and reliable diagnosis of AMD, opening the way for large dataset analysis within population studies and genotype-phenotype correlation analysis.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Grin13.pdf:pdfGrin13.pdf:PDF by e-mail"></form>

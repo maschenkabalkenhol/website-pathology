@@ -1,0 +1,12 @@
+title: A pictorial overview of pubovisceral muscle avulsions on pelvic floor magnetic resonance imaging
+
+## Lammers, Karin and Prokop, Mathias and Vierhout, Mark E. and Kluivers, Kirsten B. and F"utterer, Jurgen J.
+INSI
+
+<a href="https://doi.org/10.1007/s13244-013-0261-9">DOI</a>
+
+## Abstract
+OBJECTIVES: Despite extensive research aimed at clarifying (failing) pelvic organ support, the complete aetiology of pelvic organ prolapse (POP) is still not fully understood. During vaginal delivery, the pelvic floor can be irreversibly traumatised, resulting in pubovisceral muscle avulsions. The aetiology of these avulsions is discussed in this pictorial overview. Normal female pelvic floor anatomy is described and variations are exemplified using magnetic resonance (MR) images. The clinical relevance of detecting pubovisceral muscle avulsions is specified. METHODS: T2-weighted MR imaging has multiplanar capabilities with high diagnostic accuracy allowing for detailed visualisation of the pelvic floor. Together with the use of a three-dimensional (3D) post-processing program, the presence and severity of pubovisceral muscle avulsions can be quantified. RESULTS: Pelvic floor MR imaging is a non-invasive method that enables adequate identification of pubovisceral muscle avulsions which are known risk factors for the development of POP. They can be scored with good to excellent inter- and intra-observer reliability. CONCLUSIONS: Radiologists and urogynaecology subspecialists should be familiar with MR imaging findings of pubovisceral muscle avulsions as this birth-related trauma is observed in over 36 % of vaginally parous women. TEACHING POINTS: â€¢ Pelvic organ prolapse (POP) is a growing problem for both patients and for our healthcare system â€¢ Pubovisceral muscle avulsions are known risk factors for pelvic organ prolapse (POP) â€¢ T2-weighted MR imaging visualises pubovisceral muscle avulsions adequately â€¢ Pubovisceral muscle avulsions are scored with good to excellent inter- and intra-observer reliability.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Lamm13.pdf:pdfLamm13.pdf:PDF by e-mail"></form>

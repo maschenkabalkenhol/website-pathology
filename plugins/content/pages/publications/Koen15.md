@@ -1,0 +1,12 @@
+title: Serum GDF15 Levels Correlate to Mitochondrial Disease Severity and Myocardial Strain, but Not to Disease Progression in Adult m.3243A>G Carriers
+
+## Koene, Saskia and de Laat, Paul and van Tienoven, Doorl`ene H. and Weijers, Gert and Vriens, Dennis and Sweep, Fred C G J. and Timmermans, Janneke and Kapusta, Livia and Janssen, Mirian C H. and Smeitink, Jan A M.
+JIMDR
+
+<a href="https://doi.org/10.1007/8904_2015_436">DOI</a>
+
+## Abstract
+In this observational cohort study, we examined the prognostic value of growth and differentiation factor 15 (GDF15) in indicating and monitoring general mitochondrial disease severity and progression in adult carriers of the m.3243A>G mutation.Ninety-seven adult carriers of the m.3243A>G mutation were included in this study. The Newcastle mitochondrial disease adult scale was used for rating mitochondrial disease severity. In parallel, blood was drawn for GDF15 analysis by ELISA. Forty-nine carriers were included in a follow-up study. In a small subset of subjects of whom an echocardiogram was available from general patient care, myocardial deformation was assessed using two-dimensional speckle-tracking strain analysis.A moderate positive correlation was found between the concentration of GDF15 and disease severity (r = 0.59; p < 0.001). The concentration of serum GDF15 was higher in m.3243A>G carriers with diabetes mellitus, cardiomyopathy, and renal abnormalities. After a 2-year follow-up, no significant correlation was found between the change in disease severity and the change in the concentration of GDF15 or between the GDF15 level at the first assessment and the change in disease severity. In the subcohort of patients of whom an echocardiogram was available, the concentration of GDF15 correlated moderately to longitudinal global strain (r = 0.55; p = 0.006; n = 23) but not to circumferential or radial strain.Our results indicate that serum GDF15 is not a strong surrogate marker for general mitochondrial disease severity. Its value in indicating myocardial deformation should be confirmed in a prospective longitudinal study.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Koen15.pdf:pdfKoen15.pdf:PDF by e-mail"></form>

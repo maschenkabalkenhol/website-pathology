@@ -1,0 +1,10 @@
+title: Full preclinical validation of the 123I-labeled anti-PSMA antibody fragment ScFvD2B for prostate cancer imaging.
+
+## Frigerio, Barbara and Franssen, Gerben and Luison, Elena and Satta, Alessandro and Seregni, Ettore and Colombatti, Marco and Fracasso, Giulio and Valdagni, Riccardo and Mezzanzanica, Delia and Boerman, Otto and Canevari, Silvana and Figini, Mariangela
+Oncotarget
+
+<a href="https://doi.org/10.18632/oncotarget.14229">DOI</a>
+
+## Abstract
+In the context of prostate cancer (PCa) imaging, the aim of this study was to optimize (in vitro) the specificity and assess preclinically (in vivo) the tumor targeting properties of the 123I-scFvD2B antibody specific for prostate-specific membrane antigen (PSMA). The 123I-labeling conditions of the antibody fragment scFvD2B, produced in an eukaryotic system under GMP-compliant conditions, were optimized and assessed for purity and immunoreactivity. The specificity and potency of tumor uptake were tested in three preclinical in vivo models of subcutaneously xenografted human tumors expressing different levels of PSMA (LNCaP, naturally expressing PSMA; PC3-PIP and LS174T-PSMA, transfected with PSMA) or PC3 and LS174T, as negative controls, to assess the clearance, biodistribution and imaging potential of 123I-scFvD2B. The set conditions of production and radiolabeling yielded a reagent suitable for human delivery thanks to the purity of the formulation and the high immunoreactivity. In all preclinical models 123I-scFvD2B showed specific targeting only to PSMA-positive tumors with the final specific activity ranging up to 1500 MBq/mg. Despite different levels of PSMA expression, biodistribution analyses and SPECT/CT imaging demonstrated similar results and maximal signal-to-background ratios 24 hours after injection. Due to its in vitro and in vivo properties, 123I-scFvD2B could be a promising tool for the early diagnosis of PCa, and may represent a molecular imaging option to monitor disease progression and assist in the clinical management of PCa patients.
+

@@ -1,0 +1,12 @@
+title: Computer-assisted analysis of peripheral zone prostate lesions using T2-weighted and dynamic contrast enhanced T1-weighted MRI
+
+## P. C. Vos and T. Hambrock and J. O. Barentsz and H. J. Huisman
+PMB
+
+<a href="https://doi.org/10.1088/0031-9155/55/6/012">DOI</a>
+
+## Abstract
+In this study, computer-assisted analysis of prostate lesions was researched by combining information from two different magnetic resonance (MR) modalities: T2-weighted (T2-w) and dynamic contrast-enhanced (DCE) T1-w images. Two issues arise when incorporating T2-w images in a computer-aided diagnosis (CADx) system: T2-w values are position as well as sequence dependent and images can be misaligned due to patient movement during the acquisition. A method was developed that computes T2 estimates from a T2-w and proton density value and a known sequence model. A mutual information registration strategy was implemented to correct for patient movement. Global motion is modelled by an affine transformation, while local motion is described by a volume preserving non-rigid deformation based on B-splines. The additional value to the discriminating performance of a DCE T1-w-based CADx system was evaluated using bootstrapped ROC analysis. T2 estimates were successfully computed in 29 patients. T2 values were extracted and added to the CADx system from 39 malignant, 19 benign and 29 normal annotated regions. T2 values alone achieved a diagnostic accuracy of 0.85 (0.77-0.92) and showed a significantly improved discriminating performance of 0.89 (0.81-0.95), when combined with DCE T1-w features. In conclusion, the study demonstrated a simple T2 estimation method that has a diagnostic performance such that it complements a DCE T1-w-based CADx system in discriminating malignant lesions from normal and benign regions. Additionally, the T2 estimate is beneficial to visual inspection due to the removed coil profile and fixed window and level settings.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Vos10.pdf:pdfVos10.pdf:PDF by e-mail"></form>

@@ -1,0 +1,12 @@
+title: In Vivo Magnetic Resonance Imaging of the Distribution Pattern of Gadonanotubes Released from a Degrading Poly(Lactic-Co-Glycolic Acid) Scaffold
+
+## van der Zande, Meike and Sitharaman, Balaji and Walboomers, X Frank and Tran, Lesa and Ananta, Jeyarama S. and Veltien, Andor and Wilson, Lon J. and Alava, Jose I~naki and Heerschap, Arend and Mikos, Antonios G. and Jansen, John A.
+TISENGC
+
+<a href="https://doi.org/10.1089/ten.TEC.2010.0089">DOI</a>
+
+## Abstract
+To improve the mechanical properties of polymers used in bone repair, it has been suggested to incorporate single-walled carbon nanotubes (CNTs). However, concern exists about the biosafety of the CNTs in vivo. Therefore, the aim of this study was to develop a magnetic resonance imaging technique to examine the distribution pattern of CNTs after release from a degrading poly(lactic-co-glycolic acid) (PLGA) scaffold in vivo. Five rats received a PLGA scaffold with incorporated gadolinium-labeled single-walled CNTs ("gadonanotubes") subcutaneously. The rats were analyzed up to 5 weeks, subsequently euthanized, followed by histological evaluation of the explanted scaffolds with their surrounding tissue. A significant increase in intensity of the scaffold surrounding tissue was shown in the time period around 3 weeks, as compared to internal control areas. The intensity declined soon thereafter. This is suggested to be caused by the release of gadonanotubes from the degrading scaffold into the surrounding tissue. Histological imaging showed encapsulation by connective fibrous tissue and some mild inflammation around the scaffolds. In conclusion, magnetic resonance imaging is an excellent technique to study the biological fate of gadonanotubes. However, to formulate solid conclusions on the distribution pattern of gadonanotubes in vivo the experimental setup requires further optimization.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Zand10.pdf:pdfZand10.pdf:PDF by e-mail"></form>

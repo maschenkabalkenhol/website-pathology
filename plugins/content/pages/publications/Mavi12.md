@@ -1,0 +1,9 @@
+title: Anthracycline-induced cardiotoxicity - Early detection with new strategies
+
+## A.M.C. Mavinkurve-Groothuis
+
+## Abstract
+Almost 80% of children and adolescents with cancer becomes a long-term survivor. This is a result of improved treatment and supportive care. Currently, in the Netherlands, about one of every 250 young adults is a survivor of childhood cancer. Unfortunately, improved survival is accompanied by the occurrence of late effects of treatment. It has become clear that these late effects of treatment may not be clinically evident for many years. One of the serious late effects of treatment is cardiotoxicity, which is related to the use of anthracyclines and mediastinal irradiation. Cardiotoxicity leads to a significant increase in morbidity and mortality; the relative risk of severe and life-threatening cardiac dysfunction is 10-15 times higher than in siblings and being a survivor of childhood cancer, the risk to die of cardiac disease is eight times higher than in the normal population. In this thesis we aimed to investigate new strategies for the early detection of anthracycline-induced cardiotoxicity. Early detection may prevent morbidity and mortality when preventive measures or treatment are effective. Therefore, we investigated the role of cardiac biomarkers and 2D myocardial strain imaging in the early detection of anthracycline-induced cardiotoxicity.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Mavi12.pdf:pdfMavi12.pdf:PDF by e-mail"></form>

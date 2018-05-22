@@ -1,0 +1,12 @@
+title: Lung Cancer Screening: The Radiologist's Perspective
+
+## Prokop, Mathias
+SEMRESCCM
+
+<a href="https://doi.org/10.1055/s-0033-1363455">DOI</a>
+
+## Abstract
+Lung cancer is the leading cause of cancer death worldwide and accounts for more deaths than breast, prostate, colon, and pancreatic cancers combined. A distinct minority (15%) of lung cancers are diagnosed at an early stage; 5-year survival (all lung cancers) approximates 15%. Randomized, controlled trials in the 1960s and 1970s found that chest radiographic screening did not confer a survival benefit for high-risk patients. Recently, however, the randomized, controlled National Lung Screening Trail (NLST) provided category 1 evidence that low-dose computed tomography (CT) screening conferred a significant survival benefit for screened individuals: lung cancer-specific mortality was reduced by 20% after 6.5 years of follow-up; even all-cause mortality decreased by 6%. The positive outcome triggered many national medical societies in the United States to recommend lung cancer screening in high-risk individuals. However, the favorable results of the NLST trial have not yet been reproduced. Currently, nine randomized, controlled trials are being or have been performed in various European countries. In contrast to the NLST study, three published European studies found no benefit from low-dose CT scanning in at-risk patients. Additional studies are required to establish the benefit and risks associated with repetitive low-dose CT for screening at-risk patients. Many unanswered questions remain. Who should be screened and how often? What is the appropriate workup when lesions are noted in asymptomatic individuals? What is the risk of cumulative radiation exposure from repetitive low-dose CT scans? What is the responsibility of health care personnel to evaluate nonpulmonary issues detected by CT (e.g., coronary calcifications). In this review, we address these and other questions that arise. Further, implementation of screening programs may be logistically difficult, require additional personnel and computer software, and will incur significant health care costs.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Prok14.pdf:pdfProk14.pdf:PDF by e-mail"></form>

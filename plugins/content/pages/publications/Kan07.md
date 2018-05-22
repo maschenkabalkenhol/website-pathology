@@ -1,0 +1,12 @@
+title: Creatine uptake in brain and skeletal muscle of mice lacking guanidinoacetate methyltransferase assessed by magnetic resonance spectroscopy
+
+## Hermien E Kan and Esther Meeuwissen and Jack J van Asten and Andor Veltien and Dirk Isbrandt and Arend Heerschap
+JAP
+
+<a href="https://doi.org/10.1152/japplphysiol.01327.2006">DOI</a>
+
+## Abstract
+Creatine (Cr) levels in skeletal muscle and brain of a mouse model of Cr deficiency caused by guanidinoacetate methyltransferase absence (GAMT-/-) were studied after Cr supplementation with 2 g.kg body wt-1.day-1 Cr for 35 days. Localized 1H magnetic resonance spectroscopy (MRS) was performed in brain (cerebellum and thalamus/hippocampus) and in hind leg muscle of GAMT-/- mice before and after Cr supplementation and in control (Con) mice. As expected, a signal for Cr was hardly detectable in MR spectra of GAMT-/- mice before Cr supplementation. In the thalamus/hippocampus region of these mice, an increase in N-acetylasparate (NAA) was observed. During Cr administration, Cr levels increased faster in skeletal muscle compared with brain, but this occurred only during the first day of supplementation. Thereafter, Cr levels increased by 0.8 mM/day in all studied locations. After 35 days of Cr supplementation, Cr levels in all locations were higher compared with Con mice on a Cr-free diet and NAA levels normalized. Only because of the repeated MRS measurements performed in this longitudinal Cr supplementation study on GAMT-/- mice were we able to discover the initial faster uptake of Cr in skeletal muscle compared with brain, which may represent muscular Cr uptake independent of Cr transporter expression. Our results can provide the basis for additional experiments to optimize Cr supplementation in GAMT deficiency, as increases in brain Cr are slow in patients after Cr supplementation.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Kan07.pdf:pdfKan07.pdf:PDF by e-mail"></form>

@@ -1,0 +1,12 @@
+title: Interleaving cerebral CT perfusion with neck CT angiography part I. Proof of concept and accuracy of cerebral perfusion values
+
+## Oei, Marcel T H and Meijer, Frederick J A and van der Woude, Willem-Jan and Smit, Ewoud J and van Ginneken, Bram and Prokop, Mathias and Manniesing, Rashindra
+ER
+
+<a href="https://doi.org/10.1007/s00330-016-4577-y">DOI</a>
+
+## Abstract
+We present a novel One-Step-Stroke protocol for wide-detector CT scanners that interleaves cerebral CTP with volumetric neck CTA (vCTA). We evaluate whether the resulting time gap in CTP affects the accuracy of CTP values. Cerebral CTP maps were retrospectively obtained from 20 patients with suspicion of acute ischemic stroke and served as the reference standard. To simulate a 4 s gap for interleaving CTP with vCTA, we eliminated one acquisition at various time points of CTP starting from the bolus-arrival-time(BAT). Optimal timing of the vCTA was evaluated. At the time point with least errors, we evaluated elimination of a second time point (6 s gap). Mean absolute percentage errors of all perfusion values remained below 10 % in all patients when eliminating any one time point in the CTP sequence starting from the BAT. Acquiring the vCTA 2 s after reaching a threshold of 70HU resulted in the lowest errors (mean <3.0 %). Eliminating a second time point still resulted in mean errors <3.5 %. CBF/CBV showed no significant differences in perfusion values except MTT. However, the percentage errors were always below 10 % compared to the original protocol. Interleaving cerebral CTP with neck CTA is feasible with minor effects on the perfusion values. • Removing a single CTP acquisition has minor effects on calculated perfusion values • Calculated perfusion values errors depend on timing of skipping a CTP acquisition • Qualitative evaluation of CTP was not influenced by removing two time points • Neck CTA is optimally timed in the upslope of arterial enhancement.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Oei17a.pdf:pdfOei17a.pdf:PDF by e-mail"></form>

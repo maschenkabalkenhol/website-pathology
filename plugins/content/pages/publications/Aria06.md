@@ -1,0 +1,12 @@
+title: In vivo 31P MR spectral patterns and reproducibility in cancer patients studied in a multi-institutional trial
+
+## Arias-Mendoza, F. and Payne, G. S. and Zakian, K. L. and Schwarz, A. J. and Stubbs, M. and Stoyanova, R. and Ballon, D. and Howe, F. A. and Koutcher, J. A. and Leach, M. O. and Griffiths, J. R. and Heerschap, A. and Glickson, J. D. and Nelson, S. J. and Evelhoch, J. L. and Charles, H. C. and Brown, T. R.
+NMRB
+
+<a href="https://doi.org/10.1002/nbm.1057">DOI</a>
+
+## Abstract
+The standardization and reproducibility of techniques required to acquire anatomically localized 31P MR spectra non-invasively while studying tumors in cancer patients in a multi-institutional group at 1.5 T are reported. This initial group of patients was studied from 1995 to 2000 to test the feasibility of acquiring in vivo localized 31P MRS in clinical MR spectrometers. The cancers tested were non-Hodgkin's lymphomas, sarcomas of soft tissue and bone, breast carcinomas and head and neck carcinomas. The best accrual and spectral quality were achieved with the non-Hodgkin's lymphomas. The initial analysis of the spectral values of the sum of phosphoethanolamine plus phosphocholine normalized by the content of nucleotide triphosphates in a homogeneous sample of 32 NHL patients studied by in vivo (31)P MRS showed good reproducibility among different institutions. No statistical differences were found between the institution with the largest number of cases accrued and the rest of the multi-institutional NHL data (2.28 +/- 0.64, mean +/- standard error; n = 17, vs 2.08 +/- 0.14, n = 15). The preliminary data reported demonstrate that the institutions involved in this trial are obtaining reproducible 31P MR spectroscopic data non-invasively from human tumors. This is a fundamental prerequisite for the international cooperative group to be able to demonstrate the clinical value of the normalized determination of phosphoethanolamine plus phosphocholine by 31P MRS as predictor for treatment response in cancer patients.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Aria06.pdf:pdfAria06.pdf:PDF by e-mail"></form>

@@ -1,0 +1,12 @@
+title: A novel bifunctional cyclic chelator for 89Zr labeling - radiolabeling and targeting properties of RGD conjugates
+
+## Zhai, Chuangyan and Summer, Dominik and Rangger, Christine and Franssen, Gerben M. and Laverman, Peter and Haas, Hubertus and Petrik, Milos and Haubner, Roland and Decristoforo, Clemens
+MOLPHA
+
+<a href="https://doi.org/10.1021/acs.molpharmaceut.5b00128">DOI</a>
+
+## Abstract
+Within the last years 89Zr has attracted considerable attention as long-lived radionuclide for positron emission tomography (PET) applications. So far desferrioxamine B (DFO) has been mainly used as bifunctional chelating system. Fusarinine C (FSC), having complexing properties comparable to DFO, was expected to be an alternative with potentially higher stability due to its cyclic structure. In this study, as proof of principle, various FSC-RGD conjugates targeting Î±vÃŸ3 integrins were synthesized using different conjugation strategies and labeled with 89Zr. In vitro stability, biodistribution and microPET/CT imaging were evaluated using [89Zr]FSC-RGD conjugates or [89Zr]triacetylfusarinine C (TAFC). Quantitative 89Zr labeling was achieved within 90 min at room temperature. The distribution coefficients of the different radioligands indicate hydrophilic character. Compared to [89Zr]DFO, [89Zr]FSC derivatives showed excellent in vitro stability and resistance against transchelation in phosphate buffered saline (PBS), ethylenediaminetetraacetic acid solution (EDTA) and human serum for up to seven days. Cell binding studies and biodistribution as well as microPET/CT imaging experiments showed efficient receptor-specific targeting of [89Zr]FSC-RGD conjugates. No bone uptake was observed analyzing PET images indicating high in vivo stability. These findings indicate that FSC is a highly promising chelator for the development of 89Zr-based PET imaging agents.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Zhai15.pdf:pdfZhai15.pdf:PDF by e-mail"></form>

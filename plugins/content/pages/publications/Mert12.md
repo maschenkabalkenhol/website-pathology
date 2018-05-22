@@ -1,0 +1,12 @@
+title: MRI to X-ray mammography registration using a volume-preserving affine transformation
+
+## Mertzanidou, Thomy and Hipwell, John and Cardoso, M Jorge and Zhang, Xiying and Tanner, Christine and Ourselin, Sebastien and Bick, Ulrich and Huisman, Henkjan and Karssemeijer, Nico and Hawkes, David
+MIA
+
+<a href="https://doi.org/10.1016/j.media.2012.03.001">DOI</a>
+
+## Abstract
+X-ray mammography is routinely used in national screening programmes and as a clinical diagnostic tool. Magnetic Resonance Imaging (MRI) is commonly used as a complementary modality, providing functional information about the breast and a 3D image that can overcome ambiguities caused by the superimposition of fibro-glandular structures associated with X-ray imaging. Relating findings between these modalities is a challenging task however, due to the different imaging processes involved and the large deformation that the breast undergoes. In this work we present a registration method to determine spatial correspondence between pairs of MR and X-ray images of the breast, that is targeted for clinical use. We propose a generic registration framework which incorporates a volume-preserving affine transformation model and validate its performance using routinely acquired clinical data. Experiments on simulated mammograms from 8 volunteers produced a mean registration error of 3.8ï¿½1.6mm for a mean of 12 manually identified landmarks per volume. When validated using 57 lesions identified on routine clinical CC and MLO mammograms (n=113 registration tasks) from 49 subjects the median registration error was 13.1mm. When applied to the registration of an MR image to CC and MLO mammograms of a patient with a localisation clip, the mean error was 8.9mm. The results indicate that an intensity based registration algorithm, using a relatively simple transformation model, can provide radiologists with a clinically useful tool for breast cancer diagnosis.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Mert12.pdf:pdfMert12.pdf:PDF by e-mail"></form>

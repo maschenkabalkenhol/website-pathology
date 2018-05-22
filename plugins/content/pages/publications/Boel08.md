@@ -1,0 +1,12 @@
+title: The Netherlands protocol for standardisation and quantification of FDG whole body PET studies in multi-centre trials
+
+## Boellaard, Ronald and Oyen, Wim J G. and Hoekstra, Corneline J. and Hoekstra, Otto S. and Visser, Eric P. and Willemsen, Antoon T. and Arends, Bertjan and Verzijlbergen, Fred J. and Zijlstra, Josee and Paans, Anne M. and Comans, Emile F I. and Pruim, Jan
+EJNMMI
+
+<a href="https://doi.org/10.1007/s00259-008-0874-2">DOI</a>
+
+## Abstract
+Several studies have shown the usefulness of positron emission tomography (PET) quantification using standardised uptake values (SUV) for diagnosis and staging, prognosis and response monitoring. Many factors affect SUV, such as patient preparation procedures, scan acquisition, image reconstruction and data analysis settings, and the variability in methodology across centres prohibits exchange of SUV data. Therefore, standardisation of 2-[(18)F] fluoro-2-deoxy-D-glucose (FDG) PET whole body procedures is required in multi-centre trials.A protocol for standardisation of quantitative FDG whole body PET studies in the Netherlands (NL) was defined. This protocol is based on standardisation of: (1) patient preparation; (2) matching of scan statistics by prescribing dosage as function of patient weight, scan time per bed position, percentage of bed overlap and image acquisition mode (2D or 3D); (3) matching of image resolution by prescribing reconstruction settings for each type of scanner; (4) matching of data analysis procedure by defining volume of interest methods and SUV calculations and; (5) finally, a multi-centre QC procedure is defined using a 20-cm diameter phantom for verification of scanner calibration and the NEMA NU 2 2001 Image Quality phantom for verification of activity concentration recoveries (i.e., verification of image resolution and reconstruction convergence).This paper describes a protocol for standardization of quantitative FDG whole body multi-centre PET studies.The protocol was successfully implemented in the Netherlands and has been approved by the Netherlands Society of Nuclear Medicine.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Published version:pdfBoel08.pdf:PDF by e-mail"></form>

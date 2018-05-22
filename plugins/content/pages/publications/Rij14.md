@@ -1,0 +1,12 @@
+title: Pretargeted ImmunoPET of Prostate Cancer with an Anti-TROP-2 x Anti-HSG Bispecific Antibody in Mice with PC3 Xenografts
+
+## van Rij, Catharina M. and Frielink, Cathelijne and Goldenberg, David M. and Sharkey, Robert M. and Franssen, Gerben M. and L"utje, Susanne and McBride, William J. and Oyen, Wim J G. and Boerman, Otto C.
+MOLIB
+
+<a href="https://doi.org/10.1007/s11307-014-0772-x">DOI</a>
+
+## Abstract
+Pretargeting with bispecific antibodies and radiolabeled hapten-peptides could be used to specifically target tumors with high target-to-background ratios. TF12 is a trivalent bispecific antibody that consists of two anti-TROP-2 Fab fragments and one anti-HSG (histamine-succinyl-glycine) Fab fragment. The TROP-2 antigen is expressed in many epithelial cancers, including prostate cancer (PC), and therefore, this bispecific antibody can be used for pretargeting of PC. In this study, the potential for pretargeted radioimmunoPET with TF12 and the (68)Ga-labeled di-HSG peptide IMP288 in mice with human PC xenografts was investigated using 2-deoxy-2-[(18)F]fluoro-D-glucose ([(18)F]FDG) as a reference.The potential of pretargeted immunoPET with TF12 and the (68)Ga-labeled di-HSG hapten-peptide, IMP288, was studied in mice with subcutaneous PC3 tumors using [(18)F]FDG as a reference. Furthermore, the use of this pretargeting system for imaging PC lesions was evaluated in mice with intraperitoneally growing tumors with [(18)F]FDG as a reference.[(68)Ga]lMP288 showed rapid accumulation in the TF12 pretargeted subcutaneous tumor (7.2â€‰Â±â€‰1.1 % ID/g) with low uptake in the kidneys (1.8â€‰Â±â€‰0.5 % ID/g) and high tumor-to-blood ratios (17.4â€‰Â±â€‰11.2) at 1 h p.i. Accumulation of [(18)F]FDG in the s.c. tumors was significantly lower (3.4â€‰Â±â€‰0.9 % ID/g, Pâ€‰=â€‰0.008), with lower tumor-to-blood ratios (3.0â€‰Â±â€‰1.9, Pâ€‰=â€‰0.011). ImmunoPET/CT images clearly visualized both subcutaneous and intraperitoneal tumors as small as 5 mm(3) with low blood levels and kidney uptake as early as 1 h p.i.Pretargeted immunoPET with TF12 in combination with a (68)Ga-labeled hapten-peptide is an efficient system for rapid, sensitive, and specific imaging of prostate cancer.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Rij14.pdf:pdfRij14.pdf:PDF by e-mail"></form>

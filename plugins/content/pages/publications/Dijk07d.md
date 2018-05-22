@@ -1,0 +1,10 @@
+title: Alpha v beta 3 integrin-targeting of intraperitoneally growing tumors with a radiolabeled RGD peptide
+
+## Dijkgraaf, Ingrid and Kruijtzer, John A W. and Frielink, Cathelijne and Corstens, Frans H M. and Oyen, Wim J G. and Liskamp, Rob M J. and Boerman, Otto C.
+IJC
+
+<a href="https://doi.org/10.1002/ijc.22297">DOI</a>
+
+## Abstract
+Ovarian cancer is the fourth most common cause of cancer deaths among females in the western world after cancer of the breast, colon and lung. The inability to control the disease within the peritoneal cavity is the major cause of treatment failure in patients with ovarian cancer. The majority of ovarian carcinomas express the alpha(v)beta(3) integrin. Here we studied the tumor targeting potential of an (111)In-labeled cyclic RGD peptide in athymic BALB/c mice with intraperitoneally (i.p.) growing NIH:OVCAR-3 human ovarian carcinoma tumors. The cyclic RGD peptide, c(RGDfK)E, was synthesized, conjugated with DOTA and radiolabeled with (111)In. The targeting potential of (111)In-DOTA-E-c(RGDfK) was studied in athymic mice with i.p. growing NIH:OVCAR-3 xenografts and the optimal dose of this compound was determined (0.01 microg up to 10 microg). The biodistribution at optimal peptide dose was determined at various time points (0.5 up to 72 hr). Furthermore, the therapeutic potential of (177)Lu-DOTA-E-c(RGDfK) was studied in this model. Two hours after i.p. administration, (111)In-DOTA-E-c(RGDfK) showed high and specific uptake in the i.p. growing tumors. Optimal uptake in the i.p. growing tumors was observed at a 0.03-0.1 microg dose range. Tumor uptake of (111)In-DOTA-E-c(RGDfK) peaked 4 hr p.i. [(38.8 +/- 2.7)% ID/g], gradually decreasing at later time points [(24.0 +/- 4.1)% ID/g at 48 hr p.i.]. Intraperitoneal growth of OVCAR-3 could be significantly delayed by injecting 37 MBq (177)Lu-labeled peptide i.p. Radiolabeled DOTA-E-c(RGDfK) is suitable for targeting of i.p. growing tumors and potentially can be used for peptide receptor radionuclide therapy of these tumors.
+

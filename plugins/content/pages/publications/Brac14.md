@@ -1,0 +1,12 @@
+title: Specific targeting of tumor cells by lyophilisomes functionalized with antibodies
+
+## van Bracht, Etienne and Stolle, Sarah and Hafmans, Theo G. and Boerman, Otto C. and Oosterwijk, Egbert and van Kuppevelt, Toin H. and Daamen, Willeke F.
+Eur J Pharm Biopharm
+
+<a href="https://doi.org/10.1016/j.ejpb.2014.01.005">DOI</a>
+
+## Abstract
+Lyophilisomes are a novel class of proteinaceous biodegradable nano/micro drug delivery capsules prepared by freezing, annealing and Iyophilization. In the present study, lyophilisomes were functionalized for active targeting by antibody conjugation in order to obtain a selective drug-carrier system. Lyophilisomes were vapor crosslinked for 2h, resulting in stable capsules, while leaving sufficient primary amines for further modification. The humanized KC4 (hKC4) antibody was conjugated to lyophilisomes to achieve specific targeting to mucin 1 (MUC1)-overexpressing tumor cells. For this, thiolated antibodies were conjugated to maleimide-activated lyophilisomes, resulting in an hKC4 specific drug targeting system toward MUC1-overexpressing human ovarian and cervical tumor cells. FACS analysis demonstrated that hKC4-conjugated lyophilisomes bound specifically to MUC1-overexpressing tumor cells (HeLa, OVCAR-3, and SKOV-3 cells), compared to MUC1-negative cells (LS174T). In addition, control non-specific IgG-conjugated lyophilisomes did not bind to MUC1-overexpressing tumor cells. When MUC1-positive and -negative cells were combined in one culture, hKC4-conjugated lyophilisomes specifically targeted MUC1-positive cells, whereas negative cells showed merely background levels. Transmission electron microscopy showed uptake of hKC4-conjugated lyophilisomes via phagocytosis or macropinocytosis. In conclusion, hKC4-conjugated albumin-based lyophilisomes represent a potential drug delivery system for targeted drug transport to MUC1-overexpressing tumor cells.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Brac14.pdf:pdfBrac14.pdf:PDF by e-mail"></form>

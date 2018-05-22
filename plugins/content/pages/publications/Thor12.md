@@ -1,0 +1,12 @@
+title: Integration of FDG-PET/CT into external beam radiation therapy planning: technical aspects and recommendations on methodological approaches
+
+## Thorwarth, D. and Beyer, T. and Boellaard, R. and de Ruysscher, D. and Grgic, A. and Lee, J. A. and Pietrzyk, U. and Sattler, B. and Schaefer, A. and van Elmpt, W. and Vogel, W. and Oyen, W J G. and Nestle, U.
+Nuklearmedizin
+
+<a href="https://doi.org/10.3413/Nukmed-0455-11-12">DOI</a>
+
+## Abstract
+This work addresses the clinical adoption of FDG-PET/CT for image-guided radiation therapy planning (RTP). As such, important technical and methodological aspects of PET/CT-based RTP are reviewed and practical recommendations are given for routine patient management and clinical studies. First, recent developments in PET/CT hardware that are relevant to RTP are reviewed in the context of quality control and system calibration procedures that are mandatory for a reproducible adoption of PET/CT in RTP. Second, recommendations are provided on image acquisition and reconstruction to support the standardization of imaging protocols. A major prerequisite for routine RTP is a complete and secure data transfer to the actual planning system. Third, state-of-the-art tools for image fusion and co-registration are discussed briefly in the context of PET/CT imaging pre- and post-RTP. This includes a brief review of state-of-the-art image contouring algorithms relevant to PET/CT-guided RTP. Finally, practical aspects of clinical workflow and patient management, such as patient setup and requirements for staff training are emphasized. PET/CT-guided RTP mandates attention to logistical aspects, patient set-up and acquisition parameters as well as an in-depth appreciation of quality control and protocol standardization.Upon fulfilling the requirements to perform PET/CT for RTP, a new dimension of molecular imaging can be added to traditional morphological imaging. As a consequence, PET/CT imaging will support improved RTP and better patient care. This document serves as a guidance on practical and clinically validated instructions that are deemed useful to the staff involved in PET/CT-guided RTP.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Thor12.pdf:pdf/Thor12.pdf:PDF by e-mail"></form>

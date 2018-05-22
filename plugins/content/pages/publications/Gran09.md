@@ -1,0 +1,10 @@
+title: Truncation of titin's elastic PEVK region leads to cardiomyopathy with diastolic dysfunction
+
+## Granzier, Henk L. and Radke, Michael H. and Peng, Jun and Westermann, Dirk and Nelson, O Lynne and Rost, Katharina and King, Nicholas M P. and Yu, Qianli and Tsch"ope, Carsten and McNabb, Mark and Larson, Douglas F. and Labeit, Siegfried and Gotthardt, Michael
+CIRCRES
+
+<a href="https://doi.org/10.1161/CIRCRESAHA.109.200964">DOI</a>
+
+## Abstract
+The giant protein titin plays key roles in myofilament assembly and determines the passive mechanical properties of the sarcomere. The cardiac titin molecule has 2 mayor elastic elements, the N2B and the PEVK region. Both have been suggested to determine the elastic properties of the heart with loss of function data only available for the N2B region.The purpose of this study was to investigate the contribution of titin's proline-glutamate-valine-lysine (PEVK) region to biomechanics and growth of the heart.We removed a portion of the PEVK segment (exons 219 to 225; 282 aa) that corresponds to the PEVK element of N2B titin, the main cardiac titin isoform. Adult homozygous PEVK knockout (KO) mice developed diastolic dysfunction, as determined by pressure-volume loops, echocardiography, isolated heart experiments, and muscle mechanics. Immunoelectron microscopy revealed increased strain of the N2B element, a spring region retained in the PEVK-KO. Interestingly, the PEVK-KO mice had hypertrophied hearts with an induction of the hypertrophy and fetal gene response that includes upregulation of FHL proteins. This contrasts the cardiac atrophy phenotype with decreased FHL2 levels that result from the deletion of the N2B element.Titin's PEVK region contributes to the elastic properties of the cardiac ventricle. Our findings are consistent with a model in which strain of the N2B spring element and expression of FHL proteins trigger cardiac hypertrophy. These novel findings provide a molecular basis for the future differential therapy of isolated diastolic dysfunction versus more complex cardiomyopathies.
+

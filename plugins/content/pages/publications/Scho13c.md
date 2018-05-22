@@ -1,0 +1,12 @@
+title: Development of an imaging-guided CEA-pretargeted radionuclide treatment of advanced colorectal cancer: first clinical results
+
+## Schoffelen, R. and Boerman, O. C. and Goldenberg, D. M. and Sharkey, R. M. and van Herpen, C M L. and Franssen, G. M. and McBride, W. J. and Chang, C-H. and Rossi, E. A. and van der Graaf, W T A. and Oyen, W J G.
+BJC
+
+<a href="https://doi.org/10.1038/bjc.2013.376">DOI</a>
+
+## Abstract
+Radiolabelled antibody targeting of cancer is limited by slow blood clearance. Pretargeting with a non-radiolabelled bispecific monoclonal antibody (bsMAb) followed by a rapidly clearing radiolabelled hapten peptide improves tumour localisation. The primary goals of this first pretargeting study in patients with the anti-CEACAM5 Ã— anti-hapten (HSG) bsMAb, TF2, and the radiolabelled hapten-peptide, IMP288, were to assess optimal pretargeting conditions and safety in patients with metastatic colorectal cancer (CRC).Different dose schedules were studied in four cohorts of five patients: (1) shortening the interval between the bsMAb and peptide administration (5 days vs 1 day), (2) escalating the TF2 dose (from 75 to 150 mg), and (3) reducing the peptide dose (from 100 to 25â€‰Î¼g). After confirmation of tumour targeting by (111)In-IMP288, patients were treated with a bsMAb/(177)Lu-IMP288 cycle.Rapid and selective tumour targeting of the radiolabelled peptide was visualised within 1 h, with high tumour-to-tissue ratios (>20 at 24 h). Improved tumour targeting was achieved with a 1-day interval between the administration of the bsMAb and the peptide and with the 25-Î¼g peptide dose. High (177)Lu-IMP288 doses (2.5-7.4 GBq) were well tolerated, with some manageable TF2 infusion reactions, and transient grades 3-4 thrombocytopaenia in 10% of the patients who received (177)Lu-IMP288.This phase I study demonstrates for the first time that pretargeting with bsMAb TF2 and radiolabelled IMP288 in patients with CEA-expressing CRC is feasible and safe. With this pretargeting method, tumours are specifically and rapidly targeted.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Scho13c.pdf:pdf/Scho13c.pdf:PDF by e-mail"></form>

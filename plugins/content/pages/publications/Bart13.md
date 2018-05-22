@@ -1,0 +1,12 @@
+title: Localizing chronic Q fever: a challenging query
+
+## Barten, Dennis G. and Delsing, Corine E. and Keijmel, Stephan P. and Sprong, Tom and Timmermans, Janneke and Oyen, Wim J G. and Nabuurs-Franssen, Marrigje H. and Bleeker-Rovers, Chantal P.
+BMCID
+
+<a href="https://doi.org/10.1186/1471-2334-13-413">DOI</a>
+
+## Abstract
+Chronic Q fever usually presents as endocarditis or endovascular infection. We investigated whether 18F-FDG PET/CT and echocardiography were able to detect the localization of infection. Also, the utility of the modified Duke criteria was assessed.Fifty-two patients, who had an IgG titre ofâ€‰ â‰¥â€‰1024 against C. burnetii phase Iâ€‰â‰¥â€‰3 months after primary infection or a positive PCRâ€‰â‰¥â€‰1 month after primary infection, were retrospectively included. Data on serology, the results of all imaging studies, possible risk factors for developing proven chronic Q fever and clinical outcome were recorded.According to the Dutch consensus on Q fever diagnostics, 18 patients had proven chronic Q fever, 14 probable chronic Q fever, and 20 possible chronic Q fever. Of the patients with proven chronic Q fever, 22% were diagnosed with endocarditis, 17% with an infected vascular prosthesis, and 39% with a mycotic aneurysm. 56% of patients with proven chronic Q fever did not recall an episode of acute Q fever. Ten out of 13 18F-FDG PET/CT-scans in patients with proven chronic Q fever localized the infection. TTE and TEE were helpful in only 6% and 50% of patients, respectively.If chronic Q fever is diagnosed, 18F-FDG PET/CT is a helpful imaging technique for localization of vascular infections due to chronic Q fever. Patients with proven chronic Q fever were diagnosed significantly more often with mycotic aneurysms than in previous case series. Definite endocarditis due to chronic Q fever was less frequently diagnosed in the current study. Chronic Q fever often occurs in patients without a known episode of acute Q fever, so clinical suspicion should remain high, especially in endemic regions.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Bart13.pdf:pdf/Bart13.pdf:PDF by e-mail"></form>

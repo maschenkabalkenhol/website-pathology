@@ -1,0 +1,12 @@
+title: Sensitivity of magnetic resonance imaging of dendritic cells for in vivo tracking of cellular cancer vaccines
+
+## Pauline Verdijk and Tom W J Scheenen and W. Joost Lesterhuis and Giulio Gambarota and Andor A Veltien and Piotr Walczak and Nicole M Scharenborg and Jeff W M Bulte and Cornelis J A Punt and Arend Heerschap and Carl G Figdor and I. Jolanda M de Vries
+IJC
+
+<a href="https://doi.org/10.1002/ijc.22385">DOI</a>
+
+## Abstract
+Success of immunotherapy with dendritic cells (DC) to treat cancer is highly dependent on their interaction with and activation of antigen specific T cells. To maximize DC-T cell contact accurate delivery of the therapeutic cells into the lymph node, or efficient trafficking of DC to the lymph nodes of the patient is essential. Since responses are seen in some patients but not in others, monitoring of the injected cells may be of major importance. Tracking of cells with magnetic resonance (MR) imaging is a non-invasive method that provides detailed anatomical information and is therefore more informative for the evaluation of the localization of therapeutic cells after injection than e.g. scintigraphic imaging. To challenge the sensitivity of this novel technique, we investigated the minimum amount of label and the number of cells required for MR imaging and the effect of labeling on DC function. DC were labeled with different concentrations of a clinically approved MR contrast agent consisting of superparamagnetic iron oxide particles and were imaged at both 3 and 7 T. Our results demonstrate the following: (i) When loaded with 30 (+/-4) pg Fe/cell, cell numbers as low as 1,000 cells/mm3 at 3 T and 500 cells/mm3 at 7 T could be readily imaged; (ii) Labeling does not affect cell viability and function; (iii) Because of its high spatial resolution and sensitivity, MRI is ideally suited to track therapeutic cells in vivo.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Verd07.pdf:pdfVerd07.pdf:PDF by e-mail"></form>

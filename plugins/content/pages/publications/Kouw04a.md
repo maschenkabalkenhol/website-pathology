@@ -1,0 +1,10 @@
+title: [18F]Fluoro-2-deoxy-D-glucose positron emission tomography detects gastric carcinoma in an early stage in an asymptomatic E-cadherin mutation carrier
+
+## van Kouwen, Mariette C A. and Drenth, Joost P H. and Oyen, Wim J G. and de Bruin, Joyce H F M. and Ligtenberg, Marjolijn J. and Bonenkamp, J J Han and van Krieken, J Han J M. and Nagengast, Fokko M.
+CLINCR
+
+<a href="https://doi.org/10.1158/1078-0432.CCR-04-0599">DOI</a>
+
+## Abstract
+Autosomal dominant hereditary diffuse gastric cancer (HDGC) is caused by germ-line E-cadherin (CDH1) gene mutations. Early detection of cancer in carriers is difficult because HDGC escapes endoscopic detection. We hypothesized that the glucose metabolism is enhanced in HDGC and that this can be detected with [18F]fluoro-2-deoxy-d-glucose positron emission tomography (FDG-PET).An asymptomatic twenty-eight year-old female was seen at our outpatient clinic because of a request for screening on HDGC. Her father and younger sister died of diffuse gastric cancer, at the ages of 52 and 27, respectively. Mutational analysis of the CDH1 gene in this patient demonstrated a novel heterozygous splice-site mutation in exon 8 (1135delACGGTAATinsTTAGA). Upper gastrointestinal endoscopies revealed no macroscopic abnormalities, but one of the 40 random biopsy specimens showed well-differentiated signet-cell carcinoma. A FDG-PET scan demonstrated two spots of FDG accumulation, one located in the proximal part of the stomach and the second in the region of the pylorus. A total gastrectomy was performed and microscopic examination showed focal localization of intramucosal adenocarcinoma of the signet-cell type in the cardiac and antrum area. Most notably, the localization of the FDG accumulation matched the localization of the carcinoma.We present an asymptomatic patient from a HDGC family carrying a novel CDH1 mutation in whom FDG-PET scanning facilitated early detection of HDGC. This calls for further investigation of the role of FDG-PET scan as a screening modality in HDGC.
+

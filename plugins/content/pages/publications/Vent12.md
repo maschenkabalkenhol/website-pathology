@@ -1,0 +1,12 @@
+title: Dual Contrast Agent for Computed Tomography and Magnetic Resonance Hard Tissue Imaging
+
+## Ventura, Manuela and Sun, Yi and Rusu, Viorel and Laverman, Peter and Borm, Paul and Heerschap, Arend and Oosterwijk, Egbert and Boerman, Otto C. and Jansen, John A. and Walboomers, X Frank
+TISENGC
+
+<a href="https://doi.org/10.1089/ten.tec.2012.0007">DOI</a>
+
+## Abstract
+Calcium phosphate cements (CPCs) are commonly used bone substitute materials, which closely resemble the composition of the mineral phase of bone. However, this high similarity to natural bone also results in difficult discrimination from the bone tissue by common imaging modalities, that is, plain X-ray radiography and three-dimensional computed tomography (CT). In addition, new imaging techniques introduced for bone tissue visualization, like magnetic resonance imaging (MRI), face a similar problem. Even at high MRI resolution, the lack of contrast between CPCs and surrounding bone is evident. Therefore, this study aimed to evaluate the feasibility of a dual contrast agent, traceable with both CT and MRI as enhancers of CPC/bone tissue contrast. Our formulation is based on the use of silica beads as vectors, which encapsulate and carry contrast-enhancing nanoparticles, in our case, colloidal Gold and Superparamagnetic Iron oxide particles (SPIO). The bead suspension was incorporated within a calcium phosphate powder. The resultant cements were then tested both in vitro and in vivo in a femoral condyle defect model in rats. Results showed that the mechanical properties of the cement were not significantly affected by the inclusion of the beads. Both in vitro and in vivo data proved the homogeneous incorporation of the contrast within the cement and its visual localization, characterized by a short-term CT contrast enhancement and a long-term MR effect recognizable by the characteristic blooming shape. Finally, no signs of adverse tissue reactions were noticed in vivo. In conclusion, this study proved the feasibility of a multimodal contrast agent as an inert and biocompatible enhancer of CaP cement versus bone tissue contrast.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Vent12.pdf:pdfVent12.pdf:PDF by e-mail"></form>

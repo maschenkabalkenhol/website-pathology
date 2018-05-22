@@ -1,0 +1,12 @@
+title: A Longitudinal Study of Cognition, Proton MR Spectroscopy and Synaptic and Neuronal Pathology in Aging Wild-type and AÎ²PPswe-PS1dE9 Mice
+
+## Jansen, Diane and Zerbi, Valerio and Janssen, Carola I F. and Dederen, Pieter J W C. and Mutsaers, Martina P C. and Hafkemeijer, Anne and Janssen, Anna-Lena and Nobelen, Cindy L M. and Veltien, Andor and Asten, Jack J. and Heerschap, Arend and Kiliaan, Amanda J.
+PLOSONE
+
+<a href="https://doi.org/10.1371/journal.pone.0063643">DOI</a>
+
+## Abstract
+Proton magnetic resonance spectroscopy ((1)H MRS) is a valuable tool in Alzheimer's disease research, investigating the functional integrity of the brain. The present longitudinal study set out to characterize the neurochemical profile of the hippocampus, measured by single voxel (1)H MRS at 7 Tesla, in the brains of AÎ²PPSswe-PS1dE9 and wild-type mice at 8 and 12 months of age. Furthermore, we wanted to determine whether alterations in hippocampal metabolite levels coincided with behavioral changes, cognitive decline and neuropathological features, to gain a better understanding of the underlying neurodegenerative processes. Moreover, correlation analyses were performed in the 12-month-old AÎ²PP-PS1 animals with the hippocampal amyloid-Î² deposition, TBS-T soluble AÎ² levels and high-molecular weight AÎ² aggregate levels to gain a better understanding of the possible involvement of AÎ² in neurochemical and behavioral changes, cognitive decline and neuropathological features in AÎ²PP-PS1 transgenic mice. Our results show that at 8 months of age AÎ²PPswe-PS1dE9 mice display behavioral and cognitive changes compared to age-matched wild-type mice, as determined in the open field and the (reverse) Morris water maze. However, there were no variations in hippocampal metabolite levels at this age. AÎ²PP-PS1 mice at 12 months of age display more severe behavioral and cognitive impairment, which coincided with alterations in hippocampal metabolite levels that suggest reduced neuronal integrity. Furthermore, correlation analyses suggest a possible role of AÎ² in inflammatory processes, synaptic dysfunction and impaired neurogenesis.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Jans13.pdf:pdfJans13.pdf:PDF by e-mail"></form>

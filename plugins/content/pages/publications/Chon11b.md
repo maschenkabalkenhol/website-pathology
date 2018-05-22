@@ -1,0 +1,12 @@
+title: Reproducibility of volume and densitometric measures of emphysema on repeat computed tomography with an interval of 1 week
+
+## D. Chong and M. S. Brown and H. J. Kim and E. M. van Rikxoort and L. Guzman and M. F. McNitt-Gray and M. Khatonabadi and M. Galperin-Aizenberg and K. Yang and Y. Jung and J. G. Goldin
+ER
+
+<a href="https://doi.org/10.1007/s00330-011-2277-1">DOI</a>
+
+## Abstract
+Objectives. The reproducibilities of CT lung volume and densitometric emphysema measures were assessed over one week. The influence of breathhold on reproducibility was assessed. Methods. HRCT was performed on 45 subjects at inspiration on two visits with a seven-day interval. CT lung volume, relative area below -950HU (RA950-raw), and 15th percentile density (PD15-raw) were computed. Volume correction was used to obtain RA950-adj and PD15-adj. Reproducibilities between visits were assessed using concordance correlation coefficient (CCC) and repeatability coefficient (RC). Reproducibilities were compared between raw and adjusted measures. Correlations were computed for density differences versus volume difference. Subgroup analysis was performed using a 0.25L volume difference threshold. Results. High CCC were observed for all measures in full group (CCC>0.97). Reproducibilities of volume (RC=0.67L), RA950-raw (RC=2.3%), and PD15-raw (RC=10.6HU) were observed. Volume correction significantly improved PD15 (RC=3.6HU) but not RA950 (RC=1.7%). RA950-raw and PD15-raw had significantly better RC in <0.25L subgroup than =0.25L. Significant correlations with volume were observed for RA950-raw and PD15-raw (R2>0.71), but not RA950-adj or PD15-adj (R2<0.11). Conclusions. Good breathhold and RA950 reproducibilities were achieved. PD15 was less reproducible but improved with volume correction or superior breathhold reproduction. Careful consideration of both signal and noise is necessary during study design.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Chon11b.pdf:pdfChon11b.pdf:PDF by e-mail"></form>

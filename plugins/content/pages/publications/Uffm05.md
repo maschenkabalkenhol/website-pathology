@@ -1,0 +1,11 @@
+title: Soft-copy reading of digital chest radiographs: effect of ambient light and automatic optimization of monitor luminance
+
+## Uffmann, Martin and Prokop, Mathias and Kupper, Walter and Mang, Thomas and Fiedler, Volker and Schaefer-Prokop, Cornelia
+IR
+
+
+## Abstract
+We sought to evaluate whether soft-copy reading of simulated pulmonary chest lesions is influenced by ambient light and automatic optimization of cathode ray tube (CRT) monitor luminance.Four types of simulated lesions (nodules, lines, micronodules, and patchy opacities) were superimposed over an anthropomorphic chest phantom. Lesion detection with soft-copy reading was assessed using a high-contrast grayscale 2K CRT monitor under the following conditions: (1) subdued lighting (<50 lux); (2) normal lighting conditions (450 lux) without, and (3) with a sensitivity modulation to automatically adjust the CRT luminance to the increased amount of ambient light. Reading data were analyzed according to receiver operating curve. Significance of differences was tested using an analysis of variance for repeated measures.Ambient room light of 450 lux did not significantly influence the detection of nodules and patchy opacities. However, bright ambient light significantly decreased detection of micronodules (0.60 vs. 0.74) and lines (0.52 vs. 0.66) relative to subdued lighting conditions. Automatic luminance adjustment could compensate the effect of ambient light for the micronodules (0.77) but not for the lines (0.53).Bright ambient light significantly decreases detection of small low-contrast structures. This may be partially but not completely compensated by an automatic luminance adaptation.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Uffm05.pdf:pdfUffm05.pdf:PDF by e-mail"></form>

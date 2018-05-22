@@ -1,0 +1,12 @@
+title: Intracavitary radioimmunotherapy to treat solid tumors
+
+## Aarts, Frits and Bleichrodt, Robert P. and Oyen, Wim J G. and Boerman, Otto C.
+CANBR
+
+<a href="https://doi.org/10.1089/cbr.2007.0412">DOI</a>
+
+## Abstract
+Radioimmunotherapy (RIT) potentially is an attractive treatment for radiosensitive early-stage solid tumors and as an adjuvant to cytoreductive surgery. Topical administration of RIT may improve the efficacy because higher local concentrations are achieved. We reviewed the results of locally applied radiolabeled monoclonal antibodies for the treatment of solid tumors. Intracavitary RIT in patients with ovarian cancer and glioma showed improved targeting after local administration, as compared to the intravenous administration. In addition, various studies showed the feasibility of locally applied RIT in these patients. In studies that included patients with small-volume disease, adjuvant RIT in ovarian cancer and glioma showed to be at least as effective as standard therapy. The information about RIT for peritoneal carcinomatosis of colorectal origin is scarce, while results from preclinical data are promising. RIT may be applied for other, relatively unexplored indications. Studies on the application of radiolabeled antibodies in early urothelial cell cancer have been performed, showing that intracavitary RIT may hold a promise. Moreover, in patients with malignant pleural mesothelioma or malignant pleural effusion, RIT may play a role in the palliative treatment. Intracavitary RIT limits toxicity and improves tumor targeting. RIT is more effective in patients with small-volume disease of solid cancers. RIT may have potential for palliation in patients with malignant pleural mesothelioma or malignant pleural effusion. The future of RIT may, therefore, not only be in the inclusion in contemporary multimodality treatment, but also in the expansion to palliative treatment.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Published version:pdfAart08b.pdf:PDF by e-mail"></form>

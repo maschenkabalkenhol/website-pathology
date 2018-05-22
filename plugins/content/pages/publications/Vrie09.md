@@ -1,0 +1,12 @@
+title: Chemotherapy response monitoring of colorectal liver metastases by dynamic Gd-DTPA-enhanced MRI perfusion parameters and 18F-FDG PET metabolic rate
+
+## Dennis Vriens and Hanneke W M van Laarhoven and Jack J A van Asten and Paul F M Krabbe and Eric P Visser and Arend Heerschap and Cornelis J A Punt and Lioe-Fee de Geus-Oei and Wim J G Oyen
+JNM
+
+<a href="https://doi.org/10.2967/jnumed.109.064790">DOI</a>
+
+## Abstract
+In this study, we examined the in vivo relationship between functional tumor vasculature, determined by dynamic contrast-enhanced (DCE-) MRI, and tumor metabolism, determined by dynamic (18)F-FDG PET, during cytotoxic treatment of patients with colorectal liver metastases.Twenty-three patients underwent DCE-MRI (using gadolinium dimeglumine) and dynamic (18)F-FDG PET at baseline and after 3 treatment cycles, unless treatment was terminated because of toxicity. Parameters for vasculature (rate constant between extravascular extracellular space and blood plasma [k(ep)] and volume transfer constant [K(trans)]), extracellular space (v(e)), tumor size (the maximal axial diameter of each included lesion [MAD]), and metabolism (glucose metabolic rates [MR(glc)]) were derived, and changes during treatment were correlated. Overall survival (OS) and progression-free survival (PFS) served as outcome measures for the predictive abilities of pretreatment parameters and of treatment-related parameter changes.Pretreatment MR(glc) and MAD were individually predictive for OS and PFS. During treatment, K(trans) increased significantly, but this increase could not be confirmed in a lesion-by-lesion analysis. MR(glc) decreased significantly (P < 0.001). No correlations were found for changes in DCE-MRI parameters and DeltaMR(glc). No relationship was found between changes in DCE-MRI parameters and OS or PFS. DeltaMR(glc) was able to predict OS (P = 0.008) after correction for confounders.The efficacy of cytotoxic chemotherapy assessed by reduction in tumor metabolism does not depend on pretreatment properties of the tumor vasculature determined by DCE-MRI. Cytotoxic chemotherapy does not alter DCE-MRI-derived properties of tumor vasculature but decreases glucose consumption of tumor cells.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Vrie09.pdf:pdfVrie09.pdf:PDF by e-mail"></form>

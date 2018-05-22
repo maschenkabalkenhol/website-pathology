@@ -1,0 +1,12 @@
+title: In-vivo imaging of changes in abdominal aortic aneurysm thrombus volume during the cardiac cycle
+
+## Maarten Truijers and Mark F Fillinger and KlaasJan W Renema and Steven P Marra and Luuk J Oostveen and Harrie A J M Kurvers and Leo J Schultzekool and Jan D Blankensteijn
+JET
+
+<a href="https://doi.org/10.1583/08-2625.1">DOI</a>
+
+## Abstract
+To evaluate in-vivo thrombus compressibility in abdominal aortic aneurysms (AAAs) to hopefully shed light on the biomechanical importance of intraluminal thrombus.Dynamic electrocardiographically-gated computed tomographic angiography was performed in 17 AAA patients (15 men; mean age 73 years, range 69-76): 11 scheduled for surgical repair and 6 under routine surveillance. The volumes of intraluminal thrombus, the lumen, and the total aneurysm were quantified for each phase of the cardiac cycle. Thrombus compressibility was defined as the percent change in thrombus volume between diastole and peak systole. Continuous data are presented as medians and interquartile ranges (IQR).A substantial interpatient variability was observed in thrombus compressibility, ranging from 0.4% to 43.6% (0.2 to 13.5 mL, respectively). Both thrombus and lumen volumes varied substantially during the cardiac cycle. As lumen volume increased (5.2%, IQR 2.8%-8.8%), thrombus volume decreased (3.0%, IQR 1.0%-4.6%). Total aneurysm volume remained relatively constant (1.3%, IQR 0.4-1.9%). Changes in lumen volume were inversely correlated with changes in thrombus volume (r = -0.73; p = 0.001).In-vivo thrombus compressibility varied from patient to patient, and this variation was irrespective of aneurysm size, pulse pressure, and thrombus volume. This suggests that thrombus might act as a biomechanical buffer in some, while it has virtually no effect in others. Whether differences in thrombus compressibility alter the risk of rupture will be the focus of future research.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Trui09a.pdf:pdfTrui09a.pdf:PDF by e-mail"></form>

@@ -1,0 +1,12 @@
+title: Bone scintigraphy after osteochondral autograft transplantation in the knee: 13 patients followed for 4 years
+
+## Kock, Niels B. and van Tankeren, Esther and Oyen, Wim J G. and Wymenga, Ate B. and van Susante, Job L C.
+Acta Orthop
+
+<a href="https://doi.org/10.3109/17453671003587101">DOI</a>
+
+## Abstract
+Autologous osteochondral transplantation (OCT) is an established method of treating articular cartilage defects in the knee. However, the potential for donor site morbidity remains a concern. Both the restoration of the original cartilage defect and the evolution of the donor site defects can be evaluated by bone scintigraphy. Thus, we performed a prospective bone scintigraphic evaluation in patients who were treated with OCT.In 13 patients with a symptomatic articular cartilage defect, bone scintigraphies were obtained preoperatively, 1 year after osteochondral transplantation, and finally at an average follow-up of 4 (2.5-5.5) years. The evolution of scintigraphic activity was evaluated for both the recipient and the donor site. Parallel, clinical scoring was performed using the Lysholm knee scoring scale, the Cincinnati knee rating system, and the Tegner activity score.The bone scintigraphic uptake was elevated at the involved femoral condyle preoperatively, and gradually decreased to normal levels in 7 of 11 cases. The originally normal uptake at the trochlea increased 1 year after transplantation. Then, a gradual decrease in uptake occurred again at this donor site to remain elevated at the final scintigraphy. A correlation was found between elevated scintigraphic activity and the presence of retropatellar crepitus. The mean Lysholm and Cincinnati scores had increased 1 year after transplantation. The mean Tegner score had increased 3 years after transplantation.Elevated bone scintigraphic activity from an osteochondral lesion in the knee can be restored with OCT. However, increased scintigraphic activity is introduced at the donor site, which becomes reduced with longer follow-up. The use of fairly large osteochondral plugs appears to correlate with retropatellar crepitus and increased scintigraphic activity, and is not therefore recommended.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Published version:pdfKock10b.pdf:PDF by e-mail"></form>

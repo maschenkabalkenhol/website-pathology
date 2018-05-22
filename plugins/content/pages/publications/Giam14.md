@@ -1,0 +1,12 @@
+title: The EANM clinical and technical guidelines for lymphoscintigraphy and sentinel node localization in gynaecological cancers
+
+## Giammarile, Francesco and Bozkurt, M Fani and Cibula, David and Pahisa, Jaume and Oyen, Wim J. and Paredes, Pilar and Olmos, Renato Valdes and Sicart, Sergi Vidal
+EJNMMI
+
+<a href="https://doi.org/10.1007/s00259-014-2732-8">DOI</a>
+
+## Abstract
+The accurate harvesting of a sentinel node in gynaecological cancer (i.e. vaginal, vulvar, cervical, endometrial or ovarian cancer) includes a sequence of procedures with components from different medical specialities (nuclear medicine, radiology, surgical oncology and pathology). These guidelines are divided into sectione entitled: Purpose, Background information and definitions, Clinical indications and contraindications for SLN detection, Procedures (in the nuclear medicine department, in the surgical suite, and for radiation dosimetry), and Issues requiring further clarification. The guidelines were prepared for nuclear medicine physicians. The intention is to offer assistance in optimizing the diagnostic information that can currently be obtained from sentinel lymph node procedures. If specific recommendations given cannot be based on evidence from original scientific studies, referral is made to "general consensus" and similar expressions. The recommendations are designed to assist in the practice of referral to, and the performance, interpretation and reporting of all steps of the sentinel node procedure in the hope of setting state-of-the-art standards for high-quality evaluation of possible metastatic spread to the lymphatic system in gynaecological cancer. The final result has been discussed by a group of distinguished experts from the EANM Oncology Committee and the European Society of Gynaecological Oncology (ESGO). The document has been endorsed by the SNMMI Board.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Giam14.pdf:pdfGiam14.pdf:PDF by e-mail"></form>

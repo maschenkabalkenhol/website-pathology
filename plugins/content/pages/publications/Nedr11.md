@@ -1,0 +1,12 @@
+title: Mechanics on myocardium deficient in the N2B region of titin: the cardiac-unique spring element improves efficiency of the cardiac cycle
+
+## Nedrud, Joshua and Labeit, Siegfried and Gotthardt, Michael and Granzier, Henk
+BIOPLJ
+
+<a href="https://doi.org/10.1016/j.bpj.2011.06.054">DOI</a>
+
+## Abstract
+Titin (also known as connectin) is an intrasarcomeric muscle protein that functions as a molecular spring and generates passive tension upon muscle stretch. The N2B element is a cardiac-specific spring element within titin's extensible region. Our goal was to study the contribution of the N2B element to the mechanical properties of titin, particularly its hypothesized role in limiting energy loss during repeated stretch (diastole)-shortening (systole) cycles of the heart. We studied energy loss by measuring hysteresis from the area between the stretch and release passive force-sarcomere length curves and used both wild-type (WT) mice and N2B knockout (KO) mice in which the N2B element has been deleted. A range of protocols was used, including those that mimic physiological loading conditions. KO mice showed significant increases in hysteresis. Most prominently, in tissue that had been preconditioned with a physiological stretch-release protocol, hysteresis increased significantly from 320 Â± 46 pJ/mm(2)/sarcomere in WT to 650 Â± 94 pJ/mm(2)/sarcomere in N2B KO myocardium. These results are supported by experiments in which oxidative stress was used to mechanically inactivate portions of the N2B-Us of WT titin through cysteine cross-linking. Studies on muscle from which the thin filaments had been extracted (using the actin severing protein gelsolin) showed that the difference in hysteresis between WT and KO tissue cannot be explained by filament sliding-based viscosity. Instead the results suggest that hysteresis arises from within titin and most likely involves unfolding of immunoglobulin-like domains. These studies support that the mechanical function of the N2B element of titin includes reducing hysteresis and increasing the efficiency of the heart.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Nedr11.pdf:pdf/Nedr11.pdf:PDF by e-mail"></form>

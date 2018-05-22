@@ -1,0 +1,10 @@
+title: High rates of clinically relevant incidental findings by total-body CT scanning in trauma patients; results of the REACT-2 trial.
+
+## Treskes, K and Bos, S A and Beenen, L F M and Sierink, J C and Edwards, M J R and Beuker, B J A and Muradin, G S R and Hohmann, J and Luitse, J S K and Hollmann, M W and Dijkgraaf, M G W and Goslings, J C and REACT-2 study group
+European radiology
+
+<a href="https://doi.org/10.1007/s00330-016-4598-6">DOI</a>
+
+## Abstract
+To determine whether there is a difference in frequency and clinical relevance of incidental findings detected by total-body computed tomography scanning (TBCT) compared to those by the standard work-up (STWU) with selective computed tomography (CT) scanning. Trauma patients from five trauma centres were randomized between April 2011 and January 2014 to TBCT imaging or STWU consisting of conventional imaging with selective CT scanning. Incidental findings were divided into three categories: 1) major finding, may cause mortality; 2) moderate finding, may cause morbidity; and 3) minor finding, hardly relevant. Generalized estimating equations were applied to assess differences in incidental findings. In total, 1083 patients were enrolled, of which 541 patients (49.9 %) were randomized for TBCT and 542 patients (50.1 %) for STWU. Major findings were detected in 23 patients (4.3 %) in the TBCT group compared to 9 patients (1.7 %) in the STWU group (adjusted rate ratio 2.851; 95%CI 1.337-6.077; p?<?0.007). Findings of moderate relevance were detected in 120 patients (22.2 %) in the TBCT group compared to 86 patients (15.9 %) in the STWU group (adjusted rate ratio 1.421; 95%CI 1.088-1.854; p?<?0.010). Compared to selective CT scanning, more patients with clinically relevant incidental findings can be expected by TBCT scanning. ? Total-body CT scanning in trauma results in 1.5 times more incidental findings. ? Evaluation by TBCT in trauma results in more patients with incidental findings. ? In every category of clinical relevance, TBCT detects more incidental findings.
+

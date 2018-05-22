@@ -1,0 +1,12 @@
+title: Predictors of abnormal chest CT after blunt trauma: a critical appraisal of the literature
+
+## M. Brink and D. R. Kool and H. M. Dekker and J. Deunk and G. J. Jager and C. van Kuijk and M. J R Edwards and J. G. Blickman
+CLINR
+
+<a href="https://doi.org/10.1016/j.crad.2008.09.004">DOI</a>
+
+## Abstract
+To identify and to evaluate predictors that determine whether chest computed tomography (CT) is likely to reveal relevant injuries in adult blunt trauma patients.After a comprehensive literature search for original studies on blunt chest injury diagnosis, two independent observers included studies on the accuracy of parameters derived from history, physical examination, or diagnostic imaging that might predict injuries at (multidetector row) CT in adults and that allowed construction of 2x2 contingency tables. For each article, methodological quality was scored and relevant predictors for injuries at CT were extracted. For each predictor, sensitivity, specificity, positive and negative likelihood ratio and diagnostic odds ratio (DOR) including 95% confidence intervals were calculated.Of 147 articles initially identified, the observers included 10 original studies in consensus. Abnormalities at physical examination (abnormal respiratory effort, need for assisted ventilation, reduced airentry, coma, chest wall tenderness) and pelvic fractures were significant predictors (DOR: 2.1-6.7). The presence of any injuries at conventional radiography of the chest (eight articles) was a more powerful significant predictor (DOR: 2.2-37). Abnormal chest ultrasonography (four articles) was the most accurate predictor for chest injury at CT (DOR: 491-infinite).The current literature indicates that in blunt trauma patients with abnormal physical examination, abnormal conventional radiography, or abnormal ultrasonography of the chest, CT was likely to reveal relevant chest injuries. However, there was no strong evidence to suggest that CT could be omitted in patients without these criteria, or whether these findings are beneficial for patients.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Brin09.pdf:pdfBrin09.pdf:PDF by e-mail"></form>

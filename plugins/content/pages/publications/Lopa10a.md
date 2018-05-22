@@ -1,0 +1,12 @@
+title: Methodical study on the estimation of strain in shearing and rotating structures using radio frequency ultrasound based on 1-D and 2-D strain estimation techniques
+
+## Lopata, R. G. P. and Hansen, H. H. G. and Nillesen, M. M. and Thijssen, J. M. and Kapusta, L. and de Korte, C. L.
+TUFF
+
+<a href="https://doi.org/10.1109/TUFFC.2010.1490">DOI</a>
+
+## Abstract
+This simulation study is concerned with: 1) the feasibility of measuring rotation and 2) the assessment of the performance of strain estimation in shearing and rotating structures. The performance of 3 different radio frequency (RF) based methods is investigated. Linear array ultrasound data of a deforming block were simulated (axial shear strain = 2.0, 4.0, and 6.0%, vertical strain = 0.0, 1.0, and 2.0%). Furthermore, data of a rotating block were simulated over an angular range of 0.5 degrees to 10 degrees . Local displacements were estimated using a coarse-to-fine algorithm using 1-D and 2-D precompression kernels. A new estimation method was developed in which axial displacements were used to correct the search area for local axial motion. The study revealed that this so-called free-shape 2-D method outperformed the other 2 methods and produced more accurate displacement images. For higher axial shear strains, the variance of the axial strain and the axial shear strain reduced by a factor of 4 to 5. Rotations could be accurately measured up to 4.0 to 5.0 degrees . Again, the free-shape 2-D method yielded the most accurate results. After reconstruction of the rotation angle, the mean angles were slightly underestimated. The precision of the strain estimates decreased with increasing rotation angles. In conclusion, the proposed free-shape 2-D method enhances the measurement of (axial shear) strains and rotation. Experimental validation of the new method still has to be performed.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Lopa10a.pdf:pdfLopa10a.pdf:PDF by e-mail"></form>

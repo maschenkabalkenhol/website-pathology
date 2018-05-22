@@ -1,0 +1,12 @@
+title: Can antibody galactosylation be used to improve radioimmunotherapy of induced peritoneal carcinomatosis of colonic origin in the rat?
+
+## Aarts, Frits and Hendriks, Thijs and Eek, Annemarie and Oyen, Wim J G. and Bleichrodt, Robert P. and Boerman, Otto C.
+CANBR
+
+<a href="https://doi.org/10.1089/cbr.2008.0521">DOI</a>
+
+## Abstract
+In radioimmunotherapy (RIT), hematologic toxicity is the dose-limiting toxicity due to the long circulatory half-life of the antibody. Although intraperitoneal (i.p.) RIT results in high uptake of i.p. growing tumors, the radiolabeled antibody enters the circulation, resulting in bone marrow toxicity. Carbohydrate modification of antibodies could induce accelerated clearance of the antibody via the hepatic asialoglycoprotein receptor, thereby reducing exposure to normal tissues. In this study, we investigated whether galactosylation of an antibody in a model of peritoneal carcinomatosis (PC) of colonic origin could be used to improve targeting of i.p. growing tumors. Therefore, the biodistribution of the galactosylated and nongalactosylated anti-CC531 antibody, MG1, after i.p. injection was determined in a model of peritoneal carcinomatosis of CC-531 colon tumors in Wag/Rij rats. Uptake of the radiolabeled antibodies in the tumor and relevant organs was determined at 2, 4, 24, and 48 hours after injection. Galactosylation of the antibody did not affect the binding affinity of MG1. Remarkably, the uptake of Gal-MG1 in tumors was higher than that of MG1 at 2 and 4 hours after injection. After 24 and 48 hours, uptake of Gal-MG1 in tumor tissue was lower than that of MG1. Gal-MG1 cleared from the blood within hours after administration. At 2-24 hours after administration, tumor-to-blood ratios obtained with Gal-MG1 were significantly higher than those obtained with unmodified MG1. Antibody galactosylation resulted in improved tumor-non-tumor ratios after i.p. injection in a model of PC. This could improve the efficiency of RIT, especially in combination with short-lived nonresidualizing radionuclides.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Published version:pdfAart09a.pdf:PDF by e-mail"></form>

@@ -1,0 +1,12 @@
+title: Calcium channel kinetics of melanotrope cells in Xenopus laevis depend on environmental stimulation
+
+## Zhang, Hongyan and Langeslag, Michiel and Breukels, Vincent and Jenks, Bruce G. and Roubos, Eric W. and Scheenen, Wim J J M.
+Gen Comp Endocrinol
+
+<a href="https://doi.org/10.1016/j.ygcen.2007.12.005">DOI</a>
+
+## Abstract
+We have tested the hypothesis that the type and kinetics of voltage-activated Ca(2+) channels in a neuroendocrine cell depend on the cell's long-term external input. For this purpose, the presence and kinetics of both low (LVA) and high-voltage-activated (HVA) L-type Ca(2+) channels have been assessed in melanotrope pituitary cells of the amphibian Xenopus laevis. The secretory activity of this cell type can readily be manipulated in vivo by changing the animal's environmental light condition, from a black to a white background. We here show that, compared to white background-adapted Xenopus, melanotropes from black background-adapted frogs have (1) a much larger size, as revealed by their 2.5 times larger membrane capacitance (P<0.001), (2) a 2 times higher HVA current density (P<0.05), (3) a clearly smaller Ca(2+)-dependent inactivation (10%; P<0.05), (4) L-type channels with 5 times slower activation and inactivation kinetics (P<0.05), and (5) slower kinetics of L-type channels that become faster and more similar to those in white-background adapted cells when the intracellular Ca(2+)-buffering capacity is reduced. Furthermore, white-adapted melanotropes possess LVA-type Ca(2+) channels, which are lacking from cells from black-adapted animals. The melanotrope calmodulin mRNA level does not differ between the two adaptation states. These results indicate that HVA L-type channel kinetics differ in relation to environmentally induced changes in cellular secretory state, probably mediated via intracellular Ca(2+)-buffering, whereas the occurrence of LVA Ca(2+) channels may depend on environmentally controlled channel gene expression.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Zhan08a.pdf:pdfZhan08a.pdf:PDF by e-mail"></form>

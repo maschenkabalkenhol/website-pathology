@@ -1,0 +1,12 @@
+title: Rate of progression of CT-quantified emphysema in male current and ex-smokers: a follow-up study
+
+## Mohamed Hoesein, F. A. A. and Zanen, Pieter and de Jong, Pim A. and van Ginneken, Bram and Boezen, H Marike and Groen, Harry Jm and Oudkerk, Mathijs and de Koning, Harry J. and Postma, Dirkje S. and Lammers, Jan-Willem J.
+RESPR
+
+<a href="https://doi.org/10.1186/1465-9921-14-55">DOI</a>
+
+## Abstract
+BACKGROUND: Little is known about the factors associated with CT-quantified emphysema progression in heavy smokers. The objective of this study was to investigate the effect of length of smoking cessation and clinical / demographical factors on the rate of emphysema progression and FEV1-decline in male heavy smokers. METHODS: 3,670 male smokers with mean (SD) 40.8 (17.9) packyears underwent chest CT scans and pulmonary function tests at baseline and after 1 and 3 years follow-up. Smoking status (quitted >=5, >=1-<5, <1 years or current smoker) was noted. Rate of progression of emphysema and FEV1-decline after follow-up were assessed by analysis of variance adjusting for age, height, baseline pulmonary function and emphysema severity, packyears, years in study and respiratory symptoms. The quitted >=5 group was used as reference. RESULTS: Median (Q1-Q3) emphysema severity,<-950 HU, was 8.8 (5.1 -- 14.1) and mean (SD) FEV1 was 3.4 (0.73) L or 98.5 (18.5) % of predicted. The group quitted '>5 years' showed significantly lower rates of progression of emphysema compared to current smokers, 1.07% and 1.12% per year, respectively (p<0.001). Current smokers had a yearly FEV1-decline of 69 ml, while subjects quit smoking >5 years had a yearly decline of 57.5 ml (p<0.001). CONCLUSION: Quit smoking >5 years significantly slows the rate of emphysema progression and lung function decline.Trial registration: Registered at www.trialregister.nl with trial number ISRCTN63545820.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Moha13.pdf:pdfMoha13.pdf:PDF by e-mail"></form>

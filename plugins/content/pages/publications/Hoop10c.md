@@ -1,0 +1,12 @@
+title: Computer-aided Detection of Lung Cancer on Chest Radiographs: Effect on Observer Performance
+
+## B. de Hoop and D. W. de Boo and H. A. Gietema and F. van Hoorn and B. Mearadji and L. Schijf and B. van Ginneken and M. Prokop and C. Schaefer-Prokop
+Radiology
+
+<a href="https://doi.org/10.1148/radiol.10092437">DOI</a>
+
+## Abstract
+Purpose: To assess how computer-aided detection (CAD) affects reader performance in detecting early lung cancer on chest radiographs. Materials and Methods: In this ethics committee-approved study, 46 individuals with 49 computed tomographically (CT)-detected and histologically proved lung cancers and 65 patients without nodules at CT were retrospectively included. All subjects participated in a lung cancer screening trial. Chest radiographs were obtained within 2 months after screening CT. Four radiology residents and two experienced radiologists were asked to identify and localize potential cancers on the chest radiographs, first without and subsequently with the use of CAD software. A figure of merit was calculated by using free-response receiver operating characteristic analysis. Results: Tumor diameter ranged from 5.1 to 50.7 mm (median, 11.8 mm). Fifty-one percent (22 of 49) of lesions were subtle and detected by two or fewer readers. Stand-alone CAD sensitivity was 61%, with an average of 2.4 false-positive annotations per chest radiograph. Average sensitivity was 63% for radiologists at 0.23 false-positive annotations per chest radiograph and 49% for residents at 0.45 false-positive annotations per chest radiograph. Figure of merit did not change significantly for any of the observers after using CAD. CAD marked between five and 16 cancers that were initially missed by the readers. These correctly CAD-depicted lesions were rejected by radiologists in 92% of cases and by residents in 77% of cases. Conclusion: The sensitivity of CAD in identifying lung cancers depicted with CT screening was similar to that of experienced radiologists. However, CAD did not improve cancer detection because, especially for subtle lesions, observers were unable to sufficiently differentiate true-positive from false-positive annotations.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Hoop10c.pdf:pdfHoop10c.pdf:PDF by e-mail"></form>

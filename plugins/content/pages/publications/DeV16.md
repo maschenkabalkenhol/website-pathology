@@ -1,0 +1,12 @@
+title: Role of multiparametric magnetic resonance imaging in early detection of prostate cancer.
+
+## De Visschere, Pieter J L. and Briganti, Alberto and F"utterer, Jurgen J. and Ghadjar, Pirus and Isbarn, Hendrik and Massard, Christophe and Ost, Piet and Sooriakumaran, Prasanna and Surcel, Cristian I. and Valerio, Massimo and van den Bergh, Roderick C N. and Ploussard, Guillaume and Giannarini, Gianluca and Villeirs, Geert M.
+Insights Imaging
+
+<a href="https://doi.org/10.1007/s13244-016-0466-9">DOI</a>
+
+## Abstract
+Most prostate cancers (PC) are currently found on the basis of an elevated PSA, although this biomarker has only moderate accuracy. Histological confirmation is traditionally obtained by random transrectal ultrasound guided biopsy, but this approach may underestimate PC. It is generally accepted that a clinically significant PC requires treatment, but in case of an non-significant PC, deferment of treatment and inclusion in an active surveillance program is a valid option. The implementation of multiparametric magnetic resonance imaging (mpMRI) into a screening program may reduce the risk of overdetection of non-significant PC and improve the early detection of clinically significant PC. A mpMRI consists of T2-weighted images supplemented with diffusion-weighted imaging, dynamic contrast enhanced imaging, and/or magnetic resonance spectroscopic imaging and is preferably performed and reported according to the uniform quality standards of the Prostate Imaging Reporting and Data System (PIRADS). International guidelines currently recommend mpMRI in patients with persistently rising PSA and previous negative biopsies, but mpMRI may also be used before first biopsy to improve the biopsy yield by targeting suspicious lesions or to assist in the selection of low-risk patients in whom consideration could be given for surveillance.? MpMRI may be used to detect or exclude significant prostate cancer. ? MpMRI can guide targeted rebiopsy in patients with previous negative biopsies. ? In patients with negative mpMRI consideration could be given for surveillance. ? MpMRI may add valuable information for the optimal treatment selection.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send DeV16.pdf:pdfDeV16.pdf:PDF by e-mail"></form>

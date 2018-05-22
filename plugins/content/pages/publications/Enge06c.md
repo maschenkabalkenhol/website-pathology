@@ -1,0 +1,12 @@
+title: NMR spectroscopic studies on the late onset form of 3-methylglutaconic aciduria type I and other defects in leucine metabolism
+
+## Engelke, Udo F H. and Kremer, Berry and Kluijtmans, Leo A J. and van der Graaf, Marinette and Morava, Eva and Loupatty, Ference J. and Wanders, Ronald J A. and Moskau, Detlef and Loss, Sandra and van den Bergh, Erik and Wevers, Ron A.
+NMRB
+
+<a href="https://doi.org/10.1002/nbm.1018">DOI</a>
+
+## Abstract
+A diagnosis of 3-methylglutaconic aciduria type I (OMIM: 250950) based on elevated urinary excretion of 3-methylglutaconic acid (3MGA), 3-methylglutaric acid (3MG) and 3-hydroxyisovaleric acid (3HIVA) was made in a 61-year-old female patient presenting with leukoencephalopathy slowly progressing over more than 30 years. The diagnosis was confirmed at the enzymatic and molecular level. In vivo brain MR spectroscopic imaging (MRSI) was performed at 3.0 T, and one-dimensional and two-dimensional in vitro NMR spectroscopy of body fluids of the patient was performed at 11.7 T. Additionally, we measured 1D (1)H-NMR spectra of urine of seven patients with a total of four different inborn errors of leucine metabolism. Increased concentrations of 3HIVA, 3MGA (cis and trans) and 3MG were observed in the NMR spectra of the patient's urine. In the cerebrospinal fluid, the 3HIVA concentration was 10 times higher than in the plasma of the patient and only the cis isomer of 3MGA was observed. In vivo brain MRSI showed an abnormal resonance at 1.28 ppm that may be caused by 3HIVA. Comparison of (1)H-NMR spectra of urine samples from all eight patients studied, representing five different inborn errors of leucine metabolism, showed that each disease has typical NMR characteristics. Our leukoencephalopathy patient suffers from a late-onset form of 3-methylglutaconic aciduria type I. In the literature, only very few adult patients with this conditions have been described, and 3HIVA accumulation in white matter in the brain has not been presented before in these patients. Our data demonstrate that (1)H-NMR spectroscopy of urine can easily discriminate between the known inborn errors of leucine metabolism and provide the correct diagnosis.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Enge06c.pdf:pdfEnge06c.pdf:PDF by e-mail"></form>

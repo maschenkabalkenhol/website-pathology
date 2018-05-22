@@ -1,0 +1,9 @@
+title: Conformation of the RNA-binding N-terminus of the coat protein of cowpea chlorotic mottle virus : a nuclear magnetic resonance and optical spectroscopy study
+
+## M. van der Graaf
+
+## Abstract
+The objective of the study described in this thesis was to obtaininformation about protein-RNA interactions in cowpea chlorotic mottlevirus(CCMV). CCMV consists of RNA and a protective protein coat, composedof 180 identical coat proteins. The positively charged N-terminalarm of the coatprotein is essential for binding the encapsidated RNA. Previously,the so-called 'snatch-pull' model has been suggested for the assemblyof coatprotein and RNA. According to this model the N-terminal region hasa flexible random-coil conformation in the absence of RNA, but attainsan a-helicalconformation upon RNA-binding. In the present study a synthetic peptidecontaining the first 25 amino acids of CCMV coat protein (P25) wasused as amodel for the N-terminus, and oligophosphates and oligonucleotideswere used as models for the viral RNA. The conformation of the peptidewas studiedby nuclear magnetic resonance (NMR) and circular dichroism (CD). Changesin the conformation of the oligonucleotides were studied by CD andabsorbance spectroscopy. The results confirm the snatch-pull modeland allow an extension to a more detailed model for the assemblyof CCMV coatprotein and RNA.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Graa92b.pdf:pdfGraa92b.pdf:PDF by e-mail"></form>

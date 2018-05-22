@@ -1,0 +1,12 @@
+title: Standalone computer-aided detection compared to radiologists' performance for the detection of mammographic masses
+
+## Hupse, Rianne and Samulski, Maurice and Lobbes, Marc and den Heeten, Ard and Imhof-Tas, Mechli W. and Beijerinck, David and Pijnappel, Ruud and Boetes, Carla and Karssemeijer, Nico
+ER
+
+<a href="https://doi.org/10.1007/s00330-012-2562-7">DOI</a>
+
+## Abstract
+OBJECTIVES: We developed a computer-aided detection (CAD) system aimed at decision support for detection of malignant masses and architectural distortions in mammograms. The effect of this system on radiologists' performance depends strongly on its standalone performance. The purpose of this study was to compare the standalone performance of this CAD system to that of radiologists. METHODS: In a retrospective study, nine certified screening radiologists and three residents read 200 digital screening mammograms without the use of CAD. Performances of the individual readers and of CAD were computed as the true-positive fraction (TPF) at a false-positive fraction of 0.05 and 0.2. Differences were analysed using an independent one-sample t-test. RESULTS: At a false-positive fraction of 0.05, the performance of CAD (TPF?=?0.487) was similar to that of the certified screening radiologists (TPF?=?0.518, P?=?0.17). At a false-positive fraction of 0.2, CAD performance (TPF?=?0.620) was significantly lower than the radiologist performance (TPF?=?0.736, P <0.001). Compared to the residents, CAD performance was similar for all false-positive fractions. CONCLUSIONS: The sensitivity of CAD at a high specificity was comparable to that of human readers. These results show potential for CAD to be used as an independent reader in breast cancer screening. KEY POINTS : ï¿½ Computer-aided detection (CAD) systems are used to detect malignant masses in mammograms ï¿½ Current CAD systems operate at low specificity to avoid perceptual oversight ï¿½ A CAD system has been developed that operates at high specificity ï¿½ The performance of the CAD system is approaching that of trained radiologists ï¿½ CAD has the potential to be an independent reader in screening.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Hups13.pdf:pdfHups13.pdf:PDF by e-mail"></form>

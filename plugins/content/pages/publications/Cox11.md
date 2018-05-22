@@ -1,0 +1,12 @@
+title: The role of pressurized fluid in subchondral bone cyst growth
+
+## Cox, L G E. and Lagemaat, M. W. and van Donkelaar, C. C. and van Rietbergen, B. and Reilingh, M. L. and Blankevoort, L. and van Dijk, C. N. and Ito, K.
+Bone
+
+<a href="https://doi.org/10.1016/j.bone.2011.06.028">DOI</a>
+
+## Abstract
+Pressurized fluid has been proposed to play an important role in subchondral bone cyst development. However, the exact mechanism remains speculative. We used an established computational mechanoregulated bone adaptation model to investigate two hypotheses: 1) pressurized fluid causes cyst growth through altered bone tissue loading conditions, 2) pressurized fluid causes cyst growth through osteocyte death. In a 2D finite element model of bone microarchitecture, a marrow cavity was filled with fluid to resemble a cyst. Subsequently, the fluid was pressurized, or osteocyte death was simulated, or both. Rather than increasing the load, which was the prevailing hypothesis, pressurized fluid decreased the load on the surrounding bone, thereby leading to net bone resorption and growth of the cavity. In this scenario an irregularly shaped cavity developed which became rounded and obtained a rim of sclerotic bone after removal of the pressurized fluid. This indicates that cyst development may occur in a step-wise manner. In the simulations of osteocyte death, cavity growth also occurred, and the cavity immediately obtained a rounded shape and a sclerotic rim. Combining both mechanisms increased the growth rate of the cavity. In conclusion, both stress-shielding by pressurized fluid, and osteocyte death may cause cyst growth. In vivo observations of pressurized cyst fluid, dead osteocytes, and different appearances of cysts similar to our simulation results support the idea that both mechanisms can simultaneously play a role in the development and growth of subchondral bone cysts.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Cox11.pdf:pdfCox11.pdf:PDF by e-mail"></form>

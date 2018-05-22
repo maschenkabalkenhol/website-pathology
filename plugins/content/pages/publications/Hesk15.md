@@ -1,0 +1,12 @@
+title: Non-invasive imaging of tumor PD-L1 expression using radiolabeled anti-PD-L1 antibodies
+
+## Heskamp, Sandra and Hobo, Willemijn and Molkenboer-Kuenen, Janneke Dm and Olive, Daniel and Oyen, Wim J G. and Dolstra, Harry and Boerman, Otto C.
+CANR
+
+<a href="https://doi.org/10.1158/0008-5472.CAN-14-3477">DOI</a>
+
+## Abstract
+Antibodies that block the interaction between programmed death ligand 1 (PD-L1) and PD-1 have shown impressive anti-tumor activity. Patients with tumors expressing PD-L1 are most likely to respond to this treatment. The aim of our study was to develop a noninvasive imaging technique to determine tumor PD-L1 expression in vivo. This could allow selection of patients that are most likely to benefit from anti-PD-1/PD-L1 treatment and to monitor PD-L1 expression during therapy. The monoclonal antibody PD-L1.3.1 was radiolabeled with Indium-111 (111In) and characterized using PD-L1 expressing MDA-MB-231 cells. Subsequently, the optimal antibody dose and time point for imaging was determined in mice with MDA-MB-231 xenografts. Finally, SPECT/CT imaging was performed in xenograft models with different PD-L1 expression levels and tumor sections were analyzed for PD-L1 expression using immunohistochemistry. The optimal antibody dose of 111In-PD-L1.3.1 (Kd = 1 nM) for SPECT/CT imaging was â‰¤ 1 Âµg. Highest tumor-to-normal tissue contrast was obtained at day 3 and 7 post injection. 111In-PD-L1.3.1 SPECT/CT showed efficient accumulation in high PD-L1 expressing tumors (MDA-MB-231, SK-Br-3), while no specific uptake was observed in tumors with low or no detectable levels of PD-L1 (SUM149, BT474, MCF-7). SPECT/CT and autoradiography showed a very heterogeneous distribution of 111In-PD-L1.3.1 within the tumor. In conclusion, this is the first study showing the feasibility of non-invasive in vivo imaging of PD-L1 expression in tumors. 111In-PD-L1.3.1 showed efficient and specific uptake in PD-L1 expressing xenografts. This technique may enable patient selection for PD-1 and PD-L1 targeted therapy.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Hesk15.pdf:pdfHesk15.pdf:PDF by e-mail"></form>

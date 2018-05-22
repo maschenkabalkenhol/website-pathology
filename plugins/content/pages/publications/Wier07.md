@@ -1,0 +1,12 @@
+title: Comparison of multiphase CT, FDG-PET and intra-operative ultrasound in patients with colorectal liver metastases selected for surgery
+
+## B. Wiering and T. J M Ruers and P. F M Krabbe and H. M. Dekker and W. J G Oyen
+AOSO
+
+<a href="https://doi.org/10.1245/s10434-006-9259-6">DOI</a>
+
+## Abstract
+For patients with colorectal liver metastases, resection is the treatment of choice. Careful selection of these patients is crucial in order to reduce the chance of unexpected findings at laparotomy and abandoning further surgical intervention. Here, we evaluate the predictive value of CT and FDG-PET of the liver and extrahepatic findings compared to findings during laparotomy and 6 months follow-up.131 consecutive patients, selected for hepatic surgery for colorectal liver metastases by CT and FDG-PET, were evaluated prospectively. During surgery, the liver was assessed by intra-operative ultrasound, palpation and histology.In 127 patients (97%), CT was true-positive for liver metastases. In 3 patients, CT was false-positive and in 1 patient false-negative. In 126 patients (96%), FDG-PET was true-positive for liver metastases, in 2 patients FDG-PET was false-negative, in 3 patients true-negative (negative FDG-PET, false-positive CT). At laparotomy a total of 363 liver metastases was identified: 63 lesions <10 mm [10 (16%) detected by both CT and FDG-PET], 172 lesions of 10-20 mm [123 (72%) CT-positive, 129 (75%) by FDG-PET-positive], and 28 lesions >20 mm [124 (97%) CT-positive, 121 (95%) FDG-PET-positive]. CT and FDG-PET missed approximately 30% of the smaller liver lesions, resulting in a significant change in clinical management during surgery in only nine patients.CT and FDG-PET have a similar diagnostic yield for the identification of liver metastases; both modalities being adequate on a patient-basis but inadequate to detect the smallest of liver lesions. However, the clinical relevance of the latter is limited.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Published version:pdfWier07.pdf:PDF by e-mail"></form>

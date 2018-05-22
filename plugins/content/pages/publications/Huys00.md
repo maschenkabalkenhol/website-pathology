@@ -1,0 +1,9 @@
+title: Ultrasonic measurement of enamel thickness: a tool for monitoring dental erosion?
+
+## Huysmans, M. C. and Thijssen, J. M.
+JDEN
+
+
+## Abstract
+Wear of dental hard tissues, e.g. dental erosion, is reported to be a growing problem. A non-destructive measurement of enamel layer thickness would provide the opportunity for both early diagnosis, and longitudinal measurement of progressive enamel loss. It was the aim of this study to investigate the potential of ultrasonic pulse-echo measurements for the enamel thickness measurement.Nine extracted human incisor teeth were selected and stored in physiological saline. Mesial and distal tooth parts were removed, resulting in a central tooth slice of about 2 mm thickness. Where possible three buccal, and one palatal measuring sites were selected and indicated by pencil marks on one of the section planes. Ultrasonic pulse-echo measurements were made at each site using a Panametrics 25DL thickness gauge (Panametrics, Waltham, MA, USA), using a perspex delay line transducer (15 MHz) and glycerine coupling medium. Ultrasonic measurements were validated by measuring the thickness of the enamel layer at the marked side of the tooth slices with a light stereomicroscope at 120 x magnification. Two observers performed independent measurements.Limits of agreement for measurements by two observers (n = 42) were -0.09 and 0.09 mm. Measurements performed at 21 degrees C and 34 degrees C were not significantly different, as analysed by paired Student's t-test (p = 0.19). Pearson's correlation coefficient between ultrasonic and microscopic measurements was 0.90. Analysis of all measurements from both observers at both temperatures yielded a sound velocity in enamel of 6.5 x 10(3) m/s (standard error 0.1 x 10(3) m/s).It was concluded that the ultrasonic measurement of the enamel thickness is feasible without enamel preparation.
+

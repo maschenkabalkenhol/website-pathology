@@ -1,0 +1,12 @@
+title: Differential loading methods for BMP-2 within injectable calcium phosphate cement
+
+## van de Watering, Floor C J. and Molkenboer-Kuenen, Janneke D M. and Boerman, Otto C. and van den Beucken, Jeroen J J P. and Jansen, John A.
+JCONREL
+
+<a href="https://doi.org/10.1016/j.jconrel.2012.07.007">DOI</a>
+
+## Abstract
+Clinical application of calcium phosphate cement (CPC; with incorporated polymeric porogens) in an injectable form implicates that loading methods for growth factors are limited. In view of this, the current study evaluated the in vitro and in vivo release kinetics of bone morphogenetic protein-2 (BMP-2) loaded on poly(d,l-lactic-co-glycolic acid) (PLGA) microparticles (CPC/PLGA), BMP-2 incorporation into the liquid phase of CPC (CPC/liquid), and BMP-2 absorbed to the surface of preset, porous CPC (CPC/surface) as a control via an in vitro release experiment and in vivo using microSPECT imaging with (125)I-labeled BMP-2. In addition, the osteoinductive capacity of scaffolds generated via the different BMP-2 loading methods was assessed in a subcutaneous rat model. Additional controls consisted of porous CPC scaffolds (CPC/porous) and CPC/PLGA (CPC/control) without BMP-2 loading. The results revealed that it is feasible to load BMP-2 into CPC via adsorption to PLGA-microparticles or the liquid phase of CPC, which resulted in a similar release profile over the course of 28 days, despite distinct protein distribution patterns. Compared to CPC-scaffolds with surface-loaded BMP-2, these loading methods showed a similar release profile, except for a significantly decreased burst release. As such, the observed osteoinductive capacity for only CPC-scaffolds with surface-loaded BMP-2 is likely to be related to this difference in burst release. It remains unclear to what extent the differential BMP-2 loading methods for injectable CPC can affect the biological response in a bone environment.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Wate12.pdf:pdfWate12.pdf:PDF by e-mail"></form>

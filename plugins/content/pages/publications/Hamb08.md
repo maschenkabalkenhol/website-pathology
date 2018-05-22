@@ -1,0 +1,12 @@
+title: Thirty-two-channel coil 3T magnetic resonance-guided biopsies of prostate tumor suspicious regions identified on multimodality 3T magnetic resonance imaging: technique and feasibility
+
+## Hambrock, T. and F"utterer, J. J. and Huisman, H. J. and Hulsbergen-van de Kaa, C. and van Basten, J. and van Oort, I. and Witjes, J. A. and Barentsz, J. O.
+IR
+
+<a href="https://doi.org/10.1097/RLI.0b013e31817d0506">DOI</a>
+
+## Abstract
+OBJECTIVES: To test the technique and feasibility of translating tumor suspicious region maps in the prostate, obtained by multimodality, anatomic, and functional 3T magnetic resonance imaging (MRI) data to 32-channel coil, T2-weighted (T2-w), 3T MR images, for directing MR-guided biopsies. Furthermore, to evaluate the practicability of MR-guided biopsy on a 3T MR scanner using a 32-channel coil and a MR-compatible biopsy device. MATERIALS AND METHODS: Twenty-one patients with a high prostate-specific antigen (>4.0 ng/mL) and at least 2 prior negative transrectal ultrasound-guided biopsies of the prostate underwent an endorectal coil 3T MRI, which included T2-w, diffusion weighted and dynamic contrast enhanced MRI. From these multimodality images, tumor suspicious regions (TSR) were determined. The 3D localization of these TSRs within the prostatic gland was translated to the T2-w MR images of a subsequent 32-channel coil 3T MRI. These were then biopsied under 3T MR guidance. RESULTS: In all patients, TSRs could be identified and accurately translated to subsequent 3T MR images and biopsied under MR guidance. Median MR biopsy procedure time was 35 minutes. Of the 21 patients, 8 (38%) were diagnosed with prostate cancer, 6 (29%) had evidence of prostatitis, 6 (29%) had combined inflammatory and atrophic changes, and only 1 (5%) patient had no identifiable pathology. CONCLUSIONS: Multimodality, 3T MRI determined TSRs could effectively be translated to T2-weighted images, to be used for MR biopsies. 3T MR-guided biopsy based on these translated TSRs was feasible, performed in a clinical useful time, and resulted in a high number of positive results.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Hamb08.pdf:pdfHamb08.pdf:PDF by e-mail"></form>

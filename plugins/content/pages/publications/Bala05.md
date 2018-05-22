@@ -1,0 +1,11 @@
+title: Flat-panel display (LCD) versus high-resolution gray-scale display (CRT) for chest radiography: an observer preference study
+
+## Balassy, Csilla and Prokop, Mathias and Weber, Michael and Sailer, Johannes and Herold, Christian J. and Schaefer-Prokop, Cornelia
+AJR
+
+
+## Abstract
+Our objective was to compare cathode ray tube (CRT) display with liquid crystal display (LCD) for soft-copy viewing of chest radiographs in a clinical setting.We displayed 80 posteroanterior digital chest radiographs side by side on a 5-megapixel CRT display and a 3-megapixel LCD. Gradation characteristics of both monitors were adjusted to DICOM display standards. Using a 4-point scale, seven radiologists ranked overall image quality and visibility of anatomic landmarks. Data analysis included Wilcoxon's rank sum test to assess the significance of preference for the different display modes and calculation of the percentage of images ranked equally by at least five of the seven radiologists.Wilcoxon's rank sum test found significant preferences (p < 0.001) for the CRT display for visualization of structures in low-attenuation areas of the thorax and for the LCD for visualization of structures in high-attenuation areas of the thorax. Overall image quality was ranked equal by at least five radiologists in 70% of cases, whereas for the remaining images a significant preference was found for the CRT display.We conclude that, under subdued ambient lighting conditions and without use of windowing, for most images the overall quality is equal with high-resolution CRT display and LCD. In images judged preferentially, we found a significant superiority for LCD for delineating mediastinal structures and for CRT display for delineating structures in the lung.
+
+A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Bala05.pdf:pdfBala05.pdf:PDF by e-mail"></form>
