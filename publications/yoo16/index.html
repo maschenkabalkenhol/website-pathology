@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en">
+<head>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>Effect of baseline Alberta Stroke Program Early CT Score on safety and efficacy of intra-arterial treatment: a subgroup analysis of a randomised phase 3 trial (MR CLEAN).</title>
+
+
+    <!-- Bootstrap core CSS -->
+    <link href="https://diagnijmegen.github.io/website-pathology/theme/css/theme.min.css" rel="stylesheet">
+</head>
+
+<body>
+<svg style="display: none">
+  <defs>
+    <symbol id="icon-envelope-o" viewBox="0 0 28 28">
+    <title>envelope-o</title>
+    <path d="M26 23.5v-12c-0.328 0.375-0.688 0.719-1.078 1.031-2.234 1.719-4.484 3.469-6.656 5.281-1.172 0.984-2.625 2.188-4.25 2.188h-0.031c-1.625 0-3.078-1.203-4.25-2.188-2.172-1.813-4.422-3.563-6.656-5.281-0.391-0.313-0.75-0.656-1.078-1.031v12c0 0.266 0.234 0.5 0.5 0.5h23c0.266 0 0.5-0.234 0.5-0.5zM26 7.078c0-0.391 0.094-1.078-0.5-1.078h-23c-0.266 0-0.5 0.234-0.5 0.5 0 1.781 0.891 3.328 2.297 4.438 2.094 1.641 4.188 3.297 6.266 4.953 0.828 0.672 2.328 2.109 3.422 2.109h0.031c1.094 0 2.594-1.437 3.422-2.109 2.078-1.656 4.172-3.313 6.266-4.953 1.016-0.797 2.297-2.531 2.297-3.859zM28 6.5v17c0 1.375-1.125 2.5-2.5 2.5h-23c-1.375 0-2.5-1.125-2.5-2.5v-17c0-1.375 1.125-2.5 2.5-2.5h23c1.375 0 2.5 1.125 2.5 2.5z"></path>
+    </symbol>
+
+    <symbol id="icon-github" viewBox="0 0 24 28">
+    <title>github</title>
+    <path d="M12 2c6.625 0 12 5.375 12 12 0 5.297-3.437 9.797-8.203 11.391-0.609 0.109-0.828-0.266-0.828-0.578 0-0.391 0.016-1.687 0.016-3.297 0-1.125-0.375-1.844-0.812-2.219 2.672-0.297 5.484-1.313 5.484-5.922 0-1.313-0.469-2.375-1.234-3.219 0.125-0.313 0.531-1.531-0.125-3.187-1-0.313-3.297 1.234-3.297 1.234-0.953-0.266-1.984-0.406-3-0.406s-2.047 0.141-3 0.406c0 0-2.297-1.547-3.297-1.234-0.656 1.656-0.25 2.875-0.125 3.187-0.766 0.844-1.234 1.906-1.234 3.219 0 4.594 2.797 5.625 5.469 5.922-0.344 0.313-0.656 0.844-0.766 1.609-0.688 0.313-2.438 0.844-3.484-1-0.656-1.141-1.844-1.234-1.844-1.234-1.172-0.016-0.078 0.734-0.078 0.734 0.781 0.359 1.328 1.75 1.328 1.75 0.703 2.141 4.047 1.422 4.047 1.422 0 1 0.016 1.937 0.016 2.234 0 0.313-0.219 0.688-0.828 0.578-4.766-1.594-8.203-6.094-8.203-11.391 0-6.625 5.375-12 12-12zM4.547 19.234c0.031-0.063-0.016-0.141-0.109-0.187-0.094-0.031-0.172-0.016-0.203 0.031-0.031 0.063 0.016 0.141 0.109 0.187 0.078 0.047 0.172 0.031 0.203-0.031zM5.031 19.766c0.063-0.047 0.047-0.156-0.031-0.25-0.078-0.078-0.187-0.109-0.25-0.047-0.063 0.047-0.047 0.156 0.031 0.25 0.078 0.078 0.187 0.109 0.25 0.047zM5.5 20.469c0.078-0.063 0.078-0.187 0-0.297-0.063-0.109-0.187-0.156-0.266-0.094-0.078 0.047-0.078 0.172 0 0.281s0.203 0.156 0.266 0.109zM6.156 21.125c0.063-0.063 0.031-0.203-0.063-0.297-0.109-0.109-0.25-0.125-0.313-0.047-0.078 0.063-0.047 0.203 0.063 0.297 0.109 0.109 0.25 0.125 0.313 0.047zM7.047 21.516c0.031-0.094-0.063-0.203-0.203-0.25-0.125-0.031-0.266 0.016-0.297 0.109s0.063 0.203 0.203 0.234c0.125 0.047 0.266 0 0.297-0.094zM8.031 21.594c0-0.109-0.125-0.187-0.266-0.172-0.141 0-0.25 0.078-0.25 0.172 0 0.109 0.109 0.187 0.266 0.172 0.141 0 0.25-0.078 0.25-0.172zM8.937 21.438c-0.016-0.094-0.141-0.156-0.281-0.141-0.141 0.031-0.234 0.125-0.219 0.234 0.016 0.094 0.141 0.156 0.281 0.125s0.234-0.125 0.219-0.219z"></path>
+    </symbol>
+  </defs>
+</svg><nav class="navbar navbar-expand-md navbar-light bg-white fixed-top">
+    <div class="container">
+        <a class="navbar-brand" href="https://diagnijmegen.github.io/website-pathology/">
+            <span class="name-full">Computational Pathology Group</span>
+            <span class="name-short">CPG</span>
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="https://diagnijmegen.github.io/website-pathology/about">About</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://diagnijmegen.github.io/website-pathology/news">News</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://diagnijmegen.github.io/website-pathology/people">People</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://diagnijmegen.github.io/website-pathology/projects">Projects</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://diagnijmegen.github.io/website-pathology/software">Software</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://diagnijmegen.github.io/website-pathology/publications">Publications</a>
+                </li>
+                <!-- <li class="nav-item">
+                    <a class="nav-link" href="https://diagnijmegen.github.io/website-pathology/vacancies">Vacancies</a>
+                </li> -->
+                <li class="nav-item">
+                    <a class="nav-link" href="https://diagnijmegen.github.io/website-pathology/contact">
+                        <svg class="d-none d-md-inline-block svg-icon icon-envelope-o"><use xlink:href="#icon-envelope-o"></use></svg>
+                        <span class="d-md-none">Contact</span>
+                    </a>
+                </li>
+
+            </ul>
+        </div>
+    </div>
+</nav>
+    <main role="main">
+<div class="container">
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="https://diagnijmegen.github.io/website-pathology/">Home</a></li>
+        <li class="breadcrumb-item"><a href="https://diagnijmegen.github.io/website-pathology/publications/">Publications</a></li>
+        <li class="breadcrumb-item">Effect of baseline Alberta Stroke Program Early CT Score on safety and efficacy of intra-arterial treatment: a subgroup analysis of a randomised phase 3 trial (MR CLEAN).</li>
+      </ol>
+    </nav>
+</div>
+    <div class="container">
+    <h1 class="page-title">Effect of baseline Alberta Stroke Program Early CT Score on safety and efficacy of intra-arterial treatment: a subgroup analysis of a randomised phase 3 trial (MR CLEAN).</h1>
+    
+
+    <h2>Yoo, Albert J. and Berkhemer, Olvert A. and Fransen, Puck S. S. and van den Berg, Lucie A. and Beumer, Debbie and Lingsma, Hester F. and Schonewille, Wouter J. and Sprengers, Marieke E. S. and van den Berg, Ren\'e and van Walderveen, Marianne A. A. and Beenen, Ludo F. M. and Wermer, Marieke J. H. and Nijeholt, Geert J. Lycklama `A. and Boiten, Jelis and Jenniskens, Sjoerd F. M. and Bot, Joseph C. J. and Boers, Anna M. M. and Marquering, Henk A. and Roos, Yvo B. W. E. M. and van Oostenbrugge, Robert J. and Dippel, Diederik W. J. and van der Lugt, Aad and van Zwam, Wim H. and Majoie, Charles B. L. M. and , M. R. C. L. E. A. N. investigators</h2>
+<p>Lancet Neurol</p>
+<h2>Abstract</h2>
+<p>Whether infarct size modifies intra-arterial treatment effect is not certain, particularly in patients with large infarcts. We examined the effect of the baseline Alberta Stroke Program Early CT Score (ASPECTS) on the safety and efficacy of intra-arterial treatment in a subgroup analysis of the Multicenter Randomized Clinical Trial of Endovascular Treatment for Acute Ischemic Stroke in the Netherlands (MR CLEAN).MR CLEAN was a randomised, controlled, open-label, phase 3 trial of intra-arterial treatment in patients (aged ?18 years from the Netherlands) with proximal arterial occlusion of the anterior circulation, given intra-arterial treatment within 6 h of stroke onset. The primary outcome was 90 day modified Rankin Scale (mRS) score. We estimated the intra-arterial treatment effect for all patients in MR CLEAN who had ASPECTS graded by using multivariable ordinal logistic regression analysis (a proportional odds model) to calculate the adjusted common odds ratio for a shift towards a better functional outcome according to the mRS for intra-arterial treatment and usual care than for usual care alone. We entered an interaction term into the model to test for interaction with prespecified ASPECTS subgroups: 0-4 (large infarct) versus 5-7 (moderate infarct) versus 8-10 (small infarct). MR CLEAN is registered with the Netherlands Trial Registry, number NTR1804, and the ISRCTN Registry, number ISRCTN10888758.496 patients-232 (47\%) in the intra-arterial treatment and usual care group and 264 (53\%) in the usual care alone group-were included in the analysis. We noted no significant difference in intra-arterial treatment effect between the ASPECTS subgroups according to 90 day ordinal mRS (adjusted common odds ratio interaction term relative to ASPECTS 8-10: ASPECTS 0-4: 0Ã¯Â¿Â½79 [95\% CI 0Ã¯Â¿Â½20-3Ã¯Â¿Â½19], p=0Ã¯Â¿Â½740; and ASPECTS 5-7: 1Ã¯Â¿Â½02 [0Ã¯Â¿Â½44-2Ã¯Â¿Â½35], p=0Ã¯Â¿Â½966). Intra-arterial treatment did not cause a significant increase in the proportion of patients with at least one serious adverse event in any of the ASPECTS subgroups (ASPECTS 0-4: eight [73\%] of 11 patients in treatment and usual care group vs 11 [58\%] of 19 in usual care alone group, p=0Ã¯Â¿Â½42; ASPECTS 5-7: 32 [59\%] of 54 vs 19 [49\%] of 39, p=0Ã¯Â¿Â½31; ASPECTS 8-10: 70 [42\%] of 167 vs 82 [40\%] of 206; p=0Ã¯Â¿Â½68). For death within 7 days or within 30 days and hemicraniectomy, the differences between the intra-arterial treatment and usual care versus usual care alone groups were not significant by ASPECTS subgroups. A significantly higher proportion of patients had recurrent ischaemic stroke in the intra-arterial treatment plus usual care group than in the usual care alone group in the ASPECTS 8-10 subgroup (eight [5\%] vs one [&lt;1\%]; p=0Ã¯Â¿Â½007).Contrary to findings from previous studies suggesting that only patients with non-contrast CT ASPECTS of more than 7 benefit from intra-arterial treatment, data from this study suggest that patients with ASPECTS 5-7 should be treated. Further evidence is needed for patients with ASPECTS 0-4, for whom treatment might yield only marginal absolute benefit.Dutch Heart Foundation, AngioCare, Medtronic/Covidien/EV3, Medac/Lamepro, Penumbra, Stryker, and Top Medical.</p>
+
+    </div>
+    </main>
+
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 py-3 footer-content">
+                <p>&copy; Computational Pathology Group 2017-2018</p>
+                <p>The Computational Pathology Group is part of the <a href="http://www.diagnijmegen.nl">Diagnostic Image Analysis Group</a> and the Department of Pathology at <a href="https://www.radboudumc.nl">Radboud University Medical Center</a>.</p>
+
+                <a href="https://github.com/diagnijmegen/website-pathology/edit/master/content/pages/publications/Yoo16.md">Edit</a>
+            </div>
+
+            <div class="col-md-4 footer-ribbon py-3">
+                <h3>Contact</h5>
+                <address>
+                    <strong>Computational Pathology Group</strong><br>
+                    <i>Radboud University Medical Center</i><br>
+                    Geert Grooteplein 10<br>
+                    6525 GA Nijmegen<br>
+                    The Netherlands<br>
+                </address>
+            </div>
+        </div>
+    </div>
+</footer>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+</html>

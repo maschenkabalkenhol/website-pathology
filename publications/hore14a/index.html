@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en">
+<head>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>Detection of lung cancer through low-dose CT screening (NELSON): a prespecified analysis of screening test performance and interval cancers</title>
+
+
+    <!-- Bootstrap core CSS -->
+    <link href="https://diagnijmegen.github.io/website-pathology/theme/css/theme.min.css" rel="stylesheet">
+</head>
+
+<body>
+<svg style="display: none">
+  <defs>
+    <symbol id="icon-envelope-o" viewBox="0 0 28 28">
+    <title>envelope-o</title>
+    <path d="M26 23.5v-12c-0.328 0.375-0.688 0.719-1.078 1.031-2.234 1.719-4.484 3.469-6.656 5.281-1.172 0.984-2.625 2.188-4.25 2.188h-0.031c-1.625 0-3.078-1.203-4.25-2.188-2.172-1.813-4.422-3.563-6.656-5.281-0.391-0.313-0.75-0.656-1.078-1.031v12c0 0.266 0.234 0.5 0.5 0.5h23c0.266 0 0.5-0.234 0.5-0.5zM26 7.078c0-0.391 0.094-1.078-0.5-1.078h-23c-0.266 0-0.5 0.234-0.5 0.5 0 1.781 0.891 3.328 2.297 4.438 2.094 1.641 4.188 3.297 6.266 4.953 0.828 0.672 2.328 2.109 3.422 2.109h0.031c1.094 0 2.594-1.437 3.422-2.109 2.078-1.656 4.172-3.313 6.266-4.953 1.016-0.797 2.297-2.531 2.297-3.859zM28 6.5v17c0 1.375-1.125 2.5-2.5 2.5h-23c-1.375 0-2.5-1.125-2.5-2.5v-17c0-1.375 1.125-2.5 2.5-2.5h23c1.375 0 2.5 1.125 2.5 2.5z"></path>
+    </symbol>
+
+    <symbol id="icon-github" viewBox="0 0 24 28">
+    <title>github</title>
+    <path d="M12 2c6.625 0 12 5.375 12 12 0 5.297-3.437 9.797-8.203 11.391-0.609 0.109-0.828-0.266-0.828-0.578 0-0.391 0.016-1.687 0.016-3.297 0-1.125-0.375-1.844-0.812-2.219 2.672-0.297 5.484-1.313 5.484-5.922 0-1.313-0.469-2.375-1.234-3.219 0.125-0.313 0.531-1.531-0.125-3.187-1-0.313-3.297 1.234-3.297 1.234-0.953-0.266-1.984-0.406-3-0.406s-2.047 0.141-3 0.406c0 0-2.297-1.547-3.297-1.234-0.656 1.656-0.25 2.875-0.125 3.187-0.766 0.844-1.234 1.906-1.234 3.219 0 4.594 2.797 5.625 5.469 5.922-0.344 0.313-0.656 0.844-0.766 1.609-0.688 0.313-2.438 0.844-3.484-1-0.656-1.141-1.844-1.234-1.844-1.234-1.172-0.016-0.078 0.734-0.078 0.734 0.781 0.359 1.328 1.75 1.328 1.75 0.703 2.141 4.047 1.422 4.047 1.422 0 1 0.016 1.937 0.016 2.234 0 0.313-0.219 0.688-0.828 0.578-4.766-1.594-8.203-6.094-8.203-11.391 0-6.625 5.375-12 12-12zM4.547 19.234c0.031-0.063-0.016-0.141-0.109-0.187-0.094-0.031-0.172-0.016-0.203 0.031-0.031 0.063 0.016 0.141 0.109 0.187 0.078 0.047 0.172 0.031 0.203-0.031zM5.031 19.766c0.063-0.047 0.047-0.156-0.031-0.25-0.078-0.078-0.187-0.109-0.25-0.047-0.063 0.047-0.047 0.156 0.031 0.25 0.078 0.078 0.187 0.109 0.25 0.047zM5.5 20.469c0.078-0.063 0.078-0.187 0-0.297-0.063-0.109-0.187-0.156-0.266-0.094-0.078 0.047-0.078 0.172 0 0.281s0.203 0.156 0.266 0.109zM6.156 21.125c0.063-0.063 0.031-0.203-0.063-0.297-0.109-0.109-0.25-0.125-0.313-0.047-0.078 0.063-0.047 0.203 0.063 0.297 0.109 0.109 0.25 0.125 0.313 0.047zM7.047 21.516c0.031-0.094-0.063-0.203-0.203-0.25-0.125-0.031-0.266 0.016-0.297 0.109s0.063 0.203 0.203 0.234c0.125 0.047 0.266 0 0.297-0.094zM8.031 21.594c0-0.109-0.125-0.187-0.266-0.172-0.141 0-0.25 0.078-0.25 0.172 0 0.109 0.109 0.187 0.266 0.172 0.141 0 0.25-0.078 0.25-0.172zM8.937 21.438c-0.016-0.094-0.141-0.156-0.281-0.141-0.141 0.031-0.234 0.125-0.219 0.234 0.016 0.094 0.141 0.156 0.281 0.125s0.234-0.125 0.219-0.219z"></path>
+    </symbol>
+  </defs>
+</svg><nav class="navbar navbar-expand-md navbar-light bg-white fixed-top">
+    <div class="container">
+        <a class="navbar-brand" href="https://diagnijmegen.github.io/website-pathology/">
+            <span class="name-full">Computational Pathology Group</span>
+            <span class="name-short">CPG</span>
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="https://diagnijmegen.github.io/website-pathology/about">About</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://diagnijmegen.github.io/website-pathology/news">News</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://diagnijmegen.github.io/website-pathology/people">People</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://diagnijmegen.github.io/website-pathology/projects">Projects</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://diagnijmegen.github.io/website-pathology/software">Software</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://diagnijmegen.github.io/website-pathology/publications">Publications</a>
+                </li>
+                <!-- <li class="nav-item">
+                    <a class="nav-link" href="https://diagnijmegen.github.io/website-pathology/vacancies">Vacancies</a>
+                </li> -->
+                <li class="nav-item">
+                    <a class="nav-link" href="https://diagnijmegen.github.io/website-pathology/contact">
+                        <svg class="d-none d-md-inline-block svg-icon icon-envelope-o"><use xlink:href="#icon-envelope-o"></use></svg>
+                        <span class="d-md-none">Contact</span>
+                    </a>
+                </li>
+
+            </ul>
+        </div>
+    </div>
+</nav>
+    <main role="main">
+<div class="container">
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="https://diagnijmegen.github.io/website-pathology/">Home</a></li>
+        <li class="breadcrumb-item"><a href="https://diagnijmegen.github.io/website-pathology/publications/">Publications</a></li>
+        <li class="breadcrumb-item">Detection of lung cancer through low-dose CT screening (NELSON): a prespecified analysis of screening test performance and interval cancers</li>
+      </ol>
+    </nav>
+</div>
+    <div class="container">
+    <h1 class="page-title">Detection of lung cancer through low-dose CT screening (NELSON): a prespecified analysis of screening test performance and interval cancers</h1>
+    
+
+    <h2>Horeweg, Nanda and Scholten, Ernst Th and de Jong, Pim A. and van der Aalst, Carlijn M. and Weenink, Carla and Lammers, Jan-Willem J. and Nackaerts, Kristiaan and Vliegenthart, Rozemarijn and Ten Haaf, Kevin and Yousaf-Khan, Uraujh A. and Heuvelmans, Marjolein A. and Thunnissen, Erik and Oudkerk, Matthijs and Mali, Willem and de Koning, Harry J.</h2>
+<p>LANCETO</p>
+<p><a href="https://doi.org/10.1016/S1470-2045(14)70387-0">DOI</a></p>
+<h2>Abstract</h2>
+<p>Low-dose CT screening is recommended for individuals at high risk of developing lung cancer. However, CT screening does not detect all lung cancers: some might be missed at screening, and others can develop in the interval between screens. The NELSON trial is a randomised trial to assess the effect of screening with increasing screening intervals on lung cancer mortality. In this prespecified analysis, we aimed to assess screening test performance, and the epidemiological, radiological, and clinical characteristics of interval cancers in NELSON trial participants assigned to the screening group.Eligible participants in the NELSON trial were those aged 50-75 years, who had smoked 15 or more cigarettes per day for more than 25 years or ten or more cigarettes for more than 30 years, and were still smoking or had quit less than 10 years ago. We included all participants assigned to the screening group who had attended at least one round of screening. Screening test results were based on volumetry using a two-step approach. Initially, screening test results were classified as negative, indeterminate, or positive based on nodule presence and volume. Subsequently, participants with an initial indeterminate result underwent follow-up screening to classify their final screening test result as negative or positive, based on nodule volume doubling time. We obtained information about all lung cancer diagnoses made during the first three rounds of screening, plus an additional 2 years of follow-up from the national cancer registry. We determined epidemiological, radiological, participant, and tumour characteristics by reassessing medical files, screening CTs, and clinical CTs. The NELSON trial is registered at www.trialregister.nl, number ISRCTN63545820.15Ã¢â‚¬Ë†822 participants were enrolled in the NELSON trial, of whom 7915 were assigned to low-dose CT screening with increasing interval between screens, and 7907 to no screening. We included 7155 participants in our study, with median follow-up of 8Ã‚Â·16 years (IQR 7Ã‚Â·56-8Ã‚Â·56). 187 (3\%) of 7155 screened participants were diagnosed with 196 screen-detected lung cancers, and another 34 (&lt;1\%; 19 [56\%] in the first year after screening, and 15 [44\%] in the second year after screening) were diagnosed with 35 interval cancers. For the three screening rounds combined, with a 2-year follow-up, sensitivity was 84Ã‚Â·6\% (95\% CI 79Ã‚Â·6-89Ã‚Â·2), specificity was 98Ã‚Â·6\% (95\% CI 98Ã‚Â·5-98Ã‚Â·8), positive predictive value was 40Ã‚Â·4\% (95\% CI 35Ã‚Â·9-44Ã‚Â·7), and negative predictive value was 99Ã‚Â·8\% (95\% CI 99Ã‚Â·8-99Ã‚Â·9). Retrospective assessment of the last screening CT and clinical CT in 34 patients with interval cancer showed that interval cancers were not visible in 12 (35\%) cases. In the remaining cases, cancers were visible when retrospectively assessed, but were not diagnosed because of radiological detection and interpretation errors (17 [50\%]), misclassification by the protocol (two [6\%]), participant non-compliance (two [6\%]), and non-adherence to protocol (one [3\%]). Compared with screen-detected cancers, interval cancers were diagnosed at more advanced stages (29 [83\%] of 35 interval cancers vs 44 [22\%] of 196 screen-detected cancers diagnosed in stage III or IV; p&lt;0Ã‚Â·0001), were more often small-cell carcinomas (seven [20\%] vs eight [4\%]; p=0Ã‚Â·003) and less often adenocarcinomas (nine [26\%] vs 102 [52\%]; p=0Ã‚Â·005).Lung cancer screening in the NELSON trial yielded high specificity and sensitivity, with only a small number of interval cancers. The results of this study could be used to improve screening algorithms, and reduce the number of missed cancers.Zorgonderzoek Nederland Medische Wetenschappen and Koningin Wilhelmina Fonds.</p>
+<p>A <b>pdf file</b> of this publication is available for personal use.Enter your e-mail address in the box below and press the button. You will receive an e-mail message with a link to the pdf file.
+<form action="sender.php">  <input type="text" name="email">  <input type="submit" value="Send Hore14a.pdf:pdf\\Hore14a.pdf:PDF by e-mail"></form></p>
+
+    </div>
+    </main>
+
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 py-3 footer-content">
+                <p>&copy; Computational Pathology Group 2017-2018</p>
+                <p>The Computational Pathology Group is part of the <a href="http://www.diagnijmegen.nl">Diagnostic Image Analysis Group</a> and the Department of Pathology at <a href="https://www.radboudumc.nl">Radboud University Medical Center</a>.</p>
+
+                <a href="https://github.com/diagnijmegen/website-pathology/edit/master/content/pages/publications/Hore14a.md">Edit</a>
+            </div>
+
+            <div class="col-md-4 footer-ribbon py-3">
+                <h3>Contact</h5>
+                <address>
+                    <strong>Computational Pathology Group</strong><br>
+                    <i>Radboud University Medical Center</i><br>
+                    Geert Grooteplein 10<br>
+                    6525 GA Nijmegen<br>
+                    The Netherlands<br>
+                </address>
+            </div>
+        </div>
+    </div>
+</footer>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+</html>
