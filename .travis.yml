@@ -25,6 +25,7 @@ before_cache:
 
 script:
 - npm --prefix pathology-theme run deploy
+- python plugins/bib_writer.py
 - pelican content -s publishconf.py
 
 deploy:
