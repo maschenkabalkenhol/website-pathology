@@ -84,8 +84,6 @@ def generate_md_bibitem(pelican_object, writer=None):
 
         if 'author' not in global_index[bibitem].entry or 'title' not in global_index[bibitem].entry:
             # It skips bibitems with absence of authors or title
-            print("no author for {}".format(bibitem))
-            print(global_index[bibitem].entry)
             continue
 
         md_format += 'title: ' + global_index[bibitem].entry['title'] + '\n'
@@ -122,7 +120,7 @@ def generate_md_bibitem(pelican_object, writer=None):
         try:  # This is ugly but necessary for now to avoid UnicodeEncodeError
             file.write(md_format)
             file.close()
-            print(bibitem + ' done')
+            print(bibitem + ' done' + out_path)
         except UnicodeEncodeError:
             list_bibs_error.append(bibitem)
 
