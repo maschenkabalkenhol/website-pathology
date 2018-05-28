@@ -120,6 +120,9 @@ def generate_md_bibitem(pelican_object, writer=None):
         try:  # This is ugly but necessary for now to avoid UnicodeEncodeError
             file.write(md_format)
             file.close()
+
+            print(os.path.exists(out_path), out_path, 'Keys', global_index[bibitem].entry.keys())
+
         except UnicodeEncodeError:
             list_bibs_error.append(bibitem)
 
