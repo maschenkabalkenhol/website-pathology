@@ -76,14 +76,15 @@ def generate_md_bibitem(pelican_object, writer=None):
     md5s = get_md5s(global_index)
 
     for bibitem in global_index.keys():
-        print(bibitem)
         # Compares per bibitem whether are changes by comparing the md5s
         if prev_md5s is not None and bibitem in prev_md5s and bibitem in md5s and prev_md5s[bibitem] == md5s[bibitem]:
+            print("skipping {}".format(bibitem))
             continue
         md_format = ''
 
         if 'author' not in global_index[bibitem].entry or 'title' not in global_index[bibitem].entry:
             # It skips bibitems with absence of authors or title
+            print("no author for {}".format(bibitem))
             continue
 
         md_format += 'title: ' + global_index[bibitem].entry['title'] + '\n'
