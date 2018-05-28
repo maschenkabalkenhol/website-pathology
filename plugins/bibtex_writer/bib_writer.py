@@ -125,6 +125,7 @@ def generate_md_bibitem(pelican_object, writer=None):
 
         except UnicodeEncodeError:
             list_bibs_error.append(bibitem)
+            file.close()
 
     save_dict2json(json_path, md5s)
     print('\nTime to process diag.bib ', time_diagbib)
