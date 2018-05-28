@@ -176,7 +176,7 @@ def get_entry_content(content):
             elif value.endswith(','):
                 value = value[:-1]
             yield key, value
-    return  {k: v for k, v in get_key_value(content.split('\r\n'))}
+    return  {k: v for k, v in get_key_value(content.splitlines()))}
 
 def get_entry(entry):
     '''
@@ -283,7 +283,6 @@ def read_bibtex_file(filename):
             k, v = [x.strip() for x in entry.split('=')]
             string_rules[k] = v
         else:
-            print(entry)
             key, entry_dict = get_entry(entry)
             bib_item = BibItem(key, entry_dict, type_name)
             global_index[key] = bib_item
