@@ -91,7 +91,7 @@ def generate_md_bibitem(writer=None):
     if not os.path.exists(out_dir):
         os.makedirs(out_dir)
 
-    os.chdir('../')
+    # os.chdir('../')
     list_researchers = get_list_people()
     print(list_researchers)
     author_index, filtered_publications = get_publications_by_author(global_index, list_researchers)
