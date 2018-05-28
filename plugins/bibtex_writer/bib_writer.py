@@ -50,11 +50,15 @@ def load_json2dict(json_path):
 
 
 def generate_md_bibitem(pelican_object, writer=None):
-    out_dir = 'content/pages/publications'
-    bib_file = 'content/diag.bib'
-    json_path = 'output/md5s.json'
+
+    base_dir = os.getcwd()
+    out_dir = '{}/content/pages/publications'.format(base_dir)
+    bib_file = '{}/content/diag.bib'.format(base_dir)
+    json_path = '{}/output/md5s.json'.format(base_dir)
 
     print('Bibtex plugin loaded')
+    print('Output dirs: {}'.format((out_dir, bib_file, json_path)))
+
     start_time = time.clock()
     index, global_index, string_rules = bibtexlib.read_bibtex_file(bib_file)
     # html_format = bibtexformatter.HTML_Formatter(string_rules)
@@ -130,4 +134,3 @@ def generate_md_bibitem(pelican_object, writer=None):
 
 def register():
     signals.finalized.connect(generate_md_bibitem)
-
