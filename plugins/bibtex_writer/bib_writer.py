@@ -85,6 +85,7 @@ def generate_md_bibitem(pelican_object, writer=None):
         if 'author' not in global_index[bibitem].entry or 'title' not in global_index[bibitem].entry:
             # It skips bibitems with absence of authors or title
             print("no author for {}".format(bibitem))
+            print(global_index[bibitem])
             continue
 
         md_format += 'title: ' + global_index[bibitem].entry['title'] + '\n'
