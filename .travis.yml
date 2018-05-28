@@ -25,6 +25,7 @@ before_cache:
 
 script:
 - npm --prefix pathology-theme run deploy
+- sed -i 's/\r//g' content/diag.bib # Make sure that we don't have windows line endings in the file
 - pelican content -s publishconf.py
 
 deploy:
