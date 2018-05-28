@@ -132,9 +132,9 @@ def generate_md_bibitem(writer=None):
     for bib in list_bibs_error:
         print(bib)
 
-
-def register():
-    signals.finalized.connect(generate_md_bibitem)
+# 
+# def register():
+#     signals.finalized.connect(generate_md_bibitem)
 
 if __name__ == '__main__':
   generate_md_bibitem()

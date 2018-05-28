@@ -56,7 +56,7 @@ THEME = "themes/pathology-theme"
 # Plugins
 #
 PLUGIN_PATHS = ["plugins"]
-PLUGINS = ["bibtex", "bibtex_writer",  "edit_url", "hierarchy"]
+PLUGINS = ["bibtex",  "edit_url", "hierarchy"]
 
 # Other
 EDIT_CONTENT_URL = 'https://github.com/diagnijmegen/website-pathology/edit/master/{file_path}'
