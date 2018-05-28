@@ -54,6 +54,7 @@ def get_publications_by_author(global_index, list_researchers):
     from collections import defaultdict
     author_index = defaultdict(set)
     filtered_publications = []
+    
     for bib_key, bib_item in global_index.items():
         authors = bib_item.author
 
@@ -62,17 +63,18 @@ def get_publications_by_author(global_index, list_researchers):
             for first, von, last, jr in authors:
                 if last.lower() == lastname:
                     author_index[lastname].add(bib_key)
+                    # Some 'von' are actually lastnames
                     pvon = von.replace(' ', '').replace('.', '')
                     
                     if len(pvon) > 3:
                         author_index[von].add(bib_key)
                     if bib_key not in filtered_publications:
                         filtered_publications.append(bib_key)
+                        
     return author_index, filtered_publications
     
     
 def generate_md_bibitem(writer=None):
-
     base_dir = os.path.dirname(os.path.abspath(__file__))
 
     out_dir = os.path.join(base_dir, '..', 'content/pages/publications')
@@ -84,14 +86,13 @@ def generate_md_bibitem(writer=None):
 
     start_time = time.clock()
     index, global_index, string_rules = bibtexlib.read_bibtex_file(bib_file)
-    # html_format = bibtexformatter.HTML_Formatter(string_rules)
     time_diagbib = time.clock() - start_time
     start_time = time.clock()
 
     if not os.path.exists(out_dir):
         os.makedirs(out_dir)
 
-    # os.chdir('../')
+    # os.chdir('../')  # This is for local debugging
     list_researchers = get_list_people()
     print(list_researchers)
     author_index, filtered_publications = get_publications_by_author(global_index, list_researchers)
@@ -101,8 +102,37 @@ def generate_md_bibitem(writer=None):
     print('Time to create ' + str(len(global_index)) + ' MD files ', time.clock() - start_time)
 
     write_author_publications_md(global_index, author_index, list_researchers, out_dir, string_rules)
+    write_list_publications_md(global_index, filtered_publications, out_dir, string_rules)
+    
 
+def write_list_publications_md(global_index, filtered_publications, out_dir, string_rules):
+    html_format = bibtexformatter.HTML_Formatter(string_rules)
 
+    md_format = 'title: Publications\n\n'
+    md_format += '<ul>\n'
+    
+    for bib_key in filtered_publications:
+        print(bib_key, 'Bibkey added')
+        bib_item = global_index[bib_key]
+        html_to_write = html_format.apply(bib_item)
+        md_format += '<li>'
+        md_format += html_to_write
+        md_format += '</li>\n'
+        
+        md_format = md_format.replace('{', '').replace('}', '')
+    
+    md_format += '</ul>\n'
+    # publications.md
+    out_path = out_dir+'.md'
+    file = open(out_path, 'w')
+    
+    try:  # This is ugly but necessary for now to avoid UnicodeEncodeError
+        file.write(md_format)
+        file.close()
+    except UnicodeEncodeError:
+        pass
+        
+        
 def write_author_publications_md(global_index, author_index, list_researchers, out_dir, string_rules):
     list_bibs_error = []
     html_format = bibtexformatter.HTML_Formatter(string_rules)
