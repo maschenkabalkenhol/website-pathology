@@ -176,7 +176,7 @@ def get_entry_content(content):
             elif value.endswith(','):
                 value = value[:-1]
             yield key, value
-    return  {k: v for k, v in get_key_value(content.splitlines()))}
+    return  {k: v for k, v in get_key_value(content.splitlines())}
 
 def get_entry(entry):
     '''
