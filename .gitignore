@@ -104,3 +104,6 @@ ENV/
 # Ignore build css files
 *.min.css
 *.min.css.map
+
+# Ignore md files of publications
+content/pages/publications/*.md
