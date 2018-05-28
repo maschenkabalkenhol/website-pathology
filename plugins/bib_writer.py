@@ -75,6 +75,12 @@ def get_publications_by_author(global_index, list_researchers):
     
     
 def generate_md_bibitem(writer=None):
+    """ Uses the Bart's bibtex script to write the following markdown files:
+        - content/Publications.md that contains the full list of publications
+        - A MD file for every publication (filtered by researcher name)
+        - A list of publications per researcher on content/pages/people/*.md with the same slug
+          on content/pages/publications. For instance content/pages/publications/francesco-ciompi.md
+    """
     base_dir = os.path.dirname(os.path.abspath(__file__))
 
     out_dir = os.path.join(base_dir, '..', 'content/pages/publications')
@@ -94,7 +100,6 @@ def generate_md_bibitem(writer=None):
 
     # os.chdir('../')  # This is for local debugging
     list_researchers = get_list_people()
-    print(list_researchers)
     author_index, filtered_publications = get_publications_by_author(global_index, list_researchers)
     
     write_single_publication_md(global_index, filtered_publications, out_dir, json_path)
@@ -112,7 +117,6 @@ def write_list_publications_md(global_index, filtered_publications, out_dir, str
     md_format += '<ul>\n'
     
     for bib_key in filtered_publications:
-        print(bib_key, 'Bibkey added')
         bib_item = global_index[bib_key]
         html_to_write = html_format.apply(bib_item)
         md_format += '<li>'
@@ -146,7 +150,6 @@ def write_author_publications_md(global_index, author_index, list_researchers, o
         for author_name in author_index.keys():
             if researcher_names[-1] == author_name.lower():
                 for bib_key in author_index[author_name]:
-                    print(bib_key, 'Bibkey added')
                     bib_item = global_index[bib_key]
                     html_to_write = html_format.apply(bib_item)
                     md_format += '<li>'
@@ -158,7 +161,6 @@ def write_author_publications_md(global_index, author_index, list_researchers, o
         md_format += '</ul>\n'
         out_path = os.path.join(out_dir, full_name + '.md')
         file = open(out_path, 'w')
-        print(out_path, 'out_path author')
         
         try:  # This is ugly but necessary for now to avoid UnicodeEncodeError
             file.write(md_format)
@@ -173,8 +175,6 @@ def write_author_publications_md(global_index, author_index, list_researchers, o
 
 
 def write_single_publication_md(global_index, filtered_publications, out_dir, json_path):
-    print(filtered_publications, 'list pubs')
-
     # Loads json file with md5 value of bibitems of the previous version
     prev_md5s = load_json2dict(json_path)
     # Obtains the md5 values of the current bibitems in diag.bib
@@ -186,7 +186,6 @@ def write_single_publication_md(global_index, filtered_publications, out_dir, js
         if prev_md5s is not None and bibitem in prev_md5s and bibitem in md5s and prev_md5s[bibitem] == md5s[bibitem]:
             print("skipping {}".format(bibitem))
             continue
-        print(bibitem, "###")
         md_format = ''
 
         if 'author' not in global_index[bibitem].entry or 'title' not in global_index[bibitem].entry:
@@ -223,7 +222,7 @@ def write_single_publication_md(global_index, filtered_publications, out_dir, js
         md_format = md_format.replace('{', '').replace('}', '')
         out_path = os.path.join(out_dir, bibitem + '.md')
         file = open(out_path, 'w')
-        print(out_path,'####')
+        
         try:  # This is ugly but necessary for now to avoid UnicodeEncodeError
             file.write(md_format)
             file.close()
@@ -235,10 +234,6 @@ def write_single_publication_md(global_index, filtered_publications, out_dir, js
 
     for bib in list_bibs_error:
         print(bib)
-
-#
-# def register():
-#     signals.finalized.connect(generate_md_bibitem)
 
 
 def get_list_people():
@@ -256,7 +251,5 @@ def get_list_people():
 
 
 if __name__ == '__main__':
-    # os.chdir('../')
-    # get_list_people()
     generate_md_bibitem()
 
