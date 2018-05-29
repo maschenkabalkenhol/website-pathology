@@ -106,16 +106,17 @@ def generate_md_bibitem(writer=None):
     print('\nTime to process diag.bib ', time_diagbib)
     print('Time to create ' + str(len(global_index)) + ' MD files ', time.clock() - start_time)
 
+    time_list_pubs = time.clock()
     write_author_publications_md(global_index, author_index, list_researchers, out_dir, string_rules)
     write_list_publications_md(global_index, filtered_publications, out_dir, string_rules)
-    
+    print('Time to create filtered list of publications and publications per researcher', time.clock() - time_list_pubs)
 
 def append_publication_md(global_index, bib_key, html_format):
     bib_item = global_index[bib_key]
     html_to_write = html_format.apply(bib_item)
     pub_html = '<li>'
     pub_html += html_to_write
-    pub_html += ' <a href=\"' + bib_key + '/\">Abstract/PDF</a>'
+    pub_html += '. <a href=\"' + bib_key.lower() + '\">Abstract/PDF</a>'
     if 'doi' in bib_item.entry:
         url_doi = 'https://doi.org/' + bib_item.entry['doi']
         pub_html += ' <a href=\"' + url_doi + '\">DOI</a>'
