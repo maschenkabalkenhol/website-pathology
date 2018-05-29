@@ -111,12 +111,16 @@ def generate_md_bibitem(writer=None):
     write_list_publications_md(global_index, filtered_publications, out_dir, string_rules)
     print('Time to create filtered list of publications and publications per researcher', time.clock() - time_list_pubs)
 
-def append_publication_md(global_index, bib_key, html_format):
+
+def append_publication_md(global_index, bib_key, html_format, go_parent_dir=False):
     bib_item = global_index[bib_key]
     html_to_write = html_format.apply(bib_item)
     pub_html = '<li>'
     pub_html += html_to_write
-    pub_html += '. <a href=\"' + bib_key.lower() + '\">Abstract/PDF</a>'
+    if not go_parent_dir:
+        pub_html += '. <a href=\"' + bib_key.lower() + '\">Abstract/PDF</a>'
+    else:
+        pub_html += '. <a href=\"../' + bib_key.lower() + '\">Abstract/PDF</a>'
     if 'doi' in bib_item.entry:
         url_doi = 'https://doi.org/' + bib_item.entry['doi']
         pub_html += ' <a href=\"' + url_doi + '\">DOI</a>'
@@ -147,7 +151,7 @@ def write_list_publications_md(global_index, filtered_publications, out_dir, str
     md_format += '<ul>\n'
     
     for bib_key in filtered_publications:
-        md_format += append_publication_md(global_index, bib_key, html_format)
+        md_format += append_publication_md(global_index, bib_key, html_format, go_parent_dir=False)
     
     md_format += '</ul>\n'
     # publications.md
@@ -169,7 +173,7 @@ def write_author_publications_md(global_index, author_index, list_researchers, o
         for author_name in author_index.keys():
             if researcher_names[-1] == author_name.lower():
                 for bib_key in author_index[author_name]:
-                    md_format += append_publication_md(global_index, bib_key, html_format)
+                    md_format += append_publication_md(global_index, bib_key, html_format, go_parent_dir=True)
 
         md_format += '</ul>\n'
         out_path = os.path.join(out_dir, full_name + '.md')
