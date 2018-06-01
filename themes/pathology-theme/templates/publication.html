@@ -6,6 +6,15 @@
     <div class="container">
     <h1 class="page-title">{{ page.title }}</h1>
 
+    <p class="lead">{{ page.authors }}</p>
+
+    <p>Published in {{ page.published_in }}</p>
+
+    {% if page.doi %}
+        <p><a href="{{ page.doi }}" class="btn btn-primary">DOI</a></p>
+    {% endif %}
+
+    <h2>Abstract</h2>
     {{ page.content }}
 
     </div>
