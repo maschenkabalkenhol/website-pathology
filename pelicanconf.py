@@ -12,7 +12,7 @@ RELATIVE_URLS = False
 
 TIMEZONE = 'Europe/Amsterdam'
 
-DEFAULT_LANG = u'EN'
+#DEFAULT_LANG = u'EN'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
