@@ -168,7 +168,7 @@ def write_author_publications_md(global_index, author_index, list_researchers, o
         full_name = "-".join(researcher_names)
         title_md = " ".join(researcher_names).title()  # camel case
         md_format = 'title: Publications of ' + title_md + '\n'
-        md_format = 'template: publication-list\n\n'
+        md_format += 'template: publication-list\n\n'
         md_format += '<ul>\n'
 
         for author_name in author_index.keys():
