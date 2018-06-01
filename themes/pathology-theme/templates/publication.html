@@ -6,7 +6,11 @@
     <div class="container">
     <h1 class="page-title">{{ page.title }}</h1>
 
-    <p class="lead">{{ page.authors }}</p>
+    <p class="lead">
+        {% for author in page.authors %}
+            {{ author }},&nbsp;
+        {% endfor }
+    </p>
 
     <p>Published in {{ page.published_in }}</p>
 
