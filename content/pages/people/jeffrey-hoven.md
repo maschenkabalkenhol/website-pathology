@@ -1,6 +1,7 @@
 title: Jeffrey Hoven
 name: Jeffrey Hoven
 template: people_single
+picture: Jeffrey_Hoven.jpg
 position: Research technician
 email: jeffrey.hoven@radboudumc.nl
 office: Route 824
