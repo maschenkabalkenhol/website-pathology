@@ -2,6 +2,7 @@ title: PRIM4BC
 finished: false
 picture: PRIMB4C_1(2).png
 description: Detecting image based biomarkers for improved prognosis for triple negative breast cancer by combining histopathology, multiplex immunohistochemistry and deep learning.
+template: project-single
 
 
 ## Background
@@ -28,7 +29,7 @@ biomarkers lack standardisation, resulting in large variations in published
 results and hampering clinical implementation.
 
  
-## Aim 
+## Aim
 
 In this project we
 will apply advanced digital image analysis to obtain prognostic data from
@@ -39,8 +40,8 @@ model will be able to predict TNBC recurrence and survival within 5 years.
 
 ## Media & Publications
 
-Tellez D, Balkenhol M,Otte-Holler I, van de Loo R, Vogels R, Bult P, Wauters C, 
-Vreuls W, Mol S,Karssemeijer N, Litjens G, van der Laak J, Ciompi, F. 
+Tellez D, Balkenhol M,Otte-Holler I, van de Loo R, Vogels R, Bult P, Wauters C,
+Vreuls W, Mol S,Karssemeijer N, Litjens G, van der Laak J, Ciompi, F.
 Whole-Slide MitosisDetection in H&E Breast Histology Using PHH3 as a Reference to Train
 Distilled Stain-Invariant Convolutional Networks. Accepted in IEEE Trans Med
 Imaging. 2018.
