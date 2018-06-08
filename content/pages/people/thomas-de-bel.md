@@ -1,6 +1,6 @@
 title: Thomas de Bel
 name: Thomas de Bel
-template: people_single
+template: people-single
 picture: Thomas_de_Bel.jpg
 position: PhD student
 email: thomas.debel@radboudumc.nl

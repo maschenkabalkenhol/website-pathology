@@ -1,6 +1,6 @@
 title: Francesco Ciompi
 name: Francesco Ciompi
-template: people_single
+template: people-single
 picture: Francesco_Ciompi.jpg
 position: Postdoc
 email: francesco.ciompi@radboudumc.nl

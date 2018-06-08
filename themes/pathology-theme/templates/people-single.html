@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+{% block title %}{{ page.title }}{%endblock%}
+{% block content %}
+    {% include 'blocks/breadcrumbs.html' %}
+
+    <div class="container">
+
+    <div class="row">
+        <div class="col-md-4">
+            <img class="img-fluid" src="{{SITEURL}}/images/people/{{ page.picture }}">
+            <h1>{{ page.title }}</h1>
+            <h2 class="text-muted">{{ page.position }}</h2>
+        </div>
+        <div class="col-md-8">
+            <dl>
+                <dt>Email:</dt>
+                <dd><a href="mailto:{{ page.email}}">{{ page.email }}</a></dd>
+
+                <dt>Office:</dt>
+                <dd>{{ page.office }}</dd>
+
+                <dt>Telephone:</dt>
+                <dd>{{ page.telephone }}</dd>
+
+                <dt>Bio:</dt>
+                <dd>{{ page.content }}</dd>
+
+                <dt>Projects:</dt>
+                <dd>
+                    <div class="row mt-3">
+                    {% for project in pages %}
+                        {% if project.parent.url == 'projects/' and project.people and page.name.strip() in project.people.split(', ') %}
+                        <div class="col-md-3">
+                        <div class="card mb-2">
+                            {% if project.picture %}
+                            <a href="{{ SITEURL }}/{{ project.url }}"><img class="card-img-top" src="{{ SITEURL}}/images/projects/{{ project.picture }}" alt="{{ project.title }}"></a>
+                            {% endif %}
+
+                            <div class="card-body">
+                                <h5 class="card-title"><a href="{{ SITEURL }}/{{ project.url }}">{{ project.title }}</a></h5>
+                            </div>
+                        </div>
+                        </div>
+                        {% endif %}
+                    {% endfor %}
+                    </div>
+                </dd>
+            </dl>
+
+        </div>
+    </div>
+{% endblock %}

@@ -1,6 +1,6 @@
 title: Hans Pinckaers
 name: Hans Pinckaers
-template: people_single
+template: people-single
 picture: Hans_Pinckaers.jpg
 position: PhD student
 email: hans.pinckaers@radboudumc.nl

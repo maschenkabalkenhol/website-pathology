@@ -1,6 +1,6 @@
 title: David Tellez
 name: David Tellez
-template: people_single
+template: people-single
 picture: David_Tellez.jpg
 position: PhD student
 email: david.tellez@radboudumc.nl

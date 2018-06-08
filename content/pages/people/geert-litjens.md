@@ -1,6 +1,6 @@
 title: Geert Litjens
 name: Geert Litjens
-template: people_single
+template: people-single
 picture: Geert_Litjens.jpg
 position: Assistant professor
 email: geert.litjens@radboudumc.nl

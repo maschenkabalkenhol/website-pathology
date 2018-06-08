@@ -1,6 +1,6 @@
 title: John-Melle Bokhorst
 name: John-Melle Bokhorst
-template: people_single
+template: people-single
 picture: John-Melle_Bokhorst.jpg
 position: PhD student
 email: john-melle.bokhorst@radboudumc.nl

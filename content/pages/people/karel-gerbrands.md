@@ -1,6 +1,6 @@
 title: Karel Gerbrands
 name: Karel Gerbrands
-template: people_single
+template: people-single
 picture: Karel_Gerbrands.jpg
 position: Scientific programmer
 email: karel.gerbrands@radboudumc.nl

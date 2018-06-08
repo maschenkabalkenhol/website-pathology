@@ -1,6 +1,6 @@
 title: Peter Bandi
 name: Peter Bandi
-template: people_single
+template: people-single
 picture: Péter_Bándi.jpg
 position: PhD student
 email: peter.bandi@radboudumc.nl

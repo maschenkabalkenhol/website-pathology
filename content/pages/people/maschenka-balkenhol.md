@@ -1,6 +1,6 @@
 title: Maschenka Balkenhol
 name: Maschenka Balkenhol
-template: people_single
+template: people-single
 picture: Maschenka_Balkenhol.jpg
 position: Resident/PhD student
 email: maschenka.balkenhol@radboudumc.nl

@@ -1,6 +1,6 @@
 title: Jeroen van der Laak
 name: Jeroen van der Laak
-template: people_single
+template: people-single
 picture: Jeroen_van_der_Laak.jpg
 position: Associate professor/Group leader
 email: jeroen.vanderlaak@radboudumc.nl

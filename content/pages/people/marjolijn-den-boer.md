@@ -1,6 +1,6 @@
 title: Marjolijn den Boer
 name: Marjolijn den Boer
-template: people_single
+template: people-single
 picture: Marjolijn_den_Boer.jpg
 position: Master student
 email: marjolijn.denboer@radboudumc.nl

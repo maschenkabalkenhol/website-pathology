@@ -1,6 +1,6 @@
 title: Zaneta Swiderska-Chadaj
 name: Zaneta Swiderska-Chadaj
-template: people_single
+template: people-single
 picture: Zaneta_Swiderska-Chadaj.jpg
 position: Postdoc
 email: zatena.swiderska@radboudumc.nl

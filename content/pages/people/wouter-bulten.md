@@ -1,6 +1,6 @@
 title: Wouter Bulten
 name: Wouter Bulten
-template: people_single
+template: people-single
 picture: Wouter_Bulten.jpg
 position: PhD student
 email: wouter.bulten@radboudumc.nl
