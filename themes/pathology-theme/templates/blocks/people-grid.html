@@ -1,7 +1,7 @@
 <div class="container">
     <div class="row people-grid">
-    {% for people in pages %}
-        {% if people.parent.url == 'people/' %}
+    {% for person in pages %}
+        {% if person.parent.url == 'people/' %}
             {% include "blocks/person-circle.html" %}
         {% endif %}
     {% endfor %}
