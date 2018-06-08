@@ -2,4 +2,8 @@ title: Computational Pathology Nijmegen
 save_as:  index.html
 template: home
 
-Homepage
+<!---
+
+This page is generated automatically. Please do not change the content of this page.
+
+--->
