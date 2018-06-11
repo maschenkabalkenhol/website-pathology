@@ -3,6 +3,7 @@ finished: false
 picture: PRIMB4C_1(2).png
 description: Detecting image based biomarkers for improved prognosis for triple negative breast cancer by combining histopathology, multiplex immunohistochemistry and deep learning.
 template: project-single
+people: Maschenka Balkenhol, Jeroen van der Laak, Peter Bult
 
 
 ## Background
